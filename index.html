@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Japón 2026 — Planificador de Viaje</title>
+  <meta name="description" content="Itinerario completo y detallado para el viaje a Japón 2026: Tokio, Alpes Japoneses, Kioto y Osaka." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="app-header">
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <button class="btn-icon toggle-sidebar-btn" id="sidebar-toggle" aria-label="Abrir menú">
+          ☰
+        </button>
+        <a href="#day-1" class="header-brand">
+          <span>🌸 Japón 2026</span>
+        </a>
+      </div>
+
+      <div class="header-controls">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Buscar lugares, ramen, templos..." aria-label="Buscar" />
+        </div>
+
+        <button class="btn-hoy" id="btn-hoy" aria-label="Ir a vista Hoy">
+          <span>📅 Hoy</span>
+        </button>
+
+        <button class="btn-icon" id="theme-toggle" title="Cambiar Tema (Oscuro/Claro)" aria-label="Cambiar tema">
+          🌙
+        </button>
+      </div>
+    </header>
+
+    <!-- Sidebar -->
+    <aside class="app-sidebar" id="sidebar">
+      <nav id="sidebar-nav"></nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="app-content">
+      <div id="hoy-banner-container"></div>
+      
+      <div class="content-layout">
+        <!-- Columna de Días -->
+        <div id="main-content" class="days-column"></div>
+        
+        <!-- Columna de Mapas (A la derecha de los días) -->
+        <aside id="maps-panel" class="maps-column">
+          <div class="maps-card">
+            <div class="maps-card-header">
+              <span class="maps-title">🗺️ Google Maps</span>
+              <a id="maps-external-link" href="#" target="_blank" rel="noopener noreferrer" class="btn-link maps-ext-btn" style="display: none;">
+                Abrir en Maps ↗
+              </a>
+            </div>
+            <div id="maps-iframe-container" class="maps-iframe-container">
+              <div class="maps-placeholder">
+                <span class="placeholder-icon">🗺️</span>
+                <p>Haz clic en el tiempo de un tramo (ej. <span class="placeholder-badge">10m</span>) para visualizar la ruta de Google Maps aquí.</p>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="/src/app.ts"></script>
+</body>
+</html>
