@@ -19,15 +19,19 @@ summary: Llegada a Haneda + Traslado a Hatagaya + Cena konbini
 
 17:15 | 90m | HOTEL |
 Aterrizaje en Haneda (17:15) y trámites de migración/equipaje (salida aprox 18:45).
+https://www.google.com/maps/place/Tokyo+Haneda+Airport
 
 18:45 | 60m | TAXI |
 Traslado: van privado / Uber XL directo al alojamiento (45–60 min, 100–120 USD).
+https://www.google.com/maps/dir/Haneda+Airport,+Tokyo/Hatagaya+Station,+Tokyo
 
 19:45 | 45m | HOTEL |
 Check-in en el hospedaje (Hatagaya).
+https://www.google.com/maps/place/Hatagaya+Station,+Tokyo
 
 20:30 | 60m | FOOD |
 Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
+https://www.google.com/maps/search/FamilyMart+Hatagaya+Station
 
 
 @day
@@ -107,42 +111,55 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 08:45 | 40m | TRAIN |
 Metro Hatagaya → Ueno (vía Shinjuku, JR Yamanote).
+https://www.google.com/maps/dir/Hatagaya+Station,+Tokyo/Ueno+Station,+Tokyo
 
 09:25 | 10m | WALK |
 Caminar de estación Ueno a Museo.
+https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Tokyo+National+Museum
 
 09:30 | 180m | VISIT |
 Visitar Museo Nacional de Tokio — Honkan: katanas, armaduras samurái (~10 USD).
+https://www.google.com/maps/place/Tokyo+National+Museum
 
 12:30 | 15m | WALK |
 Caminar por el Parque de Ueno hacia el mercado Ameyoko.
+https://www.google.com/maps/dir/Tokyo+National+Museum/Ameyoko+Shopping+Street
 
 12:45 | 45m | FOOD |
 Almuerzo en Ameyoko.
+https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
 13:30 | 100m | SHOP |
 Explorar puestos del mercado Ameyoko.
+https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
 15:10 | 5m | TRAIN |
 Metro Ueno → Akihabara (JR Yamanote, 2 estaciones).
+https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Akihabara+Station,+Tokyo
 
 15:15 | 5m | WALK |
 Caminata hacia tiendas retro de Akihabara.
+https://www.google.com/maps/dir/Akihabara+Station/Super+Potato+Akihabara
 
 15:20 | 20m | SHOP |
 Super Potato (Videojuegos retro).
+https://www.google.com/maps/place/Super+Potato+Akihabara
 
 15:40 | 20m | SHOP |
 Mandarake Akihabara.
+https://www.google.com/maps/place/Mandarake+Akihabara
 
 16:00 | 60m | BREAK |
 Maid Café para descansar y tiempo para caminar por Akihabara.
+https://www.google.com/maps/search/Maid+Cafe+Akihabara
 
 17:00 | 150m | SHOP |
 Recorrer libremente tiendas del barrio electrónico y otaku.
+https://www.google.com/maps/place/Akihabara+Electric+Town
 
 19:30 | 60m | FOOD |
 Cena Tonkatsu (filete de cerdo empanizado y frito).
+https://www.google.com/maps/place/Tonkatsu+Marugo
 
 Option
 Tonkatsu Marugo
@@ -154,12 +171,14 @@ A 12 min desde Mandarake.
 
 20:30 | 30m | TRAIN |
 Metro: Regreso a Hatagaya (Toei Shinjuku desde Iwamotochō).
+https://www.google.com/maps/dir/Iwamotocho+Station/Hatagaya+Station
 
 
 @day
 title: Excursión al Monte Fuji (Kawaguchiko)
 steps: 12000
 summary: Pagoda Chūreitō + Lago Kawaguchiko + Hōtō + Teleférico Kachi-Kachi + Reflejo Sakasa Fuji
+https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
 Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en la mañana apenas lleguen a Kawaguchiko.
@@ -169,30 +188,39 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 07:05 | 15m | TRAIN |
 Metro Hatagaya → Shinjuku (Keio New Line).
+https://www.google.com/maps/dir/Hatagaya+Station/Shinjuku+Station
 
 07:20 | 10m | WALK |
 Caminar al andén JR en estación Shinjuku.
+https://www.google.com/maps/place/Shinjuku+Station
 
 07:30 | 120m | TRAIN |
 Tren Shinjuku → Estación Shimoyoshida (Fuji Excursion directo).
+https://www.google.com/maps/dir/Shinjuku+Station/Shimoyoshida+Station
 
 09:30 | 40m | WALK |
 Caminar y subir escalones a Pagoda Chūreitō.
+https://www.google.com/maps/dir/Shimoyoshida+Station/Chureito+Pagoda
 
 10:10 | 90m | VISIT |
 Visitar Mirador de la Pagoda Chūreitō (Arakura Sengen) — Postal clásica de Fuji + Pagoda.
+https://www.google.com/maps/place/Chureito+Pagoda
 
 11:40 | 40m | WALK |
 Caminar de regreso a la Estación Shimoyoshida.
+https://www.google.com/maps/dir/Chureito+Pagoda/Shimoyoshida+Station
 
 12:20 | 35m | TRAIN |
 Tren Shimoyoshida → Estación Kawaguchiko (Fujikyu Railway).
+https://www.google.com/maps/dir/Shimoyoshida+Station/Kawaguchiko+Station
 
 12:55 | 5m | WALK |
 Caminar hacia orilla del lago o restaurantes.
+https://www.google.com/maps/dir/Kawaguchiko+Station/Lake+Kawaguchi
 
 13:00 | 120m | FOOD |
 Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona).
+https://www.google.com/maps/place/Houtou+Fudou+Kawaguchiko+Station
 
 Option
 Hotou Fudo Kawaguchiko Station
@@ -208,24 +236,31 @@ A 12 min desde la estación Kawaguchiko.
 
 15:00 | 20m | BUS |
 Caminar o tomar Bus local al teleférico.
+https://www.google.com/maps/dir/Kawaguchiko+Station/Mt.+Fuji+Panoramic+Ropeway
 
 15:20 | 90m | VISIT |
 Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Campana de Tenjo y dango.
+https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 16:50 | 30m | BUS |
 Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
+https://www.google.com/maps/dir/Mt.+Fuji+Panoramic+Ropeway/Kozantei+Ubuya
 
 17:30 | 60m | PHOTO |
 Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm.
+https://www.google.com/maps/place/Lake+Kawaguchi
 
 18:30 | 20m | BUS |
 Bus de regreso (Línea Roja) → Estación Kawaguchiko.
+https://www.google.com/maps/dir/Lake+Kawaguchi/Kawaguchiko+Station
 
 18:50 | 115m | BUS |
 Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes).
+https://www.google.com/maps/dir/Kawaguchiko+Station/Busta+Shinjuku
 
 19:25 | 65m | FOOD |
 Cena Ramen reconfortante en Shinjuku.
+https://www.google.com/maps/place/Ichiran+Shinjuku
 
 Option
 ICHIRAN Shinjuku Station Central East Exit
@@ -249,24 +284,31 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 09:00 | 25m | TRAIN |
 Metro Hatagaya → Harajuku (vía Shinjuku, JR Yamanote).
+https://www.google.com/maps/dir/Hatagaya+Station/Harajuku+Station
 
 09:25 | 5m | WALK |
 Caminar al Santuario Meiji.
+https://www.google.com/maps/dir/Harajuku+Station/Meiji+Jingu
 
 09:30 | 90m | VISIT |
 Visitar Santuario Meiji (bosque de cedros y Jardín Imperial Gyoen).
+https://www.google.com/maps/place/Meiji+Jingu
 
 11:00 | 90m | WALK |
 Caminar por Takeshita Street — Moda juvenil, crepes y algodón de azúcar gigante.
+https://www.google.com/maps/place/Takeshita+Street
 
 12:30 | 20m | WALK |
 Caminar de Harajuku → Shibuya bajando por Cat Street.
+https://www.google.com/maps/dir/Takeshita+Street/Cat+Street/@35.666,139.704,16z
 
 12:50 | 10m | WALK |
 Caminata hacia restaurantes en Shibuya.
+https://www.google.com/maps/place/Shibuya+Crossing
 
 13:00 | 70m | FOOD |
 Almuerzo rápido en Shibuya.
+https://www.google.com/maps/place/CoCo+Ichibanya+Shibuya
 
 Option
 Kua 'Aina Shibuya
@@ -278,15 +320,19 @@ Curry japonés personalizable (Centro de Shibuya).
 
 14:10 | 20m | WALK |
 Caminar al Edificio Shibuya Parco.
+https://www.google.com/maps/dir/Shibuya+Crossing/Shibuya+Parco
 
 14:30 | 180m | SHOP |
 Visita a Nintendo Tokyo y Pokémon Center (6to piso de Parco).
+https://www.google.com/maps/place/Shibuya+Parco
 
 17:30 | 90m | VISIT |
 Estatua de Hachikō y subir al mirador (Magnet by Shibuya 109) para fotografiar el Shibuya Crossing al anochecer.
+https://www.google.com/maps/place/Hachiko+Statue
 
 19:00 | 90m | FOOD |
 Cena Shabu-shabu en Shibuya.
+https://www.google.com/maps/place/Nabezo+Shibuya
 
 Option
 Nabezo Shibuya Center Street
@@ -298,6 +344,7 @@ A 3 min desde el cruce.
 
 20:30 | 40m | TRAIN |
 Metro: Regreso (JR Yamanote a Shinjuku, combinación a Keio New Line).
+https://www.google.com/maps/dir/Shibuya+Station/Hatagaya+Station
 
 
 @day
@@ -310,18 +357,23 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 08:10 | 15m | TRAIN |
 Metro Hatagaya → Shinjuku + caminata a andenes JR.
+https://www.google.com/maps/dir/Hatagaya+Station/Shinjuku+Station
 
 08:30 | 75m | TRAIN |
 Tren Shinjuku → Kamakura (JR Shōnan-Shinjuku).
+https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
 09:45 | 15m | TRAIN |
 Tren local Kamakura → Estación Hase (Línea Enoden).
+https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
 
 10:00 | 180m | VISIT |
 Visitar Kōtoku-in (Gran Buda, ~3 USD) y templo costero Hase-dera (~3 USD).
+https://www.google.com/maps/place/Kotoku-in
 
 13:00 | 120m | FOOD |
 Almuerzo en la zona de Hase.
+https://www.google.com/maps/place/Kaedena+Kamakura
 
 Option
 Kamakura Matsubaraan
@@ -333,15 +385,19 @@ Donburi, boles de arroz con carne o mariscos (a 5 min del Gran Buda).
 
 15:00 | 120m | SHOP |
 Retorno a la estación Kamakura y caminata vitrineando por la calle tradicional Komachi-dori hacia el Santuario Tsurugaoka Hachimangū.
+https://www.google.com/maps/dir/Hase+Station/Tsurugaoka+Hachimangu
 
 17:00 | 75m | TRAIN |
 Tren de regreso Kamakura → Shinjuku.
+https://www.google.com/maps/dir/Kamakura+Station/Shinjuku+Station
 
 18:15 | 15m | TRAIN |
 Metro Shinjuku → Hatagaya.
+https://www.google.com/maps/dir/Shinjuku+Station/Hatagaya+Station
 
 19:00 | 90m | FOOD |
 Cena Okonomiyaki cerca del alojamiento.
+https://www.google.com/maps/place/Koteka+Hatagaya
 
 Option
 Koteka Hatagaya
@@ -362,15 +418,19 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 09:30 | 10m | TRAIN |
 Metro Hatagaya → Shinjuku (Keio New Line).
+https://www.google.com/maps/dir/Hatagaya+Station/Shinjuku+Station
 
 09:40 | 20m | WALK |
 Caminar de estación Shinjuku al parque Shinjuku Gyoen.
+https://www.google.com/maps/dir/Shinjuku+Station/Shinjuku+Gyoen+National+Garden
 
 10:00 | 180m | VISIT |
 Shinjuku Gyoen (Jardín Nacional, ~4 USD) — Mañana de caminata tranquila.
+https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
 
 13:00 | 90m | FOOD |
 Almuerzo en Shinjuku.
+https://www.google.com/maps/place/Tempura+Tsunahachi+Shinjuku
 
 Option
 Tempura Tsunahachi Shinjuku
@@ -382,15 +442,19 @@ Sushi fresco y amigable (a 12 min del parque).
 
 14:30 | 120m | SHOP |
 Vitrinear por la zona comercial de Shinjuku (Takashimaya, Lumine) y caminar hacia el oeste.
+https://www.google.com/maps/place/Takashimaya+Times+Square
 
 16:30 | 120m | VISIT |
 Subir al Tokyo Metropolitan Government Building (mirador gratuito de 202 metros).
+https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building
 
 18:30 | 60m | PHOTO |
 Caminata fotográfica por Shinjuku Golden-Gai al encenderse los faroles.
+https://www.google.com/maps/place/Shinjuku+Golden+Gai
 
 19:30 | 90m | FOOD |
 Cena en Omoide Yokochō (El callejón de los recuerdos).
+https://www.google.com/maps/place/Omoide+Yokocho
 
 Option
 Kameya Shinjuku
@@ -408,30 +472,38 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
+https://www.google.com/maps/place/Hamarikyu+Gardens
 
 08:15 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
 
 08:25 | 35m | TRAIN |
 Metro Hatagaya → Shiodome (vía Shinjuku, línea Toei Ōedo).
+https://www.google.com/maps/dir/Hatagaya+Station/Shiodome+Station
 
 09:00 | 15m | WALK |
 Caminar a los jardines.
+https://www.google.com/maps/dir/Shiodome+Station/Hamarikyu+Gardens
 
 09:15 | 90m | VISIT |
 Jardines Hamárikyū (~2 USD). Floración de nanohana y casa de té Nakajima.
+https://www.google.com/maps/place/Hamarikyu+Gardens
 
 10:45 | 10m | WALK |
 Caminar a estación Shiodome.
+https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
 
 10:55 | 10m | TRAIN |
 Monorriel Yurikamome hacia estación Shin-Toyosu.
+https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
 
 11:05 | 115m | VISIT |
 teamLab Planets (Toyosu) — Inmersión sensorial interactiva (franja reservada).
+https://www.google.com/maps/place/teamLab+Planets+TOKYO
 
 13:00 | 90m | FOOD |
 Almuerzo en Odaiba (Llegando en monorriel a estación Daiba).
+https://www.google.com/maps/place/DiverCity+Tokyo+Plaza
 
 Option
 Food Court de DiverCity
@@ -443,12 +515,15 @@ Comida rápida con grandes ventanales a la bahía en Aqua City.
 
 14:30 | 180m | VISIT |
 Caminar por Odaiba: Robot gigante Unicorn Gundam y Statue of Liberty japonesa frente al mar.
+https://www.google.com/maps/place/Unicorn+Gundam+Statue
 
 17:30 | 90m | PHOTO |
 Paseo al atardecer por los puentes peatonales de Odaiba.
+https://www.google.com/maps/place/Odaiba+Marine+Park
 
 19:00 | 90m | FOOD |
 Cena Tendon (bol de arroz cubierto de tempura).
+https://www.google.com/maps/place/Kaneko+Hannosuke+Odaiba
 
 Option
 Kaneko Hannosuke Odaiba
@@ -460,30 +535,38 @@ Comida tradicional japonesa variada con buenas vistas (en DiverCity).
 
 20:30 | 40m | TRAIN |
 Regreso a Hatagaya (Línea Rinkai a Shinjuku, combinación Keio New Line).
+https://www.google.com/maps/dir/Daiba+Station/Hatagaya+Station
 
 
 @day
 title: Nakano Broadway
+https://www.google.com/maps/place/Nakano+Broadway
 steps: 12000
 summary: Galería Sun Mall + Nakano Broadway + Coleccionismo retro / anime + Izakaya
+https://www.google.com/maps/place/Nakano+Broadway
 
 10:10 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
 
 10:20 | 10m | TRAIN |
 Metro Hatagaya → Shinjuku.
+https://www.google.com/maps/dir/Hatagaya+Station/Shinjuku+Station
 
 10:30 | 15m | TRAIN |
 Tren Shinjuku → Nakano (Línea JR Chūō Rapid).
+https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
 
 10:45 | 15m | WALK |
 Caminar techado por la galería Sun Mall.
+https://www.google.com/maps/dir/Nakano+Station/Nakano+Broadway
 
 11:00 | 180m | SHOP |
 Nakano Broadway: Explorar galerías de figuras, anime retro, Mandarake y rarezas.
+https://www.google.com/maps/place/Nakano+Broadway
 
 14:00 | 90m | FOOD |
 Almuerzo en los callejones aledaños a Nakano.
+https://www.google.com/maps/place/Ramen+Aoba+Nakano
 
 Option
 Aoba Nakano Honten
@@ -498,6 +581,7 @@ Tarde de ritmo libre (compras, descansar o recorrer tiendas pendientes).
 
 19:00 | 90m | FOOD |
 Cena Izakaya (taberna familiar animada).
+https://www.google.com/maps/place/Isomaru+Suisan+Nakano
 
 Option
 Isomaru Suisan Nakano
@@ -509,6 +593,7 @@ Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
 
 20:30 | 20m | TRAIN |
 Tren/Metro: Regreso a Hatagaya (JR Chūō a Shinjuku, Keio New Line).
+https://www.google.com/maps/dir/Nakano+Station/Hatagaya+Station
 
 
 @day
@@ -524,18 +609,23 @@ Caminar de Hospedaje → Estación Hatagaya.
 
 07:30 | 15m | TRAIN |
 Metro Hatagaya → Shinjuku + caminata a andén JR.
+https://www.google.com/maps/dir/Hatagaya+Station/Shinjuku+Station
 
 08:00 | 150m | TRAIN |
 Tren Shinjuku → Tobu-Nikkō (Limited Express Nikkō/Kinugawa).
+https://www.google.com/maps/dir/Shinjuku+Station/Tobu-Nikko+Station
 
 10:30 | 20m | BUS |
 Bus local desde la estación hacia el área de los santuarios.
+https://www.google.com/maps/dir/Tobu-Nikko+Station/Nikko+Toshogu
 
 10:50 | 180m | VISIT |
 Visitar Nikkō Tōshō-gū (~10 USD) y explorar el bosque de la montaña.
+https://www.google.com/maps/place/Nikko+Toshogu
 
 13:50 | 70m | FOOD |
 Almuerzo en Nikkō.
+https://www.google.com/maps/place/Yubatei+Masudaya
 
 Option
 Yubatei Masudaya
@@ -547,15 +637,19 @@ Yakitori y fideos calientes en un local lleno de notas de turistas.
 
 15:00 | 120m | SHOP |
 Caminata bajando por la ciudad y compras de souvenirs tradicionales.
+https://www.google.com/maps/dir/Nikko+Toshogu/Tobu-Nikko+Station
 
 17:00 | 150m | TRAIN |
 Tren de regreso Tobu-Nikkō → Shinjuku (Limited Express).
+https://www.google.com/maps/dir/Tobu-Nikko+Station/Shinjuku+Station
 
 19:30 | 15m | TRAIN |
 Metro Shinjuku → Hatagaya.
+https://www.google.com/maps/dir/Shinjuku+Station/Hatagaya+Station
 
 20:00 | 90m | FOOD |
 Cena de despedida de Tokio en el barrio de Hatagaya (Yakiniku).
+https://www.google.com/maps/place/Gyu-Kaku+Hatagaya
 
 Option
 Yakiniku Gyukaku Hatagaya
@@ -585,21 +679,26 @@ Navegar la estación hacia andenes de Shinkansen.
 
 08:00 | 100m | TRAIN |
 Tren Shinkansen a estación Nagoya.
+https://www.google.com/maps/dir/Tokyo+Station/Nagoya+Station
 
 09:40 | 15m | WALK |
 Caminar internamente para cambiar de andén hacia la línea JR Takayama.
+https://www.google.com/maps/place/Nagoya+Station
 
 09:55 | 150m | TRAIN |
 Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
+https://www.google.com/maps/dir/Nagoya+Station/Takayama+Station
 
 12:25 | 10m | WALK |
 Caminar desde la estación de Takayama al alojamiento.
+https://www.google.com/maps/dir/Takayama+Station/Sanmachi+Suji
 
 12:35 | 15m | HOTEL |
 Check-in o dejar maletas en recepción para los próximos 4 días.
 
 12:50 | 60m | FOOD |
 Almuerzo en Takayama.
+https://www.google.com/maps/place/Hida+Soba+Takayama
 
 Option
 Hida Soba
@@ -610,12 +709,14 @@ Caminar hacia el casco antiguo.
 
 14:05 | 180m | VISIT |
 Caminar explorando Sanmachi Suji (calles del periodo Edo, destilerías de sake).
+https://www.google.com/maps/place/Sanmachi+Suji
 
 17:05 | 115m | BREAK |
 Caminar de regreso al hotel/ryokan a descansar.
 
 19:00 | 90m | FOOD |
 Cena de bienvenida a los Alpes.
+https://www.google.com/maps/place/Hidagyu+Maruaki+Takayama
 
 Option
 Hida-gyū (buey de Hida)
@@ -629,24 +730,30 @@ summary: Bus Nohi + Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
 
 08:15 | 15m | WALK |
 Caminar desde el alojamiento a la terminal de buses Nohi (junto a la estación).
+https://www.google.com/maps/place/Takayama+Nohi+Bus+Center
 
 08:30 | 15m | BUS |
 Comprar/retirar tickets y hacer fila.
 
 08:45 | 50m | BUS |
 Bus Nohi expreso a Shirakawa-gō.
+https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shirakawa-go+Bus+Terminal
 
 09:35 | 20m | WALK |
 Caminar cruzando el puente colgante hacia la aldea.
+https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Shiroyama+Viewpoint
 
 09:55 | 30m | WALK |
 Caminar en subida constante hacia el mirador Shiroyama (Zona 2 cardio).
+https://www.google.com/maps/place/Shiroyama+Viewpoint
 
 10:25 | 125m | VISIT |
 Caminar y fotografiar la aldea desde arriba, bajar a explorar las casas gasshō-zukuri.
+https://www.google.com/maps/place/Shirakawa-go
 
 12:30 | 90m | FOOD |
 Almuerzo en la aldea.
+https://www.google.com/maps/place/Irori+Shirakawago
 
 Option
 Irori
@@ -657,15 +764,18 @@ Caminar de regreso a la terminal de buses de Shirakawa-gō.
 
 14:15 | 50m | BUS |
 Bus Nohi de regreso a Takayama.
+https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Takayama+Nohi+Bus+Center
 
 15:05 | 120m | SHOP |
 Caminar por el mercado de Miyagawa o zonas comerciales aledañas.
+https://www.google.com/maps/place/Miyagawa+Morning+Market
 
 17:05 | 145m | BREAK |
 Caminar de regreso al alojamiento a descansar.
 
 19:30 | 90m | FOOD |
 Cena local en Takayama.
+https://www.google.com/maps/place/Takayama+Old+Town
 
 Option
 Izakaya tradicional en Takayama
@@ -682,18 +792,21 @@ Caminar a la terminal de buses Nohi.
 
 08:40 | 100m | BUS |
 Bus Nohi ruta Shinhotaka hacia las montañas de Okuhida.
+https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shinhotaka+Ropeway
 
 10:20 | 10m | WALK |
 Caminar a la estación del teleférico.
 
 10:30 | 90m | VISIT |
 Ascenso en Teleférico Shinhotaka (Shinhotaka Ropeway) a la plataforma de observación (+2000m).
+https://www.google.com/maps/place/Shinhotaka+Ropeway
 
 12:00 | 10m | WALK |
 Bajar en teleférico y caminar al área de buses.
 
 12:10 | 60m | FOOD |
 Almuerzo rápido en el área de Shinhotaka.
+https://www.google.com/maps/place/Shinhotaka+Ropeway
 
 Option
 Restaurante de la estación del teleférico
@@ -701,15 +814,18 @@ Sopas calientes y raciones medidas.
 
 13:10 | 20m | BUS |
 Bus local bajando hacia la zona de Hirayu Onsen.
+https://www.google.com/maps/dir/Shinhotaka+Ropeway/Hirayu+Onsen
 
 13:30 | 150m | VISIT |
 Disfrutar de un Rotenburo (onsen al aire libre rodeado de nieve) en Hirayu Onsen por el día.
+https://www.google.com/maps/place/Hirayu+Onsen
 
 16:00 | 10m | WALK |
 Caminar a la parada de bus.
 
 16:10 | 60m | BUS |
 Bus Nohi de regreso directo a Takayama.
+https://www.google.com/maps/dir/Hirayu+Onsen/Takayama+Nohi+Bus+Center
 
 17:10 | 110m | BREAK |
 Caminar al alojamiento.
@@ -726,24 +842,29 @@ Cortes de pescado blanco y atún magro.
 title: Takayama profundo y Ruta de los Templos
 steps: 18000
 summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
+https://www.google.com/maps/place/Hida+Folk+Village
 
 09:00 | 15m | WALK |
 Caminar desde el alojamiento a la antigua sede de gobierno (Takayama Jinya).
+https://www.google.com/maps/dir/Takayama+Station/Takayama+Jinya
 
 09:15 | 90m | VISIT |
 Visitar Takayama Jinya por dentro.
+https://www.google.com/maps/place/Takayama+Jinya
 
 10:45 | 20m | WALK |
 Caminar hacia el este, área de templos de Higashiyama.
 
 11:00 | 150m | VISIT |
 Caminar la Ruta de Higashiyama (Higashiyama Yuhodo) entre templos y bosques.
+https://www.google.com/maps/place/Higashiyama+Walking+Course
 
 13:30 | 20m | WALK |
 Caminar bajando de regreso al centro.
 
 13:50 | 65m | FOOD |
 Almuerzo compensatorio tras la caminata.
+https://www.google.com/maps/place/Center4+Hamburgers
 
 Option
 Center4 Hamburgers
@@ -751,9 +872,11 @@ Famoso local con opción de hamburguesa de Hida-gyū.
 
 14:55 | 30m | BUS |
 Caminar hacia el oeste de la ciudad (o bus corto) a Hida Minzoku Mura.
+https://www.google.com/maps/place/Hida+Folk+Village
 
 15:25 | 95m | VISIT |
 Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tradicionales.
+https://www.google.com/maps/place/Hida+Folk+Village
 
 17:00 | 150m | HOTEL |
 Caminar de regreso al hotel y organizar maletas para envío a Kioto (Takkyubin).
@@ -776,12 +899,14 @@ Caminar a la estación de tren de Takayama.
 
 09:00 | 150m | TRAIN |
 Tren JR Hida Ltd. Express a Nagoya.
+https://www.google.com/maps/dir/Takayama+Station/Nagoya+Station
 
 11:30 | 15m | WALK |
 Caminar y cambiar a la línea Linimo.
 
 11:45 | 45m | TRAIN |
 Tren Linimo a estación Ai-Chikyuhaku Kinen Koen.
+https://www.google.com/maps/dir/Nagoya+Station/Ghibli+Park
 
 12:30 | 10m | WALK |
 Caminar hacia el acceso del Parque Ghibli.
@@ -795,18 +920,21 @@ En la estación de Nagoya o en las cafeterías del parque.
 
 13:30 | 210m | VISIT |
 Caminar recorriendo las áreas reservadas del Parque Ghibli.
+https://www.google.com/maps/place/Ghibli+Park
 
 17:00 | 10m | WALK |
 Caminar a la estación Linimo.
 
 17:10 | 45m | TRAIN |
 Tren Linimo de regreso a Nagoya.
+https://www.google.com/maps/dir/Ghibli+Park/Nagoya+Station
 
 17:55 | 15m | WALK |
 Caminar y cambiar a andenes de Shinkansen.
 
 18:10 | 35m | TRAIN |
 Tren Shinkansen rápido (Nozomi/Hikari) a Kioto.
+https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
 18:45 | 30m | TAXI |
 Caminar y traslado al hotel en Kioto (Sanjo/Kawaramachi).
@@ -835,30 +963,35 @@ Caminar de Hospedaje a estación Kyoto-Kawaramachi.
 
 07:15 | 10m | TRAIN |
 Tren Hankyu Kyoto Line a estación Katsura.
+https://www.google.com/maps/dir/Kyoto-Kawaramachi+Station/Katsura+Station
 
 07:25 | 5m | WALK |
 Cambiar de andén en estación Katsura.
 
 07:30 | 10m | TRAIN |
 Tren Hankyu Arashiyama Line a estación Arashiyama.
+https://www.google.com/maps/dir/Katsura+Station/Arashiyama+Station
 
 07:40 | 10m | WALK |
 Caminar hacia el Bosque de Bambú.
 
 07:50 | 60m | VISIT |
 Visita Bosque de Bambú (temprano para evitar multitudes).
+https://www.google.com/maps/place/Arashiyama+Bamboo+Grove
 
 08:50 | 10m | WALK |
 Caminar hacia el templo vecino.
 
 09:00 | 90m | VISIT |
 Visita templo Tenryū-ji (~4 USD).
+https://www.google.com/maps/place/Tenryu-ji
 
 10:30 | 15m | WALK |
 Caminar bajando hacia el río Katsura.
 
 10:45 | 30m | VISIT |
 Paseo en barco tradicional por el río Katsura (~10 USD).
+https://www.google.com/maps/place/Togetsukyo+Bridge
 
 11:15 | 10m | WALK |
 Caminar hacia el Puente Togetsukyō.
@@ -868,12 +1001,14 @@ Caminar cruzando el puente hacia el Parque de monos Iwatayama.
 
 11:45 | 90m | VISIT |
 Subida y visita al Parque de monos Iwatayama.
+https://www.google.com/maps/place/Iwatayama+Monkey+Park
 
 13:15 | 20m | WALK |
 Caminar de regreso al centro comercial de Arashiyama.
 
 13:35 | 85m | FOOD |
 Almuerzo en Arashiyama.
+https://www.google.com/maps/place/Arashiyama+Yoshimura
 
 Option
 Arashiyama Yoshimura
@@ -903,6 +1038,7 @@ Caminar a sector de restaurantes.
 
 19:10 | 80m | FOOD |
 Cena Soba.
+https://www.google.com/maps/place/Honke+Owariya
 
 Option
 Honke Owariya
@@ -919,36 +1055,42 @@ Caminar a estación Gion-Shijo.
 
 06:40 | 10m | TRAIN |
 Tren Keihan Main Line a estación Fushimi-Inari.
+https://www.google.com/maps/dir/Gion-Shijo+Station/Fushimi-Inari+Station
 
 06:50 | 10m | WALK |
 Caminar a la entrada principal.
 
 07:00 | 150m | VISIT |
 Visita Fushimi Inari-taisha muy temprano (miles de torii rojos).
+https://www.google.com/maps/place/Fushimi+Inari+Taisha
 
 09:30 | 10m | WALK |
 Caminar a estación Fushimi-Inari.
 
 09:40 | 10m | TRAIN |
 Tren Keihan Main Line a estación Kiyomizu-Gojo.
+https://www.google.com/maps/dir/Fushimi-Inari+Station/Kiyomizu-Gojo+Station
 
 09:50 | 15m | WALK |
 Caminar en subida hacia tienda de alquiler en Higashiyama.
 
 10:05 | 60m | SHOP |
 Alquiler de kimono para las chicas.
+https://www.google.com/maps/place/Kiyomizu-dera
 
 11:05 | 20m | WALK |
 Caminar cuesta arriba hacia el templo.
 
 11:25 | 90m | VISIT |
 Visita Kiyomizu-dera (~4 USD).
+https://www.google.com/maps/place/Kiyomizu-dera
 
 12:55 | 15m | WALK |
 Caminar bajando por la ladera de Sannenzaka.
 
 13:10 | 60m | FOOD |
 Almuerzo en la zona tradicional.
+https://www.google.com/maps/place/Kani+Doraku+Dotombori+Honten
 
 Option
 Omen Kodai-ji
@@ -956,24 +1098,28 @@ Udon tradicional de alta calidad.
 
 14:10 | 120m | VISIT |
 Caminar por Sannenzaka y Ninenzaka.
+https://www.google.com/maps/place/Sannenzaka
 
 16:10 | 15m | WALK |
 Caminar a Santuario Yasaka.
 
 16:25 | 45m | VISIT |
 Visita Santuario Yasaka.
+https://www.google.com/maps/place/Yasaka+Shrine
 
 17:10 | 15m | WALK |
 Caminar a devolver kimonos.
 
 17:25 | 60m | PHOTO |
 Caminar explorando el barrio de Gion al atardecer.
+https://www.google.com/maps/place/Gion
 
 18:25 | 15m | WALK |
 Caminar hacia el río y callejón Pontocho.
 
 18:40 | 80m | FOOD |
 Cena Udón en Pontochō Alley.
+https://www.google.com/maps/place/Pontocho+Alley
 
 Option
 Okariba
@@ -990,18 +1136,21 @@ Caminar a paradero de buses en Kawaramachi/Sanjo.
 
 08:10 | 45m | BUS |
 Bus (línea 12 o 59) a parada Kinkakuji-michi.
+https://www.google.com/maps/dir/Kyoto+Station/Kinkaku-ji
 
 08:55 | 5m | WALK |
 Caminar a entrada de Kinkaku-ji.
 
 09:00 | 60m | VISIT |
 Visita Kinkaku-ji (Pabellón de Oro, ~4 USD).
+https://www.google.com/maps/place/Kinkaku-ji
 
 10:00 | 20m | WALK |
 Caminar hacia templo vecino Ryōan-ji.
 
 10:20 | 60m | VISIT |
 Visita Ryōan-ji (jardín zen, ~3 USD).
+https://www.google.com/maps/place/Ryoan-ji
 
 11:20 | 5m | WALK |
 Caminar a paradero Ryoanji-mae.
@@ -1014,6 +1163,7 @@ Caminar a entrada del castillo.
 
 11:50 | 90m | VISIT |
 Visita Castillo Nijō (residencia shogunal, suelos ruiseñor, ~4 USD).
+https://www.google.com/maps/place/Nijo+Castle
 
 13:20 | 15m | WALK |
 Caminar a estación de metro Nijojo-mae.
@@ -1026,6 +1176,7 @@ Caminar hacia mercado cubierto.
 
 13:50 | 100m | FOOD |
 Almuerzo y caminata por Mercado Nishiki.
+https://www.google.com/maps/place/Nishiki+Market
 
 15:30 | 210m | BREAK |
 Caminar al hospedaje a descansar.
@@ -1035,6 +1186,7 @@ Caminar a restaurante de la zona.
 
 19:10 | 80m | FOOD |
 Cena Kushikatsu.
+https://www.google.com/maps/place/Kushikatsu+Daruma+Kyoto
 
 Option
 Kushikatsu Daruma sucursal Kyoto
@@ -1051,33 +1203,39 @@ Caminar a paradero de buses.
 
 08:55 | 30m | BUS |
 Bus (línea 5 o 32) a parada Ginkakuji-michi.
+https://www.google.com/maps/dir/Kyoto+Station/Ginkaku-ji
 
 09:25 | 5m | WALK |
 Caminar a entrada.
 
 09:30 | 60m | VISIT |
 Visita Ginkaku-ji (Pabellón de Plata, ~4 USD).
+https://www.google.com/maps/place/Ginkaku-ji
 
 10:30 | 5m | WALK |
 Caminar al inicio del sendero del canal.
 
 10:35 | 45m | WALK |
 Caminar por el Paseo de la Filosofía.
+https://www.google.com/maps/place/Philosopher's+Path
 
 11:20 | 10m | WALK |
 Caminar hacia el siguiente complejo.
 
 11:30 | 60m | VISIT |
 Visita complejo Nanzen-ji.
+https://www.google.com/maps/place/Nanzen-ji
 
 12:30 | 15m | WALK |
 Caminar hacia el santuario gigante.
 
 12:45 | 45m | VISIT |
 Visita Santuario Heian (~4 USD).
+https://www.google.com/maps/place/Heian+Shrine
 
 13:30 | 60m | FOOD |
 Almuerzo en área Okazaki.
+https://www.google.com/maps/place/Yamamoto+Menzou
 
 Option
 Yamamoto Menzou
@@ -1088,6 +1246,7 @@ Caminar a casa de té.
 
 14:45 | 90m | VISIT |
 Ceremonia del té en casa tradicional.
+https://www.google.com/maps/search/Tea+Ceremony+Kyoto
 
 16:15 | 20m | WALK |
 Caminar a estación de metro Higashiyama.
@@ -1103,6 +1262,7 @@ Caminar a restaurante.
 
 19:40 | 80m | FOOD |
 Cena Okonomiyaki estilo Kansai.
+https://www.google.com/maps/place/Donguri+Kyoto
 
 Option
 Donguri
@@ -1116,6 +1276,7 @@ summary: Mañana libre en Kioto + Shinkansen a Shin-Osaka + Metro Midosuji + Can
 
 09:00 | 180m | FREE |
 Mañana libre caminando por el centro de Kioto (compras o vistas pendientes).
+https://www.google.com/maps/place/Shijo+Dori+Kyoto
 
 12:00 | 60m | FOOD |
 Almuerzo libre cerca del hospedaje.
@@ -1131,12 +1292,14 @@ Caminar en la estación hacia andenes Shinkansen.
 
 13:45 | 15m | TRAIN |
 Tren Shinkansen a estación Shin-Osaka.
+https://www.google.com/maps/dir/Kyoto+Station/Shin-Osaka+Station
 
 14:00 | 10m | WALK |
 Caminar a andenes de metro Midosuji.
 
 14:10 | 15m | TRAIN |
 Metro Midosuji Line de Shin-Osaka a Namba.
+https://www.google.com/maps/dir/Shin-Osaka+Station/Namba+Station
 
 14:25 | 10m | WALK |
 Caminar a alojamiento en Namba / Shimanouchi y Check-in.
@@ -1149,9 +1312,11 @@ Caminar al canal principal.
 
 18:40 | 20m | PHOTO |
 Caminar buscando el cartel de Glico Man.
+https://www.google.com/maps/place/Glico+Man+Sign
 
 19:00 | 90m | FOOD |
 Cena street food en Dōtonbori (takoyaki, gyozas, puestos del canal).
+https://www.google.com/maps/place/Dotonbori
 
 
 @section Osaka
@@ -1170,9 +1335,11 @@ Caminar desde Hospedaje hacia Shinsaibashi.
 
 11:00 | 120m | SHOP |
 Caminar por galerías comerciales de Namba y Shinsaibashi.
+https://www.google.com/maps/place/Shinsaibashi-suji+Shopping+Street
 
 13:00 | 90m | FOOD |
 Almuerzo en la zona.
+https://www.google.com/maps/place/Kani+Doraku+Dotombori+Honten
 
 Option
 Kani Doraku
@@ -1183,27 +1350,32 @@ Caminar al canal.
 
 14:40 | 30m | VISIT |
 Paseo en bote por el canal Dōtonbori (~900 JPY).
+https://www.google.com/maps/place/Tonbori+River+Cruise
 
 15:10 | 10m | WALK |
 Caminar a estación metro Namba.
 
 15:20 | 5m | TRAIN |
 Metro Midosuji Line a estación Dobutsuen-mae.
+https://www.google.com/maps/dir/Namba+Station/Dobutsuen-mae+Station
 
 15:25 | 10m | WALK |
 Caminar hacia barrio Shinsekai.
 
 15:35 | 25m | VISIT |
 Caminar y subir a torre Tsūtenkaku.
+https://www.google.com/maps/place/Tsutenkaku
 
 16:00 | 120m | VISIT |
 Exploración de Shinsekai y bajada de la torre.
+https://www.google.com/maps/place/Shinsekai
 
 18:00 | 90m | PHOTO |
 Caminar aprovechando los neones y la vibra retro para tomar fotos.
 
 19:30 | 60m | FOOD |
 Cena Kushikatsu en Shinsekai.
+https://www.google.com/maps/place/Kushikatsu+Daruma+Kyoto
 
 Option
 Kushikatsu Daruma Shinsekai Sohonten
@@ -1229,12 +1401,14 @@ Caminar a estación Osaka-Namba (línea Hanshin).
 
 06:25 | 10m | TRAIN |
 Tren Hanshin Namba Line a estación Nishikujo.
+https://www.google.com/maps/dir/Osaka-Namba+Station/Nishikujo+Station
 
 06:35 | 5m | WALK |
 Caminar y cambiar de andén en Nishikujo a andén JR.
 
 06:40 | 5m | TRAIN |
 Tren JR Yumesaki Line a estación Universal City.
+https://www.google.com/maps/dir/Nishikujo+Station/Universal-City+Station
 
 06:45 | 15m | WALK |
 Caminar desde estación hacia la puerta del parque.
@@ -1244,6 +1418,7 @@ Fila de ingreso al parque.
 
 08:00 | 300m | VISIT |
 Caminar por el parque. Uso del Express Pass para Super Nintendo World.
+https://www.google.com/maps/place/Universal+Studios+Japan
 
 13:00 | 60m | FOOD |
 Almuerzo en restaurantes del parque.
@@ -1256,6 +1431,7 @@ Caminar saliendo del parque hacia Universal CityWalk.
 
 20:10 | 80m | FOOD |
 Cena en Universal CityWalk.
+https://www.google.com/maps/place/Universal+CityWalk+Osaka
 
 Option
 Hard Rock Cafe Osaka Universal
@@ -1287,27 +1463,32 @@ Caminar a estación Kintetsu-Namba / Kintetsu-Nipponbashi.
 
 08:50 | 40m | TRAIN |
 Tren rápido Kintetsu Nara Line a estación Kintetsu Nara.
+https://www.google.com/maps/dir/Kintetsu-Namba+Station/Kintetsu-Nara+Station
 
 09:30 | 15m | WALK |
 Caminar hacia el gran parque.
 
 09:45 | 60m | VISIT |
 Caminar por Parque de Nara (interacción con ciervos).
+https://www.google.com/maps/place/Nara+Park
 
 10:45 | 15m | WALK |
 Caminar hacia complejo religioso.
 
 11:00 | 30m | VISIT |
 Visitar pagoda de cinco pisos de Kōfuku-ji.
+https://www.google.com/maps/place/Kofuku-ji
 
 11:30 | 15m | WALK |
 Caminar hacia el pabellón principal.
 
 11:45 | 60m | VISIT |
 Visitar Tōdai-ji (Gran Buda).
+https://www.google.com/maps/place/Todai-ji
 
 12:45 | 75m | FOOD |
 Almuerzo en los alrededores.
+https://www.google.com/maps/place/Shizuka+Nara
 
 Option
 Kamameshi Shizuka
@@ -1318,6 +1499,7 @@ Caminar por sendero boscoso hacia santuario.
 
 14:15 | 60m | VISIT |
 Visitar Kasuga Taisha.
+https://www.google.com/maps/place/Kasuga+Taisha
 
 15:15 | 30m | WALK |
 Caminar de regreso por el parque hasta la estación.
@@ -1333,6 +1515,7 @@ Caminar a local de comida en Namba.
 
 19:10 | 80m | FOOD |
 Cena Kitsune Udon de regreso en Osaka.
+https://www.google.com/maps/place/Dotonbori+Imai
 
 Option
 Dotonbori Imai
@@ -1355,18 +1538,21 @@ Cambiar a línea Chuo en Hommachi (o Nagahori Tsurumi-ryokuchi a Morinomiya).
 
 09:05 | 5m | TRAIN |
 Metro Chuo Line a estación Tanimachi 4-chome.
+https://www.google.com/maps/dir/Namba+Station/Tanimachi+4-chome+Station
 
 09:10 | 20m | WALK |
 Caminar por jardines del foso hasta entrada.
 
 09:30 | 120m | VISIT |
 Visitar Castillo de Osaka (opcional: Shitennō-ji + jardín Gokuraku-jōdo).
+https://www.google.com/maps/place/Osaka+Castle
 
 11:30 | 20m | WALK |
 Caminar de regreso a estación Tanimachi 4-chome.
 
 11:50 | 10m | TRAIN |
 Metro Tanimachi Line directo a estación Higashi-Umeda.
+https://www.google.com/maps/dir/Tanimachi+4-chome+Station/Higashi-Umeda+Station
 
 12:00 | 10m | WALK |
 Caminar al sector comercial norte.
@@ -1376,18 +1562,21 @@ Almuerzo libre en el área.
 
 13:30 | 150m | SHOP |
 Caminar por centros comerciales y arquitectura de Umeda.
+https://www.google.com/maps/place/Umeda+Sky+Building
 
 16:00 | 15m | WALK |
 Caminar hacia Umeda Sky Building.
 
 16:15 | 120m | VISIT |
 Subir a observatorio flotante al atardecer.
+https://www.google.com/maps/place/Umeda+Sky+Building
 
 18:15 | 15m | WALK |
 Caminar bajando al nivel de calle.
 
 18:30 | 75m | FOOD |
 Cena izakaya moderno en Umeda.
+https://www.google.com/maps/place/Isaribi+Umeda
 
 Option
 Isaribi
@@ -1407,6 +1596,7 @@ Caminar al alojamiento.
 title: Hiroshima y Miyajima
 steps: 18000
 summary: Shinkansen a Hiroshima + Cúpula y Parque de la Paz + Ferry a Miyajima + Itsukushima + Okonomiyaki
+https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
 06:30 | 10m | WALK |
 Caminar a estación metro Namba / Shinsaibashi.
@@ -1419,18 +1609,21 @@ Caminar a andenes de Shinkansen.
 
 07:05 | 85m | TRAIN |
 Tren Shinkansen temprano a Hiroshima.
+https://www.google.com/maps/dir/Shin-Osaka+Station/Hiroshima+Station
 
 08:30 | 10m | WALK |
 Caminar a parada de tranvía en la plaza exterior.
 
 08:40 | 15m | BUS |
 Tranvía (Hiroden) a parada Genbaku Dome-mae.
+https://www.google.com/maps/dir/Hiroshima+Station/Atomic+Bomb+Dome
 
 08:55 | 5m | WALK |
 Caminar a la Cúpula de la Bomba Atómica.
 
 09:00 | 150m | VISIT |
 Caminar por el Parque y Museo de la Paz.
+https://www.google.com/maps/place/Hiroshima+Peace+Memorial+Museum
 
 11:30 | 10m | WALK |
 Caminar a estación de tranvía Genbaku Dome-mae.
@@ -1449,12 +1642,14 @@ Caminar a terminal de ferrys.
 
 12:30 | 10m | VISIT |
 Ferry a Miyajima.
+https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
 12:40 | 10m | WALK |
 Caminar ingresando a la isla.
 
 12:50 | 60m | FOOD |
 Almuerzo probando comida tradicional de la zona.
+https://www.google.com/maps/place/Kakiya+Miyajima
 
 Option
 Kakiya
@@ -1462,6 +1657,7 @@ Especialistas en ostras asadas en Miyajima.
 
 13:50 | 120m | VISIT |
 Caminar hacia Santuario Itsukushima (torii flotante).
+https://www.google.com/maps/place/Itsukushima+Shrine
 
 15:50 | 15m | WALK |
 Caminar a terminal de ferrys.
@@ -1480,6 +1676,7 @@ Caminar hacia centro comercial anexo a la estación (ekie).
 
 17:00 | 75m | FOOD |
 Cena Okonomiyaki estilo Hiroshima.
+https://www.google.com/maps/place/Micchan+Sohonten+ekie
 
 Option
 Micchan Sohonten
@@ -1490,6 +1687,7 @@ Caminar a andenes de Shinkansen.
 
 18:25 | 85m | TRAIN |
 Tren Shinkansen de regreso a Shin-Osaka.
+https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
 19:50 | 10m | WALK |
 Caminar a andén de metro Midosuji.
@@ -1511,12 +1709,14 @@ Caminar desde Namba / alojamiento hacia el barrio Nipponbashi.
 
 10:30 | 120m | SHOP |
 Caminar explorando tiendas en Den Den Town (barrio otaku).
+https://www.google.com/maps/place/Den+Den+Town
 
 12:30 | 15m | WALK |
 Caminar en dirección norte hacia los restaurantes.
 
 12:45 | 70m | FOOD |
 Almuerzo Omurice.
+https://www.google.com/maps/place/Hokkyokusei+Shinsaibashi
 
 Option
 Hokkyokusei Shinsaibashi Main Store
@@ -1533,12 +1733,14 @@ Caminar y cambiar a línea Chuo.
 
 14:15 | 15m | TRAIN |
 Metro Chuo Line a estación Osakako.
+https://www.google.com/maps/dir/Namba+Station/Osakako+Station
 
 14:30 | 10m | WALK |
 Caminar desde la estación hacia el complejo portuario.
 
 14:40 | 180m | VISIT |
 Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
+https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
 17:40 | 10m | WALK |
 Caminar de regreso a estación Osakako.
@@ -1579,18 +1781,21 @@ Caminar a andenes de Shinkansen.
 
 08:25 | 35m | TRAIN |
 Tren Shinkansen a estación Himeji.
+https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
 09:00 | 20m | WALK |
 Caminar por avenida principal directa hacia el foso del castillo.
 
 09:20 | 100m | VISIT |
 Caminar, subir y recorrer el Castillo de Himeji (interior).
+https://www.google.com/maps/place/Himeji+Castle
 
 11:00 | 10m | WALK |
 Caminar hacia el área colindante.
 
 11:10 | 60m | VISIT |
 Caminar por el jardín contiguo Kōko-en.
+https://www.google.com/maps/place/Koko-en
 
 12:10 | 20m | WALK |
 Caminar de regreso a la zona comercial cercana a la estación.
@@ -1607,6 +1812,7 @@ Caminar a andenes de tren.
 
 13:55 | 35m | TRAIN |
 Tren Shinkansen de regreso a Shin-Osaka.
+https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
 14:30 | 10m | WALK |
 Caminar a línea Midosuji.
@@ -1622,6 +1828,7 @@ Caminar a restaurante céntrico.
 
 18:00 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
+https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
 Option
 Curry House CoCo Ichibanya
@@ -1638,6 +1845,7 @@ Caminar desde el alojamiento al Mercado Kuromon.
 
 10:30 | 120m | SHOP |
 Caminar y hacer compras en Mercado Kuromon.
+https://www.google.com/maps/place/Kuromon+Market
 
 12:30 | 60m | FOOD |
 Almuerzo libre probando comida de los puestos del mercado (sashimi, atún, brochetas de carne asada).
@@ -1656,6 +1864,7 @@ Caminar al restaurante de celebración.
 
 20:00 | 90m | FOOD |
 Cena de despedida: Wagyu / Kobe beef a la parrilla.
+https://www.google.com/maps/place/Matsusakagyu+Yakiniku+M
 
 Option
 Matsusakagyu Yakiniku M
@@ -1681,11 +1890,13 @@ Caminar internamente para llegar a boleterías y comprar/retirar tickets.
 
 10:05 | 40m | TRAIN |
 Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios).
+https://www.google.com/maps/dir/Namba+Station/Kansai+International+Airport
 
 10:45 | 15m | WALK |
 Caminar cruzando terminal hacia los mostradores de check-in.
 
 11:00 | 180m | HOTEL |
 Trámites de vuelo (Estar en el mostrador 3 h antes de la salida).
+https://www.google.com/maps/place/Kansai+International+Airport
 
 
