@@ -17,6 +17,10 @@ title: Llegada a Haneda
 steps: 5000
 summary: Llegada a Haneda + Traslado a Hatagaya + Cena konbini
 
+@note
+Actuzalizar con hora del vuelo
+
+
 17:15 | 90m | HOTEL |
 Aterrizaje en Haneda (17:15) y trámites de migración/equipaje (salida aprox 18:45).
 https://www.google.com/maps/place/Tokyo+Haneda+Airport
@@ -42,9 +46,15 @@ image1: edo.png
 image2: sensoji.png
 image3: skytree.png
 
+@note
+Mucho tiempo libre !!!
+Museo Edo Tokio:
+1- Cierra los días Lunes, y si el Lunes es festivo Nacional, abre el Lunes y Cierra el Martes.
+2- Abre de 9:30 a 17:30 (Sab: cierra 19:30)
+
 08:35 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
-https://www.google.com/maps/dir/Full+House,+Jap%C3%B3n,+%E3%80%92151-0071+Tokyo,+Shibuya,+Honmachi,+6+Chome%E2%88%9233%E2%88%926/Hatagaya+Station,+Jap%C3%B3n,+%E3%80%92151-0072+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%B9%A1%E3%82%B1%E8%B0%B71%E4%B8%81%E7%9B%AE2%E2%88%921/@35.6788625,139.6760149,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018f3003174f515:0x2de955874764bbe7!2m2!1d139.6770385!2d35.6805827!1m5!1m1!1s0x6018f33b513827e3:0x3ac06dc33dc1dcd9!2m2!1d139.6768408!2d35.677314!3e3?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D
+https://www.google.com/maps/dir/Full+House,+Jap%C3%B3n,+%E3%80%92151-0071+Tokyo,+Shibuya,+Honmachi,+6+Chome%E2%88%9233%E2%88%926/Hatagaya+Station,+Jap%C3%B3n,+%E3%80%92151-0072+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%B9%A1%E3%82%B1%E8%B0%B71%E4%B8%81%E7%9B%AE2%E2%88%921/@35.6788625,139.6742975,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x6018f3003174f515:0x2de955874764bbe7!2m2!1d139.6770385!2d35.6805827!1m5!1m1!1s0x6018f33b513827e3:0x3ac06dc33dc1dcd9!2m2!1d139.6768408!2d35.677314
 
 08:45 | 40m | TRAIN |
 Metro Hatagaya → Ryōgoku (vía Shinjuku, JR Chūō-Sōbu local).
@@ -91,7 +101,6 @@ https://www.google.com/maps/place/Tokyo+Skytree/@35.7102189,139.8090447,17z/data
 
 15:45 | 195m | FREE |
 Tiempo libre para recorrer Solamachi y descansar.
-Nota: Mucho tiempo libre !!!
 
 19:00 | 90m | FOOD |
 Cena en Solamachi (bajo el Skytree).
@@ -105,6 +114,9 @@ https://www.google.com/maps/dir/Tokyo+Skytree,+1+Chome-1-2+Oshiage,+Sumida+City,
 title: Ueno y Akihabara
 steps: 17500
 summary: Museo Nacional de Tokio + Parque Ueno + Ameyoko + Akihabara
+image1: museonacional.png
+image2: parqueueno.png
+image3: Ameyoko_Akihabara.png
 
 08:35 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -178,6 +190,9 @@ https://www.google.com/maps/dir/Iwamotocho+Station/Hatagaya+Station
 title: Excursión al Monte Fuji (Kawaguchiko)
 steps: 12000
 summary: Pagoda Chūreitō + Lago Kawaguchiko + Hōtō + Teleférico Kachi-Kachi + Reflejo Sakasa Fuji
+image1: Pagoda_Chureito.png
+image2: Teleferico_Kachi.png
+image3: reflejo_fuji.png
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
@@ -278,6 +293,10 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 title: Harajuku y Shibuya
 steps: 17000
 summary: Santuario Meiji + Takeshita Street + Cat Street + Nintendo & Pokémon Parco + Shibuya Crossing
+image1: Santuario_Meiji.png
+image2: Takeshita_Street.png
+image3: Nintendo_Parco.png
+image4: Shibuya_Crossing.png
 
 08:50 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -351,6 +370,10 @@ https://www.google.com/maps/dir/Shibuya+Station/Hatagaya+Station
 title: Excursión a Kamakura
 steps: 16500
 summary: Gran Buda Kōtoku-in + Templo Hase-dera + Komachi-dori + Santuario Tsurugaoka Hachimangū
+image1: Gran_Buda.png
+image2: Templo_Hasedera.png
+image3: Komachidori.png
+image4: TsurugaokaHachimangu.png
 
 08:00 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -412,6 +435,10 @@ A 5 min desde la estación Hatagaya.
 title: Shinjuku: parques y callejones
 steps: 14000
 summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
+image1: Shinjuku_Gyoen.png
+image2: Mirador_Gobierno_Metropolitano.png
+image3: Golden_Gai.png
+image4: Omoide_Yokocho.png
 
 09:20 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -472,6 +499,10 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
+image1: Jardines_Hamarikyu.png
+image2: teamLab_Planets.png
+image3: gundam.png
+image4: liberty.png
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
 08:15 | 10m | WALK |
@@ -543,6 +574,9 @@ title: Nakano Broadway
 https://www.google.com/maps/place/Nakano+Broadway
 steps: 12000
 summary: Galería Sun Mall + Nakano Broadway + Coleccionismo retro / anime + Izakaya
+image1: Galeria_Sun_Mall.png
+image2: Nakano_Broadway.png
+image3: Izakaya.png
 https://www.google.com/maps/place/Nakano+Broadway
 
 10:10 | 10m | WALK |
@@ -599,7 +633,10 @@ https://www.google.com/maps/dir/Nakano+Station/Hatagaya+Station
 @day
 title: Excursión a Nikkō
 steps: 17500
-summary: Nikkō Tōshō-gū + Bosques de montaña + Yuba tradicional + Cena despedida de Tokio
+summary: Nikkō Tōshō-gū + Bosques de montaña + Yuba tradicional
+image1: NikkoToshogu.png
+image2: Bosques_nikko.png
+image3: cena_tokio.png
 
 @note
 ¡Llevar ropa de nieve y térmica! Nikkō estará considerablemente más frío que Tokio (bajo cero o nieve).
@@ -726,7 +763,10 @@ Cortes magros de carne de Hida a la parrilla (yakiniku) con vegetales.
 @day
 title: Excursión a Shirakawa-gō
 steps: 15000
-summary: Bus Nohi + Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
+summary: Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
+image1: Shirakawago.png
+image2: mirador_Shiroyama.png
+image3: Mercado_Miyagawa.png
 
 08:15 | 15m | WALK |
 Caminar desde el alojamiento a la terminal de buses Nohi (junto a la estación).
@@ -786,6 +826,9 @@ Pinchos de pollo (yakitori) y tofu local.
 title: Excursión a Okuhida y Nieve
 steps: 12000
 summary: Bus a Okuhida + Teleférico Shinhotaka (2000m) + Hirayu Onsen (Rotenburo en nieve)
+image1: Teleferico_Shinhotaka.png
+image2: Hirayu_Onsen.png
+image3: Hirayu_Onsen2.png
 
 08:20 | 15m | WALK |
 Caminar a la terminal de buses Nohi.
@@ -843,6 +886,9 @@ title: Takayama profundo y Ruta de los Templos
 steps: 18000
 summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
 https://www.google.com/maps/place/Hida+Folk+Village
+image1: Takayama_Jinya.png
+image2: Ruta_Higashiyama.png
+image3: Aldea_Hida_Minzoku_Mura.png
 
 09:00 | 15m | WALK |
 Caminar desde el alojamiento a la antigua sede de gobierno (Takayama Jinya).
@@ -893,6 +939,9 @@ Restaurante clásico para carnes asadas y sopa de miso.
 title: Takayama → Nagoya (Ghibli) → Kioto
 steps: 14000
 summary: Tren Hida a Nagoya + Parque Ghibli + Shinkansen a Kioto
+image1: Parque_Ghibli.png
+image2: Parque_Ghibli2.png
+
 
 08:30 | 15m | WALK |
 Caminar a la estación de tren de Takayama.
@@ -956,7 +1005,11 @@ summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Hi
 @day
 title: Arashiyama
 steps: 16000
-summary: Bosque de Bambú + Tenryū-ji + Paseo en Barco + Parque de Monos Iwatayama
+summary: Bosque de Bambú + Templo Tenryū-ji + Paseo en Barco + Parque de Monos Iwatayama
+image1: Bosque_Bambu.png
+image2: Templo_Tenryuji.png
+image3: barco_rio_Katsura.png
+image4: Parque_Monos_Iwatayama.png
 
 07:05 | 10m | WALK |
 Caminar de Hospedaje a estación Kyoto-Kawaramachi.
@@ -1049,6 +1102,13 @@ Fideos ligeros tradicionales.
 title: Fushimi Inari + Higashiyama
 steps: 18000
 summary: Fushimi Inari-taisha + Kimonos + Kiyomizu-dera + Sannenzaka/Ninenzaka + Gion + Pontochō
+image1: Fushimi_Inaritaisha.png
+image2: Kimono_Higashiyama.png
+image3: Templo_Kiyomizudera.png
+image4: Sannenzaka_Ninenzaka.png
+
+@note
+Van a querer andar en kimono?
 
 06:30 | 10m | WALK |
 Caminar a estación Gion-Shijo.
@@ -1130,6 +1190,10 @@ Estilo rústico, muy auténtico.
 title: Pabellón de Oro + centro
 steps: 15000
 summary: Kinkaku-ji + Ryōan-ji + Castillo Nijō + Mercado Nishiki
+image1: Templo_Kinkakuji.png
+image2: Jardinsen_Ryoanji.png
+image3: Castillo_Nijo.png
+image4: Mercado_Nishiki.png
 
 08:00 | 10m | WALK |
 Caminar a paradero de buses en Kawaramachi/Sanjo.
@@ -1197,6 +1261,10 @@ Brochetas empanizadas variadas.
 title: Ginkaku-ji, Paseo de la Filosofía y té
 steps: 16000
 summary: Ginkaku-ji + Paseo de la Filosofía + Nanzen-ji + Santuario Heian + Ceremonia del Té
+image1: Templo_Ginkakuji.png
+image2: Paseo_Filosofia.png
+image3: Templo_Nanzenji.png
+image4: Santuario_Heian.png
 
 08:45 | 10m | WALK |
 Caminar a paradero de buses.
@@ -1329,6 +1397,10 @@ summary: Cuarta y última base del viaje. Excursiones a Universal Studios Japan,
 title: Osaka urbano
 steps: 15000
 summary: Galerías de Shinsaibashi + Paseo en bote Dōtonbori + Torre Tsūtenkaku + Shinsekai + Kushikatsu
+image1: Galerias_Shinsaibashi.png
+image2: Torre_Tsutenkaku.png
+image3: Barrio_Shinsekai.png
+image4: Kushikatsu.png
 
 10:45 | 15m | WALK |
 Caminar desde Hospedaje hacia Shinsaibashi.
@@ -1395,6 +1467,10 @@ Caminar al alojamiento.
 title: Universal Studios Japan
 steps: 20000
 summary: USJ + Super Nintendo World + Express Pass + Atracciones + Hard Rock Cafe
+image1: Universal_Studios_Japan.png
+image2: Super_Nintendo_World.png
+image3: Atracciones_USJ.png
+image4: Hard_Rock_Cafe.png
 
 06:15 | 10m | WALK |
 Caminar a estación Osaka-Namba (línea Hanshin).
@@ -1457,6 +1533,10 @@ Caminar al alojamiento.
 title: Excursión a Nara
 steps: 16000
 summary: Parque de Nara + Ciervos + Pagoda Kōfuku-ji + Tōdai-ji (Gran Buda) + Kasuga Taisha + Kitsune Udon
+image1: Parque_Nara.png
+image2: Pagoda_Kofukuji.png
+image3: Todaiji_Gran_Buda.png
+image4: Santuario_KasugaTaisha.png
 
 08:40 | 10m | WALK |
 Caminar a estación Kintetsu-Namba / Kintetsu-Nipponbashi.
@@ -1526,6 +1606,10 @@ Clásico local en Dotonbori.
 title: Castillo de Osaka y Umeda
 steps: 17000
 summary: Castillo de Osaka + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
+image1: Castillo_Osaka.png
+image2: Centros_comerciales_Umeda.png
+image3: Mirador_Umeda_Sky.png
+image4: Robatayaki.png
 
 08:45 | 10m | WALK |
 Caminar a estación metro Namba / Nagahoribashi.
@@ -1596,6 +1680,9 @@ Caminar al alojamiento.
 title: Hiroshima y Miyajima
 steps: 18000
 summary: Shinkansen a Hiroshima + Cúpula y Parque de la Paz + Ferry a Miyajima + Itsukushima + Okonomiyaki
+image1: Cupula.png
+image2: Ferry_Miyajima.png
+image3: Itsukushima.png
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
 06:30 | 10m | WALK |
@@ -1703,6 +1790,9 @@ Caminar al alojamiento.
 title: Den Den Town + acuario
 steps: 12000
 summary: Den Den Town (Otaku) + Omurice + Acuario Kaiyūkan (Tiburón Ballena)
+image1: DenDenTown.png
+image2: Omurice.png
+image3: Acuario_Kaiyukan.png
 
 10:15 | 15m | WALK |
 Caminar desde Namba / alojamiento hacia el barrio Nipponbashi.
@@ -1769,6 +1859,9 @@ Por los callejones de Dotonbori.
 title: Excursión a Himeji
 steps: 14000
 summary: Shinkansen a Himeji + Castillo de Himeji (interior) + Jardines Kōko-en + Curry House CoCo Ichibanya
+image1: Castillo_Himeji.png
+image2: Jardines_Kokoen.png
+image3: Curry_House_CoCo_Ichibanya.png
 
 07:50 | 10m | WALK |
 Caminar a estación metro Namba / Shinsaibashi.
@@ -1839,6 +1932,9 @@ Clásico, rápido y personalizable en tamaño de porción.
 title: Kuromon y despedida
 steps: 12000
 summary: Mercado Kuromon + Compras en Dotonbori/Shinsaibashi + Cena de despedida Wagyu Yakiniku
+image1: Mercado_Kuromon.png
+image2: DotonboriShinsaibashi.png
+image3: Wagyu_Yakiniku.png
 
 10:15 | 15m | WALK |
 Caminar desde el alojamiento al Mercado Kuromon.
@@ -1878,6 +1974,10 @@ Caminar de regreso al alojamiento.
 title: Salida por KIX
 steps: 5000
 summary: Desayuno + Traslado a Nankai Namba + Tren Nankai Rapi:t a KIX + Vuelo de regreso
+
+@note
+Actuzalizar con hora del vuelo
+
 
 08:30 | 60m | FOOD |
 Desayuno en el alojamiento o cafetería cercana.
