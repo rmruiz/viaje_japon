@@ -726,7 +726,7 @@ Un plato de ramen espeso hirviendo cerca del hospedaje.
 
 @section Alpes
 title: BASE 2 — ALPES JAPONESES (Takayama)
-hotel: Alojamiento fijo en Takayama (Base única)
+hotel: Oyado Koto No Yume (Gifu, Takayama, Hanasato machi 6-11, Japón)
 summary: Segunda base del viaje. Takayama como base única para explorar Sanmachi Suji, Shirakawa-gō, Okuhida, Teleférico Shinhotaka y Parque Ghibli.
 
 
@@ -753,12 +753,12 @@ https://www.google.com/maps/place/Nagoya+Station
 Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
 https://www.google.com/maps/dir/Nagoya+Station/Takayama+Station
 
-12:25 | 10m | WALK |
-Caminar desde la estación de Takayama al alojamiento.
-https://www.google.com/maps/dir/Takayama+Station/Sanmachi+Suji
+12:25 | 3m | WALK |
+Caminar desde la estación de Takayama al Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Takayama+Station/Oyado+Koto+No+Yume
 
-12:35 | 15m | HOTEL |
-Check-in o dejar maletas en recepción para los próximos 4 días.
+12:28 | 22m | HOTEL |
+Check-in o dejar maletas en el ryokan para los próximos 4 días.
 
 12:50 | 60m | FOOD |
 Almuerzo en Takayama.
@@ -775,8 +775,12 @@ Caminar hacia el casco antiguo.
 Caminar explorando Sanmachi Suji (calles del periodo Edo, destilerías de sake).
 https://www.google.com/maps/place/Sanmachi+Suji
 
-17:05 | 115m | BREAK |
-Caminar de regreso al hotel/ryokan a descansar.
+17:05 | 10m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Sanmachi+Suji/Oyado+Koto+No+Yume
+
+17:15 | 105m | BREAK |
+Descanso en el ryokan.
 
 19:00 | 90m | FOOD |
 Cena de bienvenida a los Alpes.
@@ -796,8 +800,8 @@ image2: mirador_Shiroyama.png
 image3: Mercado_Miyagawa.png
 
 08:15 | 15m | WALK |
-Caminar desde el alojamiento a la terminal de buses Nohi (junto a la estación).
-https://www.google.com/maps/place/Takayama+Nohi+Bus+Center
+Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (junto a la estación).
+https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:30 | 15m | BUS |
 Comprar/retirar tickets y hacer fila.
@@ -837,8 +841,12 @@ https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Takayama+Nohi+Bus+Cent
 Caminar por el mercado de Miyagawa o zonas comerciales aledañas.
 https://www.google.com/maps/place/Miyagawa+Morning+Market
 
-17:05 | 145m | BREAK |
-Caminar de regreso al alojamiento a descansar.
+17:05 | 10m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Miyagawa+Morning+Market/Oyado+Koto+No+Yume
+
+17:15 | 135m | BREAK |
+Descanso en el ryokan.
 
 19:30 | 90m | FOOD |
 Cena local en Takayama.
@@ -858,7 +866,8 @@ image2: Hirayu_Onsen.png
 image3: Hirayu_Onsen2.png
 
 08:20 | 15m | WALK |
-Caminar a la terminal de buses Nohi.
+Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:40 | 100m | BUS |
 Bus Nohi ruta Shinhotaka hacia las montañas de Okuhida.
@@ -897,8 +906,12 @@ Caminar a la parada de bus.
 Bus Nohi de regreso directo a Takayama.
 https://www.google.com/maps/dir/Hirayu+Onsen/Takayama+Nohi+Bus+Center
 
-17:10 | 110m | BREAK |
-Caminar al alojamiento.
+17:10 | 5m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Oyado+Koto+No+Yume
+
+17:15 | 105m | BREAK |
+Descanso en el ryokan.
 
 19:00 | 90m | FOOD |
 Cena libre por Takayama.
@@ -920,9 +933,12 @@ image3: Aldea_Hida_Minzoku_Mura.png
 @note
 Este día se puede eliminar
 
-09:00 | 15m | WALK |
-Caminar desde el alojamiento a la antigua sede de gobierno (Takayama Jinya).
-https://www.google.com/maps/dir/Takayama+Station/Takayama+Jinya
+09:00 | 10m | WALK |
+Caminar desde el Ryokan Oyado Koto No Yume a la antigua sede de gobierno (Takayama Jinya).
+https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Jinya
+
+09:10 | 5m | BREAK |
+Llegada a Takayama Jinya y preparación para la visita.
 
 09:15 | 90m | VISIT |
 Visitar Takayama Jinya por dentro.
@@ -954,8 +970,12 @@ https://www.google.com/maps/place/Hida+Folk+Village
 Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tradicionales.
 https://www.google.com/maps/place/Hida+Folk+Village
 
-17:00 | 150m | HOTEL |
-Caminar de regreso al hotel y organizar maletas para envío a Kioto (Takkyubin).
+17:00 | 10m | BUS |
+Tomar el bus de regreso al Ryokan Oyado Koto No Yume (o caminar 30 min).
+https://www.google.com/maps/dir/Hida+Folk+Village/Oyado+Koto+No+Yume
+
+17:10 | 140m | HOTEL |
+Organizar maletas en el ryokan para envío a Kioto (Takkyubin) y descansar.
 
 19:30 | 90m | FOOD |
 Cena de despedida de los Alpes.
@@ -973,8 +993,12 @@ image1: Parque_Ghibli.png
 image2: Parque_Ghibli2.png
 
 
-08:30 | 15m | WALK |
-Caminar a la estación de tren de Takayama.
+08:30 | 5m | WALK |
+Caminar a la estación de tren de Takayama desde el Ryokan Oyado Koto No Yume.
+https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Station
+
+08:35 | 25m | BREAK |
+Llegada a la estación de Takayama y espera de la salida del tren.
 
 09:00 | 150m | TRAIN |
 Tren JR Hida Ltd. Express a Nagoya.
