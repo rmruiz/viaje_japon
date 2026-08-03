@@ -361,12 +361,15 @@ https://www.google.com/maps/dir/Shibuya+Station/Hatagaya+Station
 
 @day
 title: Excursión a Kamakura
-steps: 16500
-summary: Gran Buda Kōtoku-in + Templo Hase-dera + Komachi-dori + Santuario Tsurugaoka Hachimangū
+steps: 17500
+summary: Gran Buda Kōtoku-in + Templo Hase-dera + Komachi-dori + Santuario Tsurugaoka Hachimangū + Avenida Dankazura
 image1: Gran_Buda.png
 image2: Templo_Hasedera.png
 image3: Komachidori.png
 image4: TsurugaokaHachimangu.png
+
+@note
+Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abordar el tren Enoden hacia Hase, suele haber filas en las máquinas de boletos. Si todos usan su tarjeta IC o Suica en Apple Wallet/Google Wallet, pasarán directo por los torniquetes sin perder tiempo.
 
 08:00 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -383,9 +386,15 @@ https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 Tren local Kamakura → Estación Hase (Línea Enoden).
 https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
 
-10:00 | 180m | VISIT |
-Visitar Kōtoku-in (Gran Buda, ~3 USD) y templo costero Hase-dera (~3 USD).
+10:00 | 45m | VISIT |
+Visitar Kōtoku-in (Gran Buda, ~3 USD)
 https://www.google.com/maps/place/Kotoku-in
+
+10:45 | 15m | WALK |
+Caminar de Gran Buda a Hase-desa
+
+11:00 | 120m | VISIT |
+Templo costero Hase-dera (~3 USD, subida a la terraza panorámica con vista a la bahía de Sagami).
 
 13:00 | 120m | FOOD |
 Almuerzo en la zona de Hase.
@@ -399,12 +408,28 @@ Option
 Kaedena
 Donburi, boles de arroz con carne o mariscos (a 5 min del Gran Buda).
 
-15:00 | 120m | SHOP |
-Retorno a la estación Kamakura y caminata vitrineando por la calle tradicional Komachi-dori hacia el Santuario Tsurugaoka Hachimangū.
-https://www.google.com/maps/dir/Hase+Station/Tsurugaoka+Hachimangu
+15:00 | 15m | TRAIN |
+Tren local Hase → Estación Kamakura (Línea Enoden).
+https://www.google.com/maps/dir/Hase+Station/Kamakura+Station
+
+15:15 | 45m | SHOP |
+Caminar vitrineando por la calle comercial tradicional Komachi-dori.
+https://www.google.com/maps/place/Komachi-dori
+
+16:00 | 5m | WALK |
+Caminar de Komachi-dori al Santuario Tsurugaoka Hachimangū.
+https://www.google.com/maps/dir/Komachi-dori/Tsurugaoka+Hachimangu
+
+16:05 | 45m | VISIT |
+Visita al Santuario Tsurugaoka Hachimangū.
+https://www.google.com/maps/place/Tsurugaoka+Hachimangu
+
+16:50 | 10m | WALK |
+Caminar de regreso por el paseo peatonal elevado de la avenida Dankazura hacia la Estación Kamakura.
+https://www.google.com/maps/dir/Tsurugaoka+Hachimangu/Kamakura+Station
 
 17:00 | 75m | TRAIN |
-Tren de regreso Kamakura → Shinjuku.
+Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku).
 https://www.google.com/maps/dir/Kamakura+Station/Shinjuku+Station
 
 18:15 | 15m | TRAIN |
@@ -445,7 +470,7 @@ Caminar de estación Shinjuku al parque Shinjuku Gyoen.
 https://www.google.com/maps/dir/Shinjuku+Station/Shinjuku+Gyoen+National+Garden
 
 10:00 | 180m | VISIT |
-Shinjuku Gyoen (Jardín Nacional, ~4 USD) — Mañana de caminata tranquila.
+Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
 https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
 
 13:00 | 90m | FOOD |
@@ -572,6 +597,9 @@ image2: Nakano_Broadway.png
 image3: Izakaya.png
 https://www.google.com/maps/place/Nakano+Broadway
 
+@note
+Tiempo Libre en la tarde!!
+
 10:10 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
 
@@ -633,6 +661,12 @@ image3: cena_tokio.png
 
 @note
 ¡Llevar ropa de nieve y térmica! Nikkō estará considerablemente más frío que Tokio (bajo cero o nieve).
+
+@note
+este día debería ser antes para que no se junte con Takayama
+
+@note
+TODO: buscar excursion por el día (tour pagado)
 
 07:20 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -882,6 +916,9 @@ https://www.google.com/maps/place/Hida+Folk+Village
 image1: Takayama_Jinya.png
 image2: Ruta_Higashiyama.png
 image3: Aldea_Hida_Minzoku_Mura.png
+
+@note
+Este día se puede eliminar
 
 09:00 | 15m | WALK |
 Caminar desde el alojamiento a la antigua sede de gobierno (Takayama Jinya).
@@ -1846,6 +1883,94 @@ Cena libre en el área de Namba.
 Option
 Udon o soba ligeros
 Por los callejones de Dotonbori.
+
+@day
+title: Excursión al Parque Ghibli (desde Kioto)
+steps: 16000
+summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
+image1: Parque_Ghibli.png
+image2: Parque_Ghibli2.png
+
+07:15 | 15m | TAXI |
+Traslado en taxi desde el alojamiento (Sanjo / Kawaramachi) hacia la Estación de Kioto.
+https://www.google.com/maps/dir/Kyoto-Kawaramachi+Station/Kyoto+Station
+
+07:30 | 15m | WALK |
+Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
+https://www.google.com/maps/place/Kyoto+Station
+
+07:45 | 35m | TRAIN |
+Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
+https://www.google.com/maps/dir/Kyoto+Station/Nagoya+Station
+
+08:20 | 10m | WALK |
+Trasbordo interno en Nagoya hacia la línea de metro Higashiyama.
+https://www.google.com/maps/place/Nagoya+Station
+
+08:30 | 28m | TRAIN |
+Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
+https://www.google.com/maps/dir/Nagoya+Station/Fujigaoka+Station
+
+08:58 | 5m | WALK |
+Cambio de andén hacia la línea de tren Linimo en Fujigaoka.
+
+09:03 | 13m | TRAIN |
+Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
+https://www.google.com/maps/dir/Fujigaoka+Station/Ghibli+Park
+
+09:16 | 14m | WALK |
+Caminar desde la estación hacia el acceso principal del Parque Ghibli.
+https://www.google.com/maps/place/Ghibli+Park
+
+09:30 | 180m | VISIT |
+Recorrido matutino por las áreas principales del Parque Ghibli (Gran Almacén de Ghibli, Valle de las Brujas).
+https://www.google.com/maps/place/Ghibli+Park
+
+12:30 | 60m | FOOD |
+Almuerzo dentro del parque en cafeterías o puestos temáticos.
+https://www.google.com/maps/place/Ghibli+Park
+
+13:30 | 150m | VISIT |
+Recorrido de la tarde (Colina de la Juventud, Bosque Dondoko, Aldea Mononoke) y compras de souvenirs exclusivos.
+https://www.google.com/maps/place/Ghibli+Park
+
+16:00 | 10m | WALK |
+Caminar de regreso a la estación de tren Linimo Ai-Chikyuhaku Kinen Koen.
+
+16:10 | 15m | TRAIN |
+Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
+https://www.google.com/maps/dir/Ghibli+Park/Fujigaoka+Station
+
+16:25 | 30m | TRAIN |
+Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
+https://www.google.com/maps/dir/Fujigaoka+Station/Nagoya+Station
+
+16:55 | 20m | SHOP |
+Tiempo breve para recorrer tiendas o buscar snacks en la Estación de Nagoya.
+https://www.google.com/maps/place/Nagoya+Station
+
+17:15 | 35m | TRAIN |
+Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
+https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
+
+17:50 | 20m | TAXI |
+Traslado en taxi desde la Estación de Kioto de regreso al alojamiento.
+https://www.google.com/maps/dir/Kyoto+Station/Kyoto-Kawaramachi+Station
+
+18:10 | 80m | BREAK |
+Descanso en el hospedaje tras la caminata.
+
+19:30 | 90m | FOOD |
+Cena en Kioto.
+https://www.google.com/maps/place/Chao+Chao+Gyoza+Sanjo
+
+Option
+Chao Chao Gyoza Sanjo
+Especialistas en gyozas crujientes muy cerca del centro.
+
+Option
+Gyoza Hohei Gion
+Gyozas gourmet en un local acogedor en el barrio de Gion.
 
 
 @day
