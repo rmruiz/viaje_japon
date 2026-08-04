@@ -721,6 +721,30 @@ body.sidebar-collapsed .app-content {
   color: var(--text-main);
 }
 
+/* Container for day card notes (always visible, even when collapsed) */
+.day-card-notes {
+  margin-bottom: 1.25rem;
+}
+
+.day-card-notes .day-note-box {
+  margin-bottom: 0;
+}
+
+.day-card-notes .day-note-box + .day-note-box {
+  margin-top: 0.75rem;
+}
+
+/* Adjustments when collapsed */
+.day-card.collapsed .day-card-notes {
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+}
+
+/* Adjustments when NOT collapsed and has notes */
+.day-card:not(.collapsed):has(.day-card-notes) .day-card-body {
+  margin-top: 0;
+}
+
 /* Notes Highlight Box */
 .day-note-box {
   background: rgba(245, 158, 11, 0.1);

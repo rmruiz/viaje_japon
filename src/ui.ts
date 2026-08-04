@@ -243,10 +243,10 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
         </div>
       </div>
 
+      ${notesHtml ? `<div class="day-card-notes">${notesHtml}</div>` : ''}
+
       <div class="day-card-body">
         ${day.summary ? `<div class="day-summary-box"><strong>Resumen completo:</strong> ${day.summary}</div>` : ''}
-
-        ${notesHtml}
 
         <div class="timeline-section-title">
           <span>⏱️ Itinerario y Cronograma</span>

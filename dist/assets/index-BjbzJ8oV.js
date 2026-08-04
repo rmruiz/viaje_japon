@@ -101,10 +101,10 @@
         </div>
       </div>
 
+      ${a?`<div class="day-card-notes">${a}</div>`:""}
+
       <div class="day-card-body">
         ${t.summary?`<div class="day-summary-box"><strong>Resumen completo:</strong> ${t.summary}</div>`:""}
-
-        ${a}
 
         <div class="timeline-section-title">
           <span>⏱️ Itinerario y Cronograma</span>
