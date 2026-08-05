@@ -52,10 +52,10 @@ export function extractUrls(text: string): { text: string; url: string }[] {
 function normalizeImagePath(filename: string): string {
   const clean = filename.trim();
   if (!clean) return '';
-  if (clean.startsWith('http://') || clean.startsWith('https://') || clean.startsWith('/') || clean.startsWith('images/') || clean.startsWith('assets/')) {
-    return clean;
-  }
-  return `images/${clean}`;
+  if (clean.startsWith('http://') || clean.startsWith('https://')) return clean;
+  if (clean.startsWith('/')) return clean;
+  if (clean.startsWith('images/')) return `/${clean}`;
+  return `/images/${clean}`;
 }
 
 export function parseTripData(rawText: string): TripData {

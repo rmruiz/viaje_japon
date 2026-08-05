@@ -1,0 +1,5 @@
+.DS_Store
+.git
+.gitingestignore
+images/*.jpg
+node_modules/*
