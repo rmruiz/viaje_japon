@@ -45,7 +45,7 @@ https://www.google.com/maps/search/FamilyMart+Hatagaya+Station
 
 
 @day
-stars: 5
+stars: 4
 title: Edo, Asakusa y Skytree
 steps: 15000
 summary: Museo Edo-Tokio + Templo Sensō-ji + Tokyo Skytree
@@ -59,6 +59,9 @@ Museo Edo Tokio:
 2- Abre de 9:30 a 17:30 (Sáb: cierra 19:30)
 Skytree: 
 1- Se debe reservar en Página Oficial de Tokyo Skytree https://es.tokyo-skytree.jp/inquiry/faq/
+
+@note
+el skytree es evitable
 
 09:30 | 10m | WALK |
 Caminar de Hospedaje → Estación Hatagaya.
@@ -293,7 +296,7 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 
 @day
 stars: 5
-title: Magia en Tokyo Disney Resort (Tokyo Disneyland o DisneySea)
+title: Magia en Tokyo Disney Resort (Tokyo DisneySea)
 steps: 20000
 summary: Traslado a Maihama + Día Completo en Tokyo Disney Resort + Fuegos Artificiales + Regreso a Hatagaya
 image1: Tokyo_Disney.png
@@ -995,7 +998,7 @@ Cortes de pescado blanco y atún magro.
 
 
 @day
-stars: 5
+stars: 2
 title: Takayama profundo y Ruta de los Templos
 steps: 18000
 summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
@@ -1005,7 +1008,7 @@ image2: Ruta_Higashiyama.png
 image3: Aldea_Hida_Minzoku_Mura.png
 
 @note
-Este día se puede eliminar
+Este día se puede eliminar o dejar un dia full onsen
 
 09:00 | 10m | WALK |
 Caminar desde el Ryokan Oyado Koto No Yume a la antigua sede de gobierno (Takayama Jinya).
@@ -1061,72 +1064,65 @@ Restaurante clásico para carnes asadas y sopa de miso.
 
 @day
 stars: 5
-title: Takayama → Nagoya (Ghibli) → Kioto
-steps: 14000
-summary: Tren Hida a Nagoya + Parque Ghibli + Shinkansen a Kioto
-image1: Parque_Ghibli.png
-image2: Parque_Ghibli2.png
+title: Takayama → Kioto (Día de Traslado)
+steps: 8000
+summary: Desayuno en Takayama + Tren Hida Ltd. Express + Shinkansen a Kioto + Check-in en MIMARU + Paseo ligero por Sanjo-dori / Templo Rokkakudo
+image1: Sanjo_dori.png
+image2: Templo_Rokkakudo.png
 
 @note
-transformar este dia en traslado
+Templo Rokkakudo (Choho-ji):
+Cierra a las 17:00 (verificar)
 
+08:30 | 90m | FOOD |
+Desayuno tranquilo en Ryokan Oyado Koto No Yume (o cafetería tradicional en Takayama).
+https://www.google.com/maps/place/Oyado+Koto+No+Yume
 
-08:30 | 5m | WALK |
-Caminar a la estación de tren de Takayama desde el Ryokan Oyado Koto No Yume.
+10:00 | 30m | HOTEL |
+Check-out en el ryokan, recogida de equipaje y caminata pausada de 3 min a la Estación de Takayama.
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Station
 
-08:35 | 25m | BREAK |
-Llegada a la estación de Takayama y espera de la salida del tren.
+10:30 | 25m | BREAK |
+Llegada a la estación, compra de bento/snacks y café para el trayecto.
 
-09:00 | 150m | TRAIN |
-Tren JR Hida Ltd. Express a Nagoya.
+10:55 | 150m | TRAIN |
+Tren JR Hida Ltd. Express: Takayama → Estación de Nagoya (trayecto panorámico por los valles de montaña).
 https://www.google.com/maps/dir/Takayama+Station/Nagoya+Station
 
-11:30 | 15m | WALK |
-Caminar y cambiar a la línea Linimo.
+13:25 | 20m | WALK |
+Trasbordo interno fluido en la Estación de Nagoya hacia los andenes del Shinkansen.
+https://www.google.com/maps/place/Nagoya+Station
 
-11:45 | 45m | TRAIN |
-Tren Linimo a estación Ai-Chikyuhaku Kinen Koen.
-https://www.google.com/maps/dir/Nagoya+Station/Ghibli+Park
-
-12:30 | 10m | WALK |
-Caminar hacia el acceso del Parque Ghibli.
-
-12:40 | 50m | FOOD |
-Almuerzo rápido.
-
-Option
-Bento comprado previamente
-En la estación de Nagoya o en las cafeterías del parque.
-
-13:30 | 210m | VISIT |
-Caminar recorriendo las áreas reservadas del Parque Ghibli.
-https://www.google.com/maps/place/Ghibli+Park
-
-17:00 | 10m | WALK |
-Caminar a la estación Linimo.
-
-17:10 | 45m | TRAIN |
-Tren Linimo de regreso a Nagoya.
-https://www.google.com/maps/dir/Ghibli+Park/Nagoya+Station
-
-17:55 | 15m | WALK |
-Caminar y cambiar a andenes de Shinkansen.
-
-18:10 | 35m | TRAIN |
-Tren Shinkansen rápido (Nozomi/Hikari) a Kioto.
+13:45 | 35m | TRAIN |
+Tren Shinkansen (Nozomi / Hikari): Estación de Nagoya → Estación de Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
-18:45 | 15m | TAXI |
-Caminar y traslado al MIMARU Kyoto Shinmachi Sanjo.
+14:20 | 15m | TRAIN |
+Metro Karasuma Line: Estación de Kioto → Estación Karasuma Oike (5 min en metro) + 5 min a pie al hotel (o Taxi grande directo para el grupo de 5).
 https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
+14:35 | 55m | HOTEL |
+Check-in en MIMARU Kyoto Shinmachi Sanjo y desempaque de maletas.
+https://www.google.com/maps/place/MIMARU+Kyoto+Shinmachi+Sanjo
+
+15:30 | 90m | VISIT |
+Paseo muy light a pie desde el hotel: Caminar por la calle histórica Sanjo-dori (famosa por sus edificios retro de ladrillo rojo de la era Meiji y tiendas de diseño) o visitar el Templo Rokkakudo (a solo 6 min a pie, templo hexagonal cuna del Ikebana y conocido como "el ombligo de Kioto").
+https://www.google.com/maps/place/Rokkakudo
+
+17:00 | 120m | BREAK |
+Tiempo libre de descanso en la espaciosa sala del MIMARU antes de salir a cenar.
+
 19:00 | 90m | FOOD |
-Check-in en MIMARU Kyoto Shinmachi Sanjo y cena ligera.
+Cena relajada de bienvenida a Kioto por el barrio de Nakagyo.
+https://www.google.com/maps/place/MIMARU+Kyoto+Shinmachi+Sanjo
 
 Option
 Yudofu
-Tofu hervido tradicional de Kioto.
+Tofu hervido tradicional en caldo dashi (especialidad reconfortante de Kioto).
+
+Option
+Honke Owariya
+Restaurante histórico de soba tradicional a solo unas cuadras caminando.
 
 
 @section Kioto
@@ -1144,6 +1140,9 @@ image1: Bosque_Bambu.png
 image2: Templo_Tenryuji.png
 image3: barco_rio_Katsura.png
 image4: Parque_Monos_Iwatayama.png
+
+@note
+recomiendan ir a otro lugar del bosque de bambú, puede estar muy lleno
 
 07:05 | 10m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma.
@@ -1541,7 +1540,7 @@ https://www.google.com/maps/place/Dotonbori
 @section Osaka
 title: BASE 3 — OSAKA (Namba / Shimanouchi)
 hotel: Apartment Hotel 11 Shinsaibashi 4 (o similar en Namba/Shimanouchi)
-summary: Cuarta y última base del viaje. Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
+summary: Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
 
 
 @day
@@ -1943,13 +1942,16 @@ Caminar al alojamiento.
 
 
 @day
-stars: 5
+stars: 3
 title: Den Den Town + acuario
 steps: 12000
 summary: Den Den Town (Otaku) + Omurice + Acuario Kaiyūkan (Tiburón Ballena)
 image1: DenDenTown.png
 image2: Omurice.png
 image3: Acuario_Kaiyukan.png
+
+@note
+día de acuario, podemos reutilizarlo
 
 10:15 | 15m | WALK |
 Caminar desde Namba / alojamiento hacia el barrio Nipponbashi.
