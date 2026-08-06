@@ -1117,11 +1117,12 @@ Caminar y cambiar a andenes de Shinkansen.
 Tren Shinkansen rápido (Nozomi/Hikari) a Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
-18:45 | 30m | TAXI |
-Caminar y traslado al hotel en Kioto (Sanjo/Kawaramachi).
+18:45 | 15m | TAXI |
+Caminar y traslado al MIMARU Kyoto Shinmachi Sanjo.
+https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
-19:15 | 75m | FOOD |
-Check-in en Kioto y cena ligera.
+19:00 | 90m | FOOD |
+Check-in en MIMARU Kyoto Shinmachi Sanjo y cena ligera.
 
 Option
 Yudofu
@@ -1129,8 +1130,8 @@ Tofu hervido tradicional de Kioto.
 
 
 @section Kioto
-title: BASE 2 — KIOTO (Centro / Sanjo-Kawaramachi)
-hotel: Alojamiento sugerido: Centro / Sanjo-Kawaramachi
+title: BASE 2 — KIOTO (MIMARU Kyoto Shinmachi Sanjo)
+hotel: MIMARU Kyoto Shinmachi Sanjo - Kioto, Nakagyo-ku Machigashiracho 105, Japón
 summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Higashiyama, Kinkaku-ji y ceremonia del té.
 
 
@@ -1145,11 +1146,12 @@ image3: barco_rio_Katsura.png
 image4: Parque_Monos_Iwatayama.png
 
 07:05 | 10m | WALK |
-Caminar de Hospedaje a estación Kyoto-Kawaramachi.
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma+Station
 
 07:15 | 10m | TRAIN |
 Tren Hankyu Kyoto Line a estación Katsura.
-https://www.google.com/maps/dir/Kyoto-Kawaramachi+Station/Katsura+Station
+https://www.google.com/maps/dir/Karasuma+Station/Katsura+Station
 
 07:25 | 5m | WALK |
 Cambiar de andén en estación Katsura.
@@ -1214,10 +1216,12 @@ Tren Hankyu Arashiyama Line a estación Katsura.
 Cambiar de andén.
 
 15:25 | 10m | TRAIN |
-Tren Hankyu Kyoto Line a Kyoto-Kawaramachi.
+Tren Hankyu Kyoto Line a Karasuma.
+https://www.google.com/maps/dir/Katsura+Station/Karasuma+Station
 
 15:35 | 205m | BREAK |
-Caminar al hospedaje a descansar.
+Caminar de estación Karasuma a MIMARU Kyoto Shinmachi Sanjo a descansar.
+https://www.google.com/maps/dir/Karasuma+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 19:00 | 10m | WALK |
 Caminar a sector de restaurantes.
@@ -1244,12 +1248,17 @@ image4: Sannenzaka_Ninenzaka.png
 @note
 Van a querer andar en kimono?
 
-06:30 | 10m | WALK |
-Caminar a estación Gion-Shijo.
+06:30 | 5m | WALK |
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
+
+06:35 | 5m | TRAIN |
+Subway Tozai Line a Sanjo Keihan.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
 
 06:40 | 10m | TRAIN |
-Tren Keihan Main Line a estación Fushimi-Inari.
-https://www.google.com/maps/dir/Gion-Shijo+Station/Fushimi-Inari+Station
+Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
+https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
 
 06:50 | 10m | WALK |
 Caminar a la entrada principal.
@@ -1330,12 +1339,13 @@ image2: Jardinsen_Ryoanji.png
 image3: Castillo_Nijo.png
 image4: Mercado_Nishiki.png
 
-08:00 | 10m | WALK |
-Caminar a paradero de buses en Kawaramachi/Sanjo.
+08:00 | 5m | WALK |
+Caminar a la parada de bus en Shijo Karasuma.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Karasuma+Bus+Stop
 
-08:10 | 45m | BUS |
-Bus (línea 12 o 59) a parada Kinkakuji-michi.
-https://www.google.com/maps/dir/Kyoto+Station/Kinkaku-ji
+08:05 | 45m | BUS |
+Bus (línea 12) a la parada Kinkakuji-michi.
+https://www.google.com/maps/dir/Shijo+Karasuma+Bus+Stop/Kinkaku-ji
 
 08:55 | 5m | WALK |
 Caminar a entrada de Kinkaku-ji.
@@ -1402,12 +1412,13 @@ image2: Paseo_Filosofia.png
 image3: Templo_Nanzenji.png
 image4: Santuario_Heian.png
 
-08:45 | 10m | WALK |
-Caminar a paradero de buses.
+08:45 | 5m | WALK |
+Caminar a la parada de bus en Karasuma Oike.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
-08:55 | 30m | BUS |
-Bus (línea 5 o 32) a parada Ginkakuji-michi.
-https://www.google.com/maps/dir/Kyoto+Station/Ginkaku-ji
+08:50 | 30m | BUS |
+Bus (línea 5) a la parada Ginkakuji-michi.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Ginkaku-ji
 
 09:25 | 5m | WALK |
 Caminar a entrada.
@@ -1455,11 +1466,13 @@ https://www.google.com/maps/search/Tea+Ceremony+Kyoto
 16:15 | 20m | WALK |
 Caminar a estación de metro Higashiyama.
 
-16:35 | 5m | TRAIN |
-Metro Tozai Line a Sanjo Keihan.
+16:35 | 6m | TRAIN |
+Metro Tozai Line a Karasuma Oike.
+https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
 
-16:40 | 170m | BREAK |
-Caminar al hospedaje.
+16:41 | 169m | BREAK |
+Caminar de la estación al MIMARU Kyoto Shinmachi Sanjo a descansar.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 19:30 | 10m | WALK |
 Caminar a restaurante.
@@ -1487,10 +1500,11 @@ https://www.google.com/maps/place/Shijo+Dori+Kyoto
 Almuerzo libre cerca del hospedaje.
 
 13:00 | 15m | HOTEL |
-Caminar al hospedaje y recoger maletas de las 5 personas.
+Caminar al MIMARU Kyoto Shinmachi Sanjo y recoger maletas de las 5 personas.
 
 13:15 | 15m | TAXI |
-Traslado en Taxi grande desde Hospedaje a Estación de Kioto.
+Traslado en Taxi grande desde MIMARU Kyoto Shinmachi Sanjo a la Estación de Kioto.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
 13:30 | 15m | WALK |
 Caminar en la estación hacia andenes Shinkansen.
@@ -2006,8 +2020,8 @@ image1: Parque_Ghibli.png
 image2: Parque_Ghibli2.png
 
 07:15 | 15m | TAXI |
-Traslado en taxi desde el alojamiento (Sanjo / Kawaramachi) hacia la Estación de Kioto.
-https://www.google.com/maps/dir/Kyoto-Kawaramachi+Station/Kyoto+Station
+Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
 07:30 | 15m | WALK |
 Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
@@ -2068,8 +2082,8 @@ Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
 17:50 | 20m | TAXI |
-Traslado en taxi desde la Estación de Kioto de regreso al alojamiento.
-https://www.google.com/maps/dir/Kyoto+Station/Kyoto-Kawaramachi+Station
+Traslado en taxi desde la Estación de Kioto de regreso al MIMARU Kyoto Shinmachi Sanjo.
+https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 18:10 | 80m | BREAK |
 Descanso en el hospedaje tras la caminata.
