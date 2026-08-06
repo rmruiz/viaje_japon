@@ -48,18 +48,45 @@
     <main class="app-content">
       <div id="hoy-banner-container"></div>
       
-      <div class="content-layout">
+      <div class="content-layout maps-hidden" id="content-layout">
         <!-- Columna de Días -->
-        <div id="main-content" class="days-column"></div>
+        <div class="days-column">
+          <!-- Barra de controles: Filtrado y Ordenamiento -->
+          <div class="control-bar">
+            <div class="control-group">
+              <label for="star-filter" class="control-label">⭐ Estrellas:</label>
+              <select id="star-filter" class="control-select">
+                <option value="0">Todos los días</option>
+                <option value="1">★ 1+ estrellas</option>
+                <option value="2">★★ 2+ estrellas</option>
+                <option value="3">★★★ 3+ estrellas</option>
+                <option value="4">★★★★ 4+ estrellas</option>
+                <option value="5">★★★★★ 5 estrellas</option>
+              </select>
+            </div>
+            <div class="control-group">
+              <label for="sort-select" class="control-label">⇅ Ordenar:</label>
+              <select id="sort-select" class="control-select">
+                <option value="cron">Cronológico</option>
+                <option value="stars">Por estrellas (mayor a menor)</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="main-content"></div>
+        </div>
         
         <!-- Columna de Mapas (A la derecha de los días) -->
         <aside id="maps-panel" class="maps-column">
           <div class="maps-card">
             <div class="maps-card-header">
               <span class="maps-title">🗺️ Google Maps</span>
-              <a id="maps-external-link" href="#" target="_blank" rel="noopener noreferrer" class="btn-link maps-ext-btn" style="display: none;">
-                Abrir en Maps ↗
-              </a>
+              <div style="display: flex; align-items: center; gap: 0.5rem;">
+                <a id="maps-external-link" href="#" target="_blank" rel="noopener noreferrer" class="btn-link maps-ext-btn" style="display: none;">
+                  Abrir en Maps ↗
+                </a>
+                <button id="btn-close-maps" class="btn-close-maps" title="Ocultar sección de mapas" aria-label="Ocultar mapas">×</button>
+              </div>
             </div>
             <div id="maps-iframe-container" class="maps-iframe-container">
               <div class="maps-placeholder">

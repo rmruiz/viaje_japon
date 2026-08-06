@@ -130,7 +130,20 @@ export function renderHoyBanner(tripData: TripData, container: HTMLElement) {
   `;
 }
 
-export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded: boolean = false): string {
+export function renderStars(stars: number = 0): string {
+  let html = `<span class="day-stars" aria-label="Calificación: ${stars} estrellas">`;
+  for (let i = 1; i <= 5; i++) {
+    if (i <= stars) {
+      html += `<span class="star star-filled">★</span>`;
+    } else {
+      html += `<span class="star star-empty">★</span>`;
+    }
+  }
+  html += `</span>`;
+  return html;
+}
+
+export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded: boolean = false, showBase: boolean = false): string {
   let notesHtml = '';
   if (day.notes && day.notes.length > 0) {
     day.notes.forEach(note => {
@@ -199,7 +212,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
 
   let imagesHtml = '';
   if (day.images && day.images.length > 0) {
-    imagesHtml += `<div class="day-collapsed-images">`;
+    imagesHtml += `<div class="day-collapsed-images day-toggle-btn">`;
     day.images.forEach((imgSrc) => {
       imagesHtml += `
         <div class="day-thumb-wrapper">
@@ -227,15 +240,15 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
           <!-- Primera línea: Día X, Fecha -->
           <div class="day-header-line1">
             <span class="day-number-badge">Día ${day.dayNumber}</span>
+            ${renderStars(day.stars || 0)}
             <span class="day-date-text">${day.dateFormatted}</span>
+            ${showBase ? `<span class="day-base-badge">🏠 ${day.sectionTitle}</span>` : ''}
           </div>
           <!-- Segunda línea: Título y texto del resumen -->
           <div class="day-header-line2">
             <h3 class="day-title">${day.title}</h3>
             ${day.summary ? `<span class="day-header-summary"> — ${day.summary}</span>` : ''}
           </div>
-          <!-- Fila de imágenes (se muestra solo cuando el día está colapsado) -->
-          ${imagesHtml}
         </div>
         <div class="day-header-controls">
           ${day.steps ? `<div class="day-steps-badge">👟 ${day.steps.toLocaleString('es-ES')} pasos</div>` : ''}
@@ -243,11 +256,12 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
         </div>
       </div>
 
+      <!-- Fila de imágenes (se muestra solo cuando el día está colapsado) -->
+      ${imagesHtml}
+
       ${notesHtml ? `<div class="day-card-notes">${notesHtml}</div>` : ''}
 
       <div class="day-card-body">
-        ${day.summary ? `<div class="day-summary-box"><strong>Resumen completo:</strong> ${day.summary}</div>` : ''}
-
         <div class="timeline-section-title">
           <span>⏱️ Itinerario y Cronograma</span>
         </div>
@@ -265,24 +279,52 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
   `;
 }
 
-export function renderMainContent(tripData: TripData, container: HTMLElement, filterQuery: string = '', expandedDayIds: Set<string> = new Set()) {
+export function renderMainContent(
+  tripData: TripData,
+  container: HTMLElement,
+  filterQuery: string = '',
+  expandedDayIds: Set<string> = new Set(),
+  starFilter: number = 0,
+  sortMode: string = 'cron'
+) {
   let html = '';
 
   let filteredDays = tripData.allDays;
+
+  // 1. Filter by text search query
   if (filterQuery) {
     const q = filterQuery.toLowerCase();
-    filteredDays = tripData.allDays.filter(d =>
+    filteredDays = filteredDays.filter(d =>
       d.title.toLowerCase().includes(q) ||
       d.summary.toLowerCase().includes(q) ||
       d.events.some(e => e.description.toLowerCase().includes(q) || (e.options && e.options.some(o => o.title.toLowerCase().includes(q))))
     );
   }
 
+  // 2. Filter by minimum star rating
+  if (starFilter > 0) {
+    filteredDays = filteredDays.filter(d => (d.stars || 0) >= starFilter);
+  }
+
+  // 3. Sort days
+  const isSortedByStars = sortMode === 'stars';
+  if (isSortedByStars) {
+    // Sort descending by stars, preserving relative chronological order (by dayNumber) for ties
+    filteredDays = [...filteredDays].sort((a, b) => {
+      const starsA = a.stars || 0;
+      const starsB = b.stars || 0;
+      if (starsB !== starsA) {
+        return starsB - starsA;
+      }
+      return a.dayNumber - b.dayNumber;
+    });
+  }
+
   if (filteredDays.length === 0) {
     container.innerHTML = `
       <div class="empty-state">
         <h3>No se encontraron resultados</h3>
-        <p>No se encontraron días o eventos que coincidan con "${filterQuery}".</p>
+        <p>No se encontraron días que coincidan con los filtros seleccionados.</p>
       </div>
     `;
     return;
@@ -294,7 +336,8 @@ export function renderMainContent(tripData: TripData, container: HTMLElement, fi
     const section = tripData.sections.find(s => s.id === day.sectionId);
     
     // Render section header card if entering a new section
-    if (section && section.id !== currentSectionId && !filterQuery) {
+    // Hide sections (Bases) when sorted by stars
+    if (section && section.id !== currentSectionId && !filterQuery && !isSortedByStars) {
       currentSectionId = section.id;
       html += `
         <div class="section-title-card" id="${section.id}">
@@ -314,7 +357,7 @@ export function renderMainContent(tripData: TripData, container: HTMLElement, fi
     // By default, if filterQuery is active, expand matching days so user sees search results immediately
     const isExpanded = filterQuery ? true : expandedDayIds.has(day.id);
 
-    html += renderDayCard(day, prevDay, nextDay, isExpanded);
+    html += renderDayCard(day, prevDay, nextDay, isExpanded, isSortedByStars);
   });
 
   container.innerHTML = html;

@@ -37,6 +37,7 @@ export interface Day {
   summary: string;
   sectionId: string;
   sectionTitle: string;
+  stars?: number;
   notes: DayNote[];
   events: TripEvent[];
   images?: string[];

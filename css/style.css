@@ -651,14 +651,13 @@ body.sidebar-collapsed .app-content {
   color: var(--accent-primary);
 }
 
-/* Collapsed Images Row (Visible ONLY when collapsed, Hidden when expanded) */
+/* Collapsed Images Row (Grid layout: 4 columns, 1/4 width each, no max sizes) */
 .day-card.collapsed .day-collapsed-images {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
-  margin-top: 1rem;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  padding-bottom: 0.5rem;
+  margin-top: 1.25rem;
+  width: 100%;
 }
 
 .day-card:not(.collapsed) .day-collapsed-images {
@@ -666,12 +665,13 @@ body.sidebar-collapsed .app-content {
 }
 
 .day-thumb-wrapper {
-  flex-shrink: 0;
+  width: 100%;
 }
 
 .day-thumb-img {
-  height: 170px;
-  width: 260px;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 260 / 170;
   object-fit: cover;
   border-radius: var(--radius-md);
   border: 1px solid var(--border-color);
@@ -1035,3 +1035,139 @@ body.sidebar-collapsed .app-content {
     padding: 1.25rem;
   }
 }
+
+/* ==========================================================================
+   NUEVAS CARACTERÍSTICAS: ESTRELLAS, FILTROS, ORDENAMIENTO Y OCULTAR MAPAS
+   ========================================================================== */
+
+/* Barra de Controles (Filtros y Ordenamiento) */
+.control-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-main);
+  transition: border-color 0.3s;
+}
+
+.control-bar:hover {
+  border-color: var(--border-highlight);
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.control-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.control-select {
+  background: var(--bg-secondary);
+  color: var(--text-main);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 0.4rem 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.control-select:focus {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 2px var(--accent-glow);
+}
+
+/* Sistema de Estrellas */
+.day-stars {
+  display: inline-flex;
+  gap: 2px;
+  align-items: center;
+  margin: 0 0.5rem;
+  line-height: 1;
+}
+
+.star {
+  font-size: 1.1rem;
+  user-select: none;
+}
+
+.star-filled {
+  color: #f59e0b; /* Golden Yellow */
+  text-shadow: 0 0 4px rgba(245, 158, 11, 0.4);
+}
+
+.star-empty {
+  color: var(--text-dim);
+  opacity: 0.35;
+}
+
+/* Referencia de Base (Badge) */
+.day-base-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--accent-glow);
+  color: var(--accent-primary);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  border-radius: 9999px;
+  padding: 0.15rem 0.6rem;
+  margin-left: auto;
+}
+
+/* Ocultamiento de Google Maps */
+.content-layout.maps-hidden {
+  grid-template-columns: 1fr !important;
+}
+
+.content-layout.maps-hidden .maps-column {
+  display: none !important;
+}
+
+/* Botón de Cierre de Mapas */
+.btn-close-maps {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.3rem;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.1rem 0.5rem;
+  line-height: 1;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.btn-close-maps:hover {
+  background: var(--bg-card-hover);
+  color: var(--badge-food); /* Red/Coral on hover */
+}
+
+/* Media Query móvil para el grid 2x2 de imágenes en celular */
+@media (max-width: 600px) {
+  .day-card.collapsed .day-collapsed-images {
+    grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-rows: repeat(2, auto) !important;
+    gap: 0.75rem !important;
+  }
+}
+

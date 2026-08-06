@@ -13,6 +13,7 @@ summary: Primera base del viaje. Recorrido por Tokio, Fuji, Kamakura, Odaiba, Ni
 
 
 @day
+stars: 5
 title: Llegada a Haneda
 steps: 5000
 summary: Llegada a Haneda + Traslado a Hatagaya + Cena konbini
@@ -44,6 +45,7 @@ https://www.google.com/maps/search/FamilyMart+Hatagaya+Station
 
 
 @day
+stars: 5
 title: Edo, Asakusa y Skytree
 steps: 15000
 summary: Museo Edo-Tokio + Templo Sensō-ji + Tokyo Skytree
@@ -109,6 +111,7 @@ https://www.google.com/maps/dir/Tokyo+Skytree,+1+Chome-1-2+Oshiage,+Sumida+City,
 Cena en alojamiento.
 
 @day
+stars: 5
 title: Ueno y Akihabara
 steps: 17500
 summary: Museo Nacional de Tokio + Parque Ueno + Ameyoko + Akihabara
@@ -185,6 +188,7 @@ https://www.google.com/maps/dir/Iwamotocho+Station/Hatagaya+Station
 
 
 @day
+stars: 5
 title: Excursión al Monte Fuji (Kawaguchiko)
 steps: 12000
 summary: Pagoda Chūreitō + Lago Kawaguchiko + Hōtō + Teleférico Kachi-Kachi + Reflejo Sakasa Fuji
@@ -288,6 +292,7 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 
 
 @day
+stars: 5
 title: Magia en Tokyo Disney Resort (Tokyo Disneyland o DisneySea)
 steps: 20000
 summary: Traslado a Maihama + Día Completo en Tokyo Disney Resort + Fuegos Artificiales + Regreso a Hatagaya
@@ -342,6 +347,7 @@ Regreso en tren Estación Maihama → Hatagaya (JR Keiyo Line a Tokio, combinaci
 https://www.google.com/maps/dir/Maihama+Station/Hatagaya+Station
 
 @day
+stars: 5
 title: Harajuku y Shibuya
 steps: 17000
 summary: Santuario Meiji + Takeshita Street + Cat Street + Nintendo & Pokémon Parco + Shibuya Crossing
@@ -419,6 +425,7 @@ https://www.google.com/maps/dir/Shibuya+Station/Hatagaya+Station
 
 
 @day
+stars: 5
 title: Excursión a Kamakura
 steps: 17500
 summary: Gran Buda Kōtoku-in + Templo Hase-dera + Komachi-dori + Santuario Tsurugaoka Hachimangū + Avenida Dankazura
@@ -509,6 +516,7 @@ A 5 min desde la estación Hatagaya.
 
 
 @day
+stars: 5
 title: Shinjuku: parques y callejones
 steps: 14000
 summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
@@ -573,6 +581,7 @@ Metro: Regreso (Keio New Line desde Shinjuku a Hatagaya + 8 min a pie).
 
 
 @day
+stars: 5
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
@@ -647,6 +656,7 @@ https://www.google.com/maps/dir/Daiba+Station/Hatagaya+Station
 
 
 @day
+stars: 5
 title: Nakano Broadway
 https://www.google.com/maps/place/Nakano+Broadway
 steps: 12000
@@ -711,6 +721,7 @@ https://www.google.com/maps/dir/Nakano+Station/Hatagaya+Station
 
 
 @day
+stars: 5
 title: Excursión a Nikkō
 steps: 17500
 summary: Nikkō Tōshō-gū + Bosques de montaña + Yuba tradicional
@@ -790,6 +801,7 @@ summary: Segunda base del viaje. Takayama como base única para explorar Sanmach
 
 
 @day
+stars: 5
 title: Tokio → Takayama (Estableciendo la base)
 steps: 14000
 summary: Shinkansen a Nagoya + Tren Hida Ltd. Express + Sanmachi Suji + Carne de Hida
@@ -851,6 +863,7 @@ Cortes magros de carne de Hida a la parrilla (yakiniku) con vegetales.
 
 
 @day
+stars: 5
 title: Excursión a Shirakawa-gō
 steps: 15000
 summary: Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
@@ -917,6 +930,7 @@ Pinchos de pollo (yakitori) y tofu local.
 
 
 @day
+stars: 5
 title: Excursión a Okuhida y Nieve
 steps: 12000
 summary: Bus a Okuhida + Teleférico Shinhotaka (2000m) + Hirayu Onsen (Rotenburo en nieve)
@@ -981,6 +995,7 @@ Cortes de pescado blanco y atún magro.
 
 
 @day
+stars: 5
 title: Takayama profundo y Ruta de los Templos
 steps: 18000
 summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
@@ -1045,6 +1060,7 @@ Restaurante clásico para carnes asadas y sopa de miso.
 
 
 @day
+stars: 5
 title: Takayama → Nagoya (Ghibli) → Kioto
 steps: 14000
 summary: Tren Hida a Nagoya + Parque Ghibli + Shinkansen a Kioto
@@ -1119,6 +1135,7 @@ summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Hi
 
 
 @day
+stars: 5
 title: Arashiyama
 steps: 16000
 summary: Bosque de Bambú + Templo Tenryū-ji + Paseo en Barco + Parque de Monos Iwatayama
@@ -1215,6 +1232,7 @@ Fideos ligeros tradicionales.
 
 
 @day
+stars: 5
 title: Fushimi Inari + Higashiyama
 steps: 18000
 summary: Fushimi Inari-taisha + Kimonos + Kiyomizu-dera + Sannenzaka/Ninenzaka + Gion + Pontochō
@@ -1303,6 +1321,7 @@ Estilo rústico, muy auténtico.
 
 
 @day
+stars: 5
 title: Pabellón de Oro + centro
 steps: 15000
 summary: Kinkaku-ji + Ryōan-ji + Castillo Nijō + Mercado Nishiki
@@ -1374,6 +1393,7 @@ Brochetas empanizadas variadas.
 
 
 @day
+stars: 5
 title: Ginkaku-ji, Paseo de la Filosofía y té
 steps: 16000
 summary: Ginkaku-ji + Paseo de la Filosofía + Nanzen-ji + Santuario Heian + Ceremonia del Té
@@ -1454,6 +1474,7 @@ Restaurante familiar y cómodo.
 
 
 @day
+stars: 5
 title: Kioto → Osaka
 steps: 10000
 summary: Mañana libre en Kioto + Shinkansen a Shin-Osaka + Metro Midosuji + Canal Dōtonbori
@@ -1510,6 +1531,7 @@ summary: Cuarta y última base del viaje. Excursiones a Universal Studios Japan,
 
 
 @day
+stars: 5
 title: Osaka urbano
 steps: 15000
 summary: Galerías de Shinsaibashi + Paseo en bote Dōtonbori + Torre Tsūtenkaku + Shinsekai + Kushikatsu
@@ -1580,6 +1602,7 @@ Caminar al alojamiento.
 
 
 @day
+stars: 5
 title: Universal Studios Japan
 steps: 20000
 summary: USJ + Super Nintendo World + Express Pass + Atracciones + Hard Rock Cafe
@@ -1646,6 +1669,7 @@ Caminar al alojamiento.
 
 
 @day
+stars: 5
 title: Excursión a Nara
 steps: 16000
 summary: Parque de Nara + Ciervos + Pagoda Kōfuku-ji + Tōdai-ji (Gran Buda) + Kasuga Taisha + Kitsune Udon
@@ -1719,6 +1743,7 @@ Clásico local en Dotonbori.
 
 
 @day
+stars: 5
 title: Castillo de Osaka y Umeda
 steps: 17000
 summary: Castillo de Osaka + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
@@ -1793,6 +1818,7 @@ Caminar al alojamiento.
 
 
 @day
+stars: 5
 title: Hiroshima y Miyajima
 steps: 18000
 summary: Shinkansen a Hiroshima + Cúpula y Parque de la Paz + Ferry a Miyajima + Itsukushima + Okonomiyaki
@@ -1903,6 +1929,7 @@ Caminar al alojamiento.
 
 
 @day
+stars: 5
 title: Den Den Town + acuario
 steps: 12000
 summary: Den Den Town (Otaku) + Omurice + Acuario Kaiyūkan (Tiburón Ballena)
@@ -1971,6 +1998,7 @@ Udon o soba ligeros
 Por los callejones de Dotonbori.
 
 @day
+stars: 5
 title: Excursión al Parque Ghibli (desde Kioto)
 steps: 16000
 summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
@@ -2060,6 +2088,7 @@ Gyozas gourmet en un local acogedor en el barrio de Gion.
 
 
 @day
+stars: 5
 title: Excursión a Himeji
 steps: 14000
 summary: Shinkansen a Himeji + Castillo de Himeji (interior) + Jardines Kōko-en + Curry House CoCo Ichibanya
@@ -2133,6 +2162,7 @@ Clásico, rápido y personalizable en tamaño de porción.
 
 
 @day
+stars: 5
 title: Kuromon y despedida
 steps: 12000
 summary: Mercado Kuromon + Compras en Dotonbori/Shinsaibashi + Cena de despedida Wagyu Yakiniku
@@ -2175,6 +2205,7 @@ Caminar de regreso al alojamiento.
 
 
 @day
+stars: 5
 title: Salida por KIX
 steps: 5000
 summary: Desayuno + Traslado a Nankai Namba + Tren Nankai Rapi:t a KIX + Vuelo de regreso

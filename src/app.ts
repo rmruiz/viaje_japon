@@ -59,9 +59,18 @@ async function initApp() {
   const mapsIframeContainer = document.getElementById('maps-iframe-container');
   const mapsExtLink = document.getElementById('maps-external-link') as HTMLAnchorElement;
 
+  const starFilterSelect = document.getElementById('star-filter') as HTMLSelectElement;
+  const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
+  const contentLayout = document.getElementById('content-layout');
+  const btnCloseMaps = document.getElementById('btn-close-maps');
+
   if (!sidebarNav || !mainContent || !hoyContainer) return;
 
   try {
+    // App filters and sorting state
+    let starFilter = 0;
+    let sortMode = 'cron';
+
     // Restore sidebar collapse preference
     const savedCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
     if (savedCollapsed) {
@@ -86,7 +95,7 @@ async function initApp() {
     renderSidebar(globalTripData, sidebarNav, '');
     
     // All days start collapsed by default
-    renderMainContent(globalTripData, mainContent, '', expandedDayIds);
+    renderMainContent(globalTripData, mainContent, '', expandedDayIds, starFilter, sortMode);
 
     // Function to load Google Maps URL into right panel
     function loadMapUrl(rawUrl: string) {
@@ -103,6 +112,11 @@ async function initApp() {
       if (mapsExtLink) {
         mapsExtLink.href = url;
         mapsExtLink.style.display = 'inline-flex';
+      }
+
+      // Show maps panel when route loaded
+      if (contentLayout) {
+        contentLayout.classList.remove('maps-hidden');
       }
 
       if (window.innerWidth <= 1050) {
@@ -203,8 +217,37 @@ async function initApp() {
       searchInput.addEventListener('input', (e) => {
         const query = (e.target as HTMLInputElement).value;
         if (globalTripData) {
-          renderMainContent(globalTripData, mainContent, query, expandedDayIds);
+          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
         }
+      });
+    }
+
+    // Setup Star Rating Filter Listener
+    if (starFilterSelect) {
+      starFilterSelect.addEventListener('change', (e) => {
+        starFilter = parseInt((e.target as HTMLSelectElement).value, 10) || 0;
+        if (globalTripData) {
+          const query = searchInput ? searchInput.value : '';
+          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
+        }
+      });
+    }
+
+    // Setup Sort Mode Selector Listener
+    if (sortSelect) {
+      sortSelect.addEventListener('change', (e) => {
+        sortMode = (e.target as HTMLSelectElement).value;
+        if (globalTripData) {
+          const query = searchInput ? searchInput.value : '';
+          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
+        }
+      });
+    }
+
+    // Setup Google Maps Close Button Listener
+    if (btnCloseMaps && contentLayout) {
+      btnCloseMaps.addEventListener('click', () => {
+        contentLayout.classList.add('maps-hidden');
       });
     }
 

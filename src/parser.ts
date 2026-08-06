@@ -264,6 +264,7 @@ export function parseTripData(rawText: string): TripData {
       else if (trimmed.startsWith('notes:')) currentSection.notes = trimmed.replace('notes:', '').trim();
     } else if (mode === 'DAY' && currentDay) {
       if (trimmed.startsWith('title:')) currentDay.title = trimmed.replace('title:', '').trim();
+      else if (trimmed.startsWith('stars:')) currentDay.stars = parseInt(trimmed.replace('stars:', '').trim(), 10) || 0;
       else if (trimmed.startsWith('steps:')) currentDay.steps = parseInt(trimmed.replace('steps:', '').trim(), 10) || 0;
       else if (trimmed.startsWith('summary:')) currentDay.summary = trimmed.replace('summary:', '').trim();
       else if (/^(image\d*|foto|fotos):/i.test(trimmed)) {
