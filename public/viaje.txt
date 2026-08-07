@@ -87,29 +87,20 @@ https://www.google.com/maps/dir/Calle+Comercial+Nakamise,+1+Chome-36-3+Asakusa,+
 
 15:00 | 120m | VISIT |
 Visita Templo Sensō-ji (en Asakusa).
-https://www.google.com/maps/place/Sens%C5%8D-ji/@35.7147694,139.7940857,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!16zL20vMDNrOTg3
+https://www.google.com/maps/place/Sens%C5%8D-ji
 
-17:00 | 15m | TRAIN |
-Metro Asakusa → Tokyo Skytree (Tobu Skytree Line).
-https://www.google.com/maps/dir/Sens%C5%8D-ji,+2+Chome-3-1+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/Tokyo+Skytree,+1+Chome-1-2+Oshiage,+Sumida+City,+Tokyo+131-0045,+Jap%C3%B3n/@35.7116342,139.7842259,14z/data=!3m1!5s0x60188ed65efdab8f:0x73c3daecfb7877f2!4m15!4m14!1m5!1m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d!2m2!1d139.7966553!2d35.7147651!1m5!1m1!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!2m2!1d139.8107004!2d35.7100627!3e3!5i1?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D
+17:00 | 60m | PHOTO |
+Caminata fotográfica al atardecer por los alrededores de Asakusa y la ribera del río Sumida (excelentes vistas).
 
-17:15 | 90m | SHOP |
-Explorar centro comercial Solamachi (compras y souvenirs).
+18:00 | 90m | FOOD |
+Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-ji, famosa por su guiso de carne).
+https://www.google.com/maps/place/Hoppy+Street
 
-18:45 | 90m | VISIT |
-Subir a mirador en Skytree (24 USD) — Vistas de atardecer y nocturnas.
-https://www.google.com/maps/place/Tokyo+Skytree/@35.7102189,139.8090447,17z/data=!3m1!5s0x60188ed65efdab8f:0x73c3daecfb7877f2!4m10!1m2!2m1!1sSkytree+mirador!3m6!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!8m2!3d35.7100627!4d139.8107004!15sCg9Ta3l0cmVlIG1pcmFkb3JaESIPc2t5dHJlZSBtaXJhZG9ykgEQb2JzZXJ2YXRpb25fZGVja5oBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydGpNRTFHT1ZOYWJURjVZWHBaZVZJeU5YRlSRMHBHV1Zkb1IxcHJSUkFC4AEA-gEECAAQPg!16zL20vMDd0aGty?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D
+19:30 | 35m | TRAIN |
+Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
 
-20:15 | 35m | TRAIN |
-Metro Hanzomon Line a Otemachi, combinación a Marunouchi Line directo a la estación Nishi-Shinjuku.
-https://www.google.com/maps/dir/Oshiage+Station/Nishi-Shinjuku+Station
-
-20:50 | 5m | WALK |
-Caminar al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
-
-20:55 | 90m | FOOD |
-Cena cerca del hotel en Shinjuku.
+20:05 | 10m | WALK |
+Caminar de regreso al Hotel Rose Garden Shinjuku.
 
 @day
 stars: 5
@@ -382,13 +373,17 @@ Curry japonés personalizable (Centro de Shibuya).
 Caminar al Edificio Shibuya Parco.
 https://www.google.com/maps/dir/Shibuya+Crossing/Shibuya+Parco
 
-14:30 | 180m | SHOP |
+14:30 | 150m | SHOP |
 Visita a Nintendo Tokyo y Pokémon Center (6to piso de Parco).
 https://www.google.com/maps/place/Shibuya+Parco
 
-17:30 | 90m | VISIT |
-Estatua de Hachikō y subir al mirador (Magnet by Shibuya 109) para fotografiar el Shibuya Crossing al anochecer.
-https://www.google.com/maps/place/Hachiko+Statue
+17:00 | 15m | WALK |
+Caminar hacia la estatua de Hachikō, cruzar el Shibuya Crossing e ingresar a la torre Shibuya Scramble Square.
+https://www.google.com/maps/place/Shibuya+Scramble+Square
+
+17:15 | 105m | VISIT |
+Mirador Shibuya Sky (reserva previa online de aprox 2500). Vistas 360 al aire libre, transición de atardecer a noche y fotos del cruce desde las alturas.
+https://www.google.com/maps/place/SHIBUYA+SKY
 
 19:00 | 90m | FOOD |
 Cena Shabu-shabu en Shibuya.
@@ -404,11 +399,9 @@ A 3 min desde el cruce.
 
 20:30 | 10m | TRAIN |
 JR Yamanote Line de estación Shibuya directo a la estación Shinjuku.
-https://www.google.com/maps/dir/Shibuya+Station/Shinjuku+Station
 
 20:40 | 10m | WALK |
 Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
 
 
 @day
