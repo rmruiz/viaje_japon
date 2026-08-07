@@ -329,6 +329,12 @@ image2: Takeshita_Street.png
 image3: Nintendo_Parco.png
 image4: Shibuya_Crossing.png
 
+@note
+falta foto de shibuya sky
+
+@note
+Los boletos para el atardecer se agotan con un mes de anticipación, por lo que debes comprarlos online exactamente 4 semanas antes de tu visita
+
 08:50 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
