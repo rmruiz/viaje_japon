@@ -216,7 +216,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
     day.images.forEach((imgSrc) => {
       imagesHtml += `
         <div class="day-thumb-wrapper">
-          <img src="${imgSrc}" alt="${day.title}" class="day-thumb-img" onerror="this.onerror=null; this.parentElement.style.display='none';" />
+          <img src="${imgSrc}" alt="${day.title}" class="day-thumb-img" onerror="window.handleImageError && window.handleImageError(this, '${imgSrc}')" />
         </div>
       `;
     });
@@ -361,4 +361,60 @@ export function renderMainContent(
   });
 
   container.innerHTML = html;
+}
+
+export function createMissingImagePlaceholder(filename: string): string {
+  const canvas = document.createElement('canvas');
+  canvas.width = 520;
+  canvas.height = 340;
+  const ctx = canvas.getContext('2d');
+  if (!ctx) return '';
+
+  const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+
+  // Background
+  ctx.fillStyle = isLight ? '#f1f5f9' : '#0f172a';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  // Soft outline
+  ctx.strokeStyle = isLight ? 'rgba(0, 0, 0, 0.1)' : 'rgba(255, 255, 255, 0.1)';
+  ctx.lineWidth = 4;
+  ctx.strokeRect(2, 2, canvas.width - 4, canvas.height - 4);
+
+  // Red cross
+  ctx.strokeStyle = '#ef4444'; // clean red
+  ctx.lineWidth = 14;
+  ctx.lineCap = 'round';
+  
+  const centerX = canvas.width / 2;
+  const centerY = canvas.height / 2 - 25;
+  const size = 35; // size of cross arms
+
+  ctx.beginPath();
+  // Line 1
+  ctx.moveTo(centerX - size, centerY - size);
+  ctx.lineTo(centerX + size, centerY + size);
+  // Line 2
+  ctx.moveTo(centerX + size, centerY - size);
+  ctx.lineTo(centerX - size, centerY + size);
+  ctx.stroke();
+
+  // Text "FALTA IMAGEN"
+  ctx.fillStyle = isLight ? '#64748b' : '#94a3b8';
+  ctx.font = 'bold 18px sans-serif';
+  ctx.textAlign = 'center';
+  ctx.fillText('FALTA IMAGEN', centerX, canvas.height - 75);
+
+  // Text filename (e.g. "Otagi_Nenbutsuji.png")
+  ctx.fillStyle = '#ef4444';
+  ctx.font = 'bold 15px monospace';
+  ctx.fillText(filename, centerX, canvas.height - 45);
+
+  return canvas.toDataURL();
+}
+
+export function handleImageError(img: HTMLImageElement, imgSrc: string) {
+  img.onerror = null; // Prevent infinite loops
+  const filename = imgSrc.substring(imgSrc.lastIndexOf('/') + 1);
+  img.src = createMissingImagePlaceholder(filename);
 }

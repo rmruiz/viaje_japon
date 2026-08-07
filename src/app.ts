@@ -1,7 +1,9 @@
 import { parseTripData } from './parser';
-import { renderSidebar, renderHoyBanner, renderMainContent } from './ui';
+import { renderSidebar, renderHoyBanner, renderMainContent, handleImageError } from './ui';
 import { setupRouter } from './router';
 import { TripData } from './types';
+
+(window as any).handleImageError = handleImageError;
 
 let globalTripData: TripData | null = null;
 const expandedDayIds = new Set<string>(); // Starts empty = all days collapsed by default
