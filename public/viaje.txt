@@ -562,7 +562,7 @@ https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
 
 
 @day
-stars: 5
+stars: 4
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
