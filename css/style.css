@@ -1169,6 +1169,26 @@ body.sidebar-collapsed .app-content {
     grid-template-rows: repeat(2, auto) !important;
     gap: 0.75rem !important;
   }
+
+  .day-card-header.day-toggle-btn {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+
+  .day-header-controls {
+    margin-left: 0;
+    width: 100%;
+    justify-content: space-between;
+    border-top: 1px dashed var(--border-color);
+    padding-top: 0.6rem;
+  }
+
+  .day-header-line2 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
 }
 
 .custom-inline-link {
