@@ -26,7 +26,7 @@ Aterrizaje en Haneda (17:15) y trámites de migración/equipaje (salida aprox 18
 https://www.google.com/maps/place/Tokyo+Haneda+Airport
 
 18:45 | 60m | TAXI |
-Traslado: van privado / Uber XL directo al Hotel Rose Garden Shinjuku (45–60 min, 100–120 USD).
+(CLP 8.7M) Traslado: van privado / Uber XL directo al Hotel Rose Garden Shinjuku (45–60 min, 100–120 USD).
 https://www.google.com/maps/dir/Haneda+Airport,+Tokyo/Hotel+Rose+Garden+Shinjuku
 
 19:45 | 45m | HOTEL |
@@ -62,7 +62,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
 
 09:37 | 23m | TRAIN |
-Toei Oedo Line directo a la estación Ryōgoku (viaje sin transbordos).
+(CLP 1.6M) Toei Oedo Line directo a la estación Ryōgoku (viaje sin transbordos).
 https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Ryogoku+Station
 
 10:20 | 5m | WALK |
@@ -74,7 +74,7 @@ Visita Museo Edo-Tokio (~8 USD).
 https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
 
 13:00 | 20m | TRAIN |
-Traslado Ryōgoku → Asakusa.
+(CLP 1.3M) Traslado Ryōgoku → Asakusa.
 https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Asakusa+Sta.,+1+Chome-1-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7010112,139.7809116,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188ec690127e2f:0xf41f021a3a02cff0!2m2!1d139.7971675!2d35.7098669!3e3
 
 13:20 | 68m | FOOD |
@@ -97,7 +97,7 @@ Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-
 https://www.google.com/maps/place/Hoppy+Street
 
 19:30 | 35m | TRAIN |
-Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
+(CLP 1.6M) Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
 
 20:05 | 10m | WALK |
 Caminar de regreso al Hotel Rose Garden Shinjuku.
@@ -116,7 +116,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
 
 08:43 | 27m | TRAIN |
-JR Yamanote Line directo a la estación Ueno (viaje directo).
+JRP:(CLP 1.2M) JR Yamanote Line directo a la estación Ueno (viaje directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Ueno+Station
 
 09:25 | 10m | WALK |
@@ -140,7 +140,7 @@ Explorar puestos del mercado Ameyoko.
 https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
 15:10 | 5m | TRAIN |
-Metro Ueno → Akihabara (JR Yamanote, 2 estaciones).
+JRP:(CLP 1.2M) Metro Ueno → Akihabara (JR Yamanote, 2 estaciones).
 https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Akihabara+Station,+Tokyo
 
 15:15 | 5m | WALK |
@@ -176,7 +176,7 @@ Tonkatsu Yamaichi
 A 12 min desde Mandarake.
 
 20:30 | 15m | TRAIN |
-Toei Shinjuku Line desde la estación Iwamotochō directo a la estación Shinjuku.
+(CLP 1.3M) Toei Shinjuku Line desde la estación Iwamotochō directo a la estación Shinjuku.
 https://www.google.com/maps/dir/Iwamotocho+Station/Shinjuku+Station
 
 20:45 | 10m | WALK |
@@ -210,11 +210,11 @@ Navegar internamente en la estación hacia el andén del tren Limited Express Ni
 https://www.google.com/maps/place/Shinjuku+Station
 
 08:00 | 150m | TRAIN |
-Tren Shinjuku → Tobu-Nikkō (Limited Express Nikkō/Kinugawa).
+JRP:(CLP 23.7M) Tren Shinjuku → Tobu-Nikkō (Limited Express Nikkō/Kinugawa).
 https://www.google.com/maps/dir/Shinjuku+Station/Tobu-Nikko+Station
 
 10:30 | 20m | BUS |
-Bus local desde la estación hacia el área de los santuarios.
+(CLP 2M) Bus local desde la estación hacia el área de los santuarios.
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Nikko+Toshogu
 
 10:50 | 180m | VISIT |
@@ -238,7 +238,7 @@ Caminata bajando por la ciudad y compras de souvenirs tradicionales.
 https://www.google.com/maps/dir/Nikko+Toshogu/Tobu-Nikko+Station
 
 17:00 | 150m | TRAIN |
-Tren de regreso Tobu-Nikkō → Shinjuku (Limited Express).
+JRP:(CLP 23.7M) Tren de regreso Tobu-Nikkō → Shinjuku (Limited Express).
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Shinjuku+Station
 
 19:30 | 10m | WALK |
@@ -273,7 +273,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
 https://www.google.com/maps/place/Nishi-Shinjuku+Station
 
 06:46 | 50m | TRAIN |
-Metro Marunouchi Line a la Estación de Tokio (20 min), caminata de transbordo a andenes JR Keiyo Line (15 min) y tren JR Keiyo Line directo a Maihama (15 min).
+(CLP 1.2M) Metro Marunouchi Line a la Estación de Tokio (20 min), caminata de transbordo a andenes JR Keiyo Line (15 min) y tren JR Keiyo Line directo a Maihama (15 min).
 https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Maihama+Station
 
 07:45 | 15m | WALK |
@@ -312,7 +312,7 @@ Espectáculos nocturnos (desfile de luces y show de fuegos artificiales "Sky Ful
 https://www.google.com/maps/place/Tokyo+DisneySea
 
 21:00 | 50m | TRAIN |
-Tren JR Keiyo Line a la Estación de Tokio (15 min), caminata interna a andenes de metro (15 min) y Metro Marunouchi Line directo a la estación Nishi-Shinjuku (20 min).
+(CLP 1.2M) Tren JR Keiyo Line a la Estación de Tokio (15 min), caminata interna a andenes de metro (15 min) y Metro Marunouchi Line directo a la estación Nishi-Shinjuku (20 min).
 https://www.google.com/maps/dir/Maihama+Station/Nishi-Shinjuku+Station
 
 21:50 | 5m | WALK |
@@ -340,7 +340,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
 
 08:58 | 15m | TRAIN |
-JR Yamanote Line directo a la estación Harajuku.
+JRP:(CLP 0.9M) JR Yamanote Line directo a la estación Harajuku.
 https://www.google.com/maps/dir/Shinjuku+Station/Harajuku+Station
 
 09:25 | 5m | WALK |
@@ -404,7 +404,7 @@ Mo-Mo-Paradise Shibuya
 A 3 min desde el cruce.
 
 20:30 | 10m | TRAIN |
-JR Yamanote Line de estación Shibuya directo a la estación Shinjuku.
+JRP:(CLP 1.2M) JR Yamanote Line de estación Shibuya directo a la estación Shinjuku.
 
 20:40 | 10m | WALK |
 Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
@@ -428,15 +428,15 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
 
 08:10 | 80m | TRAIN |
-Tren JR Shōnan-Shinjuku Line directo desde la estación Shinjuku a la estación Kamakura (viaje directo).
+(CLP 1.3M) Tren JR Shōnan-Shinjuku Line directo desde la estación Shinjuku a la estación Kamakura (viaje directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
 08:30 | 75m | TRAIN |
-Tren Shinjuku → Kamakura (JR Shōnan-Shinjuku).
+JRP:(CLP 5.5M) Tren Shinjuku → Kamakura (JR Shōnan-Shinjuku).
 https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
 09:45 | 15m | TRAIN |
-Tren local Kamakura → Estación Hase (Línea Enoden).
+(CLP 1.2M) Tren local Kamakura → Estación Hase (Línea Enoden).
 https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
 
 10:00 | 45m | VISIT |
@@ -462,7 +462,7 @@ Kaedena
 Donburi, boles de arroz con carne o mariscos (a 5 min del Gran Buda).
 
 15:00 | 15m | TRAIN |
-Tren local Hase → Estación Kamakura (Línea Enoden).
+(CLP 1.2M) Tren local Hase → Estación Kamakura (Línea Enoden).
 https://www.google.com/maps/dir/Hase+Station/Kamakura+Station
 
 15:15 | 45m | SHOP |
@@ -482,7 +482,7 @@ Caminar de regreso por el paseo peatonal elevado de la avenida Dankazura hacia l
 https://www.google.com/maps/dir/Tsurugaoka+Hachimangu/Kamakura+Station
 
 17:00 | 75m | TRAIN |
-Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku).
+JRP:(CLP 5.5M) Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku).
 https://www.google.com/maps/dir/Kamakura+Station/Shinjuku+Station
 
 18:15 | 10m | WALK |
@@ -576,7 +576,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
 
 08:22 | 23m | TRAIN |
-Toei Oedo Line directo a la estación Shiodome.
+(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
 https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
 
 09:00 | 15m | WALK |
@@ -592,7 +592,7 @@ Caminar a estación Shiodome.
 https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
 
 10:55 | 10m | TRAIN |
-Monorriel Yurikamome hacia estación Shin-Toyosu.
+(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
 https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
 
 11:05 | 115m | VISIT |
@@ -632,7 +632,7 @@ Ganko Odaiba
 Comida tradicional japonesa variada con buenas vistas (en DiverCity).
 
 20:30 | 33m | TRAIN |
-Yurikamome Monorail a Shiodome (15 min) y Toei Oedo Line de regreso a la estación Shinjuku-Nishiguchi (18 min).
+(CLP 2.3M) Yurikamome Monorail a Shiodome (15 min) y Toei Oedo Line de regreso a la estación Shinjuku-Nishiguchi (18 min).
 https://www.google.com/maps/dir/Daiba+Station/Shinjuku-Nishiguchi+Station
 
 21:03 | 7m | WALK |
@@ -659,7 +659,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
 
 10:18 | 12m | TRAIN |
-JR Chūō Line directo a la estación Nakano (sin transbordos).
+JRP:(CLP 1M) JR Chūō Line directo a la estación Nakano (sin transbordos).
 https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
 
 10:45 | 15m | WALK |
@@ -698,7 +698,7 @@ Tsukada Nojo Nakano
 Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
 
 20:30 | 10m | TRAIN |
-JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
+JRP:(CLP 1M) JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
 https://www.google.com/maps/dir/Nakano+Station/Shinjuku+Station
 
 20:40 | 10m | WALK |
@@ -727,7 +727,7 @@ Navegar en la estación hacia el andén del tren Fuji Excursion.
 https://www.google.com/maps/place/Shinjuku+Station
 
 07:30 | 120m | TRAIN |
-Tren Shinjuku → Estación Shimoyoshida (Fuji Excursion directo).
+JRP:(CLP 35.6M) Tren Shinjuku → Estación Shimoyoshida (Fuji Excursion directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Shimoyoshida+Station
 
 09:30 | 40m | WALK |
@@ -743,7 +743,7 @@ Caminar de regreso a la Estación Shimoyoshida.
 https://www.google.com/maps/dir/Chureito+Pagoda/Shimoyoshida+Station
 
 12:20 | 35m | TRAIN |
-Tren Shimoyoshida → Estación Kawaguchiko (Fujikyu Railway).
+JRP:(CLP 35.6M) Tren Shimoyoshida → Estación Kawaguchiko (Fujikyu Railway).
 https://www.google.com/maps/dir/Shimoyoshida+Station/Kawaguchiko+Station
 
 12:55 | 5m | WALK |
@@ -767,7 +767,7 @@ Kosaku Kawaguchiko Hoto Noodles
 A 12 min desde la estación Kawaguchiko.
 
 15:00 | 20m | BUS |
-Caminar o tomar Bus local al teleférico.
+(CLP 1.3M) Caminar o tomar Bus local al teleférico.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Mt.+Fuji+Panoramic+Ropeway
 
 15:20 | 90m | VISIT |
@@ -775,7 +775,7 @@ Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Camp
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 16:50 | 30m | BUS |
-Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
+(CLP 1M) Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
 https://www.google.com/maps/dir/Mt.+Fuji+Panoramic+Ropeway/Kozantei+Ubuya
 
 17:30 | 60m | PHOTO |
@@ -783,11 +783,11 @@ Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuj
 https://www.google.com/maps/place/Lake+Kawaguchi
 
 18:30 | 20m | BUS |
-Bus de regreso (Línea Roja) → Estación Kawaguchiko.
+(CLP 1M) Bus de regreso (Línea Roja) → Estación Kawaguchiko.
 https://www.google.com/maps/dir/Lake+Kawaguchi/Kawaguchiko+Station
 
 18:50 | 115m | BUS |
-Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes).
+(CLP 1.3M) Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes).
 https://www.google.com/maps/dir/Kawaguchiko+Station/Busta+Shinjuku
 
 19:25 | 65m | FOOD |
@@ -823,7 +823,7 @@ Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Nishi-Shinjuku+Station
 
 07:20 | 20m | TRAIN |
-Metro Marunouchi Line a la Estación de Tokio (viaje directo sin transbordos).
+(CLP 1.2M) Metro Marunouchi Line a la Estación de Tokio (viaje directo sin transbordos).
 https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Tokyo+Station
 
 07:40 | 20m | WALK |
@@ -831,7 +831,7 @@ Caminar internamente hacia los andenes de Shinkansen.
 https://www.google.com/maps/place/Tokyo+Station
 
 08:00 | 100m | TRAIN |
-Tren Shinkansen a estación Nagoya.
+JRP:(CLP 30M) Tren Shinkansen a estación Nagoya.
 https://www.google.com/maps/dir/Tokyo+Station/Nagoya+Station
 
 09:40 | 15m | WALK |
@@ -839,7 +839,7 @@ Caminar internamente para cambiar de andén hacia la línea JR Takayama.
 https://www.google.com/maps/place/Nagoya+Station
 
 09:55 | 150m | TRAIN |
-Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
+JRP:(CLP 35.6M) Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
 https://www.google.com/maps/dir/Nagoya+Station/Takayama+Station
 
 12:25 | 3m | WALK |
@@ -894,10 +894,10 @@ Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (junto a 
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:30 | 15m | BUS |
-Comprar/retirar tickets y hacer fila.
+(CLP 1.3M) Comprar/retirar tickets y hacer fila.
 
 08:45 | 50m | BUS |
-Bus Nohi expreso a Shirakawa-gō.
+(CLP 15.1M) Bus Nohi expreso a Shirakawa-gō.
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shirakawa-go+Bus+Terminal
 
 09:35 | 20m | WALK |
@@ -924,7 +924,7 @@ Comida casera de la zona, trucha de río a la parrilla con sal.
 Caminar de regreso a la terminal de buses de Shirakawa-gō.
 
 14:15 | 50m | BUS |
-Bus Nohi de regreso a Takayama.
+(CLP 15.1M) Bus Nohi de regreso a Takayama.
 https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Takayama+Nohi+Bus+Center
 
 15:05 | 120m | SHOP |
@@ -961,7 +961,7 @@ Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume.
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:40 | 100m | BUS |
-Bus Nohi ruta Shinhotaka hacia las montañas de Okuhida.
+(CLP 12.8M) Bus Nohi ruta Shinhotaka hacia las montañas de Okuhida.
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shinhotaka+Ropeway
 
 10:20 | 10m | WALK |
@@ -983,7 +983,7 @@ Restaurante de la estación del teleférico
 Sopas calientes y raciones medidas.
 
 13:10 | 20m | BUS |
-Bus local bajando hacia la zona de Hirayu Onsen.
+(CLP 5.3M) Bus local bajando hacia la zona de Hirayu Onsen.
 https://www.google.com/maps/dir/Shinhotaka+Ropeway/Hirayu+Onsen
 
 13:30 | 150m | VISIT |
@@ -994,7 +994,7 @@ https://www.google.com/maps/place/Hirayu+Onsen
 Caminar a la parada de bus.
 
 16:10 | 60m | BUS |
-Bus Nohi de regreso directo a Takayama.
+(CLP 15.1M) Bus Nohi de regreso directo a Takayama.
 https://www.google.com/maps/dir/Hirayu+Onsen/Takayama+Nohi+Bus+Center
 
 17:10 | 5m | WALK |
@@ -1055,7 +1055,7 @@ Center4 Hamburgers
 Famoso local con opción de hamburguesa de Hida-gyū.
 
 14:55 | 30m | BUS |
-Caminar hacia el oeste de la ciudad (o bus corto) a Hida Minzoku Mura.
+(CLP 1.2M) Caminar hacia el oeste de la ciudad (o bus corto) a Hida Minzoku Mura.
 https://www.google.com/maps/place/Hida+Folk+Village
 
 15:25 | 95m | VISIT |
@@ -1063,7 +1063,7 @@ Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tra
 https://www.google.com/maps/place/Hida+Folk+Village
 
 17:00 | 10m | BUS |
-Tomar el bus de regreso al Ryokan Oyado Koto No Yume (o caminar 30 min).
+(CLP 1.3M) Tomar el bus de regreso al Ryokan Oyado Koto No Yume (o caminar 30 min).
 https://www.google.com/maps/dir/Hida+Folk+Village/Oyado+Koto+No+Yume
 
 17:10 | 140m | HOTEL |
@@ -1101,7 +1101,7 @@ https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Station
 Llegada a la estación, compra de bento/snacks y café para el trayecto.
 
 10:55 | 150m | TRAIN |
-Tren JR Hida Ltd. Express: Takayama → Estación de Nagoya (trayecto panorámico por los valles de montaña).
+JRP:(CLP 35.6M) Tren JR Hida Ltd. Express: Takayama → Estación de Nagoya (trayecto panorámico por los valles de montaña).
 https://www.google.com/maps/dir/Takayama+Station/Nagoya+Station
 
 13:25 | 20m | WALK |
@@ -1109,11 +1109,11 @@ Trasbordo interno fluido en la Estación de Nagoya hacia los andenes del Shinkan
 https://www.google.com/maps/place/Nagoya+Station
 
 13:45 | 35m | TRAIN |
-Tren Shinkansen (Nozomi / Hikari): Estación de Nagoya → Estación de Kioto.
+JRP:(CLP 30M) Tren Shinkansen (Nozomi / Hikari): Estación de Nagoya → Estación de Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
 14:20 | 15m | TRAIN |
-Metro Karasuma Line: Estación de Kioto → Estación Karasuma Oike (5 min en metro) + 5 min a pie al hotel (o Taxi grande directo para el grupo de 5).
+(CLP 1.3M) Metro Karasuma Line: Estación de Kioto → Estación Karasuma Oike (5 min en metro) + 5 min a pie al hotel (o Taxi grande directo para el grupo de 5).
 https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 14:35 | 55m | HOTEL |
@@ -1163,18 +1163,18 @@ Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma+Station
 
 08:45 | 10m | TRAIN |
-Tren Hankyu Kyoto Line a estación Katsura.
+(CLP 1.2M) Tren Hankyu Kyoto Line a estación Katsura.
 https://www.google.com/maps/dir/Karasuma+Station/Katsura+Station
 
 08:55 | 5m | WALK |
 Cambiar de andén en estación Katsura.
 
 09:00 | 10m | TRAIN |
-Tren Hankyu Arashiyama Line a estación Arashiyama.
+(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Arashiyama.
 https://www.google.com/maps/dir/Katsura+Station/Arashiyama+Station
 
 09:10 | 15m | TAXI |
-Traslado en taxi (o bus Kyoto Bus) desde la estación Hankyu Arashiyama subiendo la montaña hacia el Templo Otagi Nenbutsu-ji.
+(CLP 8.7M) Traslado en taxi (o bus Kyoto Bus) desde la estación Hankyu Arashiyama subiendo la montaña hacia el Templo Otagi Nenbutsu-ji.
 https://www.google.com/maps/dir/Arashiyama+Station/Otagi+Nenbutsu-ji
 
 09:25 | 5m | WALK |
@@ -1232,13 +1232,13 @@ https://www.google.com/maps/place/Iwatayama+Monkey+Park
 Caminar bajando del parque de regreso a la estación Arashiyama (Hankyu).
 
 17:00 | 10m | TRAIN |
-Tren Hankyu Arashiyama Line a estación Katsura.
+(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Katsura.
 
 17:10 | 5m | WALK |
 Cambiar de andén.
 
 17:15 | 10m | TRAIN |
-Tren Hankyu Kyoto Line a Karasuma.
+(CLP 1.2M) Tren Hankyu Kyoto Line a Karasuma.
 
 17:25 | 120m | BREAK |
 Caminar de estación Karasuma a MIMARU Kyoto Shinmachi Sanjo para recargar energías.
@@ -1272,11 +1272,11 @@ Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
 06:35 | 5m | TRAIN |
-Subway Tozai Line a Sanjo Keihan.
+(CLP 1.3M) Subway Tozai Line a Sanjo Keihan.
 https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
 
 06:40 | 10m | TRAIN |
-Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
+(CLP 1.3M) Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
 https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
 
 06:50 | 10m | WALK |
@@ -1290,7 +1290,7 @@ https://www.google.com/maps/place/Fushimi+Inari+Taisha
 Caminar a estación Fushimi-Inari.
 
 09:40 | 10m | TRAIN |
-Tren Keihan Main Line a estación Kiyomizu-Gojo.
+(CLP 1.3M) Tren Keihan Main Line a estación Kiyomizu-Gojo.
 https://www.google.com/maps/dir/Fushimi-Inari+Station/Kiyomizu-Gojo+Station
 
 09:50 | 15m | WALK |
@@ -1363,7 +1363,7 @@ Caminar a la parada de bus en Shijo Karasuma.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Karasuma+Bus+Stop
 
 08:05 | 45m | BUS |
-Bus (línea 12) a la parada Kinkakuji-michi.
+(CLP 1.3M) Bus (línea 12) a la parada Kinkakuji-michi.
 https://www.google.com/maps/dir/Shijo+Karasuma+Bus+Stop/Kinkaku-ji
 
 08:55 | 5m | WALK |
@@ -1384,7 +1384,7 @@ https://www.google.com/maps/place/Ryoan-ji
 Caminar a paradero Ryoanji-mae.
 
 11:25 | 20m | BUS |
-Bus local (línea 50 o 12) a parada Nijojo-mae.
+(CLP 1.3M) Bus local (línea 50 o 12) a parada Nijojo-mae.
 
 11:45 | 5m | WALK |
 Caminar a entrada del castillo.
@@ -1397,7 +1397,7 @@ https://www.google.com/maps/place/Nijo+Castle
 Caminar a estación de metro Nijojo-mae.
 
 13:35 | 5m | TRAIN |
-Metro Tozai Line a estación Kyoto Shiyakusho-mae.
+(CLP 1.3M) Metro Tozai Line a estación Kyoto Shiyakusho-mae.
 
 13:40 | 10m | WALK |
 Caminar hacia mercado cubierto.
@@ -1436,7 +1436,7 @@ Caminar a la parada de bus en Karasuma Oike.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
 08:50 | 30m | BUS |
-Bus (línea 5) a la parada Ginkakuji-michi.
+(CLP 1.3M) Bus (línea 5) a la parada Ginkakuji-michi.
 https://www.google.com/maps/dir/Karasuma-Oike+Station/Ginkaku-ji
 
 09:25 | 5m | WALK |
@@ -1486,7 +1486,7 @@ https://www.google.com/maps/search/Tea+Ceremony+Kyoto
 Caminar a estación de metro Higashiyama.
 
 16:35 | 6m | TRAIN |
-Metro Tozai Line a Karasuma Oike.
+(CLP 1.3M) Metro Tozai Line a Karasuma Oike.
 https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
 
 16:41 | 169m | BREAK |
@@ -1522,21 +1522,21 @@ Almuerzo libre cerca del hospedaje.
 Caminar al MIMARU Kyoto Shinmachi Sanjo y recoger maletas de las 5 personas.
 
 13:15 | 15m | TAXI |
-Traslado en Taxi grande desde MIMARU Kyoto Shinmachi Sanjo a la Estación de Kioto.
+(CLP 8.7M) Traslado en Taxi grande desde MIMARU Kyoto Shinmachi Sanjo a la Estación de Kioto.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
 13:30 | 15m | WALK |
 Caminar en la estación hacia andenes Shinkansen.
 
 13:45 | 15m | TRAIN |
-Tren Shinkansen a estación Shin-Osaka.
+JRP:(CLP 8.4M) Tren Shinkansen a estación Shin-Osaka.
 https://www.google.com/maps/dir/Kyoto+Station/Shin-Osaka+Station
 
 14:00 | 10m | WALK |
 Caminar a andenes de metro Midosuji.
 
 14:10 | 15m | TRAIN |
-Metro Midosuji Line de Shin-Osaka a Namba.
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Namba.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Namba+Station
 
 14:25 | 10m | WALK |
@@ -1601,7 +1601,7 @@ https://www.google.com/maps/place/Tonbori+River+Cruise
 Caminar a estación metro Namba.
 
 15:20 | 5m | TRAIN |
-Metro Midosuji Line a estación Dobutsuen-mae.
+(CLP 1.4M) Metro Midosuji Line a estación Dobutsuen-mae.
 https://www.google.com/maps/dir/Namba+Station/Dobutsuen-mae+Station
 
 15:25 | 10m | WALK |
@@ -1630,7 +1630,7 @@ Local emblemático de brochetas fritas en Shinsekai.
 Caminar a estación Dobutsuen-mae.
 
 20:40 | 5m | TRAIN |
-Metro Midosuji Line a Namba.
+(CLP 1.4M) Metro Midosuji Line a Namba.
 
 20:45 | 10m | WALK |
 Caminar de la estación Namba de regreso al MIMARU Osaka Namba Station.
@@ -1651,14 +1651,14 @@ image4: Hard_Rock_Cafe.png
 Caminar a estación Osaka-Namba (línea Hanshin).
 
 06:25 | 10m | TRAIN |
-Tren Hanshin Namba Line a estación Nishikujo.
+(CLP 1.3M) Tren Hanshin Namba Line a estación Nishikujo.
 https://www.google.com/maps/dir/Osaka-Namba+Station/Nishikujo+Station
 
 06:35 | 5m | WALK |
 Caminar y cambiar de andén en Nishikujo a andén JR.
 
 06:40 | 5m | TRAIN |
-Tren JR Yumesaki Line a estación Universal City.
+JRP:(CLP 1M) Tren JR Yumesaki Line a estación Universal City.
 https://www.google.com/maps/dir/Nishikujo+Station/Universal-City+Station
 
 06:45 | 15m | WALK |
@@ -1692,13 +1692,13 @@ Ubicado en Universal CityWalk.
 Caminar a estación Universal City.
 
 21:35 | 5m | TRAIN |
-Tren JR Yumesaki Line a Nishikujo.
+JRP:(CLP 1M) Tren JR Yumesaki Line a Nishikujo.
 
 21:40 | 5m | WALK |
 Caminar y cambiar a andén Hanshin.
 
 21:45 | 10m | TRAIN |
-Tren Hanshin Namba Line a Osaka-Namba.
+(CLP 1.3M) Tren Hanshin Namba Line a Osaka-Namba.
 
 21:55 | 10m | WALK |
 Caminar de regreso a MIMARU Osaka Namba Station.
@@ -1720,7 +1720,7 @@ Caminar de MIMARU Osaka Namba Station a la estación Kintetsu-Nipponbashi.
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Kintetsu-Nipponbashi+Station
 
 08:45 | 45m | TRAIN |
-Tren rápido Kintetsu Nara Line desde la estación Kintetsu-Nipponbashi directo a la estación Kintetsu-Nara.
+(CLP 4M) Tren rápido Kintetsu Nara Line desde la estación Kintetsu-Nipponbashi directo a la estación Kintetsu-Nara.
 https://www.google.com/maps/dir/Kintetsu-Nipponbashi+Station/Kintetsu-Nara+Station
 
 09:30 | 15m | WALK |
@@ -1763,7 +1763,7 @@ https://www.google.com/maps/place/Kasuga+Taisha
 Caminar de regreso por el parque hasta la estación.
 
 15:45 | 40m | TRAIN |
-Tren Kintetsu Nara Line de regreso a Osaka-Namba / Nipponbashi.
+(CLP 4M) Tren Kintetsu Nara Line de regreso a Osaka-Namba / Nipponbashi.
 
 16:25 | 155m | BREAK |
 Caminar al hotel MIMARU Osaka Namba Station a descansar la tarde.
@@ -1799,7 +1799,7 @@ Caminar de MIMARU Osaka Namba Station a la estación Nipponbashi.
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nipponbashi+Station
 
 08:50 | 20m | TRAIN |
-Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Tanimachi 4-chome (Castillo de Osaka).
+(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Tanimachi 4-chome (Castillo de Osaka).
 https://www.google.com/maps/dir/Nipponbashi+Station/Tanimachi+4-chome+Station
 
 09:10 | 20m | WALK |
@@ -1813,7 +1813,7 @@ https://www.google.com/maps/place/Osaka+Castle
 Caminar de regreso a estación Tanimachi 4-chome.
 
 11:50 | 10m | TRAIN |
-Metro Tanimachi Line directo a estación Higashi-Umeda.
+(CLP 1.3M) Metro Tanimachi Line directo a estación Higashi-Umeda.
 https://www.google.com/maps/dir/Tanimachi+4-chome+Station/Higashi-Umeda+Station
 
 12:00 | 10m | WALK |
@@ -1848,7 +1848,7 @@ Robatayaki japonés en Umeda.
 Caminar a estación metro Umeda.
 
 19:55 | 10m | TRAIN |
-Metro Midosuji Line a Namba / Shinsaibashi.
+(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
 
 20:05 | 10m | WALK |
 Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
@@ -1870,20 +1870,20 @@ Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
 
 06:40 | 15m | TRAIN |
-Metro Midosuji Line a Shin-Osaka.
+(CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
 
 06:55 | 10m | WALK |
 Caminar a andenes de Shinkansen.
 
 07:05 | 85m | TRAIN |
-Tren Shinkansen temprano a Hiroshima.
+JRP:(CLP 58M) Tren Shinkansen temprano a Hiroshima.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Hiroshima+Station
 
 08:30 | 10m | WALK |
 Caminar a parada de tranvía en la plaza exterior.
 
 08:40 | 15m | BUS |
-Tranvía (Hiroden) a parada Genbaku Dome-mae.
+(CLP 1.3M) Tranvía (Hiroden) a parada Genbaku Dome-mae.
 https://www.google.com/maps/dir/Hiroshima+Station/Atomic+Bomb+Dome
 
 08:55 | 5m | WALK |
@@ -1897,19 +1897,19 @@ https://www.google.com/maps/place/Hiroshima+Peace+Memorial+Museum
 Caminar a estación de tranvía Genbaku Dome-mae.
 
 11:40 | 15m | BUS |
-Tranvía a estación Yokogawa.
+(CLP 1.3M) Tranvía a estación Yokogawa.
 
 11:55 | 5m | WALK |
 Caminar a andén JR.
 
 12:00 | 25m | TRAIN |
-Tren local JR a estación Miyajimaguchi.
+JRP:(CLP 2.4M) Tren local JR a estación Miyajimaguchi.
 
 12:25 | 5m | WALK |
 Caminar a terminal de ferrys.
 
 12:30 | 10m | VISIT |
-Ferry a Miyajima.
+JRP:(CLP 1.2M) Ferry a Miyajima.
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
 12:40 | 10m | WALK |
@@ -1931,13 +1931,13 @@ https://www.google.com/maps/place/Itsukushima+Shrine
 Caminar a terminal de ferrys.
 
 16:05 | 10m | VISIT |
-Ferry de regreso a Miyajimaguchi.
+JRP:(CLP 1.2M) Ferry de regreso a Miyajimaguchi.
 
 16:15 | 5m | WALK |
 Caminar a estación de tren JR.
 
 16:20 | 30m | TRAIN |
-Tren local JR a estación Hiroshima.
+JRP:(CLP 1.3M) Tren local JR a estación Hiroshima.
 
 16:50 | 10m | WALK |
 Caminar hacia centro comercial anexo a la estación (ekie).
@@ -1954,14 +1954,14 @@ Dentro del centro comercial ekie en la estación.
 Caminar a andenes de Shinkansen.
 
 18:25 | 85m | TRAIN |
-Tren Shinkansen de regreso a Shin-Osaka.
+JRP:(CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
 19:50 | 10m | WALK |
 Caminar a andén de metro Midosuji.
 
 20:00 | 15m | TRAIN |
-Metro Midosuji Line a Namba / Shinsaibashi.
+(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
 
 20:15 | 10m | WALK |
 Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
@@ -2004,7 +2004,7 @@ Caminar de regreso al hotel o directo a la estación Nipponbashi.
 https://www.google.com/maps/dir/Hokkyokusei+Shinsaibashi/Nipponbashi+Station
 
 14:00 | 25m | TRAIN |
-Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Osakako.
+(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Osakako.
 https://www.google.com/maps/dir/Nipponbashi+Station/Osakako+Station
 
 14:25 | 15m | WALK |
@@ -2018,13 +2018,13 @@ https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 Caminar de regreso a estación Osakako.
 
 17:50 | 15m | TRAIN |
-Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
+(CLP 1.4M) Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
 
 18:05 | 5m | WALK |
 Caminar y cambiar a línea Midosuji / Sakaisuji.
 
 18:10 | 5m | TRAIN |
-Metro a Namba / Nagahoribashi.
+(CLP 1.3M) Metro a Namba / Nagahoribashi.
 
 18:15 | 75m | BREAK |
 Caminar de regreso al hotel MIMARU Osaka Namba Station a descansar.
@@ -2046,7 +2046,7 @@ image1: Parque_Ghibli.png
 image2: Parque_Ghibli2.png
 
 07:15 | 15m | TAXI |
-Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
+(CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
 07:30 | 15m | WALK |
@@ -2054,7 +2054,7 @@ Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
 https://www.google.com/maps/place/Kyoto+Station
 
 07:45 | 35m | TRAIN |
-Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
+JRP:(CLP 30M) Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
 https://www.google.com/maps/dir/Kyoto+Station/Nagoya+Station
 
 08:20 | 10m | WALK |
@@ -2062,14 +2062,14 @@ Trasbordo interno en Nagoya hacia la línea de metro Higashiyama.
 https://www.google.com/maps/place/Nagoya+Station
 
 08:30 | 28m | TRAIN |
-Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
+(CLP 1.3M) Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
 https://www.google.com/maps/dir/Nagoya+Station/Fujigaoka+Station
 
 08:58 | 5m | WALK |
 Cambio de andén hacia la línea de tren Linimo en Fujigaoka.
 
 09:03 | 13m | TRAIN |
-Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
+(CLP 2.1M) Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
 https://www.google.com/maps/dir/Fujigaoka+Station/Ghibli+Park
 
 09:16 | 14m | WALK |
@@ -2092,11 +2092,11 @@ https://www.google.com/maps/place/Ghibli+Park
 Caminar de regreso a la estación de tren Linimo Ai-Chikyuhaku Kinen Koen.
 
 16:10 | 15m | TRAIN |
-Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
+(CLP 2.1M) Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
 https://www.google.com/maps/dir/Ghibli+Park/Fujigaoka+Station
 
 16:25 | 30m | TRAIN |
-Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
+(CLP 1.3M) Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
 https://www.google.com/maps/dir/Fujigaoka+Station/Nagoya+Station
 
 16:55 | 20m | SHOP |
@@ -2104,11 +2104,11 @@ Tiempo breve para recorrer tiendas o buscar snacks en la Estación de Nagoya.
 https://www.google.com/maps/place/Nagoya+Station
 
 17:15 | 35m | TRAIN |
-Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
+JRP:(CLP 30M) Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
 17:50 | 20m | TAXI |
-Traslado en taxi desde la Estación de Kioto de regreso al MIMARU Kyoto Shinmachi Sanjo.
+(CLP 8.7M) Traslado en taxi desde la Estación de Kioto de regreso al MIMARU Kyoto Shinmachi Sanjo.
 https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 18:10 | 80m | BREAK |
@@ -2141,13 +2141,13 @@ Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
 
 08:00 | 15m | TRAIN |
-Metro Midosuji Line a Shin-Osaka.
+(CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
 
 08:15 | 10m | WALK |
 Caminar a andenes de Shinkansen.
 
 08:25 | 35m | TRAIN |
-Tren Shinkansen a estación Himeji.
+JRP:(CLP 19M) Tren Shinkansen a estación Himeji.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
 09:00 | 20m | WALK |
@@ -2178,14 +2178,14 @@ Fideos tradicionales rápidos en la misma estación.
 Caminar a andenes de tren.
 
 13:55 | 35m | TRAIN |
-Tren Shinkansen de regreso a Shin-Osaka.
+JRP:(CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
 14:30 | 10m | WALK |
 Caminar a línea Midosuji.
 
 14:40 | 15m | TRAIN |
-Metro Midosuji Line a Namba / Shinsaibashi.
+(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
 
 14:55 | 175m | BREAK |
 Caminar de regreso al hotel MIMARU Osaka Namba Station para tarde libre.
@@ -2268,7 +2268,7 @@ https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nankai+Namba+Station
 Caminar internamente en la estación Nankai Namba para comprar/retirar tickets en boleterías.
 
 10:05 | 40m | TRAIN |
-Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios, abordando en Nankai Namba).
+(CLP 8.4M) Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios, abordando en Nankai Namba).
 https://www.google.com/maps/dir/Nankai+Namba+Station/Kansai+International+Airport
 
 10:45 | 15m | WALK |
