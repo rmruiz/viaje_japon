@@ -246,10 +246,28 @@ async function initApp() {
       });
     }
 
-    // Setup Google Maps Close Button Listener
-    if (btnCloseMaps && contentLayout) {
-      btnCloseMaps.addEventListener('click', () => {
-        contentLayout.classList.add('maps-hidden');
+    // Setup Google Maps Close Button Listener & Overlay Modal Handlers
+    const mapsPanel = document.getElementById('maps-panel');
+    if (mapsPanel && contentLayout) {
+      // Close on close button click
+      if (btnCloseMaps) {
+        btnCloseMaps.addEventListener('click', () => {
+          contentLayout.classList.add('maps-hidden');
+        });
+      }
+
+      // Close on clicking the backdrop overlay background directly
+      mapsPanel.addEventListener('click', (e) => {
+        if (e.target === mapsPanel) {
+          contentLayout.classList.add('maps-hidden');
+        }
+      });
+
+      // Close on pressing Escape key
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !contentLayout.classList.contains('maps-hidden')) {
+          contentLayout.classList.add('maps-hidden');
+        }
       });
     }
 

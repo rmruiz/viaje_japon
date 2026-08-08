@@ -190,7 +190,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
     }
 
     const durationBadge = evt.mapUrl
-      ? `<button class="event-duration map-duration-badge" data-map-url="${encodeURIComponent(evt.mapUrl)}" title="Haz clic para ver el mapa de este tramo en la columna derecha">🗺️ ${evt.duration}</button>`
+      ? `<button class="event-duration map-duration-badge" data-map-url="${encodeURIComponent(evt.mapUrl)}" title="Haz clic para abrir el mapa interactivo de este tramo">🗺️ ${evt.duration}</button>`
       : `<span class="event-duration">${evt.duration}</span>`;
 
     eventsHtml += `
