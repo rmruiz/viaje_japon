@@ -40,12 +40,11 @@ https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
 @day
 stars: 4
-title: Edo, Asakusa y Skytree
+title: Museo Edo y Asakusa
 steps: 15000
-summary: Museo Edo-Tokio + Templo Sensō-ji + Tokyo Skytree
+summary: Museo Edo-Tokio + Templo Sensō-ji
 image1: edo.png
 image2: sensoji.png
-image3: skytree.png
 
 @note
 Museo Edo Tokio:
@@ -53,9 +52,6 @@ Museo Edo Tokio:
 2- Abre de 9:30 a 17:30 (Sáb: cierra 19:30)
 Skytree: 
 1- Se debe reservar en Página Oficial de Tokyo Skytree https://es.tokyo-skytree.jp/inquiry/faq/
-
-@note
-el skytree es evitable
 
 09:30 | 7m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
@@ -196,10 +192,10 @@ image3: cena_tokio.png
 ¡Llevar ropa de nieve y térmica! Nikkō estará considerablemente más frío que Tokio (bajo cero o nieve).
 
 @note
-este día debería ser antes para que no se junte con Takayama
-
-@note
-TODO: buscar excursion por el día (tour pagado)
+TODO: buscar excursion por el día (tour pagado) (CLP 470M-695M)
+https://www.getyourguide.com/nikko-l89510/from-tokyo-nikko-family-adventure-with-private-guide-t1412942?ranking_uuid=7f515909-5590-4820-a38f-d19a48e84eb9&q=Nikko&_pc=1,5&date_from=2027-02-18
+https://www.civitatis.com/es/tokio/excursion-nikko/?aid=1904&cmp=J_excursion_nikko#punto-de-encuentro
+https://www.klook.com/es/activity/74672-nikko-day-bus-tour/?aid=1798&aff_adid=1100443&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=1798&utm_term=&utm_content=&aff_klick_id=137409410316-1798-1100443-14d425e&dd_referrer=https%3A%2F%2Fjaponpedia.com%2F
 
 07:20 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -653,6 +649,7 @@ https://www.google.com/maps/place/Nakano+Broadway
 
 @note
 Tiempo Libre en la tarde!!
+Posibilidad de ir a Takadanobaba Mikado (mil arcades)
 
 10:10 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -1785,11 +1782,11 @@ Clásico local en Dotonbori.
 stars: 5
 title: Castillo de Osaka y Umeda
 steps: 17000
-summary: Castillo de Osaka + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
+summary: Castillo de Osaka + Templo Shitenno-ji + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
 image1: Castillo_Osaka.png
-image2: Centros_comerciales_Umeda.png
-image3: Mirador_Umeda_Sky.png
-image4: Robatayaki.png
+image2: Templo_Shitennoji.png
+image3: Centros_comerciales_Umeda.png
+image4: Mirador_Umeda_Sky.png
 
 @note
 Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entrar al Castillo de Himeji
@@ -1802,22 +1799,32 @@ https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nipponbashi+Station
 (CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Tanimachi 4-chome (Castillo de Osaka).
 https://www.google.com/maps/dir/Nipponbashi+Station/Tanimachi+4-chome+Station
 
-09:10 | 20m | WALK |
-Caminar por jardines del foso hasta entrada.
-
-09:30 | 120m | VISIT |
-Visitar Castillo de Osaka (opcional: Shitennō-ji + jardín Gokuraku-jōdo).
+09:10 | 40m | VISIT |
+Caminar por los jardines del foso y visitar el exterior del Castillo de Osaka (fotografías de la fachada sin ingresar).
 https://www.google.com/maps/place/Osaka+Castle
 
-11:30 | 20m | WALK |
-Caminar de regreso a estación Tanimachi 4-chome.
+09:50 | 15m | WALK |
+Caminar de regreso a la estación Tanimachi 4-chome.
 
-11:50 | 10m | TRAIN |
-(CLP 1.3M) Metro Tanimachi Line directo a estación Higashi-Umeda.
-https://www.google.com/maps/dir/Tanimachi+4-chome+Station/Higashi-Umeda+Station
+10:05 | 5m | TRAIN |
+(CLP 1.5M) Metro Tanimachi Line en dirección sur hasta la estación Shitennoji-mae Yuhigaoka (sólo 3 paradas).
+
+10:10 | 10m | WALK |
+Caminar hacia la entrada del complejo Shitennō-ji.
+
+10:20 | 70m | VISIT |
+(CLP 1.8M) Visitar el templo Shitennō-ji (el templo budista oficial más antiguo de Japón) y recorrer el hermoso y pacífico jardín Gokuraku-jōdo (entrada aprox 300 JPY).
+https://www.google.com/maps/place/Shitennoji
+
+11:30 | 10m | WALK |
+Caminar de regreso a la estación Shitennoji-mae Yuhigaoka.
+
+11:40 | 20m | TRAIN |
+(CLP 1.8M) Metro Tanimachi Line directo hacia el norte hasta la estación Higashi-Umeda.
+https://www.google.com/maps/dir/Shitennoji-mae+Yuhigaoka+Station/Higashi-Umeda+Station
 
 12:00 | 10m | WALK |
-Caminar al sector comercial norte.
+Caminar al sector comercial norte de Umeda.
 
 12:10 | 80m | FOOD |
 Almuerzo libre en el área.
