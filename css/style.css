@@ -1220,6 +1220,16 @@ body.sidebar-collapsed .app-content {
     align-items: flex-start;
     gap: 0.25rem;
   }
+
+  /* Desactivar buscador superior en celulares */
+  .search-box {
+    display: none !important;
+  }
+
+  /* Deshabilitar barra de filtros y ordenamiento en celulares */
+  .control-bar {
+    display: none !important;
+  }
 }
 
 .custom-inline-link {
