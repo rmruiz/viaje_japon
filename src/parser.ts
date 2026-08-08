@@ -35,18 +35,47 @@ function addDaysToDate(baseDateStr: string, daysToAdd: number): { dateStr: strin
   return { dateStr, formatted, weekday };
 }
 
-export function extractUrls(text: string): { text: string; url: string }[] {
-  const urlRegex = /(https?:\/\/[^\s]+)/g;
-  const matches = text.match(urlRegex);
-  if (!matches) return [];
+export function parseInlineLinks(text: string): string {
+  const customLinkRegex = /\[(https?:\/\/[^|\]\s]+)\|([^\]]+)\]/g;
+  return text.replace(customLinkRegex, (_, url, label) => {
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="custom-inline-link">${label}</a>`;
+  });
+}
 
-  // Filter out Google Maps URLs from standard link buttons, since they are handled via the duration badge
-  return matches
-    .filter(url => !url.includes('google.com/maps') && !url.includes('maps.app') && !url.includes('maps.google.com'))
-    .map(url => ({
-      text: 'Ver enlace',
-      url: url.trim()
-    }));
+export function extractUrls(text: string): { text: string; url: string }[] {
+  const customLinkRegex = /\[(https?:\/\/[^|\]\s]+)\|([^\]]+)\]/g;
+  const links: { text: string; url: string }[] = [];
+  
+  let match;
+  const tempRegex = new RegExp(customLinkRegex);
+  while ((match = tempRegex.exec(text)) !== null) {
+    const url = match[1].trim();
+    const label = match[2].trim();
+    if (!url.includes('google.com/maps') && !url.includes('maps.app') && !url.includes('maps.google.com')) {
+      links.push({
+        text: label,
+        url: url
+      });
+    }
+  }
+
+  const cleanedText = text.replace(customLinkRegex, '');
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  const standardMatches = cleanedText.match(urlRegex);
+  if (standardMatches) {
+    standardMatches
+      .filter(url => !url.includes('google.com/maps') && !url.includes('maps.app') && !url.includes('maps.google.com'))
+      .forEach(url => {
+        let cleanUrl = url.trim();
+        if (cleanUrl.endsWith(']')) cleanUrl = cleanUrl.slice(0, -1);
+        links.push({
+          text: 'Ver enlace',
+          url: cleanUrl
+        });
+      });
+  }
+
+  return links;
 }
 
 function normalizeImagePath(filename: string): string {
@@ -107,8 +136,8 @@ export function parseTripData(rawText: string): TripData {
         desc = desc.replace(mapMatch[0], '').trim();
       }
 
-      currentEvent.description = desc;
       currentEvent.links = extractUrls(desc);
+      currentEvent.description = parseInlineLinks(desc);
 
       currentDay.events.push(currentEvent);
       currentEvent = null;
@@ -117,8 +146,9 @@ export function parseTripData(rawText: string): TripData {
 
   function finalizeNote() {
     if (currentNote && currentDay) {
-      currentNote.content = currentNote.content.trim();
-      if (currentNote.content) {
+      const content = currentNote.content.trim();
+      if (content) {
+        currentNote.content = parseInlineLinks(content);
         currentDay.notes.push(currentNote);
       }
       currentNote = null;
@@ -130,7 +160,7 @@ export function parseTripData(rawText: string): TripData {
     finalizeEvent();
     if (currentDay) {
       currentDay.title = currentDay.title.trim();
-      currentDay.summary = currentDay.summary.trim();
+      currentDay.summary = parseInlineLinks(currentDay.summary.trim());
       allDays.push(currentDay);
       if (currentSection) {
         currentSection.days.push(currentDay);
@@ -144,8 +174,8 @@ export function parseTripData(rawText: string): TripData {
     if (currentSection) {
       currentSection.title = currentSection.title.trim();
       if (currentSection.hotel) currentSection.hotel = currentSection.hotel.trim();
-      if (currentSection.summary) currentSection.summary = currentSection.summary.trim();
-      if (currentSection.notes) currentSection.notes = currentSection.notes.trim();
+      if (currentSection.summary) currentSection.summary = parseInlineLinks(currentSection.summary.trim());
+      if (currentSection.notes) currentSection.notes = parseInlineLinks(currentSection.notes.trim());
       sections.push(currentSection);
       currentSection = null;
     }

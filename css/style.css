@@ -1171,3 +1171,16 @@ body.sidebar-collapsed .app-content {
   }
 }
 
+.custom-inline-link {
+  color: var(--accent-primary);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  font-weight: 600;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.custom-inline-link:hover {
+  color: var(--text-main);
+  text-decoration-style: solid;
+}
+

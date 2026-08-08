@@ -66,7 +66,7 @@ Caminar a Museo Edo-Tokio.
 https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Museo+Edo-Tokyo,+1+Chome-4-1+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/@35.6962648,139.7914442,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!2m2!1d139.7957336!2d35.6965972!3e3
 
 10:25 | 150m | VISIT |
-Visita Museo Edo-Tokio (~8 USD).
+Visita [https://www.edo-tokyo-museum.or.jp/en/|Museo Edo-Tokio] (~8 USD).
 https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
 
 13:00 | 20m | TRAIN |
@@ -193,9 +193,9 @@ image3: cena_tokio.png
 
 @note
 TODO: buscar excursion por el día (tour pagado) (CLP 470M-695M)
-https://www.getyourguide.com/nikko-l89510/from-tokyo-nikko-family-adventure-with-private-guide-t1412942?ranking_uuid=7f515909-5590-4820-a38f-d19a48e84eb9&q=Nikko&_pc=1,5&date_from=2027-02-18
-https://www.civitatis.com/es/tokio/excursion-nikko/?aid=1904&cmp=J_excursion_nikko#punto-de-encuentro
-https://www.klook.com/es/activity/74672-nikko-day-bus-tour/?aid=1798&aff_adid=1100443&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=1798&utm_term=&utm_content=&aff_klick_id=137409410316-1798-1100443-14d425e&dd_referrer=https%3A%2F%2Fjaponpedia.com%2F
+[https://www.getyourguide.com/nikko-l89510/from-tokyo-nikko-family-adventure-with-private-guide-t1412942?ranking_uuid=7f515909-5590-4820-a38f-d19a48e84eb9&q=Nikko&_pc=1,5&date_from=2027-02-18|getyourguide]
+[https://www.civitatis.com/es/tokio/excursion-nikko/?aid=1904&cmp=J_excursion_nikko#punto-de-encuentro|civitatis]
+[https://www.klook.com/es/activity/74672-nikko-day-bus-tour/?aid=1798&aff_adid=1100443&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=1798&utm_term=&utm_content=&aff_klick_id=137409410316-1798-1100443-14d425e|klook]
 
 07:20 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -321,12 +321,9 @@ title: Harajuku y Shibuya
 steps: 17000
 summary: Santuario Meiji + Takeshita Street + Cat Street + Nintendo & Pokémon Parco + Shibuya Crossing
 image1: Santuario_Meiji.png
-image2: Takeshita_Street.png
-image3: Nintendo_Parco.png
-image4: Shibuya_Crossing.png
-
-@note
-falta foto de shibuya sky
+image2: Nintendo_Parco.png
+image3: Shibuya_Crossing.png
+image4: Shibuya_Sky.png
 
 @note
 Los boletos para el atardecer se agotan con un mes de anticipación, por lo que debes comprarlos online exactamente 4 semanas antes de tu visita
