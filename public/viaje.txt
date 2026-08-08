@@ -37,67 +37,6 @@ https://www.google.com/maps/place/Hotel+Rose+Garden+Shinjuku
 Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
 https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
-
-@day
-stars: 4
-title: Museo Edo y Asakusa
-steps: 15000
-summary: Museo Edo-Tokio + Templo Sensō-ji
-image1: edo.png
-image2: sensoji.png
-
-@note
-Museo Edo Tokio:
-1- Cierra los días Lunes, y si el Lunes es festivo Nacional, abre el Lunes y Cierra el Martes.
-2- Abre de 9:30 a 17:30 (Sáb: cierra 19:30)
-Skytree: 
-1- Se debe reservar en Página Oficial de Tokyo Skytree https://es.tokyo-skytree.jp/inquiry/faq/
-
-09:30 | 7m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
-
-09:37 | 23m | TRAIN |
-(CLP 1.6M) Toei Oedo Line directo a la estación Ryōgoku (viaje sin transbordos).
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Ryogoku+Station
-
-10:20 | 5m | WALK |
-Caminar a Museo Edo-Tokio.
-https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Museo+Edo-Tokyo,+1+Chome-4-1+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/@35.6962648,139.7914442,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!2m2!1d139.7957336!2d35.6965972!3e3
-
-10:25 | 150m | VISIT |
-Visita [https://www.edo-tokyo-museum.or.jp/en/|Museo Edo-Tokio] (~8 USD).
-https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
-
-13:00 | 20m | TRAIN |
-(CLP 1.3M) Traslado Ryōgoku → Asakusa.
-https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Asakusa+Sta.,+1+Chome-1-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7010112,139.7809116,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188ec690127e2f:0xf41f021a3a02cff0!2m2!1d139.7971675!2d35.7098669!3e3
-
-13:20 | 68m | FOOD |
-Almuerzo street food en Calle Nakamise / Asakusa.
-https://www.google.com/maps/place/Nakamise,+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7124284,139.7939374,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec12e2c51d5:0xf1d0cb578b3d5e97!8m2!3d35.7124241!4d139.796507!16s%2Fg%2F11rk533v_2
-
-14:28 | 2m | WALK |
-Caminar a Templo Sensō-ji.
-https://www.google.com/maps/dir/Calle+Comercial+Nakamise,+1+Chome-36-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/Sens%C5%8D-ji,+2+Chome-3-1+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7128584,139.7952139,18z/data=!4m14!4m13!1m5!1m1!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc!2m2!1d139.7964542!2d35.7118413!1m5!1m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d!2m2!1d139.7966553!2d35.7147651!3e2
-
-15:00 | 120m | VISIT |
-Visita Templo Sensō-ji (en Asakusa).
-https://www.google.com/maps/place/Sens%C5%8D-ji
-
-17:00 | 60m | PHOTO |
-Caminata fotográfica al atardecer por los alrededores de Asakusa y la ribera del río Sumida (excelentes vistas).
-
-18:00 | 90m | FOOD |
-Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-ji, famosa por su guiso de carne).
-https://www.google.com/maps/place/Hoppy+Street
-
-19:30 | 35m | TRAIN |
-(CLP 1.6M) Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
-
-20:05 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku.
-
 @day
 stars: 5
 title: Ueno y Akihabara
@@ -314,6 +253,67 @@ https://www.google.com/maps/dir/Maihama+Station/Nishi-Shinjuku+Station
 21:50 | 5m | WALK |
 Caminar de la estación Nishi-Shinjuku de regreso al Hotel Rose Garden Shinjuku.
 https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+
+
+@day
+stars: 4
+title: Museo Edo y Asakusa
+steps: 15000
+summary: Museo Edo-Tokio + Templo Sensō-ji
+image1: edo.png
+image2: sensoji.png
+
+@note
+Museo Edo Tokio:
+1- Cierra los días Lunes, y si el Lunes es festivo Nacional, abre el Lunes y Cierra el Martes.
+2- Abre de 9:30 a 17:30 (Sáb: cierra 19:30)
+Skytree: 
+1- Se debe reservar en Página Oficial de Tokyo Skytree https://es.tokyo-skytree.jp/inquiry/faq/
+
+09:30 | 7m | WALK |
+Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+
+09:37 | 23m | TRAIN |
+(CLP 1.6M) Toei Oedo Line directo a la estación Ryōgoku (viaje sin transbordos).
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Ryogoku+Station
+
+10:20 | 5m | WALK |
+Caminar a Museo Edo-Tokio.
+https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Museo+Edo-Tokyo,+1+Chome-4-1+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/@35.6962648,139.7914442,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!2m2!1d139.7957336!2d35.6965972!3e3
+
+10:25 | 150m | VISIT |
+Visita [https://www.edo-tokyo-museum.or.jp/en/|Museo Edo-Tokio] (~8 USD).
+https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
+
+13:00 | 20m | TRAIN |
+(CLP 1.3M) Traslado Ryōgoku → Asakusa.
+https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Asakusa+Sta.,+1+Chome-1-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7010112,139.7809116,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188ec690127e2f:0xf41f021a3a02cff0!2m2!1d139.7971675!2d35.7098669!3e3
+
+13:20 | 68m | FOOD |
+Almuerzo street food en Calle Nakamise / Asakusa.
+https://www.google.com/maps/place/Nakamise,+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7124284,139.7939374,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec12e2c51d5:0xf1d0cb578b3d5e97!8m2!3d35.7124241!4d139.796507!16s%2Fg%2F11rk533v_2
+
+14:28 | 2m | WALK |
+Caminar a Templo Sensō-ji.
+https://www.google.com/maps/dir/Calle+Comercial+Nakamise,+1+Chome-36-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/Sens%C5%8D-ji,+2+Chome-3-1+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7128584,139.7952139,18z/data=!4m14!4m13!1m5!1m1!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc!2m2!1d139.7964542!2d35.7118413!1m5!1m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d!2m2!1d139.7966553!2d35.7147651!3e2
+
+15:00 | 120m | VISIT |
+Visita Templo Sensō-ji (en Asakusa).
+https://www.google.com/maps/place/Sens%C5%8D-ji
+
+17:00 | 60m | PHOTO |
+Caminata fotográfica al atardecer por los alrededores de Asakusa y la ribera del río Sumida (excelentes vistas).
+
+18:00 | 90m | FOOD |
+Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-ji, famosa por su guiso de carne).
+https://www.google.com/maps/place/Hoppy+Street
+
+19:30 | 35m | TRAIN |
+(CLP 1.6M) Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
+
+20:05 | 10m | WALK |
+Caminar de regreso al Hotel Rose Garden Shinjuku.
 
 @day
 stars: 5
@@ -632,73 +632,6 @@ https://www.google.com/maps/dir/Daiba+Station/Shinjuku-Nishiguchi+Station
 Caminar de la estación Shinjuku-Nishiguchi de regreso al Hotel Rose Garden Shinjuku.
 https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
 
-
-@day
-stars: 5
-title: Nakano Broadway
-https://www.google.com/maps/place/Nakano+Broadway
-steps: 12000
-summary: Galería Sun Mall + Nakano Broadway + Coleccionismo retro / anime + Izakaya
-image1: Galeria_Sun_Mall.png
-image2: Nakano_Broadway.png
-image3: Izakaya.png
-https://www.google.com/maps/place/Nakano+Broadway
-
-@note
-Tiempo Libre en la tarde!!
-Posibilidad de ir a Takadanobaba Mikado (mil arcades)
-
-10:10 | 8m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
-
-10:18 | 12m | TRAIN |
-(CLP 1M) JR Chūō Line directo a la estación Nakano (sin transbordos).
-https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
-
-10:45 | 15m | WALK |
-Caminar techado por la galería Sun Mall.
-https://www.google.com/maps/dir/Nakano+Station/Nakano+Broadway
-
-11:00 | 180m | SHOP |
-Nakano Broadway: Explorar galerías de figuras, anime retro, Mandarake y rarezas.
-https://www.google.com/maps/place/Nakano+Broadway
-
-14:00 | 90m | FOOD |
-Almuerzo en los callejones aledaños a Nakano.
-https://www.google.com/maps/place/Ramen+Aoba+Nakano
-
-Option
-Aoba Nakano Honten
-Ramen legendario, mezcla de caldo de pescado y cerdo (a pasos de Broadway).
-
-Option
-Namizu Sushi Nakano
-Kaitenzushi, sushi en platos giratorios (en la galería Sun Mall).
-
-15:30 | 210m | FREE |
-Tarde de ritmo libre (compras, descansar o recorrer tiendas pendientes).
-
-19:00 | 90m | FOOD |
-Cena Izakaya (taberna familiar animada).
-https://www.google.com/maps/place/Isomaru+Suisan+Nakano
-
-Option
-Isomaru Suisan Nakano
-Mariscos para asar en la mesa (en calles secundarias).
-
-Option
-Tsukada Nojo Nakano
-Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
-
-20:30 | 10m | TRAIN |
-(CLP 1M) JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
-https://www.google.com/maps/dir/Nakano+Station/Shinjuku+Station
-
-20:40 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
-
 @day
 stars: 5
 title: Excursión al Monte Fuji (Kawaguchiko)
@@ -800,11 +733,76 @@ A 6 min desde la estación Shinjuku.
 Caminar de regreso al Hotel Rose Garden Shinjuku.
 https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
 
+@day
+stars: 5
+title: Nakano Broadway
+https://www.google.com/maps/place/Nakano+Broadway
+steps: 12000
+summary: Galería Sun Mall + Nakano Broadway + Coleccionismo retro / anime + Izakaya
+image1: Galeria_Sun_Mall.png
+image2: Nakano_Broadway.png
+image3: Izakaya.png
+https://www.google.com/maps/place/Nakano+Broadway
+
+@note
+Tiempo Libre en la tarde!!
+Posibilidad de ir a Takadanobaba Mikado (mil arcades)
+
+10:10 | 8m | WALK |
+Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+
+10:18 | 12m | TRAIN |
+(CLP 1M) JR Chūō Line directo a la estación Nakano (sin transbordos).
+https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
+
+10:45 | 15m | WALK |
+Caminar techado por la galería Sun Mall.
+https://www.google.com/maps/dir/Nakano+Station/Nakano+Broadway
+
+11:00 | 180m | SHOP |
+Nakano Broadway: Explorar galerías de figuras, anime retro, Mandarake y rarezas.
+https://www.google.com/maps/place/Nakano+Broadway
+
+14:00 | 90m | FOOD |
+Almuerzo en los callejones aledaños a Nakano.
+https://www.google.com/maps/place/Ramen+Aoba+Nakano
+
+Option
+Aoba Nakano Honten
+Ramen legendario, mezcla de caldo de pescado y cerdo (a pasos de Broadway).
+
+Option
+Namizu Sushi Nakano
+Kaitenzushi, sushi en platos giratorios (en la galería Sun Mall).
+
+15:30 | 210m | FREE |
+Tarde de ritmo libre (compras, descansar o recorrer tiendas pendientes).
+
+19:00 | 90m | FOOD |
+Cena Izakaya (taberna familiar animada).
+https://www.google.com/maps/place/Isomaru+Suisan+Nakano
+
+Option
+Isomaru Suisan Nakano
+Mariscos para asar en la mesa (en calles secundarias).
+
+Option
+Tsukada Nojo Nakano
+Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
+
+20:30 | 10m | TRAIN |
+(CLP 1M) JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
+https://www.google.com/maps/dir/Nakano+Station/Shinjuku+Station
+
+20:40 | 10m | WALK |
+Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
+https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+
 @section Alpes
 title: BASE 2 — ALPES JAPONESES (Takayama)
 hotel: Oyado Koto No Yume (Gifu, Takayama, Hanasato machi 6-11, Japón)
 summary: Segunda base del viaje. Takayama como base única para explorar Sanmachi Suji, Shirakawa-gō, Okuhida, Teleférico Shinhotaka y Parque Ghibli.
-
 
 @day
 stars: 5
@@ -812,50 +810,50 @@ title: Tokio → Takayama (Estableciendo la base)
 steps: 14000
 summary: Shinkansen a Nagoya + Tren Hida Ltd. Express + Sanmachi Suji + Carne de Hida
 
-07:15 | 5m | WALK |
+08:15 | 5m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Nishi-Shinjuku+Station
 
-07:20 | 20m | TRAIN |
+08:20 | 20m | TRAIN |
 (CLP 1.2M) Metro Marunouchi Line a la Estación de Tokio (viaje directo sin transbordos).
 https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Tokyo+Station
 
-07:40 | 20m | WALK |
+08:40 | 20m | WALK |
 Caminar internamente hacia los andenes de Shinkansen.
 https://www.google.com/maps/place/Tokyo+Station
 
-08:00 | 100m | TRAIN |
+09:00 | 100m | TRAIN |
 (CLP 30M) Tren Shinkansen a estación Nagoya.
 https://www.google.com/maps/dir/Tokyo+Station/Nagoya+Station
 
-09:40 | 15m | WALK |
+10:40 | 15m | WALK |
 Caminar internamente para cambiar de andén hacia la línea JR Takayama.
 https://www.google.com/maps/place/Nagoya+Station
 
-09:55 | 150m | TRAIN |
+10:55 | 150m | TRAIN |
 (CLP 35.6M) Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
 https://www.google.com/maps/dir/Nagoya+Station/Takayama+Station
 
-12:25 | 3m | WALK |
+13:25 | 3m | WALK |
 Caminar desde la estación de Takayama al Ryokan Oyado Koto No Yume.
 https://www.google.com/maps/dir/Takayama+Station/Oyado+Koto+No+Yume
 
-12:28 | 22m | HOTEL |
+13:28 | 17m | HOTEL |
 Check-in o dejar maletas en el ryokan para los próximos 4 días.
 
-12:50 | 60m | FOOD |
-Almuerzo en Takayama.
+13:45 | 60m | FOOD |
+Almuerzo tardío en Takayama (fideos Soba calientes).
 https://www.google.com/maps/place/Hida+Soba+Takayama
 
 Option
 Hida Soba
 Fideos de trigo sarraceno calientes.
 
-13:50 | 15m | WALK |
+14:45 | 15m | WALK |
 Caminar hacia el casco antiguo.
 
-14:05 | 180m | VISIT |
-Caminar explorando Sanmachi Suji (calles del periodo Edo, destilerías de sake).
+15:00 | 125m | VISIT |
+Caminar explorando Sanmachi Suji sin apuros (calles del periodo Edo, destilerías de sake).
 https://www.google.com/maps/place/Sanmachi+Suji
 
 17:05 | 10m | WALK |
@@ -1261,50 +1259,50 @@ image4: Sannenzaka_Ninenzaka.png
 @note
 Van a querer andar en kimono?
 
-06:30 | 5m | WALK |
+07:30 | 5m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
-06:35 | 5m | TRAIN |
+07:35 | 5m | TRAIN |
 (CLP 1.3M) Subway Tozai Line a Sanjo Keihan.
 https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
 
-06:40 | 10m | TRAIN |
+07:40 | 10m | TRAIN |
 (CLP 1.3M) Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
 https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
 
-06:50 | 10m | WALK |
+07:50 | 10m | WALK |
 Caminar a la entrada principal.
 
-07:00 | 150m | VISIT |
-Visita Fushimi Inari-taisha muy temprano (miles de torii rojos).
+08:00 | 150m | VISIT |
+Visita Fushimi Inari-taisha (miles de torii rojos).
 https://www.google.com/maps/place/Fushimi+Inari+Taisha
 
-09:30 | 10m | WALK |
+10:30 | 10m | WALK |
 Caminar a estación Fushimi-Inari.
 
-09:40 | 10m | TRAIN |
+10:40 | 10m | TRAIN |
 (CLP 1.3M) Tren Keihan Main Line a estación Kiyomizu-Gojo.
 https://www.google.com/maps/dir/Fushimi-Inari+Station/Kiyomizu-Gojo+Station
 
-09:50 | 15m | WALK |
+10:50 | 15m | WALK |
 Caminar en subida hacia tienda de alquiler en Higashiyama.
 
-10:05 | 60m | SHOP |
+11:05 | 60m | SHOP |
 Alquiler de kimono para las chicas.
 https://www.google.com/maps/place/Kiyomizu-dera
 
-11:05 | 20m | WALK |
+12:05 | 20m | WALK |
 Caminar cuesta arriba hacia el templo.
 
-11:25 | 90m | VISIT |
+12:25 | 90m | VISIT |
 Visita Kiyomizu-dera (~4 USD).
 https://www.google.com/maps/place/Kiyomizu-dera
 
-12:55 | 15m | WALK |
+13:55 | 15m | WALK |
 Caminar bajando por la ladera de Sannenzaka.
 
-13:10 | 60m | FOOD |
+14:10 | 60m | FOOD |
 Almuerzo en la zona tradicional.
 https://www.google.com/maps/place/Kani+Doraku+Dotombori+Honten
 
@@ -1312,35 +1310,34 @@ Option
 Omen Kodai-ji
 Udon tradicional de alta calidad.
 
-14:10 | 120m | VISIT |
+15:10 | 120m | VISIT |
 Caminar por Sannenzaka y Ninenzaka.
 https://www.google.com/maps/place/Sannenzaka
 
-16:10 | 15m | WALK |
+17:10 | 15m | WALK |
 Caminar a Santuario Yasaka.
 
-16:25 | 45m | VISIT |
+17:25 | 45m | VISIT |
 Visita Santuario Yasaka.
 https://www.google.com/maps/place/Yasaka+Shrine
 
-17:10 | 15m | WALK |
+18:10 | 15m | WALK |
 Caminar a devolver kimonos.
 
-17:25 | 60m | PHOTO |
+18:25 | 60m | PHOTO |
 Caminar explorando el barrio de Gion al atardecer.
 https://www.google.com/maps/place/Gion
 
-18:25 | 15m | WALK |
+19:25 | 15m | WALK |
 Caminar hacia el río y callejón Pontocho.
 
-18:40 | 80m | FOOD |
+19:40 | 80m | FOOD |
 Cena Udón en Pontochō Alley.
 https://www.google.com/maps/place/Pontocho+Alley
 
 Option
 Okariba
 Estilo rústico, muy auténtico.
-
 
 @day
 stars: 5
@@ -1869,57 +1866,57 @@ image2: Ferry_Miyajima.png
 image3: Itsukushima.png
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
-06:30 | 10m | WALK |
+07:30 | 10m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
 
-06:40 | 15m | TRAIN |
+07:40 | 15m | TRAIN |
 (CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
 
-06:55 | 10m | WALK |
+07:55 | 10m | WALK |
 Caminar a andenes de Shinkansen.
 
-07:05 | 85m | TRAIN |
-(CLP 58M) Tren Shinkansen temprano a Hiroshima.
+08:05 | 85m | TRAIN |
+(CLP 58M) Tren Shinkansen a Hiroshima.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Hiroshima+Station
 
-08:30 | 10m | WALK |
+09:30 | 10m | WALK |
 Caminar a parada de tranvía en la plaza exterior.
 
-08:40 | 15m | BUS |
+09:40 | 15m | BUS |
 (CLP 1.3M) Tranvía (Hiroden) a parada Genbaku Dome-mae.
 https://www.google.com/maps/dir/Hiroshima+Station/Atomic+Bomb+Dome
 
-08:55 | 5m | WALK |
+09:55 | 5m | WALK |
 Caminar a la Cúpula de la Bomba Atómica.
 
-09:00 | 150m | VISIT |
+10:00 | 150m | VISIT |
 Caminar por el Parque y Museo de la Paz.
 https://www.google.com/maps/place/Hiroshima+Peace+Memorial+Museum
 
-11:30 | 10m | WALK |
+12:30 | 10m | WALK |
 Caminar a estación de tranvía Genbaku Dome-mae.
 
-11:40 | 15m | BUS |
+12:40 | 15m | BUS |
 (CLP 1.3M) Tranvía a estación Yokogawa.
 
-11:55 | 5m | WALK |
+12:55 | 5m | WALK |
 Caminar a andén JR.
 
-12:00 | 25m | TRAIN |
+13:00 | 25m | TRAIN |
 (CLP 2.4M) Tren local JR a estación Miyajimaguchi.
 
-12:25 | 5m | WALK |
+13:25 | 5m | WALK |
 Caminar a terminal de ferrys.
 
-12:30 | 10m | VISIT |
+13:30 | 10m | VISIT |
 (CLP 1.2M) Ferry a Miyajima.
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
-12:40 | 10m | WALK |
+13:40 | 10m | WALK |
 Caminar ingresando a la isla.
 
-12:50 | 60m | FOOD |
+13:50 | 60m | FOOD |
 Almuerzo probando comida tradicional de la zona.
 https://www.google.com/maps/place/Kakiya+Miyajima
 
@@ -1927,26 +1924,26 @@ Option
 Kakiya
 Especialistas en ostras asadas en Miyajima.
 
-13:50 | 120m | VISIT |
+14:50 | 120m | VISIT |
 Caminar hacia Santuario Itsukushima (torii flotante).
 https://www.google.com/maps/place/Itsukushima+Shrine
 
-15:50 | 15m | WALK |
+16:50 | 15m | WALK |
 Caminar a terminal de ferrys.
 
-16:05 | 10m | VISIT |
+17:05 | 10m | VISIT |
 (CLP 1.2M) Ferry de regreso a Miyajimaguchi.
 
-16:15 | 5m | WALK |
+17:15 | 5m | WALK |
 Caminar a estación de tren JR.
 
-16:20 | 30m | TRAIN |
+17:20 | 30m | TRAIN |
 (CLP 1.3M) Tren local JR a estación Hiroshima.
 
-16:50 | 10m | WALK |
+17:50 | 10m | WALK |
 Caminar hacia centro comercial anexo a la estación (ekie).
 
-17:00 | 75m | FOOD |
+18:00 | 75m | FOOD |
 Cena Okonomiyaki estilo Hiroshima.
 https://www.google.com/maps/place/Micchan+Sohonten+ekie
 
@@ -1954,20 +1951,20 @@ Option
 Micchan Sohonten
 Dentro del centro comercial ekie en la estación.
 
-18:15 | 10m | WALK |
+19:15 | 10m | WALK |
 Caminar a andenes de Shinkansen.
 
-18:25 | 85m | TRAIN |
+19:25 | 85m | TRAIN |
 (CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
-19:50 | 10m | WALK |
+20:50 | 10m | WALK |
 Caminar a andén de metro Midosuji.
 
-20:00 | 15m | TRAIN |
+21:00 | 15m | TRAIN |
 (CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
 
-20:15 | 10m | WALK |
+21:15 | 10m | WALK |
 Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
 https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
 
