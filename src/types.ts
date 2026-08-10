@@ -26,6 +26,11 @@ export interface DayNote {
   content: string;
 }
 
+export interface DayImage {
+  src: string;
+  label?: string;
+}
+
 export interface Day {
   id: string;           // e.g. "day-1"
   dayNumber: number;    // e.g. 1
@@ -40,7 +45,7 @@ export interface Day {
   stars?: number;
   notes: DayNote[];
   events: TripEvent[];
-  images?: string[];
+  images?: DayImage[];
   fotos?: string[];
 }
 

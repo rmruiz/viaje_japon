@@ -300,9 +300,16 @@ export function parseTripData(rawText: string): TripData {
       else if (/^(image\d*|foto|fotos):/i.test(trimmed)) {
         const rawVal = trimmed.replace(/^(image\d*|foto|fotos):/i, '').trim();
         if (rawVal) {
-          const imgPath = normalizeImagePath(rawVal);
+          let src = rawVal;
+          let label: string | undefined = undefined;
+          const match = rawVal.match(/^(.*?)\s*\[(.*?)\]$/);
+          if (match) {
+            src = match[1].trim();
+            label = match[2].trim();
+          }
+          const imgPath = normalizeImagePath(src);
           if (!currentDay.images) currentDay.images = [];
-          currentDay.images.push(imgPath);
+          currentDay.images.push({ src: imgPath, label });
         }
       }
     } else if (mode === 'NOTE' && currentNote) {

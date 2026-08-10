@@ -213,11 +213,21 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
   let imagesHtml = '';
   if (day.images && day.images.length > 0) {
     imagesHtml += `<div class="day-collapsed-images day-toggle-btn">`;
-    day.images.forEach((imgSrc) => {
+    day.images.forEach((img) => {
+      const altText = img.label || day.title;
+      const searchQuery = img.label || day.title;
+      const googleImagesUrl = `https://images.google.com/images?q=${encodeURIComponent(searchQuery)}`;
+      const titleAttr = img.label 
+        ? `Buscar '${img.label}' en Google Imágenes` 
+        : `Buscar '${day.title}' en Google Imágenes`;
+
       imagesHtml += `
-        <div class="day-thumb-wrapper">
-          <img src="${imgSrc}" alt="${day.title}" class="day-thumb-img" onerror="window.handleImageError && window.handleImageError(this, '${imgSrc}')" />
-        </div>
+        <a href="${googleImagesUrl}" target="_blank" rel="noopener noreferrer" class="day-thumb-link" title="${titleAttr}" onclick="event.stopPropagation();">
+          <div class="day-thumb-wrapper">
+            <img src="${img.src}" alt="${altText}" class="day-thumb-img" onerror="window.handleImageError && window.handleImageError(this, '${img.src}')" />
+            ${img.label ? `<div class="day-thumb-caption">${img.label}</div>` : ''}
+          </div>
+        </a>
       `;
     });
     imagesHtml += `</div>`;

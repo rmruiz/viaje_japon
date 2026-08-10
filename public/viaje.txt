@@ -42,9 +42,9 @@ stars: 5
 title: Ueno y Akihabara
 steps: 17500
 summary: Museo Nacional de Tokio + Parque Ueno + Ameyoko + Akihabara
-image1: museonacional.png
-image2: parqueueno.png
-image3: Ameyoko_Akihabara.png
+image1: museonacional.png [Museo Nacional de Tokio en Ueno]
+image2: parqueueno.png [Estanques del Parque de Ueno]
+image3: Ameyoko_Akihabara.png [Mercado Ameyoko y Akihabara]
 
 08:35 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
@@ -123,9 +123,9 @@ stars: 5
 title: Excursión a Nikkō
 steps: 17500
 summary: Nikkō Tōshō-gū + Bosques de montaña + Yuba tradicional
-image1: NikkoToshogu.png
-image2: Bosques_nikko.png
-image3: cena_tokio.png
+image1: NikkoToshogu.png [Santuario Nikko Toshogu]
+image2: Bosques_nikko.png [Senderos Bosques de Nikko]
+image3: cena_tokio.png [Cena de Bienvenida en Tokio]
 
 @note
 ¡Llevar ropa de nieve y térmica! Nikkō estará considerablemente más frío que Tokio (bajo cero o nieve).
@@ -200,8 +200,8 @@ stars: 5
 title: Magia en Tokyo Disney Resort (Tokyo DisneySea)
 steps: 20000
 summary: Traslado a Maihama + Día Completo en Tokyo Disney Resort + Fuegos Artificiales + Regreso a Shinjuku
-image1: Tokyo_Disney.png
-image2: Tokyo_DisneySea.png
+image1: Tokyo_Disney.png [Parque Temático Tokyo Disneyland]
+image2: Tokyo_DisneySea.png [Parque Temático Tokyo DisneySea]
 
 06:45 | 1m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
@@ -260,8 +260,8 @@ stars: 4
 title: Museo Edo y Asakusa
 steps: 15000
 summary: Museo Edo-Tokio + Templo Sensō-ji
-image1: edo.png
-image2: sensoji.png
+image1: edo.png [Exposiciones en el Museo Edo-Tokyo]
+image2: sensoji.png [Templo Sensō-ji en Asakusa]
 
 @note
 Museo Edo Tokio:
@@ -320,10 +320,10 @@ stars: 5
 title: Harajuku y Shibuya
 steps: 17000
 summary: Santuario Meiji + Takeshita Street + Cat Street + Nintendo & Pokémon Parco + Shibuya Crossing
-image1: Santuario_Meiji.png
-image2: Nintendo_Parco.png
-image3: Shibuya_Crossing.png
-image4: Shibuya_Sky.png
+image1: Santuario_Meiji.png [Santuario Shintoísta Meiji Jingu]
+image2: Nintendo_Parco.png [Tienda Nintendo Tokyo en Shibuya Parco]
+image3: Shibuya_Crossing.png [Cruce Peatonal de Shibuya]
+image4: Shibuya_Sky.png [Mirador Shibuya Sky en las Alturas]
 
 @note
 Los boletos para el atardecer se agotan con un mes de anticipación, por lo que debes comprarlos online exactamente 4 semanas antes de tu visita
@@ -408,10 +408,10 @@ stars: 5
 title: Excursión a Kamakura
 steps: 17500
 summary: Gran Buda Kōtoku-in + Templo Hase-dera + Komachi-dori + Santuario Tsurugaoka Hachimangū + Avenida Dankazura
-image1: Gran_Buda.png
-image2: Templo_Hasedera.png
-image3: Komachidori.png
-image4: TsurugaokaHachimangu.png
+image1: Gran_Buda.png [Gran Buda Amida de Kamakura]
+image2: Templo_Hasedera.png [Templo de la Diosa Kannon Hase-dera]
+image3: Komachidori.png [Calle Comercial Komachi-dori]
+image4: TsurugaokaHachimangu.png [Santuario Tsurugaoka Hachimangu]
 
 @note
 Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abordar el tren Enoden hacia Hase, suele haber filas en las máquinas de boletos. Si todos usan su tarjeta IC o Suica en Apple Wallet/Google Wallet, pasarán directo por los torniquetes sin perder tiempo.
@@ -499,10 +499,10 @@ stars: 5
 title: Shinjuku: parques y callejones
 steps: 14000
 summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
-image1: Shinjuku_Gyoen.png
-image2: Mirador_Gobierno_Metropolitano.png
-image3: Golden_Gai.png
-image4: Omoide_Yokocho.png
+image1: Shinjuku_Gyoen.png [Jardines de Shinjuku Gyoen]
+image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Metropolitano]
+image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
+image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
 
 09:20 | 20m | WALK |
 Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
@@ -558,10 +558,10 @@ stars: 4
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
-image1: Jardines_Hamarikyu.png
-image2: teamLab_Planets.png
-image3: gundam.png
-image4: liberty.png
+image1: Jardines_Hamarikyu.png [Jardines Hamarikyu]
+image2: teamLab_Planets.png [Exposición Digital Inmersiva teamLab Planets]
+image3: gundam.png [Estatua del robot Gundam Gigante en Odaiba]
+image4: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
 08:15 | 7m | WALK |
@@ -637,9 +637,9 @@ stars: 5
 title: Excursión al Monte Fuji (Kawaguchiko)
 steps: 12000
 summary: Pagoda Chūreitō + Lago Kawaguchiko + Hōtō + Teleférico Kachi-Kachi + Reflejo Sakasa Fuji
-image1: Pagoda_Chureito.png
-image2: Teleferico_Kachi.png
-image3: reflejo_fuji.png
+image1: Pagoda_Chureito.png [Pagoda Chureito con el Monte Fuji]
+image2: Teleferico_Kachi.png [Vistas desde el Teleférico Kachi Kachi]
+image3: reflejo_fuji.png [Reflejo del Monte Fuji en el Lago Kawaguchiko]
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
@@ -739,9 +739,9 @@ title: Nakano Broadway
 https://www.google.com/maps/place/Nakano+Broadway
 steps: 12000
 summary: Galería Sun Mall + Nakano Broadway + Coleccionismo retro / anime + Izakaya
-image1: Galeria_Sun_Mall.png
-image2: Nakano_Broadway.png
-image3: Izakaya.png
+image1: Galeria_Sun_Mall.png [Galería Nakano Sun Mall]
+image2: Nakano_Broadway.png [Centro Comercial Nakano Broadway]
+image3: Izakaya.png [Cena Tradicional en Izakaya]
 https://www.google.com/maps/place/Nakano+Broadway
 
 @note
@@ -877,9 +877,9 @@ stars: 5
 title: Excursión a Shirakawa-gō
 steps: 15000
 summary: Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
-image1: Shirakawago.png
-image2: mirador_Shiroyama.png
-image3: Mercado_Miyagawa.png
+image1: Shirakawago.png [Casas Gassho-zukuri en Shirakawa-go]
+image2: mirador_Shiroyama.png [Vistas desde el Mirador de Shiroyama]
+image3: Mercado_Miyagawa.png [Mercado Matutino de Miyagawa]
 
 08:15 | 15m | WALK |
 Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (junto a la estación).
@@ -944,9 +944,9 @@ stars: 5
 title: Excursión a Okuhida y Nieve
 steps: 12000
 summary: Bus a Okuhida + Teleférico Shinhotaka (2000m) + Hirayu Onsen (Rotenburo en nieve)
-image1: Teleferico_Shinhotaka.png
-image2: Hirayu_Onsen.png
-image3: Hirayu_Onsen2.png
+image1: Teleferico_Shinhotaka.png [Teleférico de Doble Piso Shinhotaka]
+image2: Hirayu_Onsen.png [Aguas Termales de Hirayu Onsen]
+image3: Hirayu_Onsen2.png [Baños al Aire Libre de Hirayu Onsen]
 
 08:20 | 15m | WALK |
 Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume.
@@ -1010,9 +1010,9 @@ title: Takayama profundo y Ruta de los Templos
 steps: 18000
 summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
 https://www.google.com/maps/place/Hida+Folk+Village
-image1: Takayama_Jinya.png
-image2: Ruta_Higashiyama.png
-image3: Aldea_Hida_Minzoku_Mura.png
+image1: Takayama_Jinya.png [Edificio Histórico Takayama Jinya]
+image2: Ruta_Higashiyama.png [Camino de Templos de Higashiyama]
+image3: Aldea_Hida_Minzoku_Mura.png [Aldea Folclórica Hida Minzoku Mura]
 
 @note
 Este día se puede eliminar o dejar un dia full onsen
@@ -1074,8 +1074,8 @@ stars: 5
 title: Takayama → Kioto (Día de Traslado)
 steps: 8000
 summary: Desayuno en Takayama + Tren Hida Ltd. Express + Shinkansen a Kioto + Check-in en MIMARU + Paseo ligero por Sanjo-dori / Templo Rokkakudo
-image1: Sanjo_dori.png
-image2: Templo_Rokkakudo.png
+image1: Sanjo_dori.png [Calle Histórica Sanjo-dori]
+image2: Templo_Rokkakudo.png [Templo Rokkakudo (Cuna de Ikebana)]
 
 @note
 Templo Rokkakudo (Choho-ji):
@@ -1142,10 +1142,10 @@ stars: 5
 title: Arashiyama profundo y Otagi Nenbutsu-ji
 steps: 16000
 summary: Templo Otagi Nenbutsu-ji + Adashino Nenbutsu-ji (Sendero de Bambú) + Templo Tenryū-ji + Paseo en Barco + Parque de Monos Iwatayama
-image1: Otagi_Nenbutsuji.png
-image2: Adashino_Nenbutsuji.png
-image3: Templo_Tenryuji.png
-image4: Parque_Monos_Iwatayama.png
+image1: Otagi_Nenbutsuji.png [Esculturas de Piedra del Templo Otagi Nenbutsu-ji]
+image2: Adashino_Nenbutsuji.png [Templo Adashino Nenbutsu-ji]
+image3: Templo_Tenryuji.png [Jardín del Templo Tenryu-ji en Arashiyama]
+image4: Parque_Monos_Iwatayama.png [Parque de los Monos de Arashiyama Iwatayama]
 
 @note
 Recomendación: Tomar un par de taxis (o bus) desde la estación hacia Otagi Nenbutsu-ji, ya que es el punto más alto. Desde ahí, todo el recorrido de la mañana será en bajada por las hermosas calles históricas de Saga-Toriimoto.
@@ -1251,10 +1251,10 @@ stars: 5
 title: Fushimi Inari + Higashiyama
 steps: 18000
 summary: Fushimi Inari-taisha + Kimonos + Kiyomizu-dera + Sannenzaka/Ninenzaka + Gion + Pontochō
-image1: Fushimi_Inaritaisha.png
-image2: Kimono_Higashiyama.png
-image3: Templo_Kiyomizudera.png
-image4: Sannenzaka_Ninenzaka.png
+image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
+image2: Kimono_Higashiyama.png [Paseo en Kimono por Higashiyama]
+image3: Templo_Kiyomizudera.png [Terraza de Madera del Templo Kiyomizu-dera]
+image4: Sannenzaka_Ninenzaka.png [Calles Tradicionales Sannenzaka y Ninenzaka]
 
 @note
 Van a querer andar en kimono?
@@ -1344,10 +1344,10 @@ stars: 5
 title: Pabellón de Oro + centro
 steps: 15000
 summary: Kinkaku-ji + Ryōan-ji + Castillo Nijō + Mercado Nishiki
-image1: Templo_Kinkakuji.png
-image2: Jardinsen_Ryoanji.png
-image3: Castillo_Nijo.png
-image4: Mercado_Nishiki.png
+image1: Templo_Kinkakuji.png [Templo Kinkaku-ji (Pabellón de Oro)]
+image2: Jardinsen_Ryoanji.png [Jardín de Rocas Zen del Templo Ryoan-ji]
+image3: Castillo_Nijo.png [Castillo de Nijo]
+image4: Mercado_Nishiki.png [Mercado de Comida Nishiki Market]
 
 08:00 | 5m | WALK |
 Caminar a la parada de bus en Shijo Karasuma.
@@ -1417,10 +1417,10 @@ stars: 5
 title: Ginkaku-ji, Paseo de la Filosofía y té
 steps: 16000
 summary: Ginkaku-ji + Paseo de la Filosofía + Nanzen-ji + Santuario Heian + Ceremonia del Té
-image1: Templo_Ginkakuji.png
-image2: Paseo_Filosofia.png
-image3: Templo_Nanzenji.png
-image4: Santuario_Heian.png
+image1: Templo_Ginkakuji.png [Templo Ginkaku-ji (Pabellón de Plata)]
+image2: Paseo_Filosofia.png [Sendero del Camino de la Filosofía]
+image3: Templo_Nanzenji.png [Templo Zen Nanzen-ji]
+image4: Santuario_Heian.png [Santuario Heian-jingu]
 
 08:45 | 5m | WALK |
 Caminar a la parada de bus en Karasuma Oike.
@@ -1560,10 +1560,10 @@ stars: 5
 title: Osaka urbano
 steps: 15000
 summary: Galerías de Shinsaibashi + Paseo en bote Dōtonbori + Torre Tsūtenkaku + Shinsekai + Kushikatsu
-image1: Galerias_Shinsaibashi.png
-image2: Torre_Tsutenkaku.png
-image3: Barrio_Shinsekai.png
-image4: Kushikatsu.png
+image1: Galerias_Shinsaibashi.png [Galerías Comerciales de Shinsaibashi]
+image2: Torre_Tsutenkaku.png [Torre Tsutenkaku en Shinsekai]
+image3: Barrio_Shinsekai.png [Barrio Shinsekai]
+image4: Kushikatsu.png [Almuerzo de Brochetas Kushikatsu]
 
 10:45 | 15m | WALK |
 Caminar de MIMARU Osaka Namba Station hacia Shinsaibashi / Dōtonbori.
@@ -1633,10 +1633,10 @@ stars: 5
 title: Universal Studios Japan
 steps: 20000
 summary: USJ + Super Nintendo World + Express Pass + Atracciones + Hard Rock Cafe
-image1: Universal_Studios_Japan.png
-image2: Super_Nintendo_World.png
-image3: Atracciones_USJ.png
-image4: Hard_Rock_Cafe.png
+image1: Universal_Studios_Japan.png [Parque Universal Studios Japan]
+image2: Super_Nintendo_World.png [Super Nintendo World en USJ]
+image3: Atracciones_USJ.png [Atracciones de Universal Studios Japan]
+image4: Hard_Rock_Cafe.png [Cena en Hard Rock Cafe Osaka]
 
 06:15 | 10m | WALK |
 Caminar a estación Osaka-Namba (línea Hanshin).
@@ -1701,10 +1701,10 @@ stars: 5
 title: Excursión a Nara
 steps: 16000
 summary: Parque de Nara + Ciervos + Pagoda Kōfuku-ji + Tōdai-ji (Gran Buda) + Kasuga Taisha + Kitsune Udon
-image1: Parque_Nara.png
-image2: Pagoda_Kofukuji.png
-image3: Todaiji_Gran_Buda.png
-image4: Santuario_KasugaTaisha.png
+image1: Parque_Nara.png [Ciervos en el Parque de Nara]
+image2: Pagoda_Kofukuji.png [Pagoda de Cinco Pisos del Templo Kofuku-ji]
+image3: Todaiji_Gran_Buda.png [Gran Buda del Templo Todai-ji]
+image4: Santuario_KasugaTaisha.png [Santuario Kasuga Taisha y Linternas de Bronce]
 
 08:40 | 5m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Kintetsu-Nipponbashi.
@@ -1777,10 +1777,10 @@ stars: 5
 title: Castillo de Osaka y Umeda
 steps: 17000
 summary: Castillo de Osaka + Templo Shitenno-ji + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
-image1: Castillo_Osaka.png
-image2: Templo_Shitennoji.png
-image3: Centros_comerciales_Umeda.png
-image4: Mirador_Umeda_Sky.png
+image1: Castillo_Osaka.png [Castillo de Osaka]
+image2: Templo_Shitennoji.png [Templo Shitennoji de Osaka]
+image3: Centros_comerciales_Umeda.png [Centros Comerciales de Umeda]
+image4: Mirador_Umeda_Sky.png [Mirador Kuchu Teien en Umeda Sky Building]
 
 @note
 Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entrar al Castillo de Himeji
@@ -1861,9 +1861,9 @@ stars: 5
 title: Hiroshima y Miyajima
 steps: 18000
 summary: Shinkansen a Hiroshima + Cúpula y Parque de la Paz + Ferry a Miyajima + Itsukushima + Okonomiyaki
-image1: Cupula.png
-image2: Ferry_Miyajima.png
-image3: Itsukushima.png
+image1: Cupula.png [Cúpula de la Bomba Atómica en Hiroshima]
+image2: Ferry_Miyajima.png [Ferry hacia la Isla de Miyajima]
+image3: Itsukushima.png [Gran Torii Flotante de Itsukushima]
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
 07:30 | 10m | WALK |
@@ -1974,9 +1974,9 @@ stars: 3
 title: Den Den Town + acuario
 steps: 12000
 summary: Den Den Town (Otaku) + Omurice + Acuario Kaiyūkan (Tiburón Ballena)
-image1: DenDenTown.png
-image2: Omurice.png
-image3: Acuario_Kaiyukan.png
+image1: DenDenTown.png [Barrio de Electrónica Den Den Town]
+image2: Omurice.png [Almuerzo de Omurice]
+image3: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
 
 @note
 día de acuario, podemos reutilizarlo
@@ -2043,8 +2043,8 @@ stars: 5
 title: Excursión al Parque Ghibli (desde Kioto)
 steps: 16000
 summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
-image1: Parque_Ghibli.png
-image2: Parque_Ghibli2.png
+image1: Parque_Ghibli.png [Parque de Ghibli (Entrada principal)]
+image2: Parque_Ghibli2.png [Gran Almacén de Ghibli]
 
 07:15 | 15m | TAXI |
 (CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
@@ -2133,9 +2133,9 @@ stars: 5
 title: Excursión a Himeji
 steps: 14000
 summary: Shinkansen a Himeji + Castillo de Himeji (interior) + Jardines Kōko-en + Curry House CoCo Ichibanya
-image1: Castillo_Himeji.png
-image2: Jardines_Kokoen.png
-image3: Curry_House_CoCo_Ichibanya.png
+image1: Castillo_Himeji.png [Castillo de Himeji]
+image2: Jardines_Kokoen.png [Jardines Koko-en]
+image3: Curry_House_CoCo_Ichibanya.png [Almuerzo en Curry House CoCo Ichibanya]
 
 07:50 | 10m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
@@ -2209,9 +2209,9 @@ stars: 5
 title: Kuromon y despedida
 steps: 12000
 summary: Mercado Kuromon + Compras en Dotonbori/Shinsaibashi + Cena de despedida Wagyu Yakiniku
-image1: Mercado_Kuromon.png
-image2: DotonboriShinsaibashi.png
-image3: Wagyu_Yakiniku.png
+image1: Mercado_Kuromon.png [Mercado de Mariscos Kuromon Ichiba]
+image2: DotonboriShinsaibashi.png [Distritos de Dotonbori y Shinsaibashi]
+image3: Wagyu_Yakiniku.png [Cena de Wagyu Yakiniku]
 
 10:15 | 5m | WALK |
 Caminar desde MIMARU Osaka Namba Station al Mercado Kuromon (a solo metros de distancia).
