@@ -1,6 +1,6 @@
 @trip
 title: Japón — Itinerario Reestructurado
-departure: 2026-02-15
+departure: 2026-02-13
 return: 2026-03-15
 timezone: Asia/Tokyo
 currency: JPY
@@ -11,7 +11,6 @@ title: BASE 1 — TOKIO (Shinjuku)
 hotel: Hotel Rose Garden Shinjuku - Prefectura de Tokio, Tokio, Shinjuku-ku, Nishishinjuku 8-1-3, Japón
 summary: Primera base del viaje. Recorrido por Tokio, Fuji, Kamakura, Odaiba, Nikkō y zonas icónicas de la capital.
 
-
 @day
 stars: 5
 title: Llegada a Haneda
@@ -19,21 +18,24 @@ steps: 5000
 summary: Llegada a Haneda + Traslado a Shinjuku + Cena konbini
 
 @note
-Actuzalizar con hora del vuelo
+Vuelvo LA 602
+Check-in: FHHKMA
+Cod Cocha: 25SPL3
+LA602: 12 Feb 23:55 SCL -> 13 Feb 06:15 LAX (Los Angeles)
+LA7455: 13 Feb 11:55 LAX -> 14 Feb 16:40 NRT (Tokio)
 
-17:15 | 90m | HOTEL |
-Aterrizaje en Haneda (17:15) y trámites de migración/equipaje (salida aprox 18:45).
-https://www.google.com/maps/place/Tokyo+Haneda+Airport
+16:40 | 120m | WALK |
+Aterrizaje en Narita (16:40). Ingreso a Japón. Recoger maletas.
 
-18:45 | 60m | TAXI |
+18:00 | 120m | TAXI |
 (CLP 8.7M) Traslado: van privado / Uber XL directo al Hotel Rose Garden Shinjuku (45–60 min, 100–120 USD).
-https://www.google.com/maps/dir/Haneda+Airport,+Tokyo/Hotel+Rose+Garden+Shinjuku
+https://www.google.com/maps/dir/Narita+Airport,+Tokyo/Hotel+Rose+Garden+Shinjuku
 
-19:45 | 45m | HOTEL |
+19:20 | 60m | HOTEL |
 Check-in en el Hotel Rose Garden Shinjuku.
 https://www.google.com/maps/place/Hotel+Rose+Garden+Shinjuku
 
-20:30 | 60m | FOOD |
+20:20 | 60m | FOOD |
 Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
 https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
@@ -45,6 +47,9 @@ summary: Museo Nacional de Tokio + Parque Ueno + Ameyoko + Akihabara
 image1: museonacional.png [Museo Nacional de Tokio en Ueno]
 image2: parqueueno.png [Estanques del Parque de Ueno]
 image3: Ameyoko_Akihabara.png [Mercado Ameyoko y Akihabara]
+
+@note
+El Museo Nacional de Tokio abre de Martes a Domingo
 
 08:35 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
@@ -1013,7 +1018,7 @@ image2: Ruta_Higashiyama.png [Camino de Templos de Higashiyama]
 image3: Aldea_Hida_Minzoku_Mura.png [Aldea Folclórica Hida Minzoku Mura]
 
 @note
-Este día se puede eliminar o dejar un dia full onsen
+Eliminar
 
 09:00 | 10m | WALK |
 Caminar desde el Ryokan Oyado Koto No Yume a la antigua sede de gobierno (Takayama Jinya).
@@ -2252,29 +2257,36 @@ title: Salida por KIX
 steps: 5000
 summary: Desayuno + Traslado a Nankai Namba + Tren Nankai Rapi:t a KIX + Vuelo de regreso
 
-@note
-Actuzalizar con hora del vuelo
-
 
 08:30 | 60m | FOOD |
 Desayuno en el hotel o cafetería cercana.
 
-09:30 | 10m | WALK |
+09:00 | 30m | HOTEL |
+Checkout. Dejar Maletas en Hotel
+
+09:30 | 180m | WALK |
+Paseo tranqui cerca del Hotel
+
+12:30 | 10m | HOTEL |
+Retirar Maletas.
+
+12:40 | 20m | WALK |
 Caminar de manera pausada con el equipaje de las 5 personas desde MIMARU Osaka Namba Station a la estación Nankai Namba.
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nankai+Namba+Station
 
-09:40 | 25m | WALK |
+13:00 | 30m | WALK |
 Caminar internamente en la estación Nankai Namba para comprar/retirar tickets en boleterías.
 
-10:05 | 40m | TRAIN |
+13:30 | 90m | TRAIN |
 (CLP 8.4M) Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios, abordando en Nankai Namba).
 https://www.google.com/maps/dir/Nankai+Namba+Station/Kansai+International+Airport
 
-10:45 | 15m | WALK |
-Caminar cruzando terminal hacia los mostradores de check-in.
-
-11:00 | 180m | HOTEL |
-Trámites de vuelo (Estar en el mostrador 3 h antes de la salida).
+15:00 | 180m | WALK |
+Llegada al Aeropuerto Osaka KIX. Ingreso Maletas. Boarding 17:30
 https://www.google.com/maps/place/Kansai+International+Airport
 
-
+@note
+Check-in: FHHKMA
+Cod Cocha: 25SPL3
+LA7461: 15 Mar 18:00 KIX (Osaka Kansai) -> 15 Mar 12:20 LAX
+LA603: 15 Mar 14:55 LAX -> 16 Mar 05:35 SCL
