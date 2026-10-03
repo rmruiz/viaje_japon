@@ -812,6 +812,12 @@ stars: 5
 title: Tokio → Takayama (Estableciendo la base)
 steps: 14000
 summary: Shinkansen a Nagoya + Tren Hida Ltd. Express + Sanmachi Suji + Carne de Hida
+image1: Takayama_Jinya.png [Edificio Histórico Takayama Jinya]
+image2: Ruta_Higashiyama.png [Camino de Templos de Higashiyama]
+image3: Aldea_Hida_Minzoku_Mura.png [Aldea Folclórica Hida Minzoku Mura]
+
+@note
+Tanto Takayama Jinya como Hida Minzoku Mura (Hida no Sato) cierran sus puertas a las 17:00 (dejando de admitir visitantes a las 16:30)
 
 08:15 | 5m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
@@ -842,7 +848,7 @@ Caminar desde la estación de Takayama al Ryokan Oyado Koto No Yume.
 https://www.google.com/maps/dir/Takayama+Station/Oyado+Koto+No+Yume
 
 13:28 | 17m | HOTEL |
-Check-in o dejar maletas en el ryokan para los próximos 4 días.
+Check-in o dejar maletas en el ryokan para los próximos 3 días.
 
 13:45 | 60m | FOOD |
 Almuerzo tardío en Takayama (fideos Soba calientes).
@@ -853,18 +859,29 @@ Hida Soba
 Fideos de trigo sarraceno calientes.
 
 14:45 | 15m | WALK |
-Caminar hacia el casco antiguo.
+Caminar hacia Takayama Jinya.
 
-15:00 | 125m | VISIT |
+15:00 | 50m | VISIT |
+Visitar Takayama Jinya por dentro.
+https://www.google.com/maps/place/Takayama+Jinya
+
+15:50 | 10m | TAXI |
+Traslado a Hida no Sato. Taxi en la puerta.
+
+16:00 | 60m | VISIT |
+Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tradicionales.
+https://www.google.com/maps/place/Hida+Folk+Village
+
+17:00 | 20m | BUS |
+Regreso a Sanmachi Suji. Tomar el autobús turistico en la puerta de la aldea o regresar en taxi.
+
+17:20 | 90m | VISIT |
 Caminar explorando Sanmachi Suji sin apuros (calles del periodo Edo, destilerías de sake).
 https://www.google.com/maps/place/Sanmachi+Suji
 
-17:05 | 10m | WALK |
+18:50 | 10m | WALK |
 Caminar de regreso al Ryokan Oyado Koto No Yume.
 https://www.google.com/maps/dir/Sanmachi+Suji/Oyado+Koto+No+Yume
-
-17:15 | 105m | BREAK |
-Descanso en el ryokan.
 
 19:00 | 90m | FOOD |
 Cena de bienvenida a los Alpes.
@@ -873,7 +890,6 @@ https://www.google.com/maps/place/Hidagyu+Maruaki+Takayama
 Option
 Hida-gyū (buey de Hida)
 Cortes magros de carne de Hida a la parrilla (yakiniku) con vegetales.
-
 
 @day
 stars: 5
@@ -1005,67 +1021,6 @@ Cena libre por Takayama.
 Option
 Sushi local
 Cortes de pescado blanco y atún magro.
-
-
-@day
-stars: 2
-title: Takayama profundo y Ruta de los Templos
-steps: 18000
-summary: Takayama Jinya + Ruta Higashiyama + Aldea Folclórica Hida Minzoku Mura
-https://www.google.com/maps/place/Hida+Folk+Village
-image1: Takayama_Jinya.png [Edificio Histórico Takayama Jinya]
-image2: Ruta_Higashiyama.png [Camino de Templos de Higashiyama]
-image3: Aldea_Hida_Minzoku_Mura.png [Aldea Folclórica Hida Minzoku Mura]
-
-@note
-Eliminar
-
-09:00 | 10m | WALK |
-Caminar desde el Ryokan Oyado Koto No Yume a la antigua sede de gobierno (Takayama Jinya).
-https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Jinya
-
-09:10 | 5m | BREAK |
-Llegada a Takayama Jinya y preparación para la visita.
-
-09:15 | 90m | VISIT |
-Visitar Takayama Jinya por dentro.
-https://www.google.com/maps/place/Takayama+Jinya
-
-10:45 | 20m | WALK |
-Caminar hacia el este, área de templos de Higashiyama.
-
-11:00 | 150m | VISIT |
-Caminar la Ruta de Higashiyama (Higashiyama Yuhodo) entre templos y bosques.
-https://www.google.com/maps/place/Higashiyama+Walking+Course
-
-13:30 | 20m | WALK |
-Caminar bajando de regreso al centro.
-
-13:50 | 65m | FOOD |
-Almuerzo compensatorio tras la caminata.
-https://www.google.com/maps/place/Center4+Hamburgers
-
-Option
-Center4 Hamburgers
-Famoso local con opción de hamburguesa de Hida-gyū.
-
-14:55 | 30m | BUS |
-(CLP 1.2M) Caminar hacia el oeste de la ciudad (o bus corto) a Hida Minzoku Mura.
-https://www.google.com/maps/place/Hida+Folk+Village
-
-15:25 | 95m | VISIT |
-Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tradicionales.
-https://www.google.com/maps/place/Hida+Folk+Village
-
-17:00 | 10m | BUS |
-(CLP 1.3M) Tomar el bus de regreso al Ryokan Oyado Koto No Yume (o caminar 30 min).
-https://www.google.com/maps/dir/Hida+Folk+Village/Oyado+Koto+No+Yume
-
-17:10 | 140m | HOTEL |
-Organizar maletas en el ryokan para envío a Kioto (Takkyubin) y descansar.
-
-19:30 | 90m | FOOD |
-Cena de despedida de los Alpes.
 
 Option
 Suzuya
