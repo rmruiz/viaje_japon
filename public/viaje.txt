@@ -805,7 +805,7 @@ https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
 @section Alpes
 title: BASE 2 — ALPES JAPONESES (Takayama)
 hotel: Oyado Koto No Yume (Gifu, Takayama, Hanasato machi 6-11, Japón)
-summary: Segunda base del viaje. Takayama como base única para explorar Sanmachi Suji, Shirakawa-gō, Okuhida, Teleférico Shinhotaka y Parque Ghibli.
+summary: Segunda base del viaje. Takayama como base única para explorar Sanmachi Suji, Shirakawa-gō, Okuhida y Teleférico Shinhotaka
 
 @day
 stars: 5
@@ -1136,7 +1136,7 @@ Restaurante histórico de soba tradicional a solo unas cuadras caminando.
 
 
 @section Kioto
-title: BASE 2 — KIOTO (MIMARU Kyoto Shinmachi Sanjo)
+title: BASE 3 — KIOTO (MIMARU Kyoto Shinmachi Sanjo)
 hotel: MIMARU Kyoto Shinmachi Sanjo - Kioto, Nakagyo-ku Machigashiracho 105, Japón
 summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Higashiyama, Kinkaku-ji y ceremonia del té.
 
@@ -1330,6 +1330,95 @@ https://www.google.com/maps/place/Pontocho+Alley
 Option
 Okariba
 Estilo rústico, muy auténtico.
+
+@day
+stars: 5
+title: Excursión al Parque Ghibli (desde Kioto)
+steps: 16000
+summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
+image1: Parque_Ghibli.png [Parque de Ghibli (Entrada principal)]
+image2: Parque_Ghibli2.png [Gran Almacén de Ghibli]
+
+07:15 | 15m | TAXI |
+(CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
+
+07:30 | 15m | WALK |
+Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
+https://www.google.com/maps/place/Kyoto+Station
+
+07:45 | 35m | TRAIN |
+(CLP 30M) Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
+https://www.google.com/maps/dir/Kyoto+Station/Nagoya+Station
+
+08:20 | 10m | WALK |
+Trasbordo interno en Nagoya hacia la línea de metro Higashiyama.
+https://www.google.com/maps/place/Nagoya+Station
+
+08:30 | 28m | TRAIN |
+(CLP 1.3M) Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
+https://www.google.com/maps/dir/Nagoya+Station/Fujigaoka+Station
+
+08:58 | 5m | WALK |
+Cambio de andén hacia la línea de tren Linimo en Fujigaoka.
+
+09:03 | 13m | TRAIN |
+(CLP 2.1M) Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
+https://www.google.com/maps/dir/Fujigaoka+Station/Ghibli+Park
+
+09:16 | 14m | WALK |
+Caminar desde la estación hacia el acceso principal del Parque Ghibli.
+https://www.google.com/maps/place/Ghibli+Park
+
+09:30 | 180m | VISIT |
+Recorrido matutino por las áreas principales del Parque Ghibli (Gran Almacén de Ghibli, Valle de las Brujas).
+https://www.google.com/maps/place/Ghibli+Park
+
+12:30 | 60m | FOOD |
+Almuerzo dentro del parque en cafeterías o puestos temáticos.
+https://www.google.com/maps/place/Ghibli+Park
+
+13:30 | 150m | VISIT |
+Recorrido de la tarde (Colina de la Juventud, Bosque Dondoko, Aldea Mononoke) y compras de souvenirs exclusivos.
+https://www.google.com/maps/place/Ghibli+Park
+
+16:00 | 10m | WALK |
+Caminar de regreso a la estación de tren Linimo Ai-Chikyuhaku Kinen Koen.
+
+16:10 | 15m | TRAIN |
+(CLP 2.1M) Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
+https://www.google.com/maps/dir/Ghibli+Park/Fujigaoka+Station
+
+16:25 | 30m | TRAIN |
+(CLP 1.3M) Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
+https://www.google.com/maps/dir/Fujigaoka+Station/Nagoya+Station
+
+16:55 | 20m | SHOP |
+Tiempo breve para recorrer tiendas o buscar snacks en la Estación de Nagoya.
+https://www.google.com/maps/place/Nagoya+Station
+
+17:15 | 35m | TRAIN |
+(CLP 30M) Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
+https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
+
+17:50 | 20m | TAXI |
+(CLP 8.7M) Traslado en taxi desde la Estación de Kioto de regreso al MIMARU Kyoto Shinmachi Sanjo.
+https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
+
+18:10 | 80m | BREAK |
+Descanso en el hospedaje tras la caminata.
+
+19:30 | 90m | FOOD |
+Cena en Kioto.
+https://www.google.com/maps/place/Chao+Chao+Gyoza+Sanjo
+
+Option
+Chao Chao Gyoza Sanjo
+Especialistas en gyozas crujientes muy cerca del centro.
+
+Option
+Gyoza Hohei Gion
+Gyozas gourmet en un local acogedor en el barrio de Gion.
 
 @day
 stars: 5
@@ -2029,96 +2118,6 @@ Cena libre en el área de Namba.
 Option
 Udon o soba ligeros
 Por los callejones de Dotonbori.
-
-@day
-stars: 5
-title: Excursión al Parque Ghibli (desde Kioto)
-steps: 16000
-summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
-image1: Parque_Ghibli.png [Parque de Ghibli (Entrada principal)]
-image2: Parque_Ghibli2.png [Gran Almacén de Ghibli]
-
-07:15 | 15m | TAXI |
-(CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
-https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
-
-07:30 | 15m | WALK |
-Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
-https://www.google.com/maps/place/Kyoto+Station
-
-07:45 | 35m | TRAIN |
-(CLP 30M) Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
-https://www.google.com/maps/dir/Kyoto+Station/Nagoya+Station
-
-08:20 | 10m | WALK |
-Trasbordo interno en Nagoya hacia la línea de metro Higashiyama.
-https://www.google.com/maps/place/Nagoya+Station
-
-08:30 | 28m | TRAIN |
-(CLP 1.3M) Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
-https://www.google.com/maps/dir/Nagoya+Station/Fujigaoka+Station
-
-08:58 | 5m | WALK |
-Cambio de andén hacia la línea de tren Linimo en Fujigaoka.
-
-09:03 | 13m | TRAIN |
-(CLP 2.1M) Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
-https://www.google.com/maps/dir/Fujigaoka+Station/Ghibli+Park
-
-09:16 | 14m | WALK |
-Caminar desde la estación hacia el acceso principal del Parque Ghibli.
-https://www.google.com/maps/place/Ghibli+Park
-
-09:30 | 180m | VISIT |
-Recorrido matutino por las áreas principales del Parque Ghibli (Gran Almacén de Ghibli, Valle de las Brujas).
-https://www.google.com/maps/place/Ghibli+Park
-
-12:30 | 60m | FOOD |
-Almuerzo dentro del parque en cafeterías o puestos temáticos.
-https://www.google.com/maps/place/Ghibli+Park
-
-13:30 | 150m | VISIT |
-Recorrido de la tarde (Colina de la Juventud, Bosque Dondoko, Aldea Mononoke) y compras de souvenirs exclusivos.
-https://www.google.com/maps/place/Ghibli+Park
-
-16:00 | 10m | WALK |
-Caminar de regreso a la estación de tren Linimo Ai-Chikyuhaku Kinen Koen.
-
-16:10 | 15m | TRAIN |
-(CLP 2.1M) Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
-https://www.google.com/maps/dir/Ghibli+Park/Fujigaoka+Station
-
-16:25 | 30m | TRAIN |
-(CLP 1.3M) Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
-https://www.google.com/maps/dir/Fujigaoka+Station/Nagoya+Station
-
-16:55 | 20m | SHOP |
-Tiempo breve para recorrer tiendas o buscar snacks en la Estación de Nagoya.
-https://www.google.com/maps/place/Nagoya+Station
-
-17:15 | 35m | TRAIN |
-(CLP 30M) Tren Shinkansen de regreso Estación de Nagoya → Estación de Kioto.
-https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
-
-17:50 | 20m | TAXI |
-(CLP 8.7M) Traslado en taxi desde la Estación de Kioto de regreso al MIMARU Kyoto Shinmachi Sanjo.
-https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
-
-18:10 | 80m | BREAK |
-Descanso en el hospedaje tras la caminata.
-
-19:30 | 90m | FOOD |
-Cena en Kioto.
-https://www.google.com/maps/place/Chao+Chao+Gyoza+Sanjo
-
-Option
-Chao Chao Gyoza Sanjo
-Especialistas en gyozas crujientes muy cerca del centro.
-
-Option
-Gyoza Hohei Gion
-Gyozas gourmet en un local acogedor en el barrio de Gion.
-
 
 @day
 stars: 5
