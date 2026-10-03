@@ -1253,14 +1253,10 @@ Fideos ligeros tradicionales.
 stars: 5
 title: Fushimi Inari + Higashiyama
 steps: 18000
-summary: Fushimi Inari-taisha + Kimonos + Kiyomizu-dera + Sannenzaka/Ninenzaka + Gion + Pontochō
+summary: Fushimi Inari-taisha + Kiyomizu-dera + Sannenzaka/Ninenzaka + Gion + Pontochō
 image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
-image2: Kimono_Higashiyama.png [Paseo en Kimono por Higashiyama]
-image3: Templo_Kiyomizudera.png [Terraza de Madera del Templo Kiyomizu-dera]
-image4: Sannenzaka_Ninenzaka.png [Calles Tradicionales Sannenzaka y Ninenzaka]
-
-@note
-Van a querer andar en kimono?
+image2: Templo_Kiyomizudera.png [Terraza de Madera del Templo Kiyomizu-dera]
+image3: Sannenzaka_Ninenzaka.png [Calles Tradicionales Sannenzaka y Ninenzaka]
 
 07:30 | 5m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
@@ -1291,10 +1287,6 @@ https://www.google.com/maps/dir/Fushimi-Inari+Station/Kiyomizu-Gojo+Station
 10:50 | 15m | WALK |
 Caminar en subida hacia tienda de alquiler en Higashiyama.
 
-11:05 | 60m | SHOP |
-Alquiler de kimono para las chicas.
-https://www.google.com/maps/place/Kiyomizu-dera
-
 12:05 | 20m | WALK |
 Caminar cuesta arriba hacia el templo.
 
@@ -1323,9 +1315,6 @@ Caminar a Santuario Yasaka.
 17:25 | 45m | VISIT |
 Visita Santuario Yasaka.
 https://www.google.com/maps/place/Yasaka+Shrine
-
-18:10 | 15m | WALK |
-Caminar a devolver kimonos.
 
 18:25 | 60m | PHOTO |
 Caminar explorando el barrio de Gion al atardecer.
