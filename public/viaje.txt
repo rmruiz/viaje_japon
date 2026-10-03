@@ -2049,76 +2049,6 @@ Caminar a andén de metro Midosuji.
 Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
 https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
 
-
-@day
-stars: 3
-title: Den Den Town + acuario
-steps: 12000
-summary: Den Den Town (Otaku) + Omurice + Acuario Kaiyūkan (Tiburón Ballena)
-image1: DenDenTown.png [Barrio de Electrónica Den Den Town]
-image2: Omurice.png [Almuerzo de Omurice]
-image3: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
-
-@note
-día de acuario, podemos reutilizarlo
-
-10:15 | 15m | WALK |
-Caminar desde MIMARU Osaka Namba Station directo a las tiendas principales de Den Den Town (Nipponbashi).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Den+Den+Town
-
-10:30 | 120m | SHOP |
-Caminar explorando tiendas en Den Den Town (barrio otaku).
-https://www.google.com/maps/place/Den+Den+Town
-
-12:30 | 15m | WALK |
-Caminar en dirección norte hacia los restaurantes.
-
-12:45 | 70m | FOOD |
-Almuerzo Omurice.
-https://www.google.com/maps/place/Hokkyokusei+Shinsaibashi
-
-Option
-Hokkyokusei Shinsaibashi Main Store
-Local original, se come en piso tradicional tatami.
-
-13:55 | 5m | WALK |
-Caminar de regreso al hotel o directo a la estación Nipponbashi.
-https://www.google.com/maps/dir/Hokkyokusei+Shinsaibashi/Nipponbashi+Station
-
-14:00 | 25m | TRAIN |
-(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Osakako.
-https://www.google.com/maps/dir/Nipponbashi+Station/Osakako+Station
-
-14:25 | 15m | WALK |
-Caminar de la estación Osakako hacia el acuario.
-
-14:40 | 180m | VISIT |
-Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
-https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
-
-17:40 | 10m | WALK |
-Caminar de regreso a estación Osakako.
-
-17:50 | 15m | TRAIN |
-(CLP 1.4M) Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
-
-18:05 | 5m | WALK |
-Caminar y cambiar a línea Midosuji / Sakaisuji.
-
-18:10 | 5m | TRAIN |
-(CLP 1.3M) Metro a Namba / Nagahoribashi.
-
-18:15 | 75m | BREAK |
-Caminar de regreso al hotel MIMARU Osaka Namba Station a descansar.
-https://www.google.com/maps/dir/Nipponbashi+Station/MIMARU+Osaka+Namba+Station
-
-19:30 | 90m | FOOD |
-Cena libre en el área de Namba.
-
-Option
-Udon o soba ligeros
-Por los callejones de Dotonbori.
-
 @day
 stars: 5
 title: Excursión a Himeji
@@ -2127,6 +2057,8 @@ summary: Shinkansen a Himeji + Castillo de Himeji (interior) + Jardines Kōko-en
 image1: Castillo_Himeji.png [Castillo de Himeji]
 image2: Jardines_Kokoen.png [Jardines Koko-en]
 image3: Curry_House_CoCo_Ichibanya.png [Almuerzo en Curry House CoCo Ichibanya]
+image3: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
+
 
 07:50 | 10m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
@@ -2169,24 +2101,34 @@ Fideos tradicionales rápidos en la misma estación.
 13:45 | 10m | WALK |
 Caminar a andenes de tren.
 
-13:55 | 35m | TRAIN |
-(CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
-https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
+14:00 | 25m | TRAIN |
+(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Osakako.
+https://www.google.com/maps/dir/Nipponbashi+Station/Osakako+Station
 
-14:30 | 10m | WALK |
-Caminar a línea Midosuji.
+14:25 | 15m | WALK |
+Caminar de la estación Osakako hacia el acuario.
 
-14:40 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
+14:40 | 180m | VISIT |
+Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
+https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
-14:55 | 175m | BREAK |
-Caminar de regreso al hotel MIMARU Osaka Namba Station para tarde libre.
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+17:40 | 10m | WALK |
+Caminar de regreso a estación Osakako.
 
-17:50 | 10m | WALK |
-Caminar a restaurante céntrico.
+17:50 | 15m | TRAIN |
+(CLP 1.4M) Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
 
-18:00 | 90m | FOOD |
+18:05 | 5m | WALK |
+Caminar y cambiar a línea Midosuji / Sakaisuji.
+
+18:10 | 5m | TRAIN |
+(CLP 1.3M) Metro a Namba / Nagahoribashi.
+
+18:15 | 75m | BREAK |
+Caminar de regreso al hotel MIMARU Osaka Namba Station a descansar.
+https://www.google.com/maps/dir/Nipponbashi+Station/MIMARU+Osaka+Namba+Station
+
+19:00 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
 https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
@@ -2244,7 +2186,7 @@ stars: 5
 title: Salida por KIX
 steps: 5000
 summary: Desayuno + Traslado a Nankai Namba + Tren Nankai Rapi:t a KIX + Vuelo de regreso
-
+image1: DenDenTown.png [Barrio de Electrónica Den Den Town]
 
 08:30 | 60m | FOOD |
 Desayuno en el hotel o cafetería cercana.
@@ -2252,8 +2194,21 @@ Desayuno en el hotel o cafetería cercana.
 09:00 | 30m | HOTEL |
 Checkout. Dejar Maletas en Hotel
 
-09:30 | 180m | WALK |
-Paseo tranqui cerca del Hotel
+09:30 | 15m | WALK |
+Caminar desde MIMARU Osaka Namba Station directo a las tiendas principales de Den Den Town (Nipponbashi).
+https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Den+Den+Town
+
+09:45 | 195m | SHOP |
+Caminar explorando tiendas en Den Den Town (barrio otaku).
+https://www.google.com/maps/place/Den+Den+Town
+
+Option
+Udon o soba ligeros
+Por los callejones de Dotonbori.
+
+12:15 | 15m | WALK |
+Caminar desde Den Den Town a Hotel MIMARU Osaka Namba Station.
+https://www.google.com/maps/dir/Den+Den+Town/MIMARU+Osaka+Namba+Station
 
 12:30 | 10m | HOTEL |
 Retirar Maletas.
