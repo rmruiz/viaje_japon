@@ -1,5 +1,5 @@
 import { parseTripData } from './parser';
-import { renderSidebar, renderHoyBanner, renderMainContent, handleImageError } from './ui';
+import { renderSidebar, renderHoyBanner, renderMainContent, handleImageError, renderReturnWarning } from './ui';
 import { setupRouter } from './router';
 import { TripData } from './types';
 
@@ -52,6 +52,7 @@ async function initApp() {
   const sidebarNav = document.getElementById('sidebar-nav');
   const mainContent = document.getElementById('main-content');
   const hoyContainer = document.getElementById('hoy-banner-container');
+  const returnWarningContainer = document.getElementById('return-warning-container');
   const searchInput = document.getElementById('search-input') as HTMLInputElement;
   const themeToggle = document.getElementById('theme-toggle');
   const btnHoy = document.getElementById('btn-hoy');
@@ -92,7 +93,10 @@ async function initApp() {
     const rawText = await response.text();
     globalTripData = parseTripData(rawText);
 
-    // Render Hoy Banner & Sidebar
+    // Render advertencia de fecha de regreso (si aplica), Hoy Banner & Sidebar
+    if (returnWarningContainer) {
+      renderReturnWarning(globalTripData, returnWarningContainer);
+    }
     renderHoyBanner(globalTripData, hoyContainer);
     renderSidebar(globalTripData, sidebarNav, '');
     

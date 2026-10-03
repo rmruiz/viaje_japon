@@ -1275,3 +1275,49 @@ body.sidebar-collapsed .app-content {
   text-decoration-style: solid;
 }
 
+
+/* ==========================================================================
+   Advertencia: fecha de regreso inconsistente con la suma de días
+   ========================================================================== */
+.return-warning {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.return-warning-icon {
+  font-size: 1.4rem;
+  line-height: 1.3;
+}
+
+.return-warning-title {
+  font-weight: 700;
+  color: #f59e0b;
+  margin-bottom: 0.25rem;
+}
+
+.return-warning-text {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.return-warning-text code {
+  background: var(--bg-secondary);
+  padding: 0.1rem 0.35rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.85em;
+}
+
+[data-theme="light"] .return-warning {
+  background: rgba(245, 158, 11, 0.08);
+  border-color: rgba(180, 83, 9, 0.4);
+}
+
+[data-theme="light"] .return-warning-title {
+  color: #b45309;
+}

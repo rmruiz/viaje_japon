@@ -9,6 +9,13 @@ const WEEKDAY_NAMES_ES = [
   'Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'
 ];
 
+export function formatDateStr(dateStr: string): string {
+  const parts = dateStr.trim().split('-');
+  if (parts.length !== 3) return dateStr;
+  const d = new Date(Date.UTC(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10)));
+  return `${WEEKDAY_NAMES_ES[d.getUTCDay()]} ${d.getUTCDate()} de ${MONTH_NAMES_ES[d.getUTCMonth()].toLowerCase()} de ${d.getUTCFullYear()}`;
+}
+
 function addDaysToDate(baseDateStr: string, daysToAdd: number): { dateStr: string; formatted: string; weekday: string } {
   // Parse YYYY-MM-DD in UTC/local safely
   const parts = baseDateStr.trim().split('-');
@@ -28,11 +35,7 @@ function addDaysToDate(baseDateStr: string, daysToAdd: number): { dateStr: strin
   const dd = String(d.getUTCDate()).padStart(2, '0');
   const dateStr = `${yyyy}-${mm}-${dd}`;
 
-  const weekday = WEEKDAY_NAMES_ES[d.getUTCDay()];
-  const monthName = MONTH_NAMES_ES[d.getUTCMonth()];
-  const formatted = `${weekday} ${d.getUTCDate()} de ${monthName.toLowerCase()} de ${yyyy}`;
-
-  return { dateStr, formatted, weekday };
+  return { dateStr, formatted: formatDateStr(dateStr), weekday: WEEKDAY_NAMES_ES[d.getUTCDay()] };
 }
 
 export function parseInlineLinks(text: string): string {
@@ -216,7 +219,8 @@ export function parseTripData(rawText: string): TripData {
       totalDayCounter++;
       
       const dayNumber = totalDayCounter;
-      const { dateStr, formatted, weekday } = addDaysToDate(config.departure, dayNumber - 1);
+      // Día N = departure + N días: el Día 1 es la llegada a Japón, al día siguiente de la salida desde Santiago.
+      const { dateStr, formatted, weekday } = addDaysToDate(config.departure, dayNumber);
       
       const sectionId = currentSection ? currentSection.id : 'section-general';
       const sectionTitle = currentSection ? currentSection.name : 'General';
@@ -330,15 +334,21 @@ export function parseTripData(rawText: string): TripData {
 
   // Re-calculate dates in case departure was parsed after days
   allDays.forEach(day => {
-    const { dateStr, formatted, weekday } = addDaysToDate(config.departure, day.dayNumber - 1);
+      const { dateStr, formatted, weekday } = addDaysToDate(config.departure, day.dayNumber);
     day.dateStr = dateStr;
     day.dateFormatted = formatted;
     day.dayOfWeek = weekday;
   });
 
+  // expectedReturn = departure + N días: como se llega a destino al día siguiente de la
+  // salida (Día 1 = departure + 1), el último día (Día N) cae en departure + N, que es la
+  // fecha de regreso esperada (día en que se sale de Japón).
+  const expectedReturn = addDaysToDate(config.departure, allDays.length).dateStr;
+
   return {
     config,
     sections,
-    allDays
+    allDays,
+    expectedReturn
   };
 }

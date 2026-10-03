@@ -1,4 +1,5 @@
 import { TripData, Day, Section, TripEvent } from './types';
+import { formatDateStr } from './parser';
 
 export function getEventTypeIcon(type: string): string {
   switch (type.toUpperCase()) {
@@ -84,27 +85,31 @@ export function renderSidebar(tripData: TripData, container: HTMLElement, active
 export function renderHoyBanner(tripData: TripData, container: HTMLElement) {
   const now = new Date();
   const departureDate = new Date(tripData.config.departure);
-  const returnDate = new Date(tripData.config.return);
 
   // Strip hours for pure date comparison
   const nowZero = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const depZero = new Date(departureDate.getFullYear(), departureDate.getMonth(), departureDate.getDate());
 
-  const diffTime = nowZero.getTime() - depZero.getTime();
-  const diffDays = Math.floor(diffTime / (1000 * 3600 * 24)) + 1; // 1-indexed
+  // offsetDays = días desde la salida desde Santiago (0 = día de la salida).
+  // El viaje dura 2 días: el Día 1 (llegada a Japón) es al día siguiente de la salida.
+  const offsetDays = Math.floor((nowZero.getTime() - depZero.getTime()) / (1000 * 3600 * 24));
+  const totalDays = tripData.allDays.length;
 
   let matchedDay: Day | undefined;
   let statusText = '';
 
-  if (diffDays <= 0) {
+  if (offsetDays < 0) {
     matchedDay = tripData.allDays[0];
-    const daysLeft = Math.abs(diffDays) + 1;
-    statusText = `Faltan ${daysLeft} días para el inicio del viaje. Mostrando Día 1:`;
-  } else if (diffDays > tripData.allDays.length) {
-    matchedDay = tripData.allDays[tripData.allDays.length - 1];
+    const daysLeft = Math.abs(offsetDays);
+    statusText = `Faltan ${daysLeft} ${daysLeft === 1 ? 'día' : 'días'} para la salida desde Santiago. El Día 1 (llegada a Japón) es el ${tripData.allDays[0].dateFormatted}:`;
+  } else if (offsetDays === 0) {
+    matchedDay = tripData.allDays[0];
+    statusText = `Hoy sales de Santiago. El Día 1 (llegada a Japón) es mañana, ${tripData.allDays[0].dateFormatted}:`;
+  } else if (offsetDays > totalDays) {
+    matchedDay = tripData.allDays[totalDays - 1];
     statusText = `¡El viaje ha finalizado! Mostrando el último día del itinerario:`;
   } else {
-    matchedDay = tripData.allDays.find(d => d.dayNumber === diffDays) || tripData.allDays[0];
+    matchedDay = tripData.allDays.find(d => d.dayNumber === offsetDays) || tripData.allDays[0];
     statusText = `Hoy es el Día ${matchedDay.dayNumber} de tu itinerario en Japón:`;
   }
 
@@ -124,6 +129,33 @@ export function renderHoyBanner(tripData: TripData, container: HTMLElement) {
         <div class="hoy-stat-box">
           <div class="hoy-stat-val">${matchedDay.steps ? matchedDay.steps.toLocaleString('es-ES') : 0}</div>
           <div class="hoy-stat-lbl">Pasos est.</div>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+export function renderReturnWarning(tripData: TripData, container: HTMLElement) {
+  const { config, expectedReturn, allDays } = tripData;
+
+  // Sin advertencia: sin días configurados o la fecha de regreso coincide con la suma de días.
+  if (allDays.length === 0 || config.return === expectedReturn) {
+    container.innerHTML = '';
+    return;
+  }
+
+  const returnFormatted = config.return ? formatDateStr(config.return) : '(no configurada)';
+  const totalDays = allDays.length;
+
+  container.innerHTML = `
+    <div class="return-warning" role="alert">
+      <span class="return-warning-icon">⚠️</span>
+      <div>
+        <div class="return-warning-title">Fecha de regreso inconsistente</div>
+        <div class="return-warning-text">
+          La fecha de regreso configurada en <code>viaje.txt</code> (<strong>${returnFormatted}</strong>) no coincide con la suma de los días configurados:
+          salida el <strong>${formatDateStr(config.departure)}</strong> + <strong>${totalDays} días</strong> = <strong>${formatDateStr(expectedReturn)}</strong>.
+          El viaje dura 2 días desde Santiago (se llega a destino al día siguiente de la salida): el Día 1 es el <strong>${allDays[0].dateFormatted}</strong> y el Día ${totalDays} el <strong>${allDays[totalDays - 1].dateFormatted}</strong>.
         </div>
       </div>
     </div>

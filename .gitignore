@@ -7,6 +7,9 @@ yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
 digest.txt
+docs/Cocha_Voucher_Flight.pdf
+.DS_Store
+public/.viaje.txt.swp
 
 dist/*
 

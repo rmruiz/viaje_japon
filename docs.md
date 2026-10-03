@@ -1,10 +1,12 @@
 # docs.md — Planificador de Viaje a Japón 2026
 
-Sitio web estático para visualizar la planificación y el seguimiento del viaje a Japón (15 de febrero – 15 de marzo de 2026). Toda la información del itinerario vive en un único archivo de texto plano (`public/viaje.txt`) que se parsea y renderiza en el navegador al cargar la página. No hay backend, base de datos ni estado persistente: el viaje es "código de contenido" editable a mano. El archivo actual contiene **31 días, 4 secciones (bases), 447 eventos, 65 opciones, 15 notas y 89 referencias de imágenes** (el directorio `public/images/` tiene 95 archivos).
+Sitio web estático para visualizar la planificación y el seguimiento del viaje a Japón (15 de febrero – 15 de marzo de 2026). Toda la información del itinerario vive en un único archivo de texto plano (`public/viaje.txt`) que se parsea y renderiza en el navegador al cargar la página. No hay backend, base de datos ni estado persistente: el viaje es "código de contenido" editable a mano.
+El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 
 ## 1. Estructura del archivo `public/viaje.txt`
 
-El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. Conteo actual: 31 días, 4 secciones (bases), 447 eventos, 65 opciones, 15 notas y 89 imágenes referenciadas.
+El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. 
+Conteo actual: 31 días, 4 secciones (bases), 447 eventos, 65 opciones, 15 notas y 89 imágenes referenciadas.
 
 ### 1.1 Jerarquía
 

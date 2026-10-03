@@ -63,4 +63,5 @@ export interface TripData {
   config: TripConfig;
   sections: Section[];
   allDays: Day[];
+  expectedReturn: string; // YYYY-MM-DD = departure + N días (se llega a destino al día siguiente de la salida)
 }
