@@ -551,6 +551,12 @@ body.sidebar-collapsed .app-content {
   margin-bottom: 2rem;
   border-left: 5px solid var(--accent-primary);
   box-shadow: var(--shadow-main);
+  /* Fijo (sticky) mientras se scrollean los días de su base; se libera
+     al llegar a la siguiente base (fin de su .section-block) */
+  position: sticky;
+  top: calc(var(--header-height) + 1rem);
+  z-index: 30;
+  transition: padding 0.35s ease;
 }
 
 .section-title-card h2 {
@@ -558,6 +564,7 @@ body.sidebar-collapsed .app-content {
   font-weight: 800;
   color: var(--text-main);
   margin-bottom: 0.5rem;
+  transition: font-size 0.35s ease, margin 0.35s ease;
 }
 
 .section-info-row {
@@ -573,6 +580,36 @@ body.sidebar-collapsed .app-content {
   display: flex;
   align-items: center;
   gap: 0.4rem;
+}
+
+/* Sentinel de altura cero en el tope natural de la tarjeta: app.ts lo observa
+   (IntersectionObserver) para marcar la tarjeta is-stuck al quedar fija */
+.section-sticky-sentinel {
+  height: 0;
+}
+
+/* Detalle de la tarjeta (alojamiento, estadía, resumen): se oculta con
+   transición cuando la tarjeta queda fija, dejando solo el título */
+.section-card-details {
+  max-height: 30rem;
+  opacity: 1;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.3s ease;
+}
+
+.section-title-card.is-stuck {
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
+}
+
+.section-title-card.is-stuck h2 {
+  font-size: 1.05rem;
+  margin-bottom: 0;
+}
+
+.section-title-card.is-stuck .section-card-details {
+  max-height: 0;
+  opacity: 0;
 }
 
 /* Day Container Card */
@@ -930,6 +967,17 @@ body.sidebar-collapsed .app-content {
   font-size: 1rem;
   color: var(--text-main);
   font-mono: monospace;
+}
+
+/* Advertencia: la hora de inicio no coincide con el fin de la actividad anterior */
+.event-gap-warning {
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: help;
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: 9999px;
+  padding: 0.15rem 0.4rem;
 }
 
 .event-duration {

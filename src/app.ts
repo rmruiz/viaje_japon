@@ -62,7 +62,6 @@ async function initApp() {
   const mapsIframeContainer = document.getElementById('maps-iframe-container');
   const mapsExtLink = document.getElementById('maps-external-link') as HTMLAnchorElement;
 
-  const starFilterSelect = document.getElementById('star-filter') as HTMLSelectElement;
   const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
   const contentLayout = document.getElementById('content-layout');
   const btnCloseMaps = document.getElementById('btn-close-maps');
@@ -70,9 +69,34 @@ async function initApp() {
   if (!sidebarNav || !mainContent || !hoyContainer) return;
 
   try {
-    // App filters and sorting state
-    let starFilter = 0;
+    // App sorting state
     let sortMode = 'cron';
+
+    // Detecta cuando una tarjeta BASE queda fija (sticky): cada .section-block lleva un
+    // sentinel de altura cero en el tope natural de la tarjeta; cuando ese punto cruza la
+    // línea sticky, la tarjeta se compacta (clase is-stuck: solo título, ver CSS).
+    // Se re-activa tras cada re-render del contenido principal.
+    let stickyObserver: IntersectionObserver | null = null;
+    function setupStickySections() {
+      if (stickyObserver) stickyObserver.disconnect();
+      const container = mainContent;
+      if (!container) return;
+      const sentinels = Array.from(container.querySelectorAll<HTMLElement>('.section-sticky-sentinel'));
+      if (sentinels.length === 0) {
+        stickyObserver = null;
+        return;
+      }
+      const headerHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--header-height')) || 70;
+      const stickyTop = headerHeight + 16; // coincide con `top: calc(var(--header-height) + 1rem)`
+      stickyObserver = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          const card = entry.target.closest('.section-block')?.querySelector<HTMLElement>('.section-title-card');
+          if (!card) continue;
+          card.classList.toggle('is-stuck', entry.boundingClientRect.top <= stickyTop + 0.5);
+        }
+      }, { rootMargin: `-${stickyTop}px 0px 0px 0px`, threshold: 0 });
+      sentinels.forEach((s) => stickyObserver?.observe(s));
+    }
 
     // Restore sidebar collapse preference
     const savedCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
@@ -101,7 +125,8 @@ async function initApp() {
     renderSidebar(globalTripData, sidebarNav, '');
     
     // All days start collapsed by default
-    renderMainContent(globalTripData, mainContent, '', expandedDayIds, starFilter, sortMode);
+    renderMainContent(globalTripData, mainContent, '', expandedDayIds, sortMode);
+    setupStickySections();
 
     // Function to load Google Maps URL into right panel
     function loadMapUrl(rawUrl: string) {
@@ -177,8 +202,13 @@ async function initApp() {
         const icon = card.querySelector('.day-collapse-icon');
 
         if (card.classList.contains('collapsed')) {
-          card.classList.remove('collapsed');
+          // Solo un día ampliado a la vez: colapsar el que esté abierto
+          if (expandedDayIds.size > 0) {
+            const [openId] = expandedDayIds;
+            if (openId !== dayId) collapseDayCardInDom(openId);
+          }
           expandedDayIds.add(dayId);
+          card.classList.remove('collapsed');
           if (icon) icon.textContent = '▲';
         } else {
           card.classList.add('collapsed');
@@ -188,8 +218,22 @@ async function initApp() {
       }
     });
 
-    // Helper to expand a day card in DOM
+    // Helper to collapse a day card in DOM
+    function collapseDayCardInDom(dayId: string) {
+      const card = document.getElementById(dayId);
+      if (!card || card.classList.contains('collapsed')) return;
+      card.classList.add('collapsed');
+      const icon = card.querySelector('.day-collapse-icon');
+      if (icon) icon.textContent = '▼';
+    }
+
+    // Helper to expand a day card in DOM (colapsa cualquier otro día ampliado)
     function expandDayCard(dayId: string) {
+      if (expandedDayIds.size > 0) {
+        const [openId] = expandedDayIds;
+        if (openId !== dayId) collapseDayCardInDom(openId);
+      }
+      expandedDayIds.clear();
       expandedDayIds.add(dayId);
       const card = document.getElementById(dayId);
       if (card) {
@@ -223,18 +267,8 @@ async function initApp() {
       searchInput.addEventListener('input', (e) => {
         const query = (e.target as HTMLInputElement).value;
         if (globalTripData) {
-          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
-        }
-      });
-    }
-
-    // Setup Star Rating Filter Listener
-    if (starFilterSelect) {
-      starFilterSelect.addEventListener('change', (e) => {
-        starFilter = parseInt((e.target as HTMLSelectElement).value, 10) || 0;
-        if (globalTripData) {
-          const query = searchInput ? searchInput.value : '';
-          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
+          renderMainContent(globalTripData, mainContent, query, expandedDayIds, sortMode);
+          setupStickySections();
         }
       });
     }
@@ -245,7 +279,8 @@ async function initApp() {
         sortMode = (e.target as HTMLSelectElement).value;
         if (globalTripData) {
           const query = searchInput ? searchInput.value : '';
-          renderMainContent(globalTripData, mainContent, query, expandedDayIds, starFilter, sortMode);
+          renderMainContent(globalTripData, mainContent, query, expandedDayIds, sortMode);
+          setupStickySections();
         }
       });
     }

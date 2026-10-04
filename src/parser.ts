@@ -16,7 +16,7 @@ export function formatDateStr(dateStr: string): string {
   return `${WEEKDAY_NAMES_ES[d.getUTCDay()]} ${d.getUTCDate()} de ${MONTH_NAMES_ES[d.getUTCMonth()].toLowerCase()} de ${d.getUTCFullYear()}`;
 }
 
-function addDaysToDate(baseDateStr: string, daysToAdd: number): { dateStr: string; formatted: string; weekday: string } {
+export function addDaysToDate(baseDateStr: string, daysToAdd: number): { dateStr: string; formatted: string; weekday: string } {
   // Parse YYYY-MM-DD in UTC/local safely
   const parts = baseDateStr.trim().split('-');
   if (parts.length !== 3) {

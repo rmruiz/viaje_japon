@@ -6,7 +6,7 @@ El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 ## 1. Estructura del archivo `public/viaje.txt`
 
 El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. 
-Conteo actual: 31 días, 4 secciones (bases), 447 eventos, 65 opciones, 15 notas y 89 imágenes referenciadas.
+Conteo actual: 29 días, 4 secciones (bases), 429 eventos, 63 opciones, 14 notas y 87 imágenes referenciadas.
 
 ### 1.1 Jerarquía
 
@@ -28,7 +28,7 @@ Líneas `clave: valor` reconocidas:
 | Clave       | Ejemplo             | Uso en el sitio                                                        |
 |-------------|---------------------|------------------------------------------------------------------------|
 | `title`     | `Japón — Itinerario Reestructurado` | Se parsea, pero no se muestra en la UI               |
-| `departure` | `2026-02-15`        | Origen de todas las fechas de día (`YYYY-MM-DD`)                       |
+| `departure` | `2026-02-13`        | Origen de todas las fechas de día (`YYYY-MM-DD`)                       |
 | `return`    | `2026-03-15`        | Comparada contra la suma de días (`departure + N`) → advertencia si no coincide |
 | `timezone`  | `Asia/Tokyo`        | Se parsea, sin uso en la UI                                            |
 | `currency`  | `JPY`               | Se parsea, sin uso en la UI                                            |
@@ -45,8 +45,16 @@ El nombre va en la misma línea del tag. El `id` interno se genera como `section
 | `hotel:`  | Alojamiento, mostrado como `🏨 Alojamiento:` en la tarjeta de sección |
 | `summary:`| Descripción de la base, con soporte de enlaces inline        |
 | `notes:`  | Se parsea, pero **no se renderiza** en la UI                 |
-
 La tarjeta de sección aparece una sola vez antes del primer día de esa base (se oculta al buscar o al ordenar por estrellas).
+
+**Resumen de estadía del hotel**: la tarjeta muestra además `🗓️ Estadía: Check-in: <fecha> · Check-out: <fecha> · N noches`, calculado con `renderSectionStay()` (`src/ui.ts`) y `addDaysToDate()` (exportado por el parser):
+
+- **Check-in** = fecha del primer día de la base (día de llegada).
+- **Check-out** = fecha del primer día + N días (N = cantidad de días de la base, "días transcurridos"); fórmula literal en todas las bases, incluida la última (donde el check-out cae en `departure + días totales`, fuera del itinerario).
+
+**Comportamiento sticky**: al hacer scroll hacia abajo, la tarjeta BASE queda fija bajo el header hasta que llega la siguiente base. Implementación: `renderMainContent()` envuelve cada base (tarjeta + días) en un `div.section-block`; el CSS aplica `position: sticky; top: calc(var(--header-height) + 1rem); z-index: 30` a `.section-title-card`, de modo que la tarjeta se libera al terminar el bloque de su base.
+
+**Estado compacto al quedar fija**: cuando la tarjeta queda pegada se compacta con transición (~0.4s): se muestra solo el título (fuente 1.75rem → 1.05rem, padding reducido) y el resto del contenido (alojamiento, estadía y resumen, envueltos en `.section-card-details`) se oculta gradualmente; al volver a su posición natural se expande de nuevo. El estado se marca con la clase `is-stuck`, que un `IntersectionObserver` en `app.ts` (`setupStickySections()`) aplica/desaplica al detectar que un sentinel de altura cero (`.section-sticky-sentinel`, al tope natural de cada bloque) cruza la línea sticky.
 
 ### 1.4 `@day` — Días
 
@@ -54,7 +62,7 @@ Claves reconocidas:
 
 | Clave    | Ejemplo                                                    | Uso                                            |
 |----------|------------------------------------------------------------|------------------------------------------------|
-| `stars:` | `5`                                                        | Calificación 0–5 → estrellas en el encabezado y filtro |
+| `stars:` | `5`                                                        | Calificación 0–5 → estrellas en el encabezado y para el ordenamiento |
 | `title:` | `Ueno y Akihabara`                                         | Título del día                                 |
 | `steps:` | `17500`                                                    | Pasos estimados → badge `👟` y en la barra "Hoy" |
 | `summary:`| `Museo Nacional de Tokio + Parque Ueno…`                   | Subtítulo bajo el título (soporta enlaces inline) |
@@ -170,7 +178,7 @@ Es una **SPA de un solo archivo de datos**: el único "estado" global es el obje
 
 ```
 index.html          → Layout estático: header, sidebar, columna de días, panel de mapas
-css/style.css       → ~1.300 líneas: layout, tarjetas, timeline, temas, responsive
+css/style.css       → ≈1.340 líneas: layout, tarjetas, timeline, temas, responsive
 public/viaje.txt    → Fuente de datos (ver §1)
 public/images/      → 95 PNGs de los días
 src/types.ts        → Interfaces: TripData, Section, Day, TripEvent, EventOption, DayNote, DayImage, TripConfig
@@ -193,7 +201,7 @@ viaje.txt ──fetch──▶ parseTripData() ──▶ TripData { config, sect
              (acordeones sección→días)      (banner "Hoy en Japón")         (tarjetas de día + timeline)
 ```
 
-- Cada filtro/búsqueda **re-renderiza** el contenido principal completo a partir de `TripData` (reconstrucción de `innerHTML`); el conjunto de días expandidos se conserva en un `Set<string>` para no perder el estado del usuario.
+- Cada búsqueda/ordenamiento **re-renderiza** el contenido principal completo a partir de `TripData` (reconstrucción de `innerHTML`); el conjunto de días expandidos (a lo sumo un id, ver §3.2) se conserva en un `Set<string>` para no perder el estado del usuario.
 - `allDays` es la lista aplanada en orden cronológico; cada `Day` guarda `sectionId`/`sectionTitle` para localizar su base.
 
 ### 2.4 Módulo `app.ts` — orquestación
@@ -209,7 +217,8 @@ Responsabilidades principales:
 - **Tema oscuro/claro**: toggle en el header; se aplica el atributo `data-theme` en `<html>` y se persiste en `localStorage('theme')`. Por defecto `dark`.
 - **Sidebar**: en escritorio colapsa/expande (preferencia en `localStorage('sidebarCollapsed')`); en móvil (≤ 900px) funciona como drawer.
 - **Hash router** (ver §3.6).
-- **Búsqueda y filtros** (ver §3.3): cada `input`/`change` vuelve a llamar `renderMainContent` con los parámetros actuales.
+- **Búsqueda y ordenamiento** (ver §3.4): cada `input`/`change` vuelve a llamar `renderMainContent` con los parámetros actuales.
+- **Tarjetas BASE sticky**: `setupStickySections()` observa los sentinels de cada `.section-block` y marca `is-stuck` en la tarjeta al quedar fija (estado compacto con solo título, ver §1.3); se re-activa tras cada re-render del contenido.
 
 ### 2.5 Módulo `parser.ts` — detalles
 
@@ -230,9 +239,9 @@ Responsabilidades principales:
   - Durante: "Hoy es el Día N de tu itinerario en Japón" + día correspondiente.
   - Después del último día: "¡El viaje ha finalizado!" + último día.
   - Muestra estadísticas (número de día, día de semana, pasos estimados).
-- `renderDayCard`: plantilla de tarjeta de día completa (encabezado, imágenes, notas, timeline, navegación).
+- `renderDayCard`: plantilla de tarjeta de día completa (encabezado, imágenes, notas, timeline con badge ⚠️ de discrepancia de tiempos, navegación).
 - `renderReturnWarning`: muestra la advertencia de fecha de regreso inconsistente (ver §3.5); no renderiza nada si las fechas coinciden.
-- `renderMainContent`: aplica búsqueda → filtro de estrellas → orden, y arma el HTML concatenando tarjetas de sección (en orden cronológico) y tarjetas de día.
+- `renderMainContent`: aplica búsqueda → orden, y arma el HTML envuelto por base: cada base (tarjeta de sección + días) va dentro de un `div.section-block` (tarjeta BASE sticky, ver §1.3); la tarjeta de sección incluye el resumen de estadía del hotel (`renderSectionStay()`).
 - Fallback de imágenes: `onerror` → `createMissingImagePlaceholder()` dibuja en un `<canvas>` (520×340, respetando el tema actual) un marcador rojo "FALTA IMAGEN" con el nombre del archivo, y lo usa como `dataURL`.
 
 ---
@@ -248,8 +257,8 @@ Tres zonas (todas definidas en `index.html`):
 │ Header fijo: ☰ sidebar · 🌸 Japón 2026 · 🔍 búsqueda · 📅 Hoy · tema │
 ├───────────────┬──────────────────────────────┬─────────────────┤
 │  Sidebar      │  Columna central de días      │  Columna de     │
-│  (300px)      │  · control-bar (⭐ filtro,    │  mapas (iframe  │
-│  secciones y  │    ⇅ orden)                   │  Google Maps)   │
+│  (300px)      │  · control-bar (⇅ orden)      │  mapas (iframe  │
+│  secciones y  │                               │  Google Maps)   │
 │  días         │  · hoy-banner                 │  (oculta hasta  │
 │  (drawer      │  · tarjetas de día            │   primer clic)  │
 │   en móvil)   │                               │                 │
@@ -258,7 +267,7 @@ Tres zonas (todas definidas en `index.html`):
 
 ### 3.2 Tarjeta de día (estado colapsado vs expandido)
 
-- **Todos los días nacen colapsados** (`expandedDayIds` vacío). Clic en el encabezado expande/colapsa (icono ▼/▲).
+- **Todos los días nacen colapsados** (`expandedDayIds` vacío). Clic en el encabezado expande/colapsa (icono ▼/▲). **Solo un día puede estar ampliado a la vez**: al abrir un día se colapsa el que estuviera abierto (aplica tanto al clic en el encabezado como a la navegación por hash); `expandedDayIds` tiene a lo sumo un id.
 - **Encabezado** (siempre visible): badge `Día N`, calificación en estrellas (★ rellenas/vacías), fecha formateada, badge de base `🏠 <sección>` (solo al ordenar por estrellas o en búsqueda), título + resumen, badge de pasos `👟`, flecha de colapso.
 - **Fila de imágenes**: visible **solo colapsado** — las miniaturas con caption; clic abre **búsqueda de Google Imágenes** con la etiqueta (o el título del día) como consulta. Imágenes que no cargan → placeholder canvas "FALTA IMAGEN".
 - **Notas** `📌`: visibles en ambos estados (justo debajo de las imágenes).
@@ -271,15 +280,14 @@ Cada evento se pinta como una fila en línea de tiempo:
 
 - **Marcador** con emoji del tipo sobre un punto de color por tipo (variables CSS `--badge-*`), conectado por la línea vertical de la timeline.
 - **Encabezado**: `⏰ HH:MM`, badge de duración (clicable `🗺️` si el evento tiene URL de Maps), badge de tipo en mayúsculas con su color.
-- **Descripción** con enlaces inline y chips de enlaces (`🔗` / `🗺️ Google Maps`).
+- **Advertencia de discrepancia de tiempos**: si la hora de inicio de un evento no corresponde a la hora de inicio del evento anterior + su duración (brecha o solapamiento), se muestra un badge ⚠️ pequeño (`.event-gap-warning`, ámbar) junto a la hora, con tooltip que indica la hora esperada y la real. La calcula `renderTimeGapWarning()` (`src/ui.ts`); el primer evento del día nunca la muestra.
 - **Opciones** (`Option`): tarjetas `🍴` con título y descripción.
 
-### 3.4 Búsqueda, filtro y ordenamiento
+### 3.4 Búsqueda y ordenamiento
 
 Barra de controles sobre las tarjetas:
 
 - **Búsqueda** (header): filtra días por coincidencia (mayúsculas/miniúsculas indistintas) en `title`, `summary`, descripciones de eventos y títulos de opciones. Con búsqueda activa: los días coincidentes se **expanden automáticamente** y las tarjetas de sección se ocultan.
-- **Filtro por estrellas** (`⭐`): solo días con calificación ≥ N.
 - **Orden** (`⇅`):
   - `cron` — cronológico (orden natural por `dayNumber`).
   - `stars` — de mayor a menor estrellas, con `dayNumber` como desempate (orden estable); oculta las tarjetas de sección y muestra el badge `🏠 base` en cada día para no perder el contexto.
@@ -290,7 +298,7 @@ Barra de controles sobre las tarjetas:
 En la parte superior del contenido principal (sobre el banner "Hoy") el sitio muestra una advertencia si la fecha `return` configurada **no es la misma que la suma de los días configurados**:
 
 - **Fecha de regreso esperada** = `departure + N días` (N = cantidad de `@day`). Como el viaje dura 2 días desde Santiago (se llega a destino al día siguiente de la salida, Día 1 = departure + 1), el último día (Día N) cae en `departure + N`: es el día en que se sale de Japón.
-- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2026-02-15` + 31 días = `2026-03-18`, mientras `return: 2026-03-15` → la advertencia aparece.
+- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2026-02-13` + 29 días = `2026-03-14`, mientras `return: 2026-03-15` → la advertencia aparece.
 - **Qué muestra**: la fecha de regreso configurada, la fecha de salida, el total de días, la fecha esperada y las fechas del Día 1 y del Día N, todas en español.
 - **Cuando no se dispara**: `return = departure + N` → el contenedor `#return-warning-container` queda vacío.
 - Implementación: `renderReturnWarning()` (`src/ui.ts`) sobre `TripData.expectedReturn` (calculado en el parser); estilo ámbar `.return-warning` en `css/style.css`, adaptado al tema claro.
@@ -315,7 +323,7 @@ En la parte superior del contenido principal (sobre el banner "Hoy") el sitio mu
 | `theme`                | `dark` / `light`                   |
 | `sidebarCollapsed`     | `true` / `false`                   |
 
-No hay otra persistencia (búsqueda, filtros, días expandidos y mapa vivo en memoria).
+No hay otra persistencia (búsqueda, orden, días expandidos y mapa viven en memoria).
 
 ### 3.9 Responsive
 

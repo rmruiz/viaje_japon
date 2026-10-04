@@ -1,5 +1,5 @@
 import { TripData, Day, Section, TripEvent } from './types';
-import { formatDateStr } from './parser';
+import { formatDateStr, addDaysToDate } from './parser';
 
 export function getEventTypeIcon(type: string): string {
   switch (type.toUpperCase()) {
@@ -175,6 +175,46 @@ export function renderStars(stars: number = 0): string {
   return html;
 }
 
+// --- Utilidades de consistencia del cronograma (advertencia por evento) ---
+
+function timeToMinutes(time: string): number {
+  const [h, m] = time.split(':').map(part => parseInt(part, 10));
+  return h * 60 + m;
+}
+
+function durationToMinutes(duration: string): number {
+  const match = duration.match(/^(\d+)([mh])?$/);
+  if (!match) return 0;
+  const value = parseInt(match[1], 10);
+  return match[2] === 'h' ? value * 60 : value;
+}
+
+function minutesToTime(totalMinutes: number): string {
+  const mins = ((totalMinutes % 1440) + 1440) % 1440;
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`;
+}
+
+// Badge de advertencia cuando la hora de inicio del evento no coincide con
+// (inicio + duración) del evento anterior (brecha u solapamiento).
+function renderTimeGapWarning(prev: TripEvent, current: TripEvent): string {
+  const expected = timeToMinutes(prev.time) + durationToMinutes(prev.duration);
+  if (timeToMinutes(current.time) === expected % 1440) return '';
+  const title = `Discrepancia de cronograma: la actividad anterior (${prev.type} ${prev.time} + ${prev.duration}) termina a las ${minutesToTime(expected)}, pero esta empieza a las ${current.time}`;
+  return `<span class="event-gap-warning" title="${title}">⚠️</span>`;
+}
+
+// Resumen de la estadía en el hotel de una base: check-in = primer día de la
+// sección; check-out = primer día + cantidad de días de la sección.
+function renderSectionStay(section: Section): string {
+  const firstDay = section.days[0];
+  if (!firstDay) return '';
+  const days = section.days.length;
+  const checkOut = addDaysToDate(firstDay.dateStr, days);
+  return `<div class="section-info-item">🗓️ <strong>Estadía:</strong> Check-in: ${firstDay.dateFormatted} · Check-out: ${checkOut.formatted} · ${days} ${days === 1 ? 'noche' : 'noches'}</div>`;
+}
+
 export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded: boolean = false, showBase: boolean = false): string {
   let notesHtml = '';
   if (day.notes && day.notes.length > 0) {
@@ -189,9 +229,10 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
   }
 
   let eventsHtml = '';
-  day.events.forEach(evt => {
+  day.events.forEach((evt, evtIndex) => {
     const icon = getEventTypeIcon(evt.type);
     const typeClass = getEventTypeClass(evt.type);
+    const gapWarning = evtIndex > 0 ? renderTimeGapWarning(day.events[evtIndex - 1], evt) : '';
 
     let optionsHtml = '';
     if (evt.options && evt.options.length > 0) {
@@ -232,6 +273,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
           <div class="event-time-group">
             <span class="event-time">⏰ ${evt.time}</span>
             ${durationBadge}
+            ${gapWarning}
           </div>
           <span class="event-type-badge ${typeClass}">${evt.type}</span>
         </div>
@@ -326,7 +368,6 @@ export function renderMainContent(
   container: HTMLElement,
   filterQuery: string = '',
   expandedDayIds: Set<string> = new Set(),
-  starFilter: number = 0,
   sortMode: string = 'cron'
 ) {
   let html = '';
@@ -343,12 +384,7 @@ export function renderMainContent(
     );
   }
 
-  // 2. Filter by minimum star rating
-  if (starFilter > 0) {
-    filteredDays = filteredDays.filter(d => (d.stars || 0) >= starFilter);
-  }
-
-  // 3. Sort days
+  // 2. Sort days
   const isSortedByStars = sortMode === 'stars';
   if (isSortedByStars) {
     // Sort descending by stars, preserving relative chronological order (by dayNumber) for ties
@@ -373,21 +409,37 @@ export function renderMainContent(
   }
 
   let currentSectionId = '';
+  let sectionBlockOpen = false;
+  const closeSectionBlock = () => {
+    if (sectionBlockOpen) {
+      html += '</div>';
+      sectionBlockOpen = false;
+    }
+  };
 
   filteredDays.forEach((day) => {
     const section = tripData.sections.find(s => s.id === day.sectionId);
     
     // Render section header card if entering a new section
-    // Hide sections (Bases) when sorted by stars
+    // Hide sections (Bases) when sorted by stars or when searching
     if (section && section.id !== currentSectionId && !filterQuery && !isSortedByStars) {
+      // Cada base se agrupa en un .section-block para que la tarjeta BASE
+      // permanezca fija (sticky) solo mientras los días de esa base estén en pantalla
+      closeSectionBlock();
       currentSectionId = section.id;
+      sectionBlockOpen = true;
       html += `
+        <div class="section-block">
+        <div class="section-sticky-sentinel" aria-hidden="true"></div>
         <div class="section-title-card" id="${section.id}">
           <h2>${section.title}</h2>
-          <div class="section-info-row">
-            ${section.hotel ? `<div class="section-info-item">🏨 <strong>Alojamiento:</strong> ${section.hotel}</div>` : ''}
+          <div class="section-card-details">
+            <div class="section-info-row">
+              ${section.hotel ? `<div class="section-info-item">🏨 <strong>Alojamiento:</strong> ${section.hotel}</div>` : ''}
+              ${renderSectionStay(section)}
+            </div>
+            ${section.summary ? `<p style="margin-top: 0.75rem; color: var(--text-muted);">${section.summary}</p>` : ''}
           </div>
-          ${section.summary ? `<p style="margin-top: 0.75rem; color: var(--text-muted);">${section.summary}</p>` : ''}
         </div>
       `;
     }
@@ -401,6 +453,8 @@ export function renderMainContent(
 
     html += renderDayCard(day, prevDay, nextDay, isExpanded, isSortedByStars);
   });
+
+  closeSectionBlock();
 
   container.innerHTML = html;
 }
