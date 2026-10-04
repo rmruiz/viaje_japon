@@ -1,7 +1,7 @@
 @trip
 title: Japón — Itinerario Reestructurado
-departure: 2026-02-13
-return: 2026-03-15
+departure: 2027-02-13
+return: 2027-03-15
 timezone: Asia/Tokyo
 currency: JPY
 
