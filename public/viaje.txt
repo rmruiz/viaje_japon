@@ -43,15 +43,127 @@ https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 stars: 5
 title: Museo Ghibli y UNIQLO
 steps: 12500
-summary: Museo Ghibli + Shopping en UNIQLO
+summary: Museo Ghibli + Shopping en UNIQLO Kichijoji + Cena temprana
 image1: museo_ghibli1.jpg
 image2: museo_ghibli2.jpg
-image2: uniqlo.jpg
+image3: uniqlo.jpg
+
+@note
+El Museo Ghibli abre de miércoles a lunes, en horario de 10:00 a 18:00 horas, y permanece cerrado todos los martes
 
 @note
 Comprar entradas el 10 de Enero a las 10:00
 
-10:00 | 120m | Museo Ghibli
+@note
+Este día se debe ajustar a la fecha/hora de ticket comprado
+
+09:50 | 10m | WALK |
+Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+
+10:00 | 20m | TRAIN |
+Tren JR Chūō Line directo desde la estación Shinjuku a la estación Mitaka.
+https://www.google.com/maps/dir/Shinjuku+Station/Mitaka+Station
+
+10:20 | 20m | WALK |
+Caminar (o tomar el bus temático) desde la estación Mitaka al Museo Ghibli.
+https://www.google.com/maps/dir/Mitaka+Station/Ghibli+Museum
+
+10:40 | 20m | WAIT |
+Llegada anticipada para hacer la fila de ingreso al museo.
+
+11:00 | 120m | VISIT |
+Visita al Museo Ghibli.
+https://maps.app.goo.gl/feQoqRrKTCzbAjGc7
+
+13:00 | 20m | WALK |
+Caminar a través del hermoso Parque Inokashira hacia la zona comercial de Kichijoji.
+https://www.google.com/maps/dir/Ghibli+Museum/Kichijoji+Station
+
+13:20 | 70m | FOOD |
+Almuerzo en Kichijoji (zona con gran variedad de restaurantes, cafés y puestos).
+https://www.google.com/maps/place/Kichijoji
+
+14:30 | 120m | SHOP |
+Shopping en UNIQLO Kichijoji. Es una tienda insignia gigante de 7 pisos, perfecta para comprar y muy cerca.
+https://www.google.com/maps/place/UNIQLO+Kichijoji
+
+16:30 | 20m | TRAIN |
+Tren JR Chūō Line desde la estación Kichijoji de regreso a la estación Shinjuku.
+https://www.google.com/maps/dir/Kichijoji+Station/Shinjuku+Station
+
+16:50 | 10m | WALK |
+Caminar por Shinjuku buscando opciones para cenar.
+
+17:00 | 90m | FOOD |
+Cena temprana en los alrededores de Shinjuku.
+https://www.google.com/maps/place/Shinjuku
+
+18:30 | 30m | WALK |
+Caminata tranquila de regreso al Hotel Rose Garden Shinjuku.
+https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+
+19:00 | 60m | BREAK |
+Llegada al hotel para descansar y fin de la jornada.
+
+@day
+stars: 4
+title: Shinjuku: parques y callejones
+steps: 14000
+summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
+image1: Shinjuku_Gyoen.png [Jardines de Shinjuku Gyoen]
+image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Metropolitano]
+image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
+image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
+
+09:20 | 20m | WALK |
+Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
+
+10:00 | 180m | VISIT |
+Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
+https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
+
+13:00 | 90m | FOOD |
+Almuerzo en Shinjuku.
+https://www.google.com/maps/place/Tempura+Tsunahachi+Shinjuku
+
+Option
+Tempura Tsunahachi Shinjuku
+Tempura clásico histórico (a 10 min del parque).
+
+Option
+Sushi Zanmai Shinjuku
+Sushi fresco y amigable (a 12 min del parque).
+
+14:30 | 120m | SHOP |
+Vitrinear por la zona comercial de Shinjuku (Takashimaya, Lumine) y caminar hacia el oeste.
+https://www.google.com/maps/place/Takashimaya+Times+Square
+
+16:30 | 120m | VISIT |
+Subir al Tokyo Metropolitan Government Building (mirador gratuito de 202 metros).
+https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building
+
+18:30 | 60m | PHOTO |
+Caminata fotográfica por Shinjuku Golden-Gai al encenderse los faroles.
+https://www.google.com/maps/place/Shinjuku+Golden+Gai
+
+19:30 | 90m | FOOD |
+Cena en Omoide Yokochō (El callejón de los recuerdos).
+https://www.google.com/maps/place/Omoide+Yokocho
+
+Option
+Kameya Shinjuku
+Puesto legendario de fideos Udon muy económico (dentro del callejón).
+
+Option
+Torikizoku Shinjuku
+Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
+
+21:00 | 10m | WALK |
+Caminar de regreso al Hotel Rose Garden Shinjuku (a solo pasos de Omoide Yokochō).
+https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
+
 
 @day
 stars: 5
@@ -509,65 +621,6 @@ https://www.google.com/maps/place/Okonomiyaki+Hiroki+Shinjuku
 Option
 Okonomiyaki Hiroki Shinjuku
 Famoso estilo Hiroshima, finas capas de repollo y fideos crujientes.
-
-
-@day
-stars: 5
-title: Shinjuku: parques y callejones
-steps: 14000
-summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
-image1: Shinjuku_Gyoen.png [Jardines de Shinjuku Gyoen]
-image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Metropolitano]
-image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
-image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
-
-09:20 | 20m | WALK |
-Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
-
-10:00 | 180m | VISIT |
-Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
-https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
-
-13:00 | 90m | FOOD |
-Almuerzo en Shinjuku.
-https://www.google.com/maps/place/Tempura+Tsunahachi+Shinjuku
-
-Option
-Tempura Tsunahachi Shinjuku
-Tempura clásico histórico (a 10 min del parque).
-
-Option
-Sushi Zanmai Shinjuku
-Sushi fresco y amigable (a 12 min del parque).
-
-14:30 | 120m | SHOP |
-Vitrinear por la zona comercial de Shinjuku (Takashimaya, Lumine) y caminar hacia el oeste.
-https://www.google.com/maps/place/Takashimaya+Times+Square
-
-16:30 | 120m | VISIT |
-Subir al Tokyo Metropolitan Government Building (mirador gratuito de 202 metros).
-https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building
-
-18:30 | 60m | PHOTO |
-Caminata fotográfica por Shinjuku Golden-Gai al encenderse los faroles.
-https://www.google.com/maps/place/Shinjuku+Golden+Gai
-
-19:30 | 90m | FOOD |
-Cena en Omoide Yokochō (El callejón de los recuerdos).
-https://www.google.com/maps/place/Omoide+Yokocho
-
-Option
-Kameya Shinjuku
-Puesto legendario de fideos Udon muy económico (dentro del callejón).
-
-Option
-Torikizoku Shinjuku
-Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
-
-21:00 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku (a solo pasos de Omoide Yokochō).
-https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
 
 
 @day
@@ -1040,6 +1093,10 @@ Option
 Suzuya
 Restaurante clásico para carnes asadas y sopa de miso.
 
+@section Kioto
+title: BASE 3 — KIOTO (MIMARU Kyoto Shinmachi Sanjo)
+hotel: MIMARU Kyoto Shinmachi Sanjo - Kioto, Nakagyo-ku Machigashiracho 105, Japón
+summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Higashiyama, Kinkaku-ji y ceremonia del té.
 
 @day
 stars: 5
@@ -1102,12 +1159,6 @@ Tofu hervido tradicional en caldo dashi (especialidad reconfortante de Kioto).
 Option
 Honke Owariya
 Restaurante histórico de soba tradicional a solo unas cuadras caminando.
-
-
-@section Kioto
-title: BASE 3 — KIOTO (MIMARU Kyoto Shinmachi Sanjo)
-hotel: MIMARU Kyoto Shinmachi Sanjo - Kioto, Nakagyo-ku Machigashiracho 105, Japón
-summary: Tercera base del viaje. Templos de Kioto, Arashiyama, Fushimi Inari, Higashiyama, Kinkaku-ji y ceremonia del té.
 
 @day
 stars: 5
@@ -1545,15 +1596,19 @@ Option
 Donguri
 Restaurante familiar y cómodo.
 
+@section Osaka
+title: BASE 3 — OSAKA (Nipponbashi / Namba)
+hotel: MIMARU Osaka Namba Station - Prefectura de Osaka, Osaka, 3-6-24 Nipponbashi, Naniwaku, Japón
+summary: Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
 
 @day
 stars: 5
 title: Kioto → Osaka
 steps: 10000
-summary: Mañana libre en Kioto + Shinkansen a Shin-Osaka + Metro Midosuji + Canal Dōtonbori
+summary: FREE + Shinkansen a Shin-Osaka + Metro Midosuji + FREE
 
 09:00 | 180m | FREE |
-Mañana libre caminando por el centro de Kioto (compras o vistas pendientes).
+FREE
 https://www.google.com/maps/place/Shijo+Dori+Kyoto
 
 12:00 | 60m | FOOD |
@@ -1585,24 +1640,18 @@ Caminar de manera pausada desde la estación Namba al hotel MIMARU Osaka Namba S
 https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
 
 15:00 | 210m | FREE |
-Descanso y caminatas de reconocimiento por el barrio de Nipponbashi y Den-Den Town.
+FREE
 
 18:30 | 10m | WALK |
 Caminar hacia Dōtonbori.
 
 18:40 | 20m | PHOTO |
-Caminar buscando el cartel de Glico Man.
+Caminar buscando el cartel de Glico Man. (mover a otro dia??)
 https://www.google.com/maps/place/Glico+Man+Sign
 
 19:00 | 90m | FOOD |
 Cena street food en Dōtonbori (takoyaki, gyozas, puestos del canal).
 https://www.google.com/maps/place/Dotonbori
-
-
-@section Osaka
-title: BASE 3 — OSAKA (Nipponbashi / Namba)
-hotel: MIMARU Osaka Namba Station - Prefectura de Osaka, Osaka, 3-6-24 Nipponbashi, Naniwaku, Japón
-summary: Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
 
 
 @day
