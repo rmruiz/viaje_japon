@@ -200,6 +200,7 @@ async function initApp() {
         if (!dayId) return;
 
         const icon = card.querySelector('.day-collapse-icon');
+        const viaCloseBtn = toggleBtn.classList.contains('btn-close-day');
 
         if (card.classList.contains('collapsed')) {
           // Solo un día ampliado a la vez: colapsar el que esté abierto
@@ -214,6 +215,15 @@ async function initApp() {
           card.classList.add('collapsed');
           expandedDayIds.delete(dayId);
           if (icon) icon.textContent = '▼';
+          if (viaCloseBtn) {
+            // Al cerrar con ✕: dejar el siguiente día (según el orden actual de la vista)
+            // en la parte superior, debajo de la tarjeta BASE compacta si está fija;
+            // si es el último visible, quedarse con este colapsado
+            const cards = Array.from(document.querySelectorAll<HTMLElement>('.day-card'));
+            const index = cards.findIndex(c => c.id === dayId);
+            const scrollTarget = index >= 0 && index < cards.length - 1 ? cards[index + 1] : card;
+            scrollDayToTop(scrollTarget);
+          }
         }
       }
     });
@@ -242,6 +252,22 @@ async function initApp() {
         if (icon) icon.textContent = '▲';
         card.scrollIntoView({ behavior: 'smooth' });
       }
+    }
+
+    // Scroll de un día a la parte superior del viewport (86px: su scroll-margin-top);
+    // si la tarjeta BASE de su base está fija (compacta), lo deja debajo de esa tarjeta
+    function scrollDayToTop(dayCard: HTMLElement) {
+      const headerHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--header-height')) || 70;
+      const baseOffset = headerHeight + 16;
+      let offset = baseOffset;
+      const baseCard = dayCard.closest('.section-block')?.querySelector<HTMLElement>('.section-title-card');
+      if (baseCard) {
+        const r = baseCard.getBoundingClientRect();
+        if (r.top <= baseOffset + 0.5 && r.bottom > baseOffset + 0.5) {
+          offset = r.bottom + 12; // fija (compacta): mostrar el día por debajo
+        }
+      }
+      window.scrollTo({ top: window.scrollY + dayCard.getBoundingClientRect().top - offset, behavior: 'smooth' });
     }
 
     // Setup Hash Router
