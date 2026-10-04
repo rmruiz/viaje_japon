@@ -1597,7 +1597,7 @@ Donguri
 Restaurante familiar y cómodo.
 
 @section Osaka
-title: BASE 3 — OSAKA (Nipponbashi / Namba)
+title: BASE 4 — OSAKA (Nipponbashi / Namba)
 hotel: MIMARU Osaka Namba Station - Prefectura de Osaka, Osaka, 3-6-24 Nipponbashi, Naniwaku, Japón
 summary: Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
 
@@ -2198,6 +2198,10 @@ Salas privadas con parrilla en la mesa para cocinar los cortes al punto deseado.
 21:30 | 15m | WALK |
 Caminar de regreso al MIMARU Osaka Namba Station.
 
+@section Chile
+title: BASE 5 — CHILE 
+hotel: Hogar Dulce Hogar
+summary: Ultimo día en Japón y regreso a casa - salida por KIX.
 
 @day
 stars: 5
