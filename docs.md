@@ -272,7 +272,7 @@ Tres zonas (todas definidas en `index.html`):
 - **Fila de imágenes**: visible **solo colapsado** — las miniaturas con caption; clic abre **búsqueda de Google Imágenes** con la etiqueta (o el título del día) como consulta. Imágenes que no cargan → placeholder canvas "FALTA IMAGEN".
 - **Notas** `📌`: visibles en ambos estados (justo debajo de las imágenes).
 - **Cuerpo expandido**: sección `⏱️ Itinerario y Cronograma` con el timeline de eventos + pie de navegación.
-- **Navegación entre días**: enlaces `← Día N: título` / `Día N: título →` que saltan por hash a la tarjeta vecina (y la expanden).
+- **Pie de navegación** (`.day-nav-footer`, grid de 3 columnas `1fr auto 1fr`): enlace `← Día N-1: título` (izquierda) / `Día N+1: título →` (derecha) que saltan por hash a la tarjeta vecina (y la expanden), y un **botón circular ✕ centrado** (`.btn-close-day`) para **colapsar el día**; solo es visible cuando el día está expandido (CSS `.day-card:not(.collapsed) .btn-close-day`). Usa la clase `day-toggle-btn`, así que lo maneja la misma delegación de clic de `app.ts` que el encabezado (al colapsar, el estado y el único día expandido se actualizan igual que con el clic en el encabezado).
 
 ### 3.3 Timeline de eventos
 

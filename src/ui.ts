@@ -356,6 +356,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
 
         <nav class="day-nav-footer">
           ${prevBtn}
+          <button type="button" class="btn-close-day day-toggle-btn" aria-label="Colapsar el día" title="Colapsar el día">✕</button>
           ${nextBtn}
         </nav>
       </div>

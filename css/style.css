@@ -1065,15 +1065,20 @@ body.sidebar-collapsed .app-content {
   border-color: var(--accent-primary);
 }
 
-/* Prev / Next Navigation Footer */
+/* Prev / Next Navigation Footer (3 columnas: anterior | cerrar | siguiente) */
 .day-nav-footer {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
   margin-top: 2rem;
   padding-top: 1.25rem;
   border-top: 1px solid var(--border-color);
   gap: 1rem;
 }
+
+.day-nav-footer > :first-child { justify-self: start; }
+
+.day-nav-footer > :last-child { justify-self: end; }
 
 .btn-nav-day {
   display: inline-flex;
@@ -1094,6 +1099,35 @@ body.sidebar-collapsed .app-content {
   background: var(--bg-card-hover);
   border-color: var(--accent-primary);
   color: var(--accent-primary);
+}
+
+/* Botón "cerrar" (colapsar) centrado al pie del día: visible solo expandido */
+.btn-close-day {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  background: var(--bg-secondary);
+  color: var(--text-muted);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, background-color 0.2s, transform 0.2s;
+}
+
+.day-card:not(.collapsed) .btn-close-day {
+  display: inline-flex;
+}
+
+.btn-close-day:hover {
+  color: var(--text-main);
+  border-color: var(--border-highlight);
+  background: var(--bg-card-hover);
+  transform: scale(1.08);
 }
 
 /* Empty State & Error Message */
