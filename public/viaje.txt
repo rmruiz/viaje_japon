@@ -40,6 +40,158 @@ Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
 https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
 @day
+stars: 4
+title: Odaiba, teamLab y Hamárikyū
+steps: 13000
+summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
+image1: Jardines_Hamarikyu.png [Jardines Hamarikyu]
+image2: teamLab_Planets.png [Exposición Digital Inmersiva teamLab Planets]
+image3: gundam.png [Estatua del robot Gundam Gigante en Odaiba]
+image4: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
+https://www.google.com/maps/place/Hamarikyu+Gardens
+
+@note
+Los Jardines Hamárikyū abren a las 9:00am
+
+08:30 | 10m | WALK |
+Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+
+08:40 | 25m | TRAIN |
+(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
+
+09:05 | 15m | WALK |
+Caminar a los jardines.
+https://www.google.com/maps/dir/Shiodome+Station/Hamarikyu+Gardens
+
+09:20 | 90m | VISIT |
+Jardines Hamárikyū (~2 USD). Floración de nanohana y casa de té Nakajima.
+https://www.google.com/maps/place/Hamarikyu+Gardens
+
+10:50 | 15m | WALK |
+Caminar a estación Shiodome.
+https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
+
+11:05 | 10m | TRAIN |
+(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
+https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
+
+11:15 | 120m | VISIT |
+teamLab Planets (Toyosu) — Inmersión sensorial interactiva (franja reservada).
+https://www.google.com/maps/place/teamLab+Planets+TOKYO
+
+13:15 | 90m | FOOD |
+Almuerzo cerca de teamLabs Planets
+
+Option
+Kome San Kaku
+https://maps.app.goo.gl/UaLAzegefGVf9nDs8
+
+Option
+Citabria Baypark Grill & Bar
+https://maps.app.goo.gl/JFomQALv9eVhYEuw6
+
+14:45 | 25m | TRAIN |
+Tren a la Estatua de la Libertad
+https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
+
+15:10 | 30m | VISIT |
+Caminar por Odaiba Statue of Liberty japonesa frente al mar.
+https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
+
+15:40 | 30m | WALK |
+Camina al DiverCity Tokyo Plaza
+https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
+
+16:10 | 60m | VISIT |
+Camina al DiverCity Tokyo Plaza
+https://maps.app.goo.gl/iihYD7tmb9oVE62JA
+
+17:10 | 90m | FOOD |
+Cena Tendon (bol de arroz cubierto de tempura).
+Kaneko Hannosuke Odaiba
+El tendon más famoso de la ciudad (en Aqua City).
+https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
+
+18:40 | 45m | TRAIN |
+Camina a la estación Tokyo Teleport Station
+Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
+1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
+2 (Saikyo Line - Kawagoe - 3 paradas)
+https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
+
+19:25 | 10m | WALK |
+Camina a Estación Shinjuku de Marunouchi Line - Local Honancho
+
+19:35 | 5m | TRAIN |
+Tren hasta Nishi-shinjuku Sta (1 parada) - Linea Marunouchi
+https://maps.app.goo.gl/KiXLxtkAmepG1dpZ9
+
+19:40 | 7m | WALK |
+Caminar al Hotel Rose Garden Shinjuku.
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
+
+
+@day
+stars: 4
+title: Shinjuku: parques y callejones
+steps: 14000
+summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
+image1: Shinjuku_Gyoen.png [Jardines de Shinjuku Gyoen]
+image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Metropolitano]
+image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
+image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
+
+09:20 | 20m | WALK |
+Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
+
+10:00 | 180m | VISIT |
+Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
+https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
+
+13:00 | 90m | FOOD |
+Almuerzo en Shinjuku.
+https://www.google.com/maps/place/Tempura+Tsunahachi+Shinjuku
+
+Option
+Tempura Tsunahachi Shinjuku
+Tempura clásico histórico (a 10 min del parque).
+
+Option
+Sushi Zanmai Shinjuku
+Sushi fresco y amigable (a 12 min del parque).
+
+14:30 | 120m | SHOP |
+Vitrinear por la zona comercial de Shinjuku (Takashimaya, Lumine) y caminar hacia el oeste.
+https://www.google.com/maps/place/Takashimaya+Times+Square
+
+16:30 | 120m | VISIT |
+Subir al Tokyo Metropolitan Government Building (mirador gratuito de 202 metros).
+https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building
+
+18:30 | 60m | PHOTO |
+Caminata fotográfica por Shinjuku Golden-Gai al encenderse los faroles.
+https://www.google.com/maps/place/Shinjuku+Golden+Gai
+
+19:30 | 90m | FOOD |
+Cena en Omoide Yokochō (El callejón de los recuerdos).
+https://www.google.com/maps/place/Omoide+Yokocho
+
+Option
+Kameya Shinjuku
+Puesto legendario de fideos Udon muy económico (dentro del callejón).
+
+Option
+Torikizoku Shinjuku
+Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
+
+21:00 | 10m | WALK |
+Caminar de regreso al Hotel Rose Garden Shinjuku (a solo pasos de Omoide Yokochō).
+https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
+
+@day
 stars: 5
 title: Museo Ghibli y UNIQLO
 steps: 12500
@@ -105,64 +257,6 @@ https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
 
 19:00 | 60m | BREAK |
 Llegada al hotel para descansar y fin de la jornada.
-
-@day
-stars: 4
-title: Shinjuku: parques y callejones
-steps: 14000
-summary: Shinjuku Gyoen + Compras + Mirador Gobierno Metropolitano + Golden Gai + Omoide Yokochō
-image1: Shinjuku_Gyoen.png [Jardines de Shinjuku Gyoen]
-image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Metropolitano]
-image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
-image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
-
-09:20 | 20m | WALK |
-Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
-
-10:00 | 180m | VISIT |
-Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
-https://www.google.com/maps/place/Shinjuku+Gyoen+National+Garden
-
-13:00 | 90m | FOOD |
-Almuerzo en Shinjuku.
-https://www.google.com/maps/place/Tempura+Tsunahachi+Shinjuku
-
-Option
-Tempura Tsunahachi Shinjuku
-Tempura clásico histórico (a 10 min del parque).
-
-Option
-Sushi Zanmai Shinjuku
-Sushi fresco y amigable (a 12 min del parque).
-
-14:30 | 120m | SHOP |
-Vitrinear por la zona comercial de Shinjuku (Takashimaya, Lumine) y caminar hacia el oeste.
-https://www.google.com/maps/place/Takashimaya+Times+Square
-
-16:30 | 120m | VISIT |
-Subir al Tokyo Metropolitan Government Building (mirador gratuito de 202 metros).
-https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building
-
-18:30 | 60m | PHOTO |
-Caminata fotográfica por Shinjuku Golden-Gai al encenderse los faroles.
-https://www.google.com/maps/place/Shinjuku+Golden+Gai
-
-19:30 | 90m | FOOD |
-Cena en Omoide Yokochō (El callejón de los recuerdos).
-https://www.google.com/maps/place/Omoide+Yokocho
-
-Option
-Kameya Shinjuku
-Puesto legendario de fideos Udon muy económico (dentro del callejón).
-
-Option
-Torikizoku Shinjuku
-Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
-
-21:00 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku (a solo pasos de Omoide Yokochō).
-https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
 
 
 @day
@@ -622,85 +716,6 @@ Option
 Okonomiyaki Hiroki Shinjuku
 Famoso estilo Hiroshima, finas capas de repollo y fideos crujientes.
 
-
-@day
-stars: 4
-title: Odaiba, teamLab y Hamárikyū
-steps: 13000
-summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
-image1: Jardines_Hamarikyu.png [Jardines Hamarikyu]
-image2: teamLab_Planets.png [Exposición Digital Inmersiva teamLab Planets]
-image3: gundam.png [Estatua del robot Gundam Gigante en Odaiba]
-image4: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
-https://www.google.com/maps/place/Hamarikyu+Gardens
-
-08:15 | 7m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
-
-08:22 | 23m | TRAIN |
-(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
-
-09:00 | 15m | WALK |
-Caminar a los jardines.
-https://www.google.com/maps/dir/Shiodome+Station/Hamarikyu+Gardens
-
-09:15 | 90m | VISIT |
-Jardines Hamárikyū (~2 USD). Floración de nanohana y casa de té Nakajima.
-https://www.google.com/maps/place/Hamarikyu+Gardens
-
-10:45 | 10m | WALK |
-Caminar a estación Shiodome.
-https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
-
-10:55 | 10m | TRAIN |
-(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
-https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
-
-11:05 | 115m | VISIT |
-teamLab Planets (Toyosu) — Inmersión sensorial interactiva (franja reservada).
-https://www.google.com/maps/place/teamLab+Planets+TOKYO
-
-13:00 | 90m | FOOD |
-Almuerzo en Odaiba (Llegando en monorriel a estación Daiba).
-https://www.google.com/maps/place/DiverCity+Tokyo+Plaza
-
-Option
-Food Court de DiverCity
-Opciones variadas para toda la familia.
-
-Option
-Kua 'Aina Odaiba
-Comida rápida con grandes ventanales a la bahía en Aqua City.
-
-14:30 | 180m | VISIT |
-Caminar por Odaiba: Robot gigante Unicorn Gundam y Statue of Liberty japonesa frente al mar.
-https://www.google.com/maps/place/Unicorn+Gundam+Statue
-
-17:30 | 90m | PHOTO |
-Paseo al atardecer por los puentes peatonales de Odaiba.
-https://www.google.com/maps/place/Odaiba+Marine+Park
-
-19:00 | 90m | FOOD |
-Cena Tendon (bol de arroz cubierto de tempura).
-https://www.google.com/maps/place/Kaneko+Hannosuke+Odaiba
-
-Option
-Kaneko Hannosuke Odaiba
-El tendon más famoso de la ciudad (en Aqua City).
-
-Option
-Ganko Odaiba
-Comida tradicional japonesa variada con buenas vistas (en DiverCity).
-
-20:30 | 33m | TRAIN |
-(CLP 2.3M) Yurikamome Monorail a Shiodome (15 min) y Toei Oedo Line de regreso a la estación Shinjuku-Nishiguchi (18 min).
-https://www.google.com/maps/dir/Daiba+Station/Shinjuku-Nishiguchi+Station
-
-21:03 | 7m | WALK |
-Caminar de la estación Shinjuku-Nishiguchi de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
 
 @day
 stars: 5
