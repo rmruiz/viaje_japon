@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Día: Odaiba, teamLab y Hamárikyū</name>
+    <description><![CDATA[
+      <b>Día del itinerario — Odaiba, teamLab y Hamárikyū</b><br/>
+      Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad.<br/>
+      Pasos estimados: ~13.000 · Estrellas: ★★★★<br/><br/>
+      <b>Hotel base:</b> Hotel Rose Garden Shinjuku (Nishishinjuku 8-1-3, Shinjuku-ku, Tokio).<br/>
+      <b>Nota:</b> Los Jardines Hamárikyū abren a las 9:00am.<br/><br/>
+      Colores: 🟥 Visita · 🟪 Hotel · 🟧 Comida · 🟦 Estación ·
+      líneas verdes = caminata, moradas = metro, naranjas = monorriel Yurikamome.
+    ]]></description>
+
+    <!-- ================= STILOS ================= -->
+    <Style id="iconVisit">
+      <IconStyle><color>ff0000ff</color><scale>1.15</scale><labelVisibility>1</labelVisibility></IconStyle>
+      <LabelStyle><color>ff0000ff</color></LabelStyle>
+    </Style>
+    <Style id="iconHotel">
+      <IconStyle><color>ffff0080</color><scale>1.3</scale></IconStyle>
+      <LabelStyle><color>ffff0080</color><scale>1.05</scale></LabelStyle>
+    </Style>
+    <Style id="iconFood">
+      <IconStyle><color>ff0080ff</color><scale>1.05</scale></IconStyle>
+      <LabelStyle><color>ff0080ff</color></LabelStyle>
+    </Style>
+    <Style id="iconStation">
+      <IconStyle><color>ffff0000</color><scale>0.95</scale></IconStyle>
+      <LabelStyle><color>ffff0000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="lineWalk">
+      <LineStyle><color>ff00c000</color><width>3.5</width><labelVisibility>0</labelVisibility></LineStyle>
+    </Style>
+    <Style id="lineMetro">
+      <LineStyle><color>ffff0080</color><width>4</width></LineStyle>
+    </Style>
+    <Style id="lineMono">
+      <LineStyle><color>ff008cff</color><width>4.5</width></LineStyle>
+    </Style>
+    <Style id="areaPark">
+      <PolyStyle><color>6600c000</color><outline>1</outline></PolyStyle>
+      <LineStyle><color>ff00a000</color><width>2</width></LineStyle>
+    </Style>
+    <Style id="areaZone">
+      <PolyStyle><color>55ff0000</color><outline>1</outline></PolyStyle>
+      <LineStyle><color>ffff0000</color><width>2</width></LineStyle>
+    </Style>
+
+    <!-- ================= HOTEL ================= -->
+    <Folder>
+      <name>1. Hotel</name>
+      <Placemark>
+        <name>Hotel Rose Garden Shinjuku</name>
+        <description><![CDATA[
+          <b>Hotel base (check-in / check-out)</b><br/>
+          Nishishinjuku 8-1-3, Shinjuku-ku, Tokio, Japón.<br/>
+          Punto de partida y fin de la jornada.
+        ]]></description>
+        <styleUrl>#iconHotel</styleUrl>
+        <Point><coordinates>139.69374,35.69442,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- ================= LUGARES A VISITAR ================= -->
+    <Folder>
+      <name>2. Lugares a visitar</name>
+
+      <Placemark>
+        <name>Jardines Hamárikyū</name>
+        <description><![CDATA[
+          <b>09:20 · VISITA · 90 min</b><br/>
+          Jardines Hamárikyū (Hamari kyū teien). Entrada ~2 USD.<br/>
+          Floración de nanohana (colza) y casa de té en la isla Nakajima.<br/>
+          Abren a las 9:00am. Bakeshita 4-1-8, Chūō-ku.
+        ]]></description>
+        <styleUrl>#iconVisit</styleUrl>
+        <Point><coordinates>139.7638239,35.660176,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>teamLab Planets (Toyosu)</name>
+        <description><![CDATA[
+          <b>11:15 · VISITA · 120 min</b><br/>
+          teamLab Planets TOKYO — inmersión sensorial interactiva (franja reservada).<br/>
+          Toyosu 1-1-26, Kōtō-ku. Entrada a pie desde estación Shin-Toyosu (~5 min).<br/>
+          <i>Almuerzo cercano (opciones):</i> Kome San Kaku o Citabria Baypark Grill &amp; Bar.
+        ]]></description>
+        <styleUrl>#iconVisit</styleUrl>
+        <Point><coordinates>139.789728,35.64938,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Estatua de la Libertad (Odaiba)</name>
+        <description><![CDATA[
+          <b>15:10 · VISITA · 30 min</b><br/>
+          Réplica de la Estatua de la Libertad (1/2 de la de NY) frente al mar.<br/>
+          Daiba 2-6, Kōtō-ku. Frente a la promenade oeste de Odaiba.
+        ]]></description>
+        <styleUrl>#iconVisit</styleUrl>
+        <Point><coordinates>139.7718513,35.6278603,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>DiverCity Tokyo Plaza</name>
+        <description><![CDATA[
+          <b>16:10 · VISITA · 60 min</b><br/>
+          Centro comercial DiverCity + estatua del robot <b>Unicorn Gundam</b> gigante (1:1) en la terraza.<br/>
+          Daiba 2-1-3, Kōtō-ku. En el borde de la bahía.
+        ]]></description>
+        <styleUrl>#iconVisit</styleUrl>
+        <Point><coordinates>139.776006,35.624619,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Comida: Kaneko Hannosuke Odaiba (tendon)</name>
+        <description><![CDATA[
+          <b>17:10 · COMIDA · 90 min</b><br/>
+          Cena: Tendon (bol de arroz cubierto de tempura).<br/>
+          Kaneko Hannosuke Odaiba — “el tendon más famoso de la ciudad”.<br/>
+          Ubicado dentro de <b>Aqua City Odaiba</b> (Daiba 1-4, Kōtō-ku).
+        ]]></description>
+        <styleUrl>#iconFood</styleUrl>
+        <Point><coordinates>139.7727474,35.6271362,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- ================= ESTACIONES ================= -->
+    <Folder>
+      <name>3. Estaciones</name>
+
+      <Placemark>
+        <name>Est. Shinjuku-Nishiguchi</name>
+        <description><![CDATA[
+          Estación de la línea Ōedo / Marunouchi (salida oeste de Shinjuku).<br/>
+          Ida: subida a la línea Ōedo a las 08:40.<br/>
+          Vuelta: llegada por la línea Marunouchi (~19:35, 1 parada desde Shinjuku).
+        ]]></description>
+        <styleUrl>#iconStation</styleUrl>
+        <Point><coordinates>139.6990984,35.6928969,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Est. Shiodome</name>
+        <description><![CDATA[
+          Estación Shiodome (líneas Ōedo / Asakusa / Yurikamome).<br/>
+          Descenso 09:05 → caminar a Hamárikyū. Reencuentro 11:05 → monorriel Yurikamome a Shin-Toyosu.
+        ]]></description>
+        <styleUrl>#iconStation</styleUrl>
+        <Point><coordinates>139.7602718,35.6632377,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Est. Shin-Toyosu</name>
+        <description><![CDATA[
+          Estación Shin-Toyosu (monorriel Yurikamome).<br/>
+          Llegada 11:05 → caminar ~5 min a teamLab Planets. Salida 14:45 de vuelta a Odaiba.
+        ]]></description>
+        <styleUrl>#iconStation</styleUrl>
+        <Point><coordinates>139.7896144,35.6485184,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Est. Tokyo Teleport</name>
+        <description><![CDATA[
+          Estación Tokyo Teleport (línea Rinkai / Yurikamome), en Odaiba.<br/>
+          Punto de salida de regreso: 18:40 tren Rinkai Line → Estación Shinjuku.
+        ]]></description>
+        <styleUrl>#iconStation</styleUrl>
+        <Point><coordinates>139.7795824,35.6265836,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Est. Shinjuku (llegada)</name>
+        <description><![CDATA[
+          Estación Shinjuku (llegada por la Rinkai Line, ~19:25).<br/>
+          De aquí se camina a la salida Marunouchi (Local Honancho) y 1 parada a Nishi-Shinjuku.
+        ]]></description>
+        <styleUrl>#iconStation</styleUrl>
+        <Point><coordinates>139.6995,35.6908,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- ================= TRAYECTOS ================= -->
+    <Folder>
+      <name>4. Trayectos (caminata / transporte)</name>
+
+      <Placemark>
+        <name>01 · Caminata: Hotel → Shinjuku-Nishiguchi</name>
+        <description><![CDATA[08:30 · CAMINATA · 10 min · De Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.69374,35.69442,0 139.6990984,35.6928969,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>02 · Metro Ōedo: Shinjuku-Nishiguchi → Shiodome</name>
+        <description><![CDATA[08:40 · METRO (línea Ōedo) · 25 min · ~CLP 1.3M · Directo a la estación Shiodome.]]></description>
+        <styleUrl>#lineMetro</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.6990984,35.6928969,0 139.7602718,35.6632377,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>03 · Caminata: Shiodome → Jardines Hamárikyū</name>
+        <description><![CDATA[09:05 · CAMINATA · 15 min · Desde Shiodome a los jardines.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7602718,35.6632377,0 139.7638239,35.660176,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>04 · Caminata: Jardines Hamárikyū → Shiodome</name>
+        <description><![CDATA[10:50 · CAMINATA · 15 min · De regreso a la estación Shiodome.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7638239,35.660176,0 139.7602718,35.6632377,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>05 · Yurikamome: Shiodome → Shin-Toyosu</name>
+        <description><![CDATA[11:05 · MONORRIEL Yurikamome · 10 min · ~CLP 2.3M · Hacia la estación Shin-Toyosu.]]></description>
+        <styleUrl>#lineMono</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7602718,35.6632377,0 139.7896144,35.6485184,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>06 · Caminata: Shin-Toyosu → teamLab Planets</name>
+        <description><![CDATA[11:10 · CAMINATA · ~5 min · Entrada a teamLab Planets.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7896144,35.6485184,0 139.789728,35.64938,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>07 · Yurikamome: Toyosu → Estatua de la Libertad</name>
+        <description><![CDATA[14:45 · MONORRIEL Yurikamome · ~25 min · Desde teamLab/Toyosu a la Estatua de la Libertad en Odaiba.]]></description>
+        <styleUrl>#lineMono</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.789728,35.64938,0 139.7718513,35.6278603,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>08 · Caminata: Estatua de la Libertad → DiverCity</name>
+        <description><![CDATA[15:40 · CAMINATA · 30 min · Desde la estatua a DiverCity Tokyo Plaza.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7718513,35.6278603,0 139.776006,35.624619,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>09 · Caminata: DiverCity → Aqua City (tendon)</name>
+        <description><![CDATA[17:05 · CAMINATA · ~5 min · De DiverCity a Aqua City Odaiba (cena tendon).]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.776006,35.624619,0 139.7727474,35.6271362,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>10 · Caminata: Aqua City → Est. Tokyo Teleport</name>
+        <description><![CDATA[18:40 · CAMINATA · ~10 min · Caminar a la estación Tokyo Teleport para el regreso.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7727474,35.6271362,0 139.7795824,35.6265836,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>11 · Metro Rinkai: Tokyo Teleport → Shinjuku</name>
+        <description><![CDATA[18:50 · METRO (Rinkai Line, rápida) · ~40 min · De Tokyo Teleport a la Estación de Shinjuku.]]></description>
+        <styleUrl>#lineMetro</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.7795824,35.6265836,0 139.6995,35.6908,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>12 · Caminata: Shinjuku → Shinjuku-Nishiguchi (Marunouchi)</name>
+        <description><![CDATA[19:25 · CAMINATA · 10 min · A la salida Marunouchi (Local Honancho) en la Estación Shinjuku.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.6995,35.6908,0 139.6990984,35.6928969,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>13 · Metro Marunouchi: → Nishi-Shinjuku (1 parada)</name>
+        <description><![CDATA[19:35 · METRO (línea Marunouchi) · 5 min · 1 parada hasta Nishi-Shinjuku.]]></description>
+        <styleUrl>#lineMetro</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.6990984,35.6928969,0 139.6965,35.694,0</coordinates>
+        </LineString>
+      </Placemark>
+
+      <Placemark>
+        <name>14 · Caminata: → Hotel Rose Garden Shinjuku</name>
+        <description><![CDATA[19:40 · CAMINATA · 7 min · Último tramo al hotel. Fin de la jornada.]]></description>
+        <styleUrl>#lineWalk</styleUrl>
+        <LineString><tessellate>1</tessellate>
+          <coordinates>139.6965,35.694,0 139.69374,35.69442,0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+
+    <!-- ================= DELIMITACIÓN DE BARRIOS / PARQUES / RECINTOS ================= -->
+    <Folder>
+      <name>5. Barrios, parques y recintos</name>
+
+      <Placemark>
+        <name>Recinto: Jardines Hamárikyū (parque)</name>
+        <description><![CDATA[
+          <b>Recinto visitado — Jardín histórico</b><br/>
+          Delimitación del jardín Hamárikyū (fuentes OSM). Incluye la isla Nagashima con la casa de té y los estanques.
+        ]]></description>
+        <styleUrl>#areaPark</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                139.7597000,35.6571547,0
+                139.7677004,35.6571547,0
+                139.7677004,35.6632516,0
+                139.7597000,35.6632516,0
+                139.7597000,35.6571547,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+      <Placemark>
+        <name>Barrio: Shiodome / Bahía (Shiodome–Bayside)</name>
+        <description><![CDATA[
+          <b>Barrio visitado</b><br/>
+          Zona de Shiodome junto a la bahía de Tokio, en torno a la estación Shiodome y la entrada de Hamárikyū.
+        ]]></description>
+        <styleUrl>#areaZone</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                139.758,35.661,0
+                139.763,35.661,0
+                139.763,35.6655,0
+                139.758,35.6655,0
+                139.758,35.661,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+      <Placemark>
+        <name>Barrio: Toyosu / Chiba-kō (teamLab)</name>
+        <description><![CDATA[
+          <b>Barrio visitado</b><br/>
+          Área de Toyosu / Chiba-kō (Kōtō-ku) donde está teamLab Planets y la estación Shin-Toyosu.
+        ]]></description>
+        <styleUrl>#areaZone</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                139.787,35.646,0
+                139.793,35.646,0
+                139.793,35.652,0
+                139.787,35.652,0
+                139.787,35.646,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+      <Placemark>
+        <name>Barrio: Odaiba (isla artificial)</name>
+        <description><![CDATA[
+          <b>Barrio visitado — isla artificial de Odaiba (Kōtō-ku)</b><br/>
+          Delimitación aproximada de la zona recorrida: Estatua de la Libertad, DiverCity (Unicorn Gundam), Aqua City y estación Tokyo Teleport.
+        ]]></description>
+        <styleUrl>#areaZone</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                139.769,35.622,0
+                139.783,35.622,0
+                139.783,35.631,0
+                139.769,35.631,0
+                139.769,35.622,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+      <Placemark>
+        <name>Barrio: Nishi-Shinjuku (hotel base)</name>
+        <description><![CDATA[
+          <b>Barrio de la base</b><br/>
+          Zona de Nishi-Shinjuku (Shinjuku-ku) con el Hotel Rose Garden Shinjuku y la estación Shinjuku-Nishiguchi.
+        ]]></description>
+        <styleUrl>#areaZone</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                139.692,35.6915,0
+                139.7005,35.6915,0
+                139.7005,35.6958,0
+                139.692,35.6958,0
+                139.692,35.6915,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>
