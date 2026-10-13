@@ -1,6 +1,7 @@
 # docs.md — Planificador de Viaje a Japón 2026
 
 Sitio web estático para visualizar la planificación y el seguimiento del viaje a Japón (15 de febrero – 15 de marzo de 2026). Toda la información del itinerario vive en un único archivo de texto plano (`public/viaje.txt`) que se parsea y renderiza en el navegador al cargar la página. No hay backend, base de datos ni estado persistente: el viaje es "código de contenido" editable a mano.
+
 El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 
 ## 1. Estructura del archivo `public/viaje.txt`
@@ -62,7 +63,7 @@ Claves reconocidas:
 
 | Clave    | Ejemplo                                                    | Uso                                            |
 |----------|------------------------------------------------------------|------------------------------------------------|
-| `stars:` | `5`                                                        | Calificación 0–5 → estrellas en el encabezado y para el ordenamiento |
+| `stars:` | `5`                                                        | Calificación 0–5 → estrellas en el encabezado |
 | `title:` | `Ueno y Akihabara`                                         | Título del día                                 |
 | `steps:` | `17500`                                                    | Pasos estimados → badge `👟` y en la barra "Hoy" |
 | `summary:`| `Museo Nacional de Tokio + Parque Ueno…`                   | Subtítulo bajo el título (soporta enlaces inline) |
@@ -339,7 +340,28 @@ No hay otra persistencia (búsqueda, orden, días expandidos y mapa viven en mem
 
 ---
 
-## 4. Notas de implementación (conocidas)
+## 4. Operación y Publicación
+
+### 4.1 Desarrollo
+
+Se utiliza npm para publicar sitio DEV. http://localhost:3000/
+
+```
+npm run dev
+```
+
+### 4.2 Build y Deploy
+
+Se compila usando npm y luego se sube a GCP usando firebase
+
+```
+npm run build
+firebase deploy --only hosting
+```
+
+---
+
+## 5. Notas de implementación (conocidas)
 
 - `lucide` está en `package.json` pero no se importa en ningún módulo.
 - `config.title`, `config.currency`, `config.timezone` y `section.notes` se parsean pero no se visualizan.
