@@ -5,6 +5,48 @@ return: 2027-03-15
 timezone: Asia/Tokyo
 currency: JPY
 
+@itinerary
+
+section: Tokio
+Llegada a Haneda
+Shinjuku: parques y callejones
+Ueno y Akihabara
+Museo Ghibli y UNIQLO
+Excursión a Nikkō
+Museo Edo y Asakusa
+Harajuku y Shibuya
+Excursión a Kamakura
+Excursión al Monte Fuji (Kawaguchiko)
+Odaiba, teamLab y Hamárikyū
+Magia en Tokyo Disney Resort (Tokyo DisneySea)
+Nakano Broadway
+
+section: Alpes
+Tokio → Takayama (Estableciendo la base)
+Excursión a Shirakawa-gō
+Excursión a Okuhida y Nieve
+
+section: Kioto
+Takayama → Kioto (Día de Traslado)
+Arashiyama profundo y Otagi Nenbutsu-ji
+Fushimi Inari + Higashiyama
+Excursión al Parque Ghibli (desde Kioto)
+Pabellón de Oro + centro
+Ginkaku-ji, Paseo de la Filosofía y té
+
+section: Osaka
+Kioto → Osaka
+Osaka urbano
+Universal Studios Japan
+Excursión a Nara
+Castillo de Osaka y Umeda
+Hiroshima y Miyajima
+Excursión a Himeji
+Kuromon y despedida
+
+section: Chile
+Salida por KIX
+
 
 @section Tokio
 title: BASE 1 — TOKIO (Shinjuku)
@@ -52,6 +94,12 @@ https://www.google.com/maps/place/Hamarikyu+Gardens
 
 @note
 Los Jardines Hamárikyū abren a las 9:00am
+
+@note
+Mucho viaje en metro... no mucho contenido.
+
+@note
+23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
 
 08:30 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
@@ -360,6 +408,9 @@ TODO: buscar excursion por el día (tour pagado) (CLP 470M-695M)
 [https://www.getyourguide.com/nikko-l89510/from-tokyo-nikko-family-adventure-with-private-guide-t1412942?ranking_uuid=7f515909-5590-4820-a38f-d19a48e84eb9&q=Nikko&_pc=1,5&date_from=2027-02-18|getyourguide]
 [https://www.civitatis.com/es/tokio/excursion-nikko/?aid=1904&cmp=J_excursion_nikko#punto-de-encuentro|civitatis]
 [https://www.klook.com/es/activity/74672-nikko-day-bus-tour/?aid=1798&aff_adid=1100443&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=1798&utm_term=&utm_content=&aff_klick_id=137409410316-1798-1100443-14d425e|klook]
+
+@note
+se puede intercambiar con el día anterior
 
 07:20 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -833,6 +884,9 @@ https://www.google.com/maps/place/Nakano+Broadway
 Tiempo Libre en la tarde!!
 Posibilidad de ir a Takadanobaba Mikado (mil arcades)
 
+@note
+Takkyubin: (AM) Recordar dejar maletas en servicio de traslado antes del cutoff time!
+
 10:10 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
@@ -1120,6 +1174,11 @@ steps: 8000
 summary: Desayuno en Takayama + Tren Hida Ltd. Express + Shinkansen a Kioto + Check-in en MIMARU + Paseo ligero por Sanjo-dori / Templo Rokkakudo
 image1: Sanjo_dori.png [Calle Histórica Sanjo-dori]
 image2: Templo_Rokkakudo.png [Templo Rokkakudo (Cuna de Ikebana)]
+
+@note
+La cadena MIMARU es de hoteles tipo apartamento y, a diferencia de un hotel tradicional, sus recepciones no operan las 24 horas (generalmente abren de 7:00 a 22:00 hrs).
+
+Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, pero estrictamente el mismo día de tu check-in o durante el día en que ya estás alojado, siempre y cuando llegue en el horario en que hay personal en recepción.
 
 @note
 Templo Rokkakudo (Choho-ji):
@@ -1621,6 +1680,12 @@ stars: 5
 title: Kioto → Osaka
 steps: 10000
 summary: FREE + Shinkansen a Shin-Osaka + Metro Midosuji + FREE
+
+@note
+@note
+La cadena MIMARU es de hoteles tipo apartamento y, a diferencia de un hotel tradicional, sus recepciones no operan las 24 horas (generalmente abren de 7:00 a 22:00 hrs).
+
+Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, pero estrictamente el mismo día de tu check-in o durante el día en que ya estás alojado, siempre y cuando llegue en el horario en que hay personal en recepción.
 
 09:00 | 180m | FREE |
 FREE
