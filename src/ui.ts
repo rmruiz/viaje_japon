@@ -61,9 +61,9 @@ export function renderSidebar(tripData: TripData, container: HTMLElement, active
     section.days.forEach((day) => {
       const isActive = day.id === activeDayId ? 'active' : '';
       html += `
-        <li class="day-item ${isActive}" id="side-item-${day.id}">
+        <li class="day-item ${isActive}${day.missing ? ' day-item-missing' : ''}" id="side-item-${day.id}">
           <a href="#${day.id}">
-            <span class="day-item-title">Día ${day.dayNumber}: ${day.title}</span>
+            <span class="day-item-title">${day.missing ? '⚠️ ' : ''}Día ${day.dayNumber}: ${day.title}</span>
             <span class="day-item-meta">
               <span>${day.dayOfWeek}</span>
               <span>${day.steps ? day.steps.toLocaleString('es-ES') + ' pasos' : ''}</span>
@@ -216,6 +216,47 @@ function renderSectionStay(section: Section): string {
 }
 
 export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded: boolean = false, showBase: boolean = false): string {
+  const prevBtn = prevDay
+    ? `<a href="#${prevDay.id}" class="btn-nav-day" onclick="event.stopPropagation();">← Día ${prevDay.dayNumber}: ${prevDay.title}</a>`
+    : `<div></div>`;
+
+  const nextBtn = nextDay
+    ? `<a href="#${nextDay.id}" class="btn-nav-day" onclick="event.stopPropagation();">Día ${nextDay.dayNumber}: ${nextDay.title} →</a>`
+    : `<div></div>`;
+
+  // Día listado en @itinerary sin definición @day en el archivo: bloque de error.
+  if (day.missing) {
+    return `
+    <article class="day-card day-card-error" id="${day.id}" data-day-id="${day.id}">
+      <div class="day-card-header">
+        <div class="day-header-lines">
+          <div class="day-header-line1">
+            <span class="day-number-badge">Día ${day.dayNumber}</span>
+            <span class="day-date-text">${day.dateFormatted}</span>
+            ${showBase ? `<span class="day-base-badge">🏠 ${day.sectionTitle}</span>` : ''}
+          </div>
+          <div class="day-header-line2">
+            <h3 class="day-title">${day.title}</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-missing-definition">
+        <span class="day-missing-icon">⚠️</span>
+        <div class="day-missing-text">
+          <strong>No existe la definición de este día.</strong>
+          El itinerario lo incluye, pero no hay un bloque <code>@day</code> con el título «${day.title}» en <code>viaje.txt</code>.
+        </div>
+      </div>
+
+      <nav class="day-nav-footer">
+        ${prevBtn}
+        <div></div>
+        ${nextBtn}
+      </nav>
+    </article>
+  `;
+  }
   let notesHtml = '';
   if (day.notes && day.notes.length > 0) {
     day.notes.forEach(note => {
@@ -306,14 +347,6 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
     });
     imagesHtml += `</div>`;
   }
-
-  const prevBtn = prevDay
-    ? `<a href="#${prevDay.id}" class="btn-nav-day" onclick="event.stopPropagation();">← Día ${prevDay.dayNumber}: ${prevDay.title}</a>`
-    : `<div></div>`;
-
-  const nextBtn = nextDay
-    ? `<a href="#${nextDay.id}" class="btn-nav-day" onclick="event.stopPropagation();">Día ${nextDay.dayNumber}: ${nextDay.title} →</a>`
-    : `<div></div>`;
 
   const collapsedClass = isExpanded ? '' : 'collapsed';
 
@@ -429,9 +462,16 @@ export function renderMainContent(
       closeSectionBlock();
       currentSectionId = section.id;
       sectionBlockOpen = true;
-      html += `
-        <div class="section-block">
-        <div class="section-sticky-sentinel" aria-hidden="true"></div>
+      const sectionCard = section.missing
+        ? `
+        <div class="section-title-card section-missing" id="${section.id}">
+          <h2>${section.title}</h2>
+          <div class="section-missing-message">
+            ⚠️ No se encontró la definición de esta base: falta un bloque <code>@section ${section.name}</code> en <code>viaje.txt</code>.
+          </div>
+        </div>
+      `
+        : `
         <div class="section-title-card" id="${section.id}">
           <h2>${section.title}</h2>
           <div class="section-card-details">
@@ -442,6 +482,11 @@ export function renderMainContent(
             ${section.summary ? `<p style="margin-top: 0.75rem; color: var(--text-muted);">${section.summary}</p>` : ''}
           </div>
         </div>
+      `;
+      html += `
+        <div class="section-block">
+        <div class="section-sticky-sentinel" aria-hidden="true"></div>
+        ${sectionCard}
       `;
     }
 

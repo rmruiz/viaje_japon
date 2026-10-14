@@ -1,4 +1,4 @@
-import { TripConfig, Section, Day, TripEvent, EventOption, DayNote, TripData } from './types';
+import { TripConfig, Section, Day, TripEvent, EventOption, DayNote, TripData, ItinerarySection } from './types';
 
 const MONTH_NAMES_ES = [
   'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio',
@@ -110,9 +110,27 @@ export function parseTripData(rawText: string): TripData {
   let currentOption: EventOption | null = null;
   let currentNote: DayNote | null = null;
 
-  let mode: 'NONE' | 'TRIP' | 'SECTION' | 'DAY' | 'NOTE' | 'EVENT' | 'OPTION' = 'NONE';
+  let mode: 'NONE' | 'TRIP' | 'ITINERARY' | 'SECTION' | 'DAY' | 'NOTE' | 'EVENT' | 'OPTION' = 'NONE';
 
   let totalDayCounter = 0;
+
+  // @itinerary: orden canónico de secciones y días. null = el archivo no lo define.
+  let itinerary: ItinerarySection[] | null = null;
+  let currentItinerarySection: ItinerarySection | null = null;
+
+  // Detección de títulos repetidos (error fatal al cargar la página).
+  const fileDayTitleLines = new Map<string, number[]>();
+  const fileSectionNameLines = new Map<string, number[]>();
+  const itinDayTitleLines = new Map<string, number[]>();
+  const itinSectionNameLines = new Map<string, number[]>();
+
+  function trackDuplicate(titleMap: Map<string, number[]>, value: string, lineNo: number, what: string, where: string) {
+    const seen = titleMap.get(value);
+    if (seen) {
+      throw new Error(`${what} duplicado en ${where}: "${value}" (líneas ${seen.join(' y ')} y ${lineNo}). Cada ${what.toLowerCase()} debe ser único.`);
+    }
+    titleMap.set(value, [lineNo]);
+  }
 
   function finalizeOption() {
     if (currentOption && currentEvent) {
@@ -192,10 +210,46 @@ export function parseTripData(rawText: string): TripData {
     const line = lines[i];
     const trimmed = line.trim();
 
-    // Check tags
+    // Modo ITINERARY: `section: <nombre>` abre una sección; las siguientes líneas no vacías
+    // hasta la línea en blanco son títulos de día. Cualquier tag @ cierra el itinerario.
+    if (mode === 'ITINERARY' && !trimmed.startsWith('@')) {
+      if (trimmed.startsWith('section:')) {
+        const sectionName = trimmed.replace('section:', '').trim();
+        if (sectionName) {
+          trackDuplicate(itinSectionNameLines, sectionName, i + 1, 'Nombre de sección', 'el itinerario');
+          currentItinerarySection = { name: sectionName, dayTitles: [] };
+          (itinerary as ItinerarySection[]).push(currentItinerarySection);
+        }
+        continue;
+      }
+      if (trimmed === '') {
+        currentItinerarySection = null;
+        continue;
+      }
+      if (currentItinerarySection) {
+        trackDuplicate(itinDayTitleLines, trimmed, i + 1, 'Título de día', 'el itinerario');
+        currentItinerarySection.dayTitles.push(trimmed);
+      }
+      // Líneas fuera de toda sección (o un `section:` sin nombre) se descartan.
+      continue;
+    }
+
+    if (mode === 'ITINERARY') {
+      // Un tag cierra el itinerario; el tag se procesa en la lógica siguiente.
+      mode = 'NONE';
+      currentItinerarySection = null;
+    }
     if (trimmed.startsWith('@trip')) {
       finalizeSection();
       mode = 'TRIP';
+      continue;
+    }
+
+    if (trimmed.startsWith('@itinerary')) {
+      finalizeSection();
+      mode = 'ITINERARY';
+      itinerary = [];
+      currentItinerarySection = null;
       continue;
     }
 
@@ -203,6 +257,7 @@ export function parseTripData(rawText: string): TripData {
       finalizeSection();
       mode = 'SECTION';
       const sectionName = trimmed.replace(/^@section\s*/, '').trim() || 'Sección';
+      trackDuplicate(fileSectionNameLines, sectionName, i + 1, 'Nombre de sección', 'el archivo');
       const sectionId = `section-${sectionName.toLowerCase().replace(/[^a-z0-9]/g, '-')}`;
       currentSection = {
         id: sectionId,
@@ -297,7 +352,10 @@ export function parseTripData(rawText: string): TripData {
       else if (trimmed.startsWith('summary:')) currentSection.summary = trimmed.replace('summary:', '').trim();
       else if (trimmed.startsWith('notes:')) currentSection.notes = trimmed.replace('notes:', '').trim();
     } else if (mode === 'DAY' && currentDay) {
-      if (trimmed.startsWith('title:')) currentDay.title = trimmed.replace('title:', '').trim();
+      if (trimmed.startsWith('title:')) {
+        currentDay.title = trimmed.replace('title:', '').trim();
+        trackDuplicate(fileDayTitleLines, currentDay.title, i + 1, 'Título de día', 'el archivo');
+      }
       else if (trimmed.startsWith('stars:')) currentDay.stars = parseInt(trimmed.replace('stars:', '').trim(), 10) || 0;
       else if (trimmed.startsWith('steps:')) currentDay.steps = parseInt(trimmed.replace('steps:', '').trim(), 10) || 0;
       else if (trimmed.startsWith('summary:')) currentDay.summary = trimmed.replace('summary:', '').trim();
@@ -332,7 +390,14 @@ export function parseTripData(rawText: string): TripData {
   // Finalize all remaining objects
   finalizeSection();
 
-  // Re-calculate dates in case departure was parsed after days
+  // El itinerario (@itinerary) define el orden canónico de secciones y días;
+  // el orden de aparición en el archivo deja de importar.
+  if (itinerary) {
+    return buildOrderedTripData(config, sections, allDays, itinerary);
+  }
+
+  // Sin @itinerary: se conserva el orden de aparición en el archivo.
+  // Re-calcular fechas por si departure se parseó después de los días.
   allDays.forEach(day => {
       const { dateStr, formatted, weekday } = addDaysToDate(config.departure, day.dayNumber);
     day.dateStr = dateStr;
@@ -350,5 +415,86 @@ export function parseTripData(rawText: string): TripData {
     sections,
     allDays,
     expectedReturn
+  };
+}
+
+// Aplica el orden definido por @itinerary:
+// - Las secciones y días siguen el itinerario, no el orden del archivo.
+// - Días o secciones definidos en el archivo pero ausentes del itinerario NO se muestran.
+// - Entradas del itinerario sin definición en el archivo producen bloques de error
+//   (bandera `missing`), que el renderizado pinta como advertencia.
+// - El número de día (y su fecha) se asigna por posición en el itinerario:
+//   Día N = departure + N días.
+function buildOrderedTripData(
+  config: TripConfig,
+  fileSections: Section[],
+  fileDays: Day[],
+  itinerary: ItinerarySection[]
+): TripData {
+  const dayByTitle = new Map<string, Day>();
+  for (const day of fileDays) dayByTitle.set(day.title, day);
+  const sectionByName = new Map<string, Section>();
+  for (const section of fileSections) sectionByName.set(section.name, section);
+
+  const sections: Section[] = [];
+  const allDays: Day[] = [];
+
+  for (const itinSection of itinerary) {
+    const sectionDef = sectionByName.get(itinSection.name);
+    const section: Section = sectionDef
+      ? { ...sectionDef, days: [] }
+      : {
+          id: `section-${itinSection.name.toLowerCase().replace(/[^a-z0-9]/g, '-')}`,
+          name: itinSection.name,
+          title: itinSection.name,
+          days: [],
+          missing: true
+        };
+    sections.push(section);
+
+    for (const dayTitle of itinSection.dayTitles) {
+      const dayDef = dayByTitle.get(dayTitle);
+      const day: Day = dayDef
+        ? { ...dayDef, sectionId: section.id, sectionTitle: section.name }
+        : {
+            id: '',
+            dayNumber: 0,
+            dateStr: '',
+            dateFormatted: '',
+            dayOfWeek: '',
+            title: dayTitle,
+            steps: 0,
+            summary: '',
+            sectionId: section.id,
+            sectionTitle: section.name,
+            notes: [],
+            events: [],
+            images: [],
+            missing: true
+          };
+      section.days.push(day);
+      allDays.push(day);
+    }
+  }
+
+  // Renumerar días por posición de itinerario (asigna también id y fecha).
+  allDays.forEach((day, index) => {
+    const dayNumber = index + 1;
+    day.dayNumber = dayNumber;
+    day.id = `day-${dayNumber}`;
+    const { dateStr, formatted, weekday } = addDaysToDate(config.departure, dayNumber);
+    day.dateStr = dateStr;
+    day.dateFormatted = formatted;
+    day.dayOfWeek = weekday;
+  });
+
+  const expectedReturn = addDaysToDate(config.departure, allDays.length).dateStr;
+
+  return {
+    config,
+    sections,
+    allDays,
+    expectedReturn,
+    itinerary
   };
 }

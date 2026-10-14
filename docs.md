@@ -1,20 +1,21 @@
 # docs.md — Planificador de Viaje a Japón 2026
 
-Sitio web estático para visualizar la planificación y el seguimiento del viaje a Japón (15 de febrero – 15 de marzo de 2026). Toda la información del itinerario vive en un único archivo de texto plano (`public/viaje.txt`) que se parsea y renderiza en el navegador al cargar la página. No hay backend, base de datos ni estado persistente: el viaje es "código de contenido" editable a mano.
+Sitio web estático para visualizar la planificación y el seguimiento del viaje a Japón (13 de febrero – 15 de marzo de 2027). Toda la información del itinerario vive en un único archivo de texto plano (`public/viaje.txt`) que se parsea y renderiza en el navegador al cargar la página. No hay backend, base de datos ni estado persistente: el viaje es "código de contenido" editable a mano. El **orden de las secciones y los días lo define el bloque `@itinerary`** (ver §1.3), no el orden en que aparecen en el archivo.
 
 El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 
 ## 1. Estructura del archivo `public/viaje.txt`
 
 El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. 
-Conteo actual: 29 días, 4 secciones (bases), 429 eventos, 63 opciones, 14 notas y 87 imágenes referenciadas.
+Conteo actual: 31 días en el itinerario (30 con definición `@day`, 1 sin definir → bloque de error), 4 secciones en el itinerario (el archivo define 5 `@section`; 1 sin incluir en el itinerario → oculta), 446 eventos, 61 opciones, 18 notas y 90 imágenes referenciadas.
 
 ### 1.1 Jerarquía
 
 ```
 @trip                 → Configuración global del viaje (una sola vez, al inicio)
+@itinerary            → Orden canónico de secciones y días (ver §1.3)
 └── @section <Nombre> → Base / etapa del viaje (Tokio, Alpes, Kioto, Osaka)
-    └── @day          → Un día de itinerario (numerado en orden de aparición)
+    └── @day          → Un día de itinerario (numerado por posición en @itinerary)
         ├── @note     → Notas / avisos del día (pueden ir antes de los eventos)
         ├── HH:MM | dur | TIPO | …   → Evento (repeticiones = cronograma)
         │   ├── (líneas de descripción del evento)
@@ -34,9 +35,41 @@ Líneas `clave: valor` reconocidas:
 | `timezone`  | `Asia/Tokyo`        | Se parsea, sin uso en la UI                                            |
 | `currency`  | `JPY`               | Se parsea, sin uso en la UI                                            |
 
-Los días **no llevan fecha explícita**: el parser asigna `Día N = departure + N días`, calculado en UTC (para evitar desfases por zona horaria local) y formateado en español (`Lunes 16 de febrero de 2026`). El modelo refleja la realidad del viaje: la salida es desde Santiago, el vuelo dura 2 días y la llegada a Japón (**Día 1**) es el día siguiente de la salida; por tanto el último día (Día N) cae en `departure + N`, que es la **fecha de regreso esperada** (`TripData.expectedReturn`), usada por la advertencia de consistencia (ver §3.5). Si un día aparece antes del `@trip` en el archivo, las fechas se recalculan al final del parseo.
+Los días **no llevan fecha explícita**: el parser asigna `Día N = departure + N días`, calculado en UTC (para evitar desfases por zona horaria local) y formateado en español (`Lunes 16 de febrero de 2027`). `N` es la **posición del día en `@itinerary`** (ver §1.3). El modelo refleja la realidad del viaje: la salida es desde Santiago, el vuelo dura 2 días y la llegada a Japón (**Día 1**) es el día siguiente de la salida; por tanto el último día (Día N) cae en `departure + N`, que es la **fecha de regreso esperada** (`TripData.expectedReturn`), usada por la advertencia de consistencia (ver §3.5). Como los números y fechas se asignan al final del parseo (cuando ya se conocen el itinerario completo y el `departure` definitivo), el orden físico de `@trip` respecto de los días da igual.
 
-### 1.3 `@section <Nombre>` — Bases
+### 1.3 `@itinerary` — Orden del viaje
+
+Bloque que va después de `@trip` y define el **orden canónico** de secciones y días del viaje. El orden en que aparecen los `@section` y `@day` en el archivo deja de importar: las definiciones aportan el contenido (título, hotel, eventos…) y el itinerario aporta la posición.
+
+```
+@itinerary
+                                          ← línea en blanco antes de cada sección
+section: Tokio                            ← nombre de una base (@section Tokio)
+Llegada a Haneda                          ← títulos de días (uno por línea, sin prefijo)
+Odaiba, teamLab y Hamárikyū
+…
+Nakano Broadway
+                                          ← línea en blanco: cierra la lista de días
+
+section: Alpes
+Tokio → Takayama (Estableciendo la base)
+…
+```
+
+Reglas:
+
+- El itinerario **termina** en la siguiente línea que empiece con `@` (habitualmente el primer `@section` del archivo).
+- El nombre de una sección debe coincidir con el nombre de un `@section <Nombre>` del archivo; el título de un día con la `title:` de algún `@day` (coincidencia exacta, recortada de espacios).
+- Días y secciones son independientes: el itinerario permite mover días dentro de una base y entre bases. La base de un día es la del bloque de itinerario donde aparece su título, sin importar bajo qué `@section` esté definido en el archivo.
+- **Días o secciones definidos en el archivo pero ausentes del itinerario no se muestran** (ni en el contenido ni en el sidebar).
+- **Día en el itinerario sin `@day` definido → bloque de error** en su posición (conserva su número y fecha de día; el sidebar lo marca con ⚠️). Lo mismo aplica a una **sección sin `@section`**: se pinta la tarjeta de base con un mensaje de error.
+- El **número de día** (y su fecha) se asigna por posición en el itinerario: el primer día listado es `Día 1 = departure + 1`.
+
+**Validación (error fatal al cargar la página)**: un título de día repetido o un nombre de sección repetido —ya sea en el archivo o en el itinerario— impide cargar la página: el parser lanza un `Error` con el nombre y las líneas implicadas, y el sitio lo muestra bajo "⚠️ Error al cargar el viaje".
+
+**Sin `@itinerary`** el parser hace fallback al comportamiento anterior: orden de aparición en el archivo (número de día por contador global de `@day`; días fuera de cualquier `@section` → `section-general`).
+
+### 1.4 `@section <Nombre>` — Bases
 
 El nombre va en la misma línea del tag. El `id` interno se genera como `section-<nombre-en-minusculas-sin-especiales>` (p. ej. `section-tokio`). Claves reconocidas:
 
@@ -57,7 +90,7 @@ La tarjeta de sección aparece una sola vez antes del primer día de esa base (s
 
 **Estado compacto al quedar fija**: cuando la tarjeta queda pegada se compacta con transición (~0.4s): se muestra solo el título (fuente 1.75rem → 1.05rem, padding reducido) y el resto del contenido (alojamiento, estadía y resumen, envueltos en `.section-card-details`) se oculta gradualmente; al volver a su posición natural se expande de nuevo. El estado se marca con la clase `is-stuck`, que un `IntersectionObserver` en `app.ts` (`setupStickySections()`) aplica/desaplica al detectar que un sentinel de altura cero (`.section-sticky-sentinel`, al tope natural de cada bloque) cruza la línea sticky.
 
-### 1.4 `@day` — Días
+### 1.5 `@day` — Días
 
 Claves reconocidas:
 
@@ -67,14 +100,14 @@ Claves reconocidas:
 | `title:` | `Ueno y Akihabara`                                         | Título del día                                 |
 | `steps:` | `17500`                                                    | Pasos estimados → badge `👟` y en la barra "Hoy" |
 | `summary:`| `Museo Nacional de Tokio + Parque Ueno…`                   | Subtítulo bajo el título (soporta enlaces inline) |
-| `image1:` … `imageN:` (o `foto:` / `fotos:`) | `museonacional.png [Museo Nacional de Tokio en Ueno]` | Imágenes del día (ver §1.9) |
+| `image1:` … `imageN:` (o `foto:` / `fotos:`) | `museonacional.png [Museo Nacional de Tokio en Ueno]` | Imágenes del día (ver §1.10) |
 
 Detalles:
-- El **número de día** es el contador global de `@day` (no por sección): `Día 1`, `Día 2`, … y el `id` interno es `day-1`, `day-2`, … (usado por el router por hash).
-- Un `@day` fuera de cualquier `@section` se asigna a una sección virtual `section-general`.
+- El **número de día** es la posición del día en `@itinerary` (global, no por sección): `Día 1`, `Día 2`, … y el `id` interno es `day-1`, `day-2`, … (usado por el router por hash).
+- La **sección de un día** la define `@itinerary` (el bloque de sección donde aparece su título). Solo sin `@itinerary` se usa el `@section` padre del archivo, y un `@day` fuera de cualquier `@section` va a la sección virtual `section-general`.
 - Las líneas desconocidas dentro de un día se **ignoran** en silencio (p. ej. una URL suelta).
 
-### 1.5 Eventos — línea de encabezado de cronograma
+### 1.6 Eventos — línea de encabezado de cronograma
 
 Cada evento comienza con una línea que debe coincidir con la regex del parser:
 
@@ -102,12 +135,12 @@ HH:MM | <duración> | <TIPO> | <descripción opcional>
 | `FREE`  | 🎮 | verde |
 | `NOTE`  | 📝 | naranja |
 
-Distribución actual en el archivo: 173 `WALK`, 73 `TRAIN`, 66 `VISIT`, 60 `FOOD`, 18 `BUS`, 17 `SHOP`, 16 `BREAK`, 9 `HOTEL`, 7 `PHOTO`, 5 `TAXI`, 3 `FREE`.
+Distribución actual en el archivo: 174 `WALK`, 75 `TRAIN`, 67 `VISIT`, 58 `FOOD`, 17 `BUS`, 17 `SHOP`, 14 `BREAK`, 8 `HOTEL`, 6 `TAXI`, 6 `PHOTO`, 3 `FREE`, 1 `WAIT`.
 
 - **Descripción**: todo lo que va después del tercer `|` en la misma línea (habitualmente vacío en este archivo), más todas las líneas que siguen hasta el siguiente evento, `Option`, `@note`, `@day` o `@section`.
 - Convención del contenido: costos entre paréntesis como `(CLP 1.2M)` o `(~10 USD)` se escriben directamente en la descripción.
 
-### 1.6 `Option` / `Opción` — Alternativas de un evento
+### 1.7 `Option` / `Opción` — Alternativas de un evento
 
 Dentro del bloque de un evento, la palabra exacta `Option` (o `Opción`) en su línea inicia una alternativa:
 
@@ -119,7 +152,7 @@ A 4 min desde Mandarake. ← resto = descripción (multilínea)
 
 Se renderiza como tarjetas `🍴` bajo el evento (típico: alternativas de restaurante para almuerzo/cena).
 
-### 1.7 `@note` — Notas del día
+### 1.8 `@note` — Notas del día
 
 ```
 @note
@@ -131,7 +164,7 @@ ocupar varias líneas y contener enlaces inline.
 - Se renderiza como cajas `📌` entre las imágenes y el cronograma del día.
 - Soporta el mismo procesado de enlaces que las descripciones.
 
-### 1.8 Enlaces y Google Maps en el texto
+### 1.9 Enlaces y Google Maps en el texto
 
 Durante el finalizado de cada evento/nota/summary, el parser procesa las URLs del texto:
 
@@ -139,7 +172,7 @@ Durante el finalizado de cada evento/nota/summary, el parser procesa las URLs de
 2. **Enlaces inline personalizados** `[url|etiqueta]` → se convierten en `<a>` dentro del texto (p. ej. `[https://www.getyourguide.com/…|getyourguide]` muestra solo "getyourguide").
 3. **Cualquier otra URL** → se recopila como chip `🔗 Ver enlace` (o con su etiqueta, si venía en forma inline) bajo el evento.
 
-### 1.9 Imágenes de día
+### 1.10 Imágenes de día
 
 ```
 image1: museonacional.png [Museo Nacional de Tokio en Ueno]
@@ -150,9 +183,10 @@ image1: museonacional.png [Museo Nacional de Tokio en Ueno]
 - Rutas: se normalizan a `/images/<archivo>` (directorio `public/images/`); se aceptan rutas absolutas, con prefijo `images/` o URLs `http(s)`.
 - Las miniaturas se muestran **solo cuando la tarjeta del día está colapsada** (comportamiento del UI, ver §2.3).
 
-### 1.10 Reglas de tolerancia del parser
+### 1.11 Reglas de tolerancia del parser
 
 - Líneas en blanco delimitan blocos visualmente, pero el parser se guía solo por tags, encabezados de evento y `Option`.
+- En `@itinerary`, las únicas líneas con significado son `section: <nombre>` y los títulos de día bajo una sección activa; el resto se descarta en silencio (p. ej. un `section:` sin nombre o líneas antes de la primera sección).
 - Cualquier línea que no coincida con la sintaxis del modo actual se descarta sin error.
 - Todo el texto (títulos, summaries, descripciones) pasa por `parseInlineLinks`, así que `[url|etiqueta]` funciona en casi todo el archivo.
 
@@ -194,7 +228,7 @@ firebase.json       → Hosting (dist) con rewrite de SPA
 ### 2.3 Flujo de datos
 
 ```
-viaje.txt ──fetch──▶ parseTripData() ──▶ TripData { config, sections[], allDays[] }
+viaje.txt ──fetch──▶ parseTripData() ──▶ TripData { config, sections[], allDays[], itinerary[]? }
                                                     │
                      ┌──────────────────────────────┼───────────────────────────────┐
                      ▼                              ▼                               ▼
@@ -203,7 +237,7 @@ viaje.txt ──fetch──▶ parseTripData() ──▶ TripData { config, sect
 ```
 
 - Cada búsqueda/ordenamiento **re-renderiza** el contenido principal completo a partir de `TripData` (reconstrucción de `innerHTML`); el conjunto de días expandidos (a lo sumo un id, ver §3.2) se conserva en un `Set<string>` para no perder el estado del usuario.
-- `allDays` es la lista aplanada en orden cronológico; cada `Day` guarda `sectionId`/`sectionTitle` para localizar su base.
+- `allDays` es la lista aplanada en **orden de itinerario** (números 1..N); cada `Day` guarda `sectionId`/`sectionTitle` (base según el itinerario) para localizar su base.
 
 ### 2.4 Módulo `app.ts` — orquestación
 
@@ -219,14 +253,15 @@ Responsabilidades principales:
 - **Sidebar**: en escritorio colapsa/expande (preferencia en `localStorage('sidebarCollapsed')`); en móvil (≤ 900px) funciona como drawer.
 - **Hash router** (ver §3.6).
 - **Búsqueda y ordenamiento** (ver §3.4): cada `input`/`change` vuelve a llamar `renderMainContent` con los parámetros actuales.
-- **Tarjetas BASE sticky**: `setupStickySections()` observa los sentinels de cada `.section-block` y marca `is-stuck` en la tarjeta al quedar fija (estado compacto con solo título, ver §1.3); se re-activa tras cada re-render del contenido.
+- **Tarjetas BASE sticky**: `setupStickySections()` observa los sentinels de cada `.section-block` y marca `is-stuck` en la tarjeta al quedar fija (estado compacto con solo título, ver §1.4); se re-activa tras cada re-render del contenido.
 
 ### 2.5 Módulo `parser.ts` — detalles
 
-- **Máquina de estados** con modos `TRIP | SECTION | DAY | NOTE | EVENT | OPTION`, y funciones `finalize*()` en cascada (cambiar de contexto cierra el bloque abierto: opción → evento → nota → día → sección).
+- **Máquina de estados** con modos `TRIP | ITINERARY | SECTION | DAY | NOTE | EVENT | OPTION`, y funciones `finalize*()` en cascada (cambiar de contexto cierra el bloque abierto: opción → evento → nota → día → sección).
 - `addDaysToDate()` calcula fecha + nombre de día/mes en español usando `Date.UTC` (inmune a la zona horaria del dispositivo); aplica `Día N = departure + N` (el Día 1 es la llegada, día siguiente de la salida desde Santiago). También expone `formatDateStr()` para formatear un `YYYY-MM-DD` a texto en español.
-- Al terminar el parseo, las fechas de todos los días se **recalculan** con el `departure` definitivo (seguridad por orden de aparición).
-- Al final se calcula `expectedReturn = departure + allDays.length`, que alimenta la advertencia de fecha de regreso (ver §3.5).
+- Al terminar el parseo, si el archivo tiene `@itinerary`, `buildOrderedTripData()` reordena secciones y días según el itinerario, reasigna número/`id`/fechas por posición de itinerario y marca `missing` en las entradas del itinerario sin definición en el archivo (los días/secciones del archivo no listados en el itinerario quedan fuera de `sections`/`allDays`). Sin `@itinerary`, las fechas de todos los días se **recalculan** con el `departure` definitivo (seguridad por orden de aparición).
+- **Validación de duplicados**: un título de día o un nombre de sección repetidos (en el archivo o en el itinerario) lanzan un `Error` con el nombre y las líneas implicadas (ver §1.3).
+- Al final se calcula `expectedReturn = departure + allDays.length` (N = días del itinerario, incluidos los que solo son bloques de error), que alimenta la advertencia de fecha de regreso (ver §3.5).
 - `extractUrls()` distingue enlaces de Maps (excluidos de los chips) de cualquier otro enlace (chips `🔗`, texto "Ver enlace").
 - `parseInlineLinks()` convierte `[url|etiqueta]` en anclas con `target="_blank" rel="noopener noreferrer"`.
 - Valores por defecto de config si falta `@trip`: título "Viaje a Japón", 2026-02-15 → 2026-03-15, `Asia/Tokyo`, `JPY`.
@@ -290,7 +325,7 @@ Barra de controles sobre las tarjetas:
 
 - **Búsqueda** (header): filtra días por coincidencia (mayúsculas/miniúsculas indistintas) en `title`, `summary`, descripciones de eventos y títulos de opciones. Con búsqueda activa: los días coincidentes se **expanden automáticamente** y las tarjetas de sección se ocultan.
 - **Orden** (`⇅`):
-  - `cron` — cronológico (orden natural por `dayNumber`).
+  - `cron` — cronológico (orden del itinerario, por `dayNumber`).
   - `stars` — de mayor a menor estrellas, con `dayNumber` como desempate (orden estable); oculta las tarjetas de sección y muestra el badge `🏠 base` en cada día para no perder el contexto.
 - Sin resultados → estado vacío "No se encontraron resultados".
 
@@ -298,8 +333,8 @@ Barra de controles sobre las tarjetas:
 
 En la parte superior del contenido principal (sobre el banner "Hoy") el sitio muestra una advertencia si la fecha `return` configurada **no es la misma que la suma de los días configurados**:
 
-- **Fecha de regreso esperada** = `departure + N días` (N = cantidad de `@day`). Como el viaje dura 2 días desde Santiago (se llega a destino al día siguiente de la salida, Día 1 = departure + 1), el último día (Día N) cae en `departure + N`: es el día en que se sale de Japón.
-- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2026-02-13` + 29 días = `2026-03-14`, mientras `return: 2026-03-15` → la advertencia aparece.
+- **Fecha de regreso esperada** = `departure + N días` (N = cantidad de días del itinerario, ver §1.3). Como el viaje dura 2 días desde Santiago (se llega a destino al día siguiente de la salida, Día 1 = departure + 1), el último día (Día N) cae en `departure + N`: es el día en que se sale de Japón.
+- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2027-02-13` + 31 días = `2027-03-16`, mientras `return: 2027-03-15` → la advertencia aparece.
 - **Qué muestra**: la fecha de regreso configurada, la fecha de salida, el total de días, la fecha esperada y las fechas del Día 1 y del Día N, todas en español.
 - **Cuando no se dispara**: `return = departure + N` → el contenedor `#return-warning-container` queda vacío.
 - Implementación: `renderReturnWarning()` (`src/ui.ts`) sobre `TripData.expectedReturn` (calculado en el parser); estilo ámbar `.return-warning` en `css/style.css`, adaptado al tema claro.

@@ -31,9 +31,14 @@ export interface DayImage {
   label?: string;
 }
 
+export interface ItinerarySection {
+  name: string;          // debe coincidir con el nombre de un @section
+  dayTitles: string[];   // títulos de días en el orden definido
+}
+
 export interface Day {
   id: string;           // e.g. "day-1"
-  dayNumber: number;    // e.g. 1
+  dayNumber: number;    // e.g. 1 (posición en el itinerario)
   dateStr: string;      // e.g. "2026-02-15"
   dateFormatted: string;// e.g. "Domingo 15 de febrero de 2026"
   dayOfWeek: string;    // e.g. "Domingo"
@@ -47,6 +52,7 @@ export interface Day {
   events: TripEvent[];
   images?: DayImage[];
   fotos?: string[];
+  missing?: boolean;    // true: está en @itinerary pero no hay @day con ese título en el archivo
 }
 
 export interface Section {
@@ -57,11 +63,13 @@ export interface Section {
   summary?: string;
   notes?: string;
   days: Day[];
+  missing?: boolean;    // true: está en @itinerary pero no hay @section con ese nombre en el archivo
 }
 
 export interface TripData {
   config: TripConfig;
   sections: Section[];
   allDays: Day[];
-  expectedReturn: string; // YYYY-MM-DD = departure + N días (se llega a destino al día siguiente de la salida)
+  itinerary?: ItinerarySection[]; // presente solo si el archivo tiene @itinerary (orden canónico de secciones y días)
+  expectedReturn: string; // YYYY-MM-DD = departure + N días (N = días del itinerario; se llega a destino al día siguiente de la salida)
 }
