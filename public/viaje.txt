@@ -66,6 +66,11 @@ Cod Cocha: 25SPL3
 LA602: 12 Feb 23:55 SCL -> 13 Feb 06:15 LAX (Los Angeles)
 LA7455: 13 Feb 11:55 LAX -> 14 Feb 16:40 NRT (Tokio)
 
+@note
+⚠️ Restricciones detectadas:
+- El vuelo LA7455 aterriza en Narita (NRT), no en Haneda: revisar título del día.
+- Reservar la van / Uber XL con anticipación (grupo de 5 con maletas).
+
 16:40 | 120m | WALK |
 Aterrizaje en Narita (16:40). Ingreso a Japón. Recoger maletas.
 
@@ -100,6 +105,11 @@ Mucho viaje en metro... no mucho contenido.
 
 @note
 23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
+
+@note
+⚠️ Restricciones detectadas:
+- FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
+- Jardines Hamárikyū: 9:00–17:00.
 
 08:30 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
@@ -191,6 +201,11 @@ image2: Mirador_Gobierno_Metropolitano.png [Mirador del Edificio del Gobierno Me
 image3: Golden_Gai.png [Callejones Nocturnos de Golden Gai]
 image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
 
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: Shinjuku Gyoen CIERRA LOS LUNES (15-feb es lunes). Horario invierno 9:00–16:00. Sugerencia: intercambiar este día con el Día 7 (Harajuku y Shibuya).
+- Mirador Gobierno Metropolitano: Norte cierra 2º y 4º lunes, Sur cierra 1º y 3er martes. El 15-feb (3er lunes) el Norte está abierto. Puede cerrar por mal tiempo.
+
 09:20 | 20m | WALK |
 Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
@@ -257,6 +272,12 @@ Comprar entradas el 10 de Enero a las 10:00
 @note
 Este día se debe ajustar a la fecha/hora de ticket comprado
 
+@note
+⚠️ Restricciones detectadas:
+- Museo Ghibli: entradas solo con horario fijo 10:00, 12:00, 14:00 o 16:00 (30 min de tolerancia). El plan indica 11:00: ajustar al ticket.
+- Venta: 10-ene 10:00 hora Japón = 9-ene 22:00 hora Chile (Lawson Ticket). Entradas nominativas, piden pasaporte.
+- Cierra los martes y en algunos periodos de mantención.
+
 09:50 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
@@ -318,6 +339,10 @@ image3: Ameyoko_Akihabara.png [Mercado Ameyoko y Akihabara]
 
 @note
 El Museo Nacional de Tokio abre de Martes a Domingo
+
+@note
+⚠️ Restricciones detectadas:
+- Museo Nacional de Tokio cierra los lunes; martes abierto (9:30–17:00). Sin conflicto.
 
 08:35 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
@@ -410,7 +435,13 @@ TODO: buscar excursion por el día (tour pagado) (CLP 470M-695M)
 [https://www.klook.com/es/activity/74672-nikko-day-bus-tour/?aid=1798&aff_adid=1100443&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=1798&utm_term=&utm_content=&aff_klick_id=137409410316-1798-1100443-14d425e|klook]
 
 @note
-se puede intercambiar con el día anterior
+Posible ajuste: Ajuste: Desplaza todo exactamente una hora y sal a las 08:20. Tomarás el tren Limited Express a las 09:00. Al llegar a los santuarios a las 11:50, puedes recorrer el bosque tranquilamente, almorzar tu Yuba tradicional a las 14:50 y hacer las compras de souvenirs a las 16:00. Regresas a Shinjuku en el tren de las 18:00.
+
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: Yubatei Masudaya CIERRA LOS JUEVES (18-feb es jueves). Además abre solo 11:00–15:00 o hasta agotar stock. Usar otra opción de almuerzo.
+- Nikkō Tōshō-gū en invierno: 8:00–16:00 (última entrada 15:30).
+- Limited Express Nikkō: asientos con reserva.
 
 07:20 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -479,6 +510,12 @@ summary: Traslado a Maihama + Día Completo en Tokyo Disney Resort + Fuegos Arti
 image1: Tokyo_Disney.png [Parque Temático Tokyo Disneyland]
 image2: Tokyo_DisneySea.png [Parque Temático Tokyo DisneySea]
 
+@note
+⚠️ Restricciones detectadas:
+- Entrada con fecha fija y precio variable. Horario del parque varía por día: confirmar en la app.
+- El nombre "40th Anniversary Priority Pass" está desactualizado; revisar en la app. DisneySea no tiene desfiles clásicos.
+- Fuegos artificiales se cancelan con viento.
+
 06:45 | 1m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
 https://www.google.com/maps/place/Nishi-Shinjuku+Station
@@ -544,6 +581,11 @@ Museo Edo Tokio:
 1- Cierra los días Lunes, y si el Lunes es festivo Nacional, abre el Lunes y Cierra el Martes.
 2- Abre de 9:30 a 17:30 (Sáb: cierra 19:30)
 
+@note
+⚠️ Restricciones detectadas:
+- Museo Edo-Tokio reabrió el 31-mar-2026. Cierra los lunes; viernes abierto 9:30–17:30.
+- Sensō-ji: salón principal cierra 17:00 en invierno; tiendas de Nakamise cierran ~17:00–18:00.
+
 09:30 | 7m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
@@ -601,6 +643,11 @@ image4: Shibuya_Sky.png [Mirador Shibuya Sky en las Alturas]
 
 @note
 Los boletos para el atardecer se agotan con un mes de anticipación, por lo que debes comprarlos online exactamente 4 semanas antes de tu visita
+
+@note
+⚠️ Restricciones detectadas:
+- Shibuya Sky: tickets salen 4 semanas antes (~23-ene); el horario del atardecer se agota. La terraza cierra con lluvia o viento fuerte.
+- Sábado: Takeshita Street y Shibuya muy concurridos.
 
 08:50 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
@@ -689,6 +736,12 @@ image4: TsurugaokaHachimangu.png [Santuario Tsurugaoka Hachimangu]
 
 @note
 Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abordar el tren Enoden hacia Hase, suele haber filas en las máquinas de boletos. Si todos usan su tarjeta IC o Suica en Apple Wallet/Google Wallet, pasarán directo por los torniquetes sin perder tiempo.
+
+@note
+⚠️ Restricciones detectadas:
+- Hase-dera cierra entre 16:30 y 17:00 en invierno; interior del Gran Buda (Kōtoku-in) cierra antes que el recinto.
+- Domingo: Kamakura muy concurrida, filas en el Enoden.
+- Hay dos eventos de tren de ida duplicados (08:10 y 08:30): revisar.
 
 08:00 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -780,6 +833,12 @@ https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
 Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en la mañana apenas lleguen a Kawaguchiko.
+
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: Teleférico Kachi-Kachi en invierno (hasta 10-mar) opera 9:30–16:30. El plan sube 15:20 por 90 min (hasta 16:50): subir antes.
+- Fuji Excursion: todos los asientos reservados; confirmar que el tren elegido pare en Shimoyoshida.
+- Bus expreso a Shinjuku requiere reserva. Horario inconsistente: bus 18:50 (115 min) vs cena en Shinjuku 19:25.
 
 07:10 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
@@ -887,6 +946,11 @@ Posibilidad de ir a Takadanobaba Mikado (mil arcades)
 @note
 Takkyubin: (AM) Recordar dejar maletas en servicio de traslado antes del cutoff time!
 
+@note
+⚠️ Restricciones detectadas:
+- Mandarake y la mayoría de las tiendas de Nakano Broadway abren a las 12:00 (el plan llega 11:00).
+- Takkyubin: despachar antes del cutoff para que llegue al ryokan en Takayama el 26-feb.
+
 10:10 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
@@ -954,6 +1018,12 @@ image3: Aldea_Hida_Minzoku_Mura.png [Aldea Folclórica Hida Minzoku Mura]
 
 @note
 Tanto Takayama Jinya como Hida Minzoku Mura (Hida no Sato) cierran sus puertas a las 17:00 (dejando de admitir visitantes a las 16:30)
+
+@note
+⚠️ Restricciones detectadas:
+- Corrección: Takayama Jinya de noviembre a febrero cierra a las 16:30 (última entrada 16:00), no 17:00.
+- Hida no Sato cierra 17:00 (última entrada 16:30).
+- Sanmachi Suji: tiendas y destilerías de sake cierran ~17:00; el paseo 17:20–18:50 será con casi todo cerrado.
 
 08:15 | 5m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
@@ -1036,6 +1106,12 @@ image1: Shirakawago.png [Casas Gassho-zukuri en Shirakawa-go]
 image2: mirador_Shiroyama.png [Vistas desde el Mirador de Shiroyama]
 image3: Mercado_Miyagawa.png [Mercado Matutino de Miyagawa]
 
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: Mercado matinal Miyagawa en invierno funciona 8:00–12:00. El plan va a las 15:05 (cerrado).
+- Mirador Shiroyama: el sendero a pie suele cerrar en invierno; usar bus shuttle (efectivo, horario limitado).
+- Bus Nohi requiere reserva. Si ese día hay light-up, los visitantes de día deben salir antes de las 15:00.
+
 08:15 | 15m | WALK |
 Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (junto a la estación).
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
@@ -1102,6 +1178,10 @@ summary: Bus a Okuhida + Teleférico Shinhotaka (2000m) + Hirayu Onsen (Rotenbur
 image1: Teleferico_Shinhotaka.png [Teleférico de Doble Piso Shinhotaka]
 image2: Hirayu_Onsen.png [Aguas Termales de Hirayu Onsen]
 image3: Hirayu_Onsen2.png [Baños al Aire Libre de Hirayu Onsen]
+
+@note
+⚠️ Restricciones detectadas:
+- Teleférico Shinhotaka: horario de invierno reducido (aprox. 9:00–16:00); se suspende con viento fuerte. Pocas salidas de bus Nohi en invierno.
 
 08:20 | 15m | WALK |
 Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume.
@@ -1184,6 +1264,10 @@ Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, 
 Templo Rokkakudo (Choho-ji):
 Cierra a las 17:00 (verificar)
 
+@note
+⚠️ Restricciones detectadas:
+- Templo Rokkakudo cierra 17:00. Recepción MIMARU 7:00–22:00; Takkyubin solo se recibe desde el día del check-in.
+
 08:30 | 90m | FOOD |
 Desayuno tranquilo en Ryokan Oyado Koto No Yume (o cafetería tradicional en Takayama).
 https://www.google.com/maps/place/Oyado+Koto+No+Yume
@@ -1246,6 +1330,11 @@ image4: Parque_Monos_Iwatayama.png [Parque de los Monos de Arashiyama Iwatayama]
 
 @note
 Recomendación: Tomar un par de taxis (o bus) desde la estación hacia Otagi Nenbutsu-ji, ya que es el punto más alto. Desde ahí, todo el recorrido de la mañana será en bajada por las hermosas calles históricas de Saga-Toriimoto.
+
+@note
+⚠️ Restricciones detectadas:
+- Parque de monos Iwatayama: en invierno (hasta mediados de marzo) cierra 16:00 y la última subida es antes. Llegar 15:15 es muy justo. Cierra con mal tiempo.
+- Adashino Nenbutsu-ji: en marzo cierra 16:30 (dic–feb 15:30). Sin conflicto.
 
 08:35 | 10m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma.
@@ -1352,6 +1441,10 @@ image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
 image2: Templo_Kiyomizudera.png [Terraza de Madera del Templo Kiyomizu-dera]
 image3: Sannenzaka_Ninenzaka.png [Calles Tradicionales Sannenzaka y Ninenzaka]
 
+@note
+⚠️ Restricciones detectadas:
+- Gion: prohibido entrar y fotografiar en los callejones privados que salen de Hanamikoji (letreros con multa de hasta ¥10.000).
+
 07:30 | 5m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
@@ -1432,6 +1525,11 @@ steps: 16000
 summary: Shinkansen a Nagoya + Tren Linimo + Parque Ghibli (Día Completo) + Regreso a Kioto
 image1: Parque_Ghibli.png [Parque de Ghibli (Entrada principal)]
 image2: Parque_Ghibli2.png [Gran Almacén de Ghibli]
+
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: Parque Ghibli en días hábiles abre a las 10:00 (el plan llega 9:30). Cierra los martes.
+- Venta: 10-ene 14:00 hora Japón = 10-ene 02:00 hora Chile (mismo día que el Museo Ghibli). El Gran Almacén tiene horario asignado; piden pasaporte.
 
 07:15 | 15m | TAXI |
 (CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
@@ -1524,6 +1622,10 @@ image2: Jardinsen_Ryoanji.png [Jardín de Rocas Zen del Templo Ryoan-ji]
 image3: Castillo_Nijo.png [Castillo de Nijo]
 image4: Mercado_Nishiki.png [Mercado de Comida Nishiki Market]
 
+@note
+⚠️ Restricciones detectadas:
+- Castillo Nijō: 8:45–17:00 (última entrada 16:00); solo cierra martes en ene/jul/ago/dic. Mercado Nishiki: tiendas cierran ~17:00–18:00. Sin conflicto.
+
 08:00 | 5m | WALK |
 Caminar a la parada de bus en Shijo Karasuma.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Karasuma+Bus+Stop
@@ -1596,6 +1698,10 @@ image1: Templo_Ginkakuji.png [Templo Ginkaku-ji (Pabellón de Plata)]
 image2: Paseo_Filosofia.png [Sendero del Camino de la Filosofía]
 image3: Templo_Nanzenji.png [Templo Zen Nanzen-ji]
 image4: Santuario_Heian.png [Santuario Heian-jingu]
+
+@note
+⚠️ Restricciones detectadas:
+- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té requiere reserva. Sábado: mucha gente.
 
 08:45 | 5m | WALK |
 Caminar a la parada de bus en Karasuma Oike.
@@ -1687,6 +1793,10 @@ La cadena MIMARU es de hoteles tipo apartamento y, a diferencia de un hotel trad
 
 Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, pero estrictamente el mismo día de tu check-in o durante el día en que ya estás alojado, siempre y cuando llegue en el horario en que hay personal en recepción.
 
+@note
+⚠️ Restricciones detectadas:
+- MIMARU Kioto: check-out habitual 10:00–11:00; el plan retira maletas a las 13:00 → pedir guardar equipaje.
+
 09:00 | 180m | FREE |
 FREE
 https://www.google.com/maps/place/Shijo+Dori+Kyoto
@@ -1743,6 +1853,10 @@ image1: Galerias_Shinsaibashi.png [Galerías Comerciales de Shinsaibashi]
 image2: Torre_Tsutenkaku.png [Torre Tsutenkaku en Shinsekai]
 image3: Barrio_Shinsekai.png [Barrio Shinsekai]
 image4: Kushikatsu.png [Almuerzo de Brochetas Kushikatsu]
+
+@note
+⚠️ Restricciones detectadas:
+- Barco Dōtonbori aprox. 11:00–21:00 (se suspende con mal tiempo). Tsūtenkaku 10:00–20:00.
 
 10:45 | 15m | WALK |
 Caminar de MIMARU Osaka Namba Station hacia Shinsaibashi / Dōtonbori.
@@ -1817,6 +1931,10 @@ image2: Super_Nintendo_World.png [Super Nintendo World en USJ]
 image3: Atracciones_USJ.png [Atracciones de Universal Studios Japan]
 image4: Hard_Rock_Cafe.png [Cena en Hard Rock Cafe Osaka]
 
+@note
+⚠️ Restricciones detectadas:
+- Entrada con fecha fija. Super Nintendo World requiere Express Pass o ticket de horario en la app. Horario de apertura varía por día.
+
 06:15 | 10m | WALK |
 Caminar a estación Osaka-Namba (línea Hanshin).
 
@@ -1884,6 +2002,11 @@ image1: Parque_Nara.png [Ciervos en el Parque de Nara]
 image2: Pagoda_Kofukuji.png [Pagoda de Cinco Pisos del Templo Kofuku-ji]
 image3: Todaiji_Gran_Buda.png [Gran Buda del Templo Todai-ji]
 image4: Santuario_KasugaTaisha.png [Santuario Kasuga Taisha y Linternas de Bronce]
+
+@note
+⚠️ Restricciones detectadas:
+- CRÍTICO: la pagoda de cinco pisos de Kōfuku-ji está cubierta por andamios (restauración ~2023–2032/2034). No será visible.
+- Omizutori en Tōdai-ji (1–14 de marzo): mucha gente. Salón del Gran Buda cierra 16:30 en invierno.
 
 08:40 | 5m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Kintetsu-Nipponbashi.
@@ -1963,6 +2086,10 @@ image4: Mirador_Umeda_Sky.png [Mirador Kuchu Teien en Umeda Sky Building]
 
 @note
 Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entrar al Castillo de Himeji
+
+@note
+⚠️ Restricciones detectadas:
+- Jardín Gokuraku-jōdo (Shitennō-ji) oct–mar: 8:30–16:00. Sin conflicto.
 
 08:45 | 5m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Nipponbashi.
@@ -2044,6 +2171,10 @@ image1: Cupula.png [Cúpula de la Bomba Atómica en Hiroshima]
 image2: Ferry_Miyajima.png [Ferry hacia la Isla de Miyajima]
 image3: Itsukushima.png [Gran Torii Flotante de Itsukushima]
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
+
+@note
+⚠️ Restricciones detectadas:
+- Itsukushima: 6:30–18:00. El torii 'flota' solo con marea alta: revisar tabla de mareas. Impuesto de visitante Miyajima ¥100.
 
 07:30 | 10m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
@@ -2158,6 +2289,11 @@ image3: Curry_House_CoCo_Ichibanya.png [Almuerzo en Curry House CoCo Ichibanya]
 image3: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
 
 
+@note
+⚠️ Restricciones detectadas:
+- Castillo de Himeji: desde mar-2026 cuesta ¥2.500 por adulto; última entrada 16:00. Sábado: mucha gente.
+- Falta el tren Himeji → Osaka (el evento de las 14:00 parte en metro de Osaka).
+
 07:50 | 10m | WALK |
 Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
@@ -2244,6 +2380,11 @@ image1: Mercado_Kuromon.png [Mercado de Mariscos Kuromon Ichiba]
 image2: DotonboriShinsaibashi.png [Distritos de Dotonbori y Shinsaibashi]
 image3: Wagyu_Yakiniku.png [Cena de Wagyu Yakiniku]
 
+@note
+⚠️ Restricciones detectadas:
+- Probable día 1 del torneo de sumo de Osaka (Edion Arena, junto al hotel): más gente / opción de ir (confirmar fecha).
+- Cena de despedida requiere reserva.
+
 10:15 | 5m | WALK |
 Caminar desde MIMARU Osaka Namba Station al Mercado Kuromon (a solo metros de distancia).
 https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Kuromon+Market
@@ -2289,6 +2430,11 @@ title: Salida por KIX
 steps: 5000
 summary: Desayuno + Traslado a Nankai Namba + Tren Nankai Rapi:t a KIX + Vuelo de regreso
 image1: DenDenTown.png [Barrio de Electrónica Den Den Town]
+
+@note
+⚠️ Restricciones detectadas:
+- Den Den Town: la mayoría de las tiendas abre 10:00–11:00 (el plan parte 9:45).
+- Nankai Rapi:t: asiento reservado.
 
 08:30 | 60m | FOOD |
 Desayuno en el hotel o cafetería cercana.
