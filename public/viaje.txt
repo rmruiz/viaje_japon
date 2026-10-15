@@ -8,7 +8,7 @@ currency: JPY
 @itinerary
 
 section: Tokio
-Llegada a Haneda
+Llegada a Aeropuerto Narita (NRT)
 Shinjuku: parques y callejones
 Ueno y Akihabara
 Museo Ghibli y UNIQLO
@@ -55,9 +55,9 @@ summary: Primera base del viaje. Recorrido por Tokio, Fuji, Kamakura, Odaiba, Ni
 
 @day
 stars: 5
-title: Llegada a Haneda
+title: Llegada a Aeropuerto Narita (NRT)
 steps: 5000
-summary: Llegada a Haneda + Traslado a Shinjuku + Cena konbini
+summary: Llegada a Narita + Traslado a Shinjuku + Cena konbini
 
 @note
 Vuelvo LA 602
