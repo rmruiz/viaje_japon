@@ -934,9 +934,9 @@ Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en l
 
 @note
 ⚠️ Restricciones detectadas:
-- CRÍTICO: Teleférico Kachi-Kachi en invierno (hasta 10-mar) opera 9:30–16:30. El plan sube 15:20 por 90 min (hasta 16:50): subir antes.
+- Teleférico Kachi-Kachi en invierno (hasta 10-mar) opera 9:30–16:30: el plan sube a las 14:15 (baja a las 15:45), con margen antes del cierre.
 - Fuji Excursion: todos los asientos reservados; confirmar que el tren elegido pare en Shimoyoshida.
-- Bus expreso a Shinjuku requiere reserva. Horario inconsistente: bus 18:50 (115 min) vs cena en Shinjuku 19:25.
+- Bus expreso a Shinjuku requiere reserva (comprar el ticket de regreso en la mañana). El bus de las 18:50 (115 min) llega a Busta Shinjuku ~20:45, por eso se cena en Kawaguchiko antes de subir al bus.
 Fuentes: [https://japanuncharted.com/yamanashi/mt-fuji/mount-fuji-panoramic-ropeway|Teleférico Kachi-Kachi (Japan Uncharted)] · [https://ekitan.com/en/article/fujikaiyu|Fuji Excursion (Ekitan)]
 
 07:10 | 10m | WALK |
@@ -971,7 +971,7 @@ https://www.google.com/maps/dir/Shimoyoshida+Station/Kawaguchiko+Station
 Caminar hacia orilla del lago o restaurantes.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Lake+Kawaguchi
 
-13:00 | 120m | FOOD |
+13:00 | 60m | FOOD |
 Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona).
 https://www.google.com/maps/place/Houtou+Fudou+Kawaguchiko+Station
 
@@ -987,45 +987,40 @@ Option
 Kosaku Kawaguchiko Hoto Noodles
 A 12 min desde la estación Kawaguchiko.
 
-15:00 | 20m | BUS |
+14:00 | 15m | BUS |
 (CLP 1.3M) Caminar o tomar Bus local al teleférico.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Mt.+Fuji+Panoramic+Ropeway
 
-15:20 | 90m | VISIT |
-Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Campana de Tenjo y dango.
+14:15 | 90m | VISIT |
+Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Campana de Tenjo y dango. Cierra a las 16:30 en invierno: se sube temprano para no apurarse.
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
-16:50 | 30m | BUS |
+15:45 | 30m | BUS |
 (CLP 1M) Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
 https://www.google.com/maps/dir/Mt.+Fuji+Panoramic+Ropeway/Kozantei+Ubuya
 
-17:30 | 60m | PHOTO |
+16:15 | 60m | PHOTO |
 Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm.
 https://www.google.com/maps/place/Lake+Kawaguchi
 
-18:30 | 20m | BUS |
+17:15 | 20m | BUS |
 (CLP 1M) Bus de regreso (Línea Roja) → Estación Kawaguchiko.
 https://www.google.com/maps/dir/Lake+Kawaguchi/Kawaguchiko+Station
 
+17:35 | 70m | FOOD |
+Cena en Kawaguchiko, cerca de la estación (ramen, hōtō u otro). Se cena aquí, antes del bus, porque el bus llega a Shinjuku pasadas las 20:45.
+https://www.google.com/maps/search/restaurantes+cerca+Kawaguchiko+Station
+
+18:45 | 5m | WALK |
+Caminar al terminal de buses de la estación Kawaguchiko (con el ticket de regreso ya comprado desde la mañana).
+
 18:50 | 115m | BUS |
-(CLP 1.3M) Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes).
+(CLP 1.3M) Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes). Llegada ~20:45.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Busta+Shinjuku
 
-19:25 | 65m | FOOD |
-Cena Ramen reconfortante en Shinjuku.
-https://www.google.com/maps/place/Ichiran+Shinjuku
-
-Option
-ICHIRAN Shinjuku Station Central East Exit
-A 3 min desde la estación Shinjuku.
-
-Option
-Fuunji Shinjuku
-A 6 min desde la estación Shinjuku.
-
-20:30 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+20:45 | 25m | WALK |
+Caminar de Busta Shinjuku al Hotel Rose Garden Shinjuku (pasando por la estación; si están cansadas, un taxi corto).
+https://www.google.com/maps/dir/Busta+Shinjuku/Hotel+Rose+Garden+Shinjuku
 
 @day
 stars: 5
