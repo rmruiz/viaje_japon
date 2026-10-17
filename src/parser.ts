@@ -1,4 +1,4 @@
-import { TripConfig, Section, Day, TripEvent, EventOption, DayNote, TripData, ItinerarySection } from './types';
+import { TripConfig, Section, Day, DayVariant, TripEvent, EventOption, DayNote, TripData, ItinerarySection } from './types';
 
 const MONTH_NAMES_ES = [
   'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio',
@@ -118,8 +118,21 @@ export function parseTripData(rawText: string): TripData {
   let itinerary: ItinerarySection[] | null = null;
   let currentItinerarySection: ItinerarySection | null = null;
 
-  // Detección de títulos repetidos (error fatal al cargar la página).
-  const fileDayTitleLines = new Map<string, number[]>();
+  // Opciones de día (`option: A` / `option: B`): los bloques @day con el mismo título y
+  // distinta opción son un solo día con varias variantes (ver finalizeDay / applyDayVariants).
+  let currentDayOption: string | undefined;
+  let currentDayStartLine = 0;
+  let currentDayTitleLine = 0;
+  interface FileDayEntry {
+    day: Day;                       // primer bloque @day con ese título (es el día que se conserva)
+    lines: number[];                // línea del título de cada bloque (para mensajes de error)
+    keys: Map<string, number>;      // etiqueta de opción -> línea del título
+    hasPlain: boolean;              // el primer bloque no tenía `option:`
+    variants: DayVariant[];         // una por bloque con `option:`
+  }
+  const fileDayEntries = new Map<string, FileDayEntry>();
+
+  // Detección de títulos de sección repetidos (error fatal al cargar la página).
   const fileSectionNameLines = new Map<string, number[]>();
   const itinDayTitleLines = new Map<string, number[]>();
   const itinSectionNameLines = new Map<string, number[]>();
@@ -182,11 +195,42 @@ export function parseTripData(rawText: string): TripData {
     if (currentDay) {
       currentDay.title = currentDay.title.trim();
       currentDay.summary = parseInlineLinks(currentDay.summary.trim());
-      allDays.push(currentDay);
-      if (currentSection) {
-        currentSection.days.push(currentDay);
+
+      const title = currentDay.title;
+      const titleLine = currentDayTitleLine || currentDayStartLine;
+      const entry = fileDayEntries.get(title);
+      if (!entry) {
+        // Primer bloque con este título: es el día (los siguientes con `option:` solo le suman variantes).
+        const created: FileDayEntry = {
+          day: currentDay,
+          lines: [titleLine],
+          keys: new Map(),
+          hasPlain: !currentDayOption,
+          variants: []
+        };
+        if (currentDayOption) {
+          created.keys.set(currentDayOption, titleLine);
+          created.variants.push(variantOf(currentDay, currentDayOption));
+        }
+        fileDayEntries.set(title, created);
+        allDays.push(currentDay);
+        if (currentSection) {
+          currentSection.days.push(currentDay);
+        }
+      } else {
+        // Título repetido: solo es válido si todos los bloques son opciones distintas del mismo día.
+        if (!currentDayOption || entry.hasPlain) {
+          throw new Error(`Título de día duplicado en el archivo: "${title}" (líneas ${entry.lines.join(', ')} y ${titleLine}). Cada título debe ser único, salvo que sean opciones del mismo día: todos los bloques @day con ese título deben llevar \`option:\` (A, B…).`);
+        }
+        if (entry.keys.has(currentDayOption)) {
+          throw new Error(`Opción duplicada en el archivo: el día "${title}" define la opción ${currentDayOption} dos veces (líneas ${entry.keys.get(currentDayOption)} y ${titleLine}).`);
+        }
+        entry.keys.set(currentDayOption, titleLine);
+        entry.lines.push(titleLine);
+        entry.variants.push(variantOf(currentDay, currentDayOption));
       }
       currentDay = null;
+      currentDayOption = undefined;
     }
   }
 
@@ -272,6 +316,9 @@ export function parseTripData(rawText: string): TripData {
       finalizeDay();
       mode = 'DAY';
       totalDayCounter++;
+      currentDayOption = undefined;
+      currentDayStartLine = i + 1;
+      currentDayTitleLine = 0;
       
       const dayNumber = totalDayCounter;
       // Día N = departure + N días: el Día 1 es la llegada a Japón, al día siguiente de la salida desde Santiago.
@@ -352,9 +399,14 @@ export function parseTripData(rawText: string): TripData {
       else if (trimmed.startsWith('summary:')) currentSection.summary = trimmed.replace('summary:', '').trim();
       else if (trimmed.startsWith('notes:')) currentSection.notes = trimmed.replace('notes:', '').trim();
     } else if (mode === 'DAY' && currentDay) {
-      if (trimmed.startsWith('title:')) {
+      if (/^option:/i.test(trimmed)) {
+        // Etiqueta de opción (A, B…): se normaliza a mayúsculas; vacía = se ignora.
+        const key = trimmed.replace(/^option:/i, '').trim().toUpperCase();
+        if (key) currentDayOption = key;
+      }
+      else if (trimmed.startsWith('title:')) {
         currentDay.title = trimmed.replace('title:', '').trim();
-        trackDuplicate(fileDayTitleLines, currentDay.title, i + 1, 'Título de día', 'el archivo');
+        currentDayTitleLine = i + 1;
       }
       else if (trimmed.startsWith('stars:')) currentDay.stars = parseInt(trimmed.replace('stars:', '').trim(), 10) || 0;
       else if (trimmed.startsWith('steps:')) currentDay.steps = parseInt(trimmed.replace('steps:', '').trim(), 10) || 0;
@@ -390,6 +442,9 @@ export function parseTripData(rawText: string): TripData {
   // Finalize all remaining objects
   finalizeSection();
 
+  // Días con 2+ opciones: guardar las variantes (ordenadas por etiqueta) en el día.
+  applyDayVariants(Array.from(fileDayEntries.values()));
+
   // El itinerario (@itinerary) define el orden canónico de secciones y días;
   // el orden de aparición en el archivo deja de importar.
   if (itinerary) {
@@ -398,8 +453,11 @@ export function parseTripData(rawText: string): TripData {
 
   // Sin @itinerary: se conserva el orden de aparición en el archivo.
   // Re-calcular fechas por si departure se parseó después de los días.
-  allDays.forEach(day => {
-      const { dateStr, formatted, weekday } = addDaysToDate(config.departure, day.dayNumber);
+  // También se renumera: los bloques extra de opciones (`option:`) no cuentan como días.
+  allDays.forEach((day, index) => {
+    day.dayNumber = index + 1;
+    day.id = `day-${day.dayNumber}`;
+    const { dateStr, formatted, weekday } = addDaysToDate(config.departure, day.dayNumber);
     day.dateStr = dateStr;
     day.dateFormatted = formatted;
     day.dayOfWeek = weekday;
@@ -416,6 +474,42 @@ export function parseTripData(rawText: string): TripData {
     allDays,
     expectedReturn
   };
+}
+
+// Contenido de un bloque @day tal como quedó parseado, como opción `key`.
+function variantOf(day: Day, key: string): DayVariant {
+  return {
+    key,
+    stars: day.stars,
+    steps: day.steps,
+    summary: day.summary,
+    notes: day.notes,
+    events: day.events,
+    images: day.images || []
+  };
+}
+
+// Copia el contenido de una opción a los campos del día (el día "refleja" esa opción).
+export function applyVariantFields(day: Day, variant: DayVariant) {
+  day.stars = variant.stars;
+  day.steps = variant.steps;
+  day.summary = variant.summary;
+  day.notes = variant.notes;
+  day.events = variant.events;
+  day.images = variant.images;
+  day.activeOption = variant.key;
+}
+
+// Un día con 2+ bloques `option:` guarda sus variantes ordenadas por etiqueta (A, B…) y
+// refleja la primera (la opción por defecto). Con una sola opción definida se comporta
+// como un día normal (sin selector).
+function applyDayVariants(entries: { day: Day; variants: DayVariant[] }[]) {
+  for (const entry of entries) {
+    if (entry.variants.length < 2) continue;
+    const sorted = [...entry.variants].sort((a, b) => a.key.localeCompare(b.key, 'es', { numeric: true }));
+    entry.day.variants = sorted;
+    applyVariantFields(entry.day, sorted[0]);
+  }
 }
 
 // Aplica el orden definido por @itinerary:

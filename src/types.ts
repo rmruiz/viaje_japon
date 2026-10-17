@@ -36,6 +36,18 @@ export interface ItinerarySection {
   dayTitles: string[];   // títulos de días en el orden definido
 }
 
+// Contenido de una opción de un día (`option: A`, `option: B`…): cada opción tiene
+// sus propias estrellas, pasos, resumen, notas, imágenes y cronograma.
+export interface DayVariant {
+  key: string;          // etiqueta de la opción en mayúsculas: "A", "B"…
+  stars?: number;
+  steps: number;
+  summary: string;
+  notes: DayNote[];
+  events: TripEvent[];
+  images: DayImage[];
+}
+
 export interface Day {
   id: string;           // e.g. "day-1"
   dayNumber: number;    // e.g. 1 (posición en el itinerario)
@@ -53,6 +65,11 @@ export interface Day {
   images?: DayImage[];
   fotos?: string[];
   missing?: boolean;    // true: está en @itinerary pero no hay @day con ese título en el archivo
+  // Solo si el día tiene 2+ opciones (`option:`), ordenadas por etiqueta (A, B…).
+  // Los campos stars/steps/summary/notes/events/images del Day reflejan la opción activa
+  // (por defecto la primera); el UI los resuelve con resolveDay() (src/variants.ts).
+  variants?: DayVariant[];
+  activeOption?: string; // etiqueta de la opción cuyo contenido refleja el Day
 }
 
 export interface Section {

@@ -1700,6 +1700,7 @@ Brochetas empanizadas variadas.
 
 
 @day
+option: A
 stars: 3
 title: Ginkaku-ji, Paseo de la Filosofía y té
 steps: 16000
@@ -1776,6 +1777,95 @@ https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
 
 16:41 | 169m | BREAK |
 Caminar de la estación al MIMARU Kyoto Shinmachi Sanjo a descansar.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/MIMARU+Kyoto+Shinmachi+Sanjo
+
+19:30 | 10m | WALK |
+Caminar a restaurante.
+
+19:40 | 80m | FOOD |
+Cena Okonomiyaki estilo Kansai.
+https://www.google.com/maps/place/Donguri+Kyoto
+
+Option
+Donguri
+Restaurante familiar y cómodo.
+
+@day
+option: B
+stars: 4
+title: Ginkaku-ji, Paseo de la Filosofía y té
+steps: 10000
+summary: Versión corta: Ginkaku-ji + Paseo de la Filosofía + acueducto de Nanzen-ji (opcional) + Ceremonia del Té. Sin entrar a Nanzen-ji ni al Santuario Heian
+image1: Templo_Ginkakuji.png [Templo Ginkaku-ji (Pabellón de Plata)]
+image2: Paseo_Filosofia.png [Sendero del Camino de la Filosofía]
+image3: Templo_Nanzenji.png [Templo Zen Nanzen-ji]
+
+@note
+Versión corta: se salta Nanzen-ji (solo el acueducto, como parada de fotos opcional) y el Santuario Heian. Se mantiene la salida temprano para llegar a Ginkaku-ji antes de las multitudes del sábado y se vuelve al hotel a media tarde para descansar.
+
+@note
+La ceremonia del té requiere reserva: pedir el horario de las 13:30 y confirmar que la casa esté en Higashiyama u Okazaki (cerca de la ruta).
+
+@note
+⚠️ Restricciones detectadas:
+- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té requiere reserva. Sábado: mucha gente.
+
+08:45 | 5m | WALK |
+Caminar a la parada de bus en Karasuma Oike.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
+
+08:50 | 30m | BUS |
+(CLP 1.3M) Bus (línea 5) a la parada Ginkakuji-michi.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Ginkaku-ji
+
+09:20 | 5m | WALK |
+Caminar a entrada.
+
+09:25 | 60m | VISIT |
+Visita Ginkaku-ji (Pabellón de Plata, ~4 USD). Abre a las 8:30: llegar temprano evita las multitudes del sábado.
+https://www.google.com/maps/place/Ginkaku-ji
+
+10:25 | 5m | WALK |
+Caminar al inicio del sendero del canal.
+
+10:30 | 45m | WALK |
+Caminar por el Paseo de la Filosofía.
+https://www.google.com/maps/place/Philosopher's+Path
+
+11:15 | 10m | WALK |
+Caminar hacia el acueducto de Nanzen-ji (Suirokaku).
+
+11:25 | 25m | PHOTO |
+Acueducto Suirokaku de Nanzen-ji: parada de fotos de unos 20 minutos, sin entrar al templo (opcional).
+https://www.google.com/maps/place/Nanzen-ji+Aqueduct+Suirokaku
+
+11:50 | 10m | WALK |
+Caminar al área de Okazaki.
+
+12:00 | 60m | FOOD |
+Almuerzo en área Okazaki, antes de la hora punta del sábado.
+https://www.google.com/maps/place/Yamamoto+Menzou
+
+Option
+Yamamoto Menzou
+Udon legendario.
+
+13:00 | 30m | WALK |
+Caminar a casa de té (con margen para llegar a la hora reservada).
+
+13:30 | 90m | VISIT |
+Ceremonia del té en casa tradicional.
+https://www.google.com/maps/search/Tea+Ceremony+Kyoto
+
+15:00 | 20m | WALK |
+Caminar a estación de metro Higashiyama.
+
+15:20 | 6m | TRAIN |
+(CLP 1.3M) Metro Tozai Line a Karasuma Oike.
+https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
+
+15:26 | 244m | BREAK |
+Caminar de la estación al MIMARU Kyoto Shinmachi Sanjo y descansar toda la tarde.
 https://www.google.com/maps/dir/Karasuma-Oike+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
 19:30 | 10m | WALK |

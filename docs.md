@@ -7,7 +7,7 @@ El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 ## 1. Estructura del archivo `public/viaje.txt`
 
 El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. 
-Conteo actual: 31 días en el itinerario (30 con definición `@day`, 1 sin definir → bloque de error), 4 secciones en el itinerario (el archivo define 5 `@section`; 1 sin incluir en el itinerario → oculta), 446 eventos, 61 opciones, 18 notas y 90 imágenes referenciadas.
+Conteo actual: 30 días en el itinerario (31 bloques `@day`: el Día 21 tiene 2 opciones A/B, ver §1.5.1), 5 secciones en el itinerario (todas con `@section`), 463 eventos (contando las dos opciones del Día 21), 63 alternativas de restaurante (`Option`), 57 notas y 93 imágenes referenciadas.
 
 ### 1.1 Jerarquía
 
@@ -15,7 +15,7 @@ Conteo actual: 31 días en el itinerario (30 con definición `@day`, 1 sin defin
 @trip                 → Configuración global del viaje (una sola vez, al inicio)
 @itinerary            → Orden canónico de secciones y días (ver §1.3)
 └── @section <Nombre> → Base / etapa del viaje (Tokio, Alpes, Kioto, Osaka)
-    └── @day          → Un día de itinerario (numerado por posición en @itinerary)
+    └── @day          → Un día de itinerario (numerado por posición en @itinerary; con `option: A` / `option: B` un mismo día tiene varias opciones, ver §1.5.1)
         ├── @note     → Notas / avisos del día (pueden ir antes de los eventos)
         ├── HH:MM | dur | TIPO | …   → Evento (repeticiones = cronograma)
         │   ├── (líneas de descripción del evento)
@@ -65,7 +65,7 @@ Reglas:
 - **Día en el itinerario sin `@day` definido → bloque de error** en su posición (conserva su número y fecha de día; el sidebar lo marca con ⚠️). Lo mismo aplica a una **sección sin `@section`**: se pinta la tarjeta de base con un mensaje de error.
 - El **número de día** (y su fecha) se asigna por posición en el itinerario: el primer día listado es `Día 1 = departure + 1`.
 
-**Validación (error fatal al cargar la página)**: un título de día repetido o un nombre de sección repetido —ya sea en el archivo o en el itinerario— impide cargar la página: el parser lanza un `Error` con el nombre y las líneas implicadas, y el sitio lo muestra bajo "⚠️ Error al cargar el viaje".
+**Validación (error fatal al cargar la página)**: un nombre de sección repetido, un título de día repetido en el itinerario, o un título de día repetido en el archivo —salvo que los bloques sean opciones distintas del mismo día (`option:`, ver §1.5.1)— impide cargar la página: el parser lanza un `Error` con el nombre y las líneas implicadas, y el sitio lo muestra bajo "⚠️ Error al cargar el viaje". Un día con opciones se lista **una sola vez** en `@itinerary`.
 
 **Sin `@itinerary`** el parser hace fallback al comportamiento anterior: orden de aparición en el archivo (número de día por contador global de `@day`; días fuera de cualquier `@section` → `section-general`).
 
@@ -96,6 +96,7 @@ Claves reconocidas:
 
 | Clave    | Ejemplo                                                    | Uso                                            |
 |----------|------------------------------------------------------------|------------------------------------------------|
+| `option:` | `A`                                                        | Etiqueta de opción del día (`A`, `B`…, ver §1.5.1). Los `@day` con el mismo `title:` y distinta opción son **un solo día** con selector |
 | `stars:` | `5`                                                        | Calificación 0–5 → estrellas en el encabezado |
 | `title:` | `Ueno y Akihabara`                                         | Título del día                                 |
 | `steps:` | `17500`                                                    | Pasos estimados → badge `👟` y en la barra "Hoy" |
@@ -106,6 +107,49 @@ Detalles:
 - El **número de día** es la posición del día en `@itinerary` (global, no por sección): `Día 1`, `Día 2`, … y el `id` interno es `day-1`, `day-2`, … (usado por el router por hash).
 - La **sección de un día** la define `@itinerary` (el bloque de sección donde aparece su título). Solo sin `@itinerary` se usa el `@section` padre del archivo, y un `@day` fuera de cualquier `@section` va a la sección virtual `section-general`.
 - Las líneas desconocidas dentro de un día se **ignoran** en silencio (p. ej. una URL suelta).
+
+### 1.5.1 Opciones de un día (`option: A` / `option: B`)
+
+Un mismo día puede definirse **más de una vez**, con distinta intensidad (p. ej. "full" y "relajado"), para poder elegir en el sitio según el cansancio o las ganas del momento. Cada variante es un bloque `@day` completo con una línea `option: <etiqueta>`:
+
+```
+@day
+option: A
+stars: 3
+title: Ginkaku-ji, Paseo de la Filosofía y té
+steps: 16000
+summary: Ginkaku-ji + Paseo de la Filosofía + Nanzen-ji + Santuario Heian + Ceremonia del Té
+image1: Templo_Ginkakuji.png [Templo Ginkaku-ji (Pabellón de Plata)]
+…
+08:45 | 5m | WALK |
+Caminar a la parada de bus en Karasuma Oike.
+…
+
+@day
+option: B
+stars: 4
+title: Ginkaku-ji, Paseo de la Filosofía y té
+steps: 10000
+summary: Versión corta: Ginkaku-ji + Paseo de la Filosofía + té
+…
+08:45 | 5m | WALK |
+Caminar a la parada de bus en Karasuma Oike.
+…
+```
+
+Reglas:
+
+- **Mismo `title:`**: el título es lo que une las opciones (y lo que se escribe en `@itinerary`, una sola vez). Todas las opciones de un día comparten título, número de día, fecha y base.
+- **Cada opción es independiente**: tiene sus propias `stars`, `steps`, `summary`, imágenes (`image1:`…), `@note` y cronograma de eventos. Nada se hereda de otra opción.
+- **Etiquetas**: cualquier texto corto (`A`, `B`, `C`…); se normaliza a mayúsculas (`b` = `B`). Pueden ir en cualquier orden en el archivo y en cualquier posición dentro del `@day`; en el sitio se ordenan alfabéticamente y la **primera (A) es la opción por defecto**. Un `option:` vacío se ignora.
+- **Un solo `option:`** para un título (p. ej. solo la A): el día se comporta como un día normal, sin selector.
+- **Errores fatales** (el sitio muestra "⚠️ Error al cargar el viaje" con las líneas implicadas):
+  - dos bloques con el mismo título donde alguno **no** lleva `option:` (es el error clásico de título repetido);
+  - dos bloques con el mismo título y la **misma** etiqueta.
+- No confundir con `Option` / `Opción` a secas (sin `:` y dentro de un evento, §1.7), que son alternativas de restaurante de un evento.
+- Los bloques extra de opciones **no cuentan como días**: la numeración (`Día N`) y la advertencia de fecha de regreso (§3.5) cuentan días del itinerario, no bloques `@day`.
+
+Visualización y elección de la opción: ver §3.2 (selector A | B en la tarjeta) y §3.8 (la elección se recuerda).
 
 ### 1.6 Eventos — línea de encabezado de cronograma
 
@@ -188,6 +232,7 @@ image1: museonacional.png [Museo Nacional de Tokio en Ueno]
 - Líneas en blanco delimitan blocos visualmente, pero el parser se guía solo por tags, encabezados de evento y `Option`.
 - En `@itinerary`, las únicas líneas con significado son `section: <nombre>` y los títulos de día bajo una sección activa; el resto se descarta en silencio (p. ej. un `section:` sin nombre o líneas antes de la primera sección).
 - Cualquier línea que no coincida con la sintaxis del modo actual se descarta sin error.
+- Un `option:` sin etiqueta dentro de un `@day` se ignora (el bloque cuenta como día sin opciones).
 - Todo el texto (títulos, summaries, descripciones) pasa por `parseInlineLinks`, así que `[url|etiqueta]` funciona en casi todo el archivo.
 
 ---
@@ -216,10 +261,11 @@ index.html          → Layout estático: header, sidebar, columna de días, pan
 css/style.css       → ≈1.340 líneas: layout, tarjetas, timeline, temas, responsive
 public/viaje.txt    → Fuente de datos (ver §1)
 public/images/      → 95 PNGs de los días
-src/types.ts        → Interfaces: TripData, Section, Day, TripEvent, EventOption, DayNote, DayImage, TripConfig
+src/types.ts        → Interfaces: TripData, Section, Day, DayVariant, TripEvent, EventOption, DayNote, DayImage, TripConfig
 src/parser.ts       → parseTripData(): máquina de estados viaje.txt → TripData
 src/app.ts          → initApp(): carga datos, eventos del DOM, panel de mapas, tema
 src/ui.ts           → renderSidebar / renderHoyBanner / renderMainContent / renderDayCard + fallback de imágenes
+src/variants.ts     → Opciones A/B de un día: opción elegida (localStorage) y resolveDay()
 src/router.ts       → Router por hash (#day-N, #hoy)
 vite.config.ts      → puerto 3000, publicDir: public
 firebase.json       → Hosting (dist) con rewrite de SPA
@@ -238,6 +284,7 @@ viaje.txt ──fetch──▶ parseTripData() ──▶ TripData { config, sect
 
 - Cada búsqueda/ordenamiento **re-renderiza** el contenido principal completo a partir de `TripData` (reconstrucción de `innerHTML`); el conjunto de días expandidos (a lo sumo un id, ver §3.2) se conserva en un `Set<string>` para no perder el estado del usuario.
 - `allDays` es la lista aplanada en **orden de itinerario** (números 1..N); cada `Day` guarda `sectionId`/`sectionTitle` (base según el itinerario) para localizar su base.
+- Un día con opciones (§1.5.1) es **un solo `Day`** con `variants: DayVariant[]` (ordenadas por etiqueta). Los campos `stars`/`steps`/`summary`/`notes`/`events`/`images` del `Day` reflejan la opción por defecto; para pintar, el UI usa `resolveDay(day)` (`src/variants.ts`), que devuelve una copia del día con el contenido de la opción elegida (`activeOption`). Los días sin opciones se usan tal cual.
 
 ### 2.4 Módulo `app.ts` — orquestación
 
@@ -254,10 +301,12 @@ Responsabilidades principales:
 - **Hash router** (ver §3.6).
 - **Búsqueda y ordenamiento** (ver §3.4): cada `input`/`change` vuelve a llamar `renderMainContent` con los parámetros actuales.
 - **Tarjetas BASE sticky**: `setupStickySections()` observa los sentinels de cada `.section-block` y marca `is-stuck` en la tarjeta al quedar fija (estado compacto con solo título, ver §1.4); se re-activa tras cada re-render del contenido.
+- **Selector de opción del día**: `selectDayOption()` (en `initApp`) atiende el clic en `.day-option-btn` (delegación en el contenedor principal, antes del colapso de la tarjeta). Guarda la elección (`setSelectedOption`), **reemplaza solo esa tarjeta** (`renderDayCardById`, conservando si estaba expandida o colapsada) y actualiza el item del sidebar (`renderSidebarItem`) y el banner «Hoy». Con orden por estrellas re-renderiza toda la lista, porque las estrellas de cada opción pueden cambiar el orden.
 
 ### 2.5 Módulo `parser.ts` — detalles
 
 - **Máquina de estados** con modos `TRIP | ITINERARY | SECTION | DAY | NOTE | EVENT | OPTION`, y funciones `finalize*()` en cascada (cambiar de contexto cierra el bloque abierto: opción → evento → nota → día → sección).
+- **Opciones de día**: en modo `DAY`, `option: X` fija la etiqueta del bloque. Al cerrar cada `@day`, `finalizeDay()` agrupa por título (`fileDayEntries`): el primer bloque es el `Day` que se conserva y los siguientes con `option:` solo le suman una `DayVariant`; si el título se repite sin que todos los bloques lleven `option:`, o con la misma etiqueta, lanza `Error`. Al final, `applyDayVariants()` ordena las variantes por etiqueta y deja la primera como opción por defecto. Sin `@itinerary` los días se renumeran de forma consecutiva tras agrupar (los bloques de opciones no ocupan número).
 - `addDaysToDate()` calcula fecha + nombre de día/mes en español usando `Date.UTC` (inmune a la zona horaria del dispositivo); aplica `Día N = departure + N` (el Día 1 es la llegada, día siguiente de la salida desde Santiago). También expone `formatDateStr()` para formatear un `YYYY-MM-DD` a texto en español.
 - Al terminar el parseo, si el archivo tiene `@itinerary`, `buildOrderedTripData()` reordena secciones y días según el itinerario, reasigna número/`id`/fechas por posición de itinerario y marca `missing` en las entradas del itinerario sin definición en el archivo (los días/secciones del archivo no listados en el itinerario quedan fuera de `sections`/`allDays`). Sin `@itinerary`, las fechas de todos los días se **recalculan** con el `departure` definitivo (seguridad por orden de aparición).
 - **Validación de duplicados**: un título de día o un nombre de sección repetidos (en el archivo o en el itinerario) lanzan un `Error` con el nombre y las líneas implicadas (ver §1.3).
@@ -269,6 +318,7 @@ Responsabilidades principales:
 ### 2.6 Módulo `ui.ts` — renderizado
 
 - `renderSidebar`: acordeón por sección (nombre + badge `N días`) con lista de días (`Día N: título`, día de la semana y pasos). El día activo según el hash se resalta.
+- `renderSidebarItem`: item de un día en el sidebar; para días con opciones muestra los pasos de la opción elegida y `· op. B`.
 - `renderHoyBanner`: compara la fecha actual con `departure` (offset en días enteros; 0 = día de la salida desde Santiago) y muestra 4 estados:
   - Antes de la salida: "Faltan X días para la salida desde Santiago" + Día 1 (llegada).
   - Día de la salida: "Hoy sales de Santiago. El Día 1 (llegada a Japón) es mañana, <fecha>".
@@ -276,8 +326,10 @@ Responsabilidades principales:
   - Después del último día: "¡El viaje ha finalizado!" + último día.
   - Muestra estadísticas (número de día, día de semana, pasos estimados).
 - `renderDayCard`: plantilla de tarjeta de día completa (encabezado, imágenes, notas, timeline con badge ⚠️ de discrepancia de tiempos, navegación).
+- `renderOptionSwitch`: selector `A | B…` (`.day-option-switch` / `.day-option-btn`, botón activo marcado con `.active`) en el encabezado del día; solo se pinta si el día tiene 2+ opciones. `renderDayCardById()` devuelve el HTML de una sola tarjeta con su opción activa.
 - `renderReturnWarning`: muestra la advertencia de fecha de regreso inconsistente (ver §3.5); no renderiza nada si las fechas coinciden.
 - `renderMainContent`: aplica búsqueda → orden, y arma el HTML envuelto por base: cada base (tarjeta de sección + días) va dentro de un `div.section-block` (tarjeta BASE sticky, ver §1.3); la tarjeta de sección incluye el resumen de estadía del hotel (`renderSectionStay()`).
+  Con opciones A/B: la búsqueda coincide si cualquiera de las opciones coincide (se muestra la elegida si coincide; si no, la que coincide, sin cambiar la elección guardada), y el orden por estrellas usa las estrellas de la opción mostrada.
 - Fallback de imágenes: `onerror` → `createMissingImagePlaceholder()` dibuja en un `<canvas>` (520×340, respetando el tema actual) un marcador rojo "FALTA IMAGEN" con el nombre del archivo, y lo usa como `dataURL`.
 
 ---
@@ -305,6 +357,7 @@ Tres zonas (todas definidas en `index.html`):
 
 - **Todos los días nacen colapsados** (`expandedDayIds` vacío). Clic en el encabezado expande/colapsa (icono ▼/▲). **Solo un día puede estar ampliado a la vez**: al abrir un día se colapsa el que estuviera abierto (aplica tanto al clic en el encabezado como a la navegación por hash); `expandedDayIds` tiene a lo sumo un id.
 - **Encabezado** (siempre visible): badge `Día N`, calificación en estrellas (★ rellenas/vacías), fecha formateada, badge de base `🏠 <sección>` (solo al ordenar por estrellas o en búsqueda), título + resumen, badge de pasos `👟`, flecha de colapso.
+- **Selector de opción A | B**: en días con opciones (§1.5.1) el encabezado trae un selector segmentado junto al badge de pasos (queda visible con la tarjeta colapsada y expandida, porque las fotos solo se ven colapsadas y el cronograma solo expandido). Al pulsar otra opción **se refresca esa tarjeta completa** —estrellas, pasos, resumen, fotos, notas y cronograma—; el título y la fecha son los mismos. El clic en el selector no expande ni colapsa la tarjeta, que conserva su estado. El selector es un grupo de botones accesible (`role="group"`, `aria-pressed`) y mantiene el foco en la opción activa.
 - **Fila de imágenes**: visible **solo colapsado** — las miniaturas con caption; clic abre **búsqueda de Google Imágenes** con la etiqueta (o el título del día) como consulta. Imágenes que no cargan → placeholder canvas "FALTA IMAGEN".
 - **Notas** `📌`: visibles en ambos estados (justo debajo de las imágenes).
 - **Cuerpo expandido**: sección `⏱️ Itinerario y Cronograma` con el timeline de eventos + pie de navegación.
@@ -323,10 +376,10 @@ Cada evento se pinta como una fila en línea de tiempo:
 
 Barra de controles sobre las tarjetas:
 
-- **Búsqueda** (header): filtra días por coincidencia (mayúsculas/miniúsculas indistintas) en `title`, `summary`, descripciones de eventos y títulos de opciones. Con búsqueda activa: los días coincidentes se **expanden automáticamente** y las tarjetas de sección se ocultan.
+- **Búsqueda** (header): filtra días por coincidencia (mayúsculas/miniúsculas indistintas) en `title`, `summary`, descripciones de eventos y títulos de opciones; en días con opciones A/B se buscan las de todas las opciones (ver §2.6). Con búsqueda activa: los días coincidentes se **expanden automáticamente** y las tarjetas de sección se ocultan.
 - **Orden** (`⇅`):
   - `cron` — cronológico (orden del itinerario, por `dayNumber`).
-  - `stars` — de mayor a menor estrellas, con `dayNumber` como desempate (orden estable); oculta las tarjetas de sección y muestra el badge `🏠 base` en cada día para no perder el contexto.
+  - `stars` — de mayor a menor estrellas, con `dayNumber` como desempate (orden estable); en días con opciones cuenta la opción elegida. Oculta las tarjetas de sección y muestra el badge `🏠 base` en cada día para no perder el contexto.
 - Sin resultados → estado vacío "No se encontraron resultados".
 
 ### 3.5 Advertencia de fecha de regreso (consistencia del itinerario)
@@ -334,7 +387,7 @@ Barra de controles sobre las tarjetas:
 En la parte superior del contenido principal (sobre el banner "Hoy") el sitio muestra una advertencia si la fecha `return` configurada **no es la misma que la suma de los días configurados**:
 
 - **Fecha de regreso esperada** = `departure + N días` (N = cantidad de días del itinerario, ver §1.3). Como el viaje dura 2 días desde Santiago (se llega a destino al día siguiente de la salida, Día 1 = departure + 1), el último día (Día N) cae en `departure + N`: es el día en que se sale de Japón.
-- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2027-02-13` + 31 días = `2027-03-16`, mientras `return: 2027-03-15` → la advertencia aparece.
+- **Cuando se dispara**: `return ≠ departure + N`. Con el archivo actual: `2027-02-13` + 30 días = `2027-03-15` = `return` → la advertencia no aparece.
 - **Qué muestra**: la fecha de regreso configurada, la fecha de salida, el total de días, la fecha esperada y las fechas del Día 1 y del Día N, todas en español.
 - **Cuando no se dispara**: `return = departure + N` → el contenedor `#return-warning-container` queda vacío.
 - Implementación: `renderReturnWarning()` (`src/ui.ts`) sobre `TripData.expectedReturn` (calculado en el parser); estilo ámbar `.return-warning` en `css/style.css`, adaptado al tema claro.
@@ -358,8 +411,9 @@ En la parte superior del contenido principal (sobre el banner "Hoy") el sitio mu
 |------------------------|------------------------------------|
 | `theme`                | `dark` / `light`                   |
 | `sidebarCollapsed`     | `true` / `false`                   |
+| `dayOptions`           | JSON `{ "<título del día>": "B" }`: opción elegida por día (§1.5.1) |
 
-No hay otra persistencia (búsqueda, orden, días expandidos y mapa viven en memoria).
+No hay otra persistencia (búsqueda, orden, días expandidos y mapa viven en memoria). La opción elegida se guarda por **título** del día: si se renombra un día, vuelve a su opción por defecto (A); si la opción guardada ya no existe, también.
 
 ### 3.9 Responsive
 
@@ -404,3 +458,4 @@ firebase deploy --only hosting
 - Una URL de Maps encontrada dentro de una descripción se asocia al evento; si hay varias, se usa la primera y se eliminan del texto solo la(s) coincidente(s).
 - El parser no valida la sintaxis: líneas mal formadas se ignoran; un `@day` sin `title:` queda con el título por defecto `Día N`.
 - Despliegue: `npm run build` y luego `firebase deploy`; el rewrite de `firebase.json` garantiza que cualquier ruta sirve `index.html` (necesario p. ej. para recargar en rutas con hash).
+- Opciones de día: la elección vive solo en el navegador (`localStorage`), no en `viaje.txt`; en otro dispositivo cada día parte en su opción A. Una opción puede quedar con otros horarios o pasos que la otra: la advertencia ⚠️ de discrepancia de tiempos (§3.3) se calcula por opción.

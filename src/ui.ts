@@ -1,5 +1,10 @@
 import { TripData, Day, Section, TripEvent } from './types';
 import { formatDateStr, addDaysToDate } from './parser';
+import { resolveDay, hasVariants } from './variants';
+
+function escapeHtml(text: string): string {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
 
 export function getEventTypeIcon(type: string): string {
   switch (type.toUpperCase()) {
@@ -38,6 +43,24 @@ export function getEventTypeClass(type: string): string {
   }
 }
 
+// Item del sidebar para un día. Los días con opciones (A/B) muestran los datos de la opción elegida.
+export function renderSidebarItem(rawDay: Day, activeDayId: string): string {
+  const day = resolveDay(rawDay);
+  const isActive = day.id === activeDayId ? 'active' : '';
+  const optionTag = hasVariants(day) ? ` · op. ${escapeHtml(day.activeOption || '')}` : '';
+  return `
+        <li class="day-item ${isActive}${day.missing ? ' day-item-missing' : ''}" id="side-item-${day.id}">
+          <a href="#${day.id}">
+            <span class="day-item-title">${day.missing ? '⚠️ ' : ''}Día ${day.dayNumber}: ${day.title}</span>
+            <span class="day-item-meta">
+              <span>${day.dayOfWeek}</span>
+              <span>${day.steps ? day.steps.toLocaleString('es-ES') + ' pasos' : ''}${optionTag}</span>
+            </span>
+          </a>
+        </li>
+      `;
+}
+
 export function renderSidebar(tripData: TripData, container: HTMLElement, activeDayId: string) {
   let html = `
     <div class="sidebar-header">
@@ -59,18 +82,7 @@ export function renderSidebar(tripData: TripData, container: HTMLElement, active
     `;
 
     section.days.forEach((day) => {
-      const isActive = day.id === activeDayId ? 'active' : '';
-      html += `
-        <li class="day-item ${isActive}${day.missing ? ' day-item-missing' : ''}" id="side-item-${day.id}">
-          <a href="#${day.id}">
-            <span class="day-item-title">${day.missing ? '⚠️ ' : ''}Día ${day.dayNumber}: ${day.title}</span>
-            <span class="day-item-meta">
-              <span>${day.dayOfWeek}</span>
-              <span>${day.steps ? day.steps.toLocaleString('es-ES') + ' pasos' : ''}</span>
-            </span>
-          </a>
-        </li>
-      `;
+      html += renderSidebarItem(day, activeDayId);
     });
 
     html += `
@@ -115,6 +127,10 @@ export function renderHoyBanner(tripData: TripData, container: HTMLElement) {
 
   if (!matchedDay) return;
 
+  // Si el día tiene opciones (A/B), se muestran los pasos de la opción elegida.
+  matchedDay = resolveDay(matchedDay);
+  const hoyOptionTag = hasVariants(matchedDay) ? ` · opción ${escapeHtml(matchedDay.activeOption || '')}` : '';
+
   container.innerHTML = `
     <div class="hoy-banner">
       <div class="hoy-title-group">
@@ -128,7 +144,7 @@ export function renderHoyBanner(tripData: TripData, container: HTMLElement) {
         </div>
         <div class="hoy-stat-box">
           <div class="hoy-stat-val">${matchedDay.steps ? matchedDay.steps.toLocaleString('es-ES') : 0}</div>
-          <div class="hoy-stat-lbl">Pasos est.</div>
+          <div class="hoy-stat-lbl">Pasos est.${hoyOptionTag}</div>
         </div>
       </div>
     </div>
@@ -213,6 +229,19 @@ function renderSectionStay(section: Section): string {
   const days = section.days.length;
   const checkOut = addDaysToDate(firstDay.dateStr, days);
   return `<div class="section-info-item">🗓️ <strong>Estadía:</strong> Check-in: ${firstDay.dateFormatted} · Check-out: ${checkOut.formatted} · ${days} ${days === 1 ? 'noche' : 'noches'}</div>`;
+}
+
+// Selector de opción (A | B…) del encabezado del día. Va en el encabezado para que se vea con la
+// tarjeta colapsada (fotos) y expandida (cronograma). Solo existe si el día tiene 2+ opciones.
+function renderOptionSwitch(day: Day): string {
+  if (!day.variants || day.variants.length < 2) return '';
+  const active = day.activeOption ?? day.variants[0].key;
+  const buttons = day.variants.map(v => {
+    const key = escapeHtml(v.key);
+    const isActive = v.key === active;
+    return `<button type="button" class="day-option-btn${isActive ? ' active' : ''}" data-day-id="${day.id}" data-day-option="${key}" aria-pressed="${isActive}" title="Ver la opción ${key} de este día">${key}</button>`;
+  }).join('');
+  return `<div class="day-option-switch" role="group" aria-label="Opción del día">${buttons}</div>`;
 }
 
 export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded: boolean = false, showBase: boolean = false): string {
@@ -368,6 +397,7 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
           </div>
         </div>
         <div class="day-header-controls">
+          ${renderOptionSwitch(day)}
           ${day.steps ? `<div class="day-steps-badge">👟 ${day.steps.toLocaleString('es-ES')} pasos</div>` : ''}
           <span class="day-collapse-icon" aria-hidden="true">${isExpanded ? '▲' : '▼'}</span>
         </div>
@@ -397,6 +427,38 @@ export function renderDayCard(day: Day, prevDay?: Day, nextDay?: Day, isExpanded
   `;
 }
 
+type DayContent = { summary: string; events: TripEvent[] };
+
+function contentMatchesQuery(content: DayContent, q: string): boolean {
+  return content.summary.toLowerCase().includes(q) ||
+    content.events.some(e => e.description.toLowerCase().includes(q) || (e.options && e.options.some(o => o.title.toLowerCase().includes(q))));
+}
+
+function dayMatchesQuery(day: Day, q: string): boolean {
+  if (day.title.toLowerCase().includes(q)) return true;
+  const contents: DayContent[] = hasVariants(day) ? day.variants! : [day];
+  return contents.some(c => contentMatchesQuery(c, q));
+}
+
+// Opción a mostrar de un día: la elegida; en una búsqueda, si la elegida no coincide pero otra sí,
+// se muestra la que coincide (sin cambiar la elección guardada).
+function viewForQuery(day: Day, q: string): Day {
+  const selected = resolveDay(day);
+  if (!q || !hasVariants(day)) return selected;
+  if (day.title.toLowerCase().includes(q) || contentMatchesQuery(selected, q)) return selected;
+  const match = day.variants!.find(v => contentMatchesQuery(v, q));
+  return match ? resolveDay(day, match.key) : selected;
+}
+
+// HTML de una sola tarjeta de día (con su opción activa), para refrescarla sin re-renderizar todo.
+export function renderDayCardById(tripData: TripData, dayId: string, isExpanded: boolean, showBase: boolean): string | null {
+  const index = tripData.allDays.findIndex(d => d.id === dayId);
+  if (index < 0) return null;
+  const prevDay = index > 0 ? tripData.allDays[index - 1] : undefined;
+  const nextDay = index < tripData.allDays.length - 1 ? tripData.allDays[index + 1] : undefined;
+  return renderDayCard(resolveDay(tripData.allDays[index]), prevDay, nextDay, isExpanded, showBase);
+}
+
 export function renderMainContent(
   tripData: TripData,
   container: HTMLElement,
@@ -406,17 +468,16 @@ export function renderMainContent(
 ) {
   let html = '';
 
-  let filteredDays = tripData.allDays;
+  let filteredDays: Day[] = tripData.allDays;
 
-  // 1. Filter by text search query
+  // 1. Filter by text search query (en días con opciones A/B coincide si cualquiera de sus opciones coincide)
+  const q = filterQuery.toLowerCase();
   if (filterQuery) {
-    const q = filterQuery.toLowerCase();
-    filteredDays = filteredDays.filter(d =>
-      d.title.toLowerCase().includes(q) ||
-      d.summary.toLowerCase().includes(q) ||
-      d.events.some(e => e.description.toLowerCase().includes(q) || (e.options && e.options.some(o => o.title.toLowerCase().includes(q))))
-    );
+    filteredDays = filteredDays.filter(d => dayMatchesQuery(d, q));
   }
+
+  // 1b. Cada día se muestra con su opción activa (o, buscando, con la opción que coincide con la búsqueda)
+  filteredDays = filteredDays.map(d => viewForQuery(d, q));
 
   // 2. Sort days
   const isSortedByStars = sortMode === 'stars';

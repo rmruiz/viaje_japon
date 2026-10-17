@@ -1,5 +1,6 @@
 import { parseTripData } from './parser';
-import { renderSidebar, renderHoyBanner, renderMainContent, handleImageError, renderReturnWarning } from './ui';
+import { renderSidebar, renderSidebarItem, renderHoyBanner, renderMainContent, renderDayCardById, handleImageError, renderReturnWarning } from './ui';
+import { hasVariants, getSelectedOption, setSelectedOption } from './variants';
 import { setupRouter } from './router';
 import { TripData } from './types';
 
@@ -175,9 +176,52 @@ async function initApp() {
       });
     }
 
-    // Click Delegate for Main Content (Map Badges + Day Collapse)
+    // Cambia la opción (A/B…) de un día: guarda la elección y refresca solo esa tarjeta
+    // (fotos, notas y cronograma), manteniéndola expandida o colapsada como estaba.
+    function selectDayOption(dayId: string, optionKey: string) {
+      if (!globalTripData || !mainContent || !hoyContainer) return;
+      const day = globalTripData.allDays.find(d => d.id === dayId);
+      if (!day || !hasVariants(day) || getSelectedOption(day) === optionKey) return;
+      setSelectedOption(day, optionKey);
+
+      if (sortMode === 'stars') {
+        // Las estrellas de cada opción pueden ser distintas: el orden cambia, se re-renderiza todo
+        const query = searchInput ? searchInput.value : '';
+        renderMainContent(globalTripData, mainContent, query, expandedDayIds, sortMode);
+        setupStickySections();
+      } else {
+        const card = document.getElementById(dayId);
+        const html = card ? renderDayCardById(globalTripData, dayId, !card.classList.contains('collapsed'), false) : null;
+        if (card && html) {
+          const template = document.createElement('template');
+          template.innerHTML = html.trim();
+          const fresh = template.content.firstElementChild as HTMLElement | null;
+          if (fresh) {
+            card.replaceWith(fresh);
+            fresh.querySelector<HTMLElement>('.day-option-btn.active')?.focus();
+          }
+        }
+      }
+
+      // El item del sidebar (pasos) y el banner «Hoy» dependen de la opción elegida
+      const sideItem = document.getElementById(`side-item-${dayId}`);
+      if (sideItem) sideItem.outerHTML = renderSidebarItem(day, sideItem.classList.contains('active') ? dayId : '');
+      renderHoyBanner(globalTripData, hoyContainer);
+    }
+
+    // Click Delegate for Main Content (Option Switch + Map Badges + Day Collapse)
     mainContent.addEventListener('click', (e) => {
       const target = e.target as HTMLElement;
+
+      // Selector de opción del día (A | B): no debe expandir/colapsar la tarjeta
+      const optionBtn = target.closest('.day-option-btn') as HTMLElement | null;
+      if (optionBtn) {
+        e.stopPropagation();
+        const dayId = optionBtn.getAttribute('data-day-id');
+        const optionKey = optionBtn.getAttribute('data-day-option');
+        if (dayId && optionKey) selectDayOption(dayId, optionKey);
+        return;
+      }
 
       // Check map duration badge or map link button click
       const mapBtn = target.closest('[data-map-url]') as HTMLElement;
