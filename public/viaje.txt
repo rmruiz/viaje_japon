@@ -87,6 +87,7 @@ Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
 https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
 @day
+option: A
 stars: 3
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
@@ -187,6 +188,100 @@ https://maps.app.goo.gl/KiXLxtkAmepG1dpZ9
 Caminar al Hotel Rose Garden Shinjuku.
 https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
 
+
+@day
+option: B
+stars: 4
+title: Odaiba, teamLab y Hamárikyū
+steps: 9000
+summary: Versión tranquila, sin Jardines Hamárikyū: teamLab Planets + Estatua de la Libertad + Unicorn Gundam en DiverCity + cena tendon en Aqua City
+image1: teamLab_Planets.png [Exposición Digital Inmersiva teamLab Planets]
+image2: gundam.png [Estatua del robot Gundam Gigante en Odaiba]
+image3: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
+
+@note
+Versión tranquila: se salta Jardines Hamárikyū (abren a las 9:00 y obligan a salir temprano). Salida del hotel a las 10:30 y teamLab Planets de 11:30 a 13:30. Día pensado para descansar entre el Fuji (Día 9) y Disney (Día 11, salida a las 6:45): de vuelta en el hotel a las 19:47, o antes si se salta la parada nocturna opcional.
+
+@note
+23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
+
+@note
+⚠️ Restricciones detectadas:
+- FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
+- teamLab Planets: reservar la franja más temprana posible (feriado). Se camina descalzo y con agua hasta las rodillas.
+
+10:30 | 10m | WALK |
+Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
+https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+
+10:40 | 25m | TRAIN |
+(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
+
+11:05 | 10m | WALK |
+Cambiar al monorriel Yurikamome en la estación Shiodome.
+
+11:15 | 15m | TRAIN |
+(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
+https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
+
+11:30 | 120m | VISIT |
+teamLab Planets (Toyosu) — Inmersión sensorial interactiva (franja reservada). Llevar pantalones cortos o que se puedan arremangar hasta la rodilla (se camina descalzo y con agua). Hay lockers.
+https://www.google.com/maps/place/teamLab+Planets+TOKYO
+
+13:30 | 75m | FOOD |
+Almuerzo cerca de teamLabs Planets
+
+Option
+Kome San Kaku
+https://maps.app.goo.gl/UaLAzegefGVf9nDs8
+
+Option
+Citabria Baypark Grill & Bar
+https://maps.app.goo.gl/JFomQALv9eVhYEuw6
+
+14:45 | 25m | TRAIN |
+Tren a la Estatua de la Libertad
+https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
+
+15:10 | 15m | VISIT |
+Odaiba Statue of Liberty japonesa frente al mar: parada de fotos de 10–15 minutos.
+https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
+
+15:25 | 10m | WALK |
+Camina al DiverCity Tokyo Plaza
+https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
+
+15:35 | 85m | VISIT |
+DiverCity Tokyo Plaza: Unicorn Gundam a tamaño real y tiendas. Revisar los horarios del show de transformación y de la iluminación.
+https://maps.app.goo.gl/iihYD7tmb9oVE62JA
+
+17:00 | 75m | FOOD |
+Cena Tendon (bol de arroz cubierto de tempura).
+Kaneko Hannosuke Odaiba
+El tendon más famoso de la ciudad (en Aqua City).
+https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
+
+18:15 | 25m | PHOTO |
+(Opcional) Volver a ver el Unicorn Gundam de noche. Si están cansadas, saltar este bloque y tomar el tren antes.
+
+18:40 | 45m | TRAIN |
+Camina a la estación Tokyo Teleport Station
+Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
+1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
+2 (Saikyo Line - Kawagoe - 3 paradas)
+https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
+
+19:25 | 10m | WALK |
+Camina a Estación Shinjuku de Marunouchi Line - Local Honancho
+
+19:35 | 5m | TRAIN |
+Tren hasta Nishi-shinjuku Sta (1 parada) - Linea Marunouchi
+https://maps.app.goo.gl/KiXLxtkAmepG1dpZ9
+
+19:40 | 7m | WALK |
+Caminar al Hotel Rose Garden Shinjuku.
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
 
 @day
 stars: 4
@@ -2179,6 +2274,7 @@ Clásico local en Dotonbori.
 
 
 @day
+option: A
 stars: 3
 title: Castillo de Osaka y Umeda
 steps: 17000
@@ -2266,6 +2362,67 @@ Caminar a estación metro Umeda.
 Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
 https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
 
+
+@day
+option: B
+stars: 4
+title: Castillo de Osaka y Umeda
+steps: 9000
+summary: Versión tranquila: mañana libre + compras en Umeda + Mirador Umeda Sky Building al atardecer + Robatayaki (sin Castillo de Osaka ni Shitennō-ji)
+image1: Centros_comerciales_Umeda.png [Centros Comerciales de Umeda]
+image2: Mirador_Umeda_Sky.png [Mirador Kuchu Teien en Umeda Sky Building]
+
+@note
+Versión tranquila: mañana libre (dormir hasta tarde, lavar ropa) y sin Castillo de Osaka ni Templo Shitennō-ji. Es la víspera de Hiroshima (Día 27, salida a las 7:30 del hotel): cenar temprano y acostarse a buena hora. En el hotel a las 19:45.
+
+09:00 | 150m | BREAK |
+Mañana libre en el hotel: dormir hasta tarde, lavar ropa y desayunar con calma antes del día largo a Hiroshima.
+
+11:30 | 10m | WALK |
+Caminar de MIMARU Osaka Namba Station a la estación Namba (metro Midosuji).
+https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
+
+11:40 | 10m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line directo de Namba a la estación Umeda.
+https://www.google.com/maps/dir/Namba+Station/Umeda+Station
+
+11:50 | 10m | WALK |
+Caminar al sector comercial norte de Umeda.
+
+12:00 | 80m | FOOD |
+Almuerzo libre en el área.
+
+13:20 | 145m | SHOP |
+Caminar por centros comerciales y arquitectura de Umeda (en HEP Five hay una noria).
+https://www.google.com/maps/place/HEP+FIVE
+
+15:45 | 15m | WALK |
+Caminar hacia Umeda Sky Building.
+
+16:00 | 120m | VISIT |
+Subir al observatorio flotante (Kuchu Teien) y quedarse hasta que se ponga el sol (cerca de las 18:00; confirmar la hora).
+https://www.google.com/maps/place/Umeda+Sky+Building
+
+18:00 | 15m | WALK |
+Caminar bajando al nivel de calle.
+
+18:15 | 60m | FOOD |
+Cena izakaya moderno en Umeda.
+https://www.google.com/maps/place/Isaribi+Umeda
+
+Option
+Isaribi
+Robatayaki japonés en Umeda.
+
+19:15 | 10m | WALK |
+Caminar a estación metro Umeda.
+
+19:25 | 10m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
+
+19:35 | 10m | WALK |
+Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
+https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
 
 @day
 stars: 5
