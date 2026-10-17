@@ -9,12 +9,12 @@ currency: JPY
 
 section: Tokio
 Llegada a Aeropuerto Narita (NRT)
-Shinjuku: parques y callejones
+Harajuku y Shibuya
 Ueno y Akihabara
 Museo Ghibli y UNIQLO
 Excursión a Nikkō
 Museo Edo y Asakusa
-Harajuku y Shibuya
+Shinjuku: parques y callejones
 Excursión a Kamakura
 Excursión al Monte Fuji (Kawaguchiko)
 Odaiba, teamLab y Hamárikyū
@@ -68,7 +68,6 @@ LA7455: 13 Feb 11:55 LAX -> 14 Feb 16:40 NRT (Tokio)
 
 @note
 ⚠️ Restricciones detectadas:
-- El vuelo LA7455 aterriza en Narita (NRT), no en Haneda: revisar título del día.
 - Reservar la van / Uber XL con anticipación (grupo de 5 con maletas).
 
 16:40 | 120m | WALK |
@@ -295,8 +294,9 @@ image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
 
 @note
 ⚠️ Restricciones detectadas:
-- CRÍTICO: Shinjuku Gyoen CIERRA LOS LUNES (15-feb es lunes). Horario invierno 9:00–16:00. Sugerencia: intercambiar este día con el Día 7 (Harajuku y Shibuya).
-- Mirador Gobierno Metropolitano: Norte cierra 2º y 4º lunes, Sur cierra 1º y 3er martes. El 15-feb (3er lunes) el Norte está abierto. Puede cerrar por mal tiempo.
+- Shinjuku Gyoen: Horario invierno 9:00–16:00 (última entrada 15:30).
+- Sábado: Shinjuku Gyoen y las zonas comerciales de Shinjuku tendrán más gente.
+- Mirador Gobierno Metropolitano: Norte cierra 2º y 4º lunes, Sur cierra 1º y 3er martes. El 20-feb es sábado: ambos abiertos (salvo cierre por mal tiempo).
 Fuentes: [https://tokyocheapo.com/place/shinjuku-gyoen-national-garden/|Shinjuku Gyoen (Tokyo Cheapo)] · [https://www.gotokyo.org/en/spot/74/|Miradores Gobierno Metropolitano (GO TOKYO)]
 
 09:20 | 20m | WALK |
@@ -739,12 +739,8 @@ image3: Shibuya_Crossing.png [Cruce Peatonal de Shibuya]
 image4: Shibuya_Sky.png [Mirador Shibuya Sky en las Alturas]
 
 @note
-Los boletos para el atardecer se agotan con un mes de anticipación, por lo que debes comprarlos online exactamente 4 semanas antes de tu visita
-
-@note
 ⚠️ Restricciones detectadas:
-- Shibuya Sky: tickets salen 4 semanas antes (~23-ene); el horario del atardecer se agota. La terraza cierra con lluvia o viento fuerte.
-- Sábado: Takeshita Street y Shibuya muy concurridos.
+- Shibuya Sky: tickets salen 4 semanas antes (~18-ene, para el lunes 15-feb); el horario del atardecer se agota. La terraza cierra con lluvia o viento fuerte.
 
 08:50 | 8m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
