@@ -87,7 +87,7 @@ Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
 https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
 
 @day
-stars: 4
+stars: 3
 title: Odaiba, teamLab y Hamárikyū
 steps: 13000
 summary: Jardines Hamárikyū + teamLab Planets + Odaiba + Unicorn Gundam + Estatua de la Libertad
@@ -98,10 +98,7 @@ image4: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
 @note
-Los Jardines Hamárikyū abren a las 9:00am
-
-@note
-Mucho viaje en metro... no mucho contenido.
+Los Jardines Hamárikyū es poco importante, si estamos cansados podemos saltarnos esto. Sirve de día tranquilo. Salir del hotel a las 10:30 y llegar al teamLabs a las 11:30-13:30.
 
 @note
 23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
@@ -1703,7 +1700,7 @@ Brochetas empanizadas variadas.
 
 
 @day
-stars: 5
+stars: 3
 title: Ginkaku-ji, Paseo de la Filosofía y té
 steps: 16000
 summary: Ginkaku-ji + Paseo de la Filosofía + Nanzen-ji + Santuario Heian + Ceremonia del Té
@@ -1711,6 +1708,9 @@ image1: Templo_Ginkakuji.png [Templo Ginkaku-ji (Pabellón de Plata)]
 image2: Paseo_Filosofia.png [Sendero del Camino de la Filosofía]
 image3: Templo_Nanzenji.png [Templo Zen Nanzen-ji]
 image4: Santuario_Heian.png [Santuario Heian-jingu]
+
+@note
+Podemos sacar Nanzen-ji y el Santuario Heian, que son 105 minutos de visita más unos 25 de caminata entre ambos. Es más de lo mismo y dejamos un día más descanzado
 
 @note
 ⚠️ Restricciones detectadas:
@@ -2089,7 +2089,7 @@ Clásico local en Dotonbori.
 
 
 @day
-stars: 5
+stars: 3
 title: Castillo de Osaka y Umeda
 steps: 17000
 summary: Castillo de Osaka + Templo Shitenno-ji + Centros comerciales Umeda + Mirador Umeda Sky Building + Robatayaki
@@ -2099,7 +2099,7 @@ image3: Centros_comerciales_Umeda.png [Centros Comerciales de Umeda]
 image4: Mirador_Umeda_Sky.png [Mirador Kuchu Teien en Umeda Sky Building]
 
 @note
-Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entrar al Castillo de Himeji
+Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entrar al Castillo de Himeji. Podemos saltarnos este castillo y el Templo Shitennoji. Nos levantamos 11:00 y vamos de compras en la tarde.
 
 @note
 ⚠️ Restricciones detectadas:
