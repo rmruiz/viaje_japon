@@ -7,7 +7,7 @@ El directorio `public/images/` tiene archivos jpg referenciados desde viaje.txt.
 ## 1. Estructura del archivo `public/viaje.txt`
 
 El archivo usa una sintaxis propia basada en **tags con `@`** y líneas `clave: valor`. El parser (`src/parser.ts`) lo procesa línea a línea como una máquina de estados. 
-Conteo actual: 30 días en el itinerario (33 bloques `@day`: los Días 10, 21 y 26 tienen 2 opciones A/B, ver §1.5.1), 5 secciones en el itinerario (todas con `@section`), 492 eventos (contando ambas opciones de esos días), 66 alternativas de restaurante (`Option`), 61 notas y 98 imágenes referenciadas.
+Conteo actual: 30 días en el itinerario (35 bloques `@day`: los Días 10, 21, 26, 28 y 29 tienen 2 opciones A/B, ver §1.5.1), 5 secciones en el itinerario (todas con `@section`), 531 eventos (contando ambas opciones de esos días), 67 alternativas de restaurante (`Option`), 66 notas y 104 imágenes referenciadas.
 
 ### 1.1 Jerarquía
 
