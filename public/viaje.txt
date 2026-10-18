@@ -834,22 +834,17 @@ Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abor
 ⚠️ Restricciones detectadas:
 - Hase-dera cierra entre 16:30 y 17:00 en invierno; interior del Gran Buda (Kōtoku-in) cierra antes que el recinto.
 - Domingo: Kamakura muy concurrida, filas en el Enoden.
-- Hay dos eventos de tren de ida duplicados (08:10 y 08:30): revisar.
 Fuentes: [https://kotoku-in.jp/en/|Kōtoku-in oficial]
 
 08:00 | 10m | WALK |
 Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
 https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
 
-08:10 | 80m | TRAIN |
+08:10 | 90m | TRAIN |
 (CLP 1.3M) Tren JR Shōnan-Shinjuku Line directo desde la estación Shinjuku a la estación Kamakura (viaje directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
-08:30 | 75m | TRAIN |
-(CLP 5.5M) Tren Shinjuku → Kamakura (JR Shōnan-Shinjuku).
-https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
-
-09:45 | 15m | TRAIN |
+09:40 | 20m | TRAIN |
 (CLP 1.2M) Tren local Kamakura → Estación Hase (Línea Enoden).
 https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
 
@@ -927,6 +922,12 @@ https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
 Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en la mañana apenas lleguen a Kawaguchiko.
+
+@note
+De acuerdo con las predicciones oficiales de las tablas de mareas para Miyajima el 12 de marzo, el comportamiento del mar será el siguiente:
+• 11:21 AM: Marea alta máxima (** Pleamar**) con 300 cm (9.8 ft). Momento ideal para verlo flotando.
+• 03:00 PM: La marea estará en pleno retroceso, midiendo aproximadamente 140 cm y bajando rápido.
+• 05:40 PM: Marea baja máxima (Bajamar) con apenas 51 cm (1.7 ft). Perfecto para caminar sobre la arena y tocar los pilares.
 
 @note
 ⚠️ Restricciones detectadas:
