@@ -50,7 +50,7 @@ Salida por KIX
 
 @section Tokio
 title: BASE 1 — TOKIO (Shinjuku)
-hotel: Hotel Rose Garden Shinjuku - Prefectura de Tokio, Tokio, Shinjuku-ku, Nishishinjuku 8-1-3, Japón
+hotel: HOTEL AMANEK Shinjuku Kabukicho - Prefectura de Tokio, Tokio, 2-24-10 Kabukicho, Shinjuku-ku, Japón
 summary: Primera base del viaje. Recorrido por Tokio, Fuji, Kamakura, Odaiba, Nikkō y zonas icónicas de la capital.
 
 @day
@@ -74,16 +74,16 @@ LA7455: 13 Feb 11:55 LAX -> 14 Feb 16:40 NRT (Tokio)
 Aterrizaje en Narita (16:40). Ingreso a Japón. Recoger maletas.
 
 18:40 | 120m | TAXI |
-(CLP 8.7M) Traslado: van privado / Uber XL directo al Hotel Rose Garden Shinjuku (45–60 min, 100–120 USD).
-https://www.google.com/maps/dir/Narita+Airport,+Tokyo/Hotel+Rose+Garden+Shinjuku
+(CLP 8.7M) Traslado: van privado / Uber XL directo al HOTEL AMANEK Shinjuku Kabukicho (≈60–70 min según Google Maps con tráfico actual; 100–120 USD). Confirmar con el hotel el punto de bajada con maletas.
+https://www.google.com/maps/dir/Narita+Airport,+Tokyo/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 20:40 | 60m | HOTEL |
-Check-in en el Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/place/Hotel+Rose+Garden+Shinjuku
+Check-in en el HOTEL AMANEK Shinjuku Kabukicho.
+https://www.google.com/maps/place/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 21:40 | 60m | FOOD |
 Cena de konbini (FamilyMart / 7-Eleven) y descanso tras el vuelo.
-https://www.google.com/maps/search/FamilyMart+Nishi-Shinjuku
+https://www.google.com/maps/search/FamilyMart+Kabukicho
 
 @day
 option: A
@@ -98,7 +98,7 @@ image4: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
 @note
-Los Jardines Hamárikyū es poco importante, si estamos cansados podemos saltarnos esto. Sirve de día tranquilo. Salir del hotel a las 10:30 y llegar al teamLabs a las 11:30-13:30.
+Los Jardines Hamárikyū es poco importante, si estamos cansados podemos saltarnos esto. Sirve de día tranquilo. Salir del hotel a las 10:18 y llegar al teamLabs a las 11:30-13:30.
 
 @note
 23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
@@ -108,27 +108,27 @@ Los Jardines Hamárikyū es poco importante, si estamos cansados podemos saltarn
 - FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
 - Jardines Hamárikyū: 9:00–17:00.
 
-08:30 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+08:14 | 11m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (acceso Línea Marunouchi). Google Maps: 9 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:40 | 25m | TRAIN |
-(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
+08:25 | 29m | TRAIN |
+(CLP 1M) Metro Marunouchi Line con transbordo a Ginza Line hasta la zona de Shiodome (Google Maps: 33 min puerta a puerta desde el hotel; la ruta anterior por Oedo ahora toma ~47 min).
+https://www.google.com/maps/dir/Shinjuku+Station/Shiodome+Station
 
-09:05 | 15m | WALK |
+08:54 | 18m | WALK |
 Caminar a los jardines.
 https://www.google.com/maps/dir/Shiodome+Station/Hamarikyu+Gardens
 
-09:20 | 90m | VISIT |
+09:12 | 90m | VISIT |
 Jardines Hamárikyū (~2 USD). Floración de nanohana y casa de té Nakajima.
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
-10:50 | 15m | WALK |
+10:42 | 18m | WALK |
 Caminar a estación Shiodome.
 https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
 
-11:05 | 10m | TRAIN |
+11:00 | 15m | TRAIN |
 (CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
 https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
 
@@ -147,45 +147,38 @@ Option
 Citabria Baypark Grill & Bar
 https://maps.app.goo.gl/JFomQALv9eVhYEuw6
 
-14:45 | 25m | TRAIN |
+14:45 | 30m | TRAIN |
 Tren a la Estatua de la Libertad
 https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
 
-15:10 | 30m | VISIT |
+15:15 | 30m | VISIT |
 Caminar por Odaiba Statue of Liberty japonesa frente al mar.
 https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
 
-15:40 | 30m | WALK |
+15:45 | 36m | WALK |
 Camina al DiverCity Tokyo Plaza
 https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
 
-16:10 | 60m | VISIT |
+16:21 | 60m | VISIT |
 Camina al DiverCity Tokyo Plaza
 https://maps.app.goo.gl/iihYD7tmb9oVE62JA
 
-17:10 | 90m | FOOD |
+17:21 | 90m | FOOD |
 Cena Tendon (bol de arroz cubierto de tempura).
 Kaneko Hannosuke Odaiba
 El tendon más famoso de la ciudad (en Aqua City).
 https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
 
-18:40 | 45m | TRAIN |
+18:51 | 50m | TRAIN |
 Camina a la estación Tokyo Teleport Station
 Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
 1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
 2 (Saikyo Line - Kawagoe - 3 paradas)
 https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
 
-19:25 | 10m | WALK |
-Camina a Estación Shinjuku de Marunouchi Line - Local Honancho
-
-19:35 | 5m | TRAIN |
-Tren hasta Nishi-shinjuku Sta (1 parada) - Linea Marunouchi
-https://maps.app.goo.gl/KiXLxtkAmepG1dpZ9
-
-19:40 | 7m | WALK |
-Caminar al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
+19:41 | 9m | WALK |
+Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (directo; ya no se necesita el transbordo por Marunouchi Line).
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
 @day
@@ -199,7 +192,7 @@ image2: gundam.png [Estatua del robot Gundam Gigante en Odaiba]
 image3: liberty.png [Réplica de la Estatua de la Libertad en Odaiba]
 
 @note
-Versión tranquila: se salta Jardines Hamárikyū (abren a las 9:00 y obligan a salir temprano). Salida del hotel a las 10:30 y teamLab Planets de 11:30 a 13:30. Día pensado para descansar entre el Fuji (Día 9) y Disney (Día 11, salida a las 6:45): de vuelta en el hotel a las 19:47, o antes si se salta la parada nocturna opcional.
+Versión tranquila: se salta Jardines Hamárikyū (abren a las 9:00 y obligan a salir temprano). Salida del hotel a las 10:18 y teamLab Planets de 11:30 a 13:30. Día pensado para descansar entre el Fuji (Día 9) y Disney (Día 11, salida a las 06:31): de vuelta en el hotel a las 19:46, o antes si se salta la parada nocturna opcional.
 
 @note
 23 de febrero de 2027 (martes): Feriado por Cumpleaños del Emperador (Tennō Tanjōbi)
@@ -209,18 +202,18 @@ Versión tranquila: se salta Jardines Hamárikyū (abren a las 9:00 y obligan a 
 - FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
 - teamLab Planets: reservar la franja más temprana posible (feriado). Se camina descalzo y con agua hasta las rodillas.
 
-10:30 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+10:18 | 11m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (acceso Línea Marunouchi). Google Maps: 9 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-10:40 | 25m | TRAIN |
-(CLP 1.3M) Toei Oedo Line directo a la estación Shiodome.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Shiodome+Station
+10:29 | 29m | TRAIN |
+(CLP 1M) Metro Marunouchi Line con transbordo a Ginza Line hasta la zona de Shiodome (Google Maps: 33 min puerta a puerta desde el hotel; la ruta anterior por Oedo ahora toma ~47 min).
+https://www.google.com/maps/dir/Shinjuku+Station/Shiodome+Station
 
-11:05 | 10m | WALK |
+10:58 | 12m | WALK |
 Cambiar al monorriel Yurikamome en la estación Shiodome.
 
-11:15 | 15m | TRAIN |
+11:10 | 20m | TRAIN |
 (CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
 https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
 
@@ -239,48 +232,41 @@ Option
 Citabria Baypark Grill & Bar
 https://maps.app.goo.gl/JFomQALv9eVhYEuw6
 
-14:45 | 25m | TRAIN |
+14:45 | 30m | TRAIN |
 Tren a la Estatua de la Libertad
 https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
 
-15:10 | 15m | VISIT |
+15:15 | 15m | VISIT |
 Odaiba Statue of Liberty japonesa frente al mar: parada de fotos de 10–15 minutos.
 https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
 
-15:25 | 10m | WALK |
+15:30 | 12m | WALK |
 Camina al DiverCity Tokyo Plaza
 https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
 
-15:35 | 85m | VISIT |
+15:42 | 85m | VISIT |
 DiverCity Tokyo Plaza: Unicorn Gundam a tamaño real y tiendas. Revisar los horarios del show de transformación y de la iluminación.
 https://maps.app.goo.gl/iihYD7tmb9oVE62JA
 
-17:00 | 75m | FOOD |
+17:07 | 75m | FOOD |
 Cena Tendon (bol de arroz cubierto de tempura).
 Kaneko Hannosuke Odaiba
 El tendon más famoso de la ciudad (en Aqua City).
 https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
 
-18:15 | 25m | PHOTO |
+18:22 | 25m | PHOTO |
 (Opcional) Volver a ver el Unicorn Gundam de noche. Si están cansadas, saltar este bloque y tomar el tren antes.
 
-18:40 | 45m | TRAIN |
+18:47 | 50m | TRAIN |
 Camina a la estación Tokyo Teleport Station
 Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
 1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
 2 (Saikyo Line - Kawagoe - 3 paradas)
 https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
 
-19:25 | 10m | WALK |
-Camina a Estación Shinjuku de Marunouchi Line - Local Honancho
-
-19:35 | 5m | TRAIN |
-Tren hasta Nishi-shinjuku Sta (1 parada) - Linea Marunouchi
-https://maps.app.goo.gl/KiXLxtkAmepG1dpZ9
-
-19:40 | 7m | WALK |
-Caminar al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Hotel+Rose+Garden+Shinjuku
+19:37 | 9m | WALK |
+Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (directo; ya no se necesita el transbordo por Marunouchi Line).
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 4
@@ -300,8 +286,8 @@ image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
 Fuentes: [https://tokyocheapo.com/place/shinjuku-gyoen-national-garden/|Shinjuku Gyoen (Tokyo Cheapo)] · [https://www.gotokyo.org/en/spot/74/|Miradores Gobierno Metropolitano (GO TOKYO)]
 
 09:20 | 20m | WALK |
-Caminar desde el Hotel Rose Garden Shinjuku hacia el parque Shinjuku Gyoen.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Gyoen+National+Garden
+Caminar desde el HOTEL AMANEK Shinjuku Kabukicho hacia el parque Shinjuku Gyoen. Google Maps: 16 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Gyoen+National+Garden
 
 10:00 | 180m | VISIT |
 Visitar Shinjuku Gyoen - Jardín Nacional (~4 USD)
@@ -343,9 +329,9 @@ Option
 Torikizoku Shinjuku
 Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
 
-21:00 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku (a solo pasos de Omoide Yokochō).
-https://www.google.com/maps/dir/Omoide+Yokocho/Hotel+Rose+Garden+Shinjuku
+21:00 | 14m | WALK |
+Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho (≈11 min desde Omoide Yokochō según Google Maps).
+https://www.google.com/maps/dir/Omoide+Yokocho/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 5
@@ -372,15 +358,15 @@ Este día se debe ajustar a la fecha/hora de ticket comprado
 - Cierra los martes y en algunos periodos de mantención.
 Fuentes: [https://en.japantravel.com/guide/ghibli-museum-mitaka/58379|Museo Ghibli tickets (Japan Travel)]
 
-09:50 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+09:42 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-10:00 | 20m | TRAIN |
+09:51 | 25m | TRAIN |
 Tren JR Chūō Line directo desde la estación Shinjuku a la estación Mitaka.
 https://www.google.com/maps/dir/Shinjuku+Station/Mitaka+Station
 
-10:20 | 20m | WALK |
+10:16 | 24m | WALK |
 Caminar (o tomar el bus temático) desde la estación Mitaka al Museo Ghibli.
 https://www.google.com/maps/dir/Mitaka+Station/Ghibli+Museum
 
@@ -391,34 +377,34 @@ Llegada anticipada para hacer la fila de ingreso al museo.
 Visita al Museo Ghibli.
 https://maps.app.goo.gl/feQoqRrKTCzbAjGc7
 
-13:00 | 20m | WALK |
+13:00 | 24m | WALK |
 Caminar a través del hermoso Parque Inokashira hacia la zona comercial de Kichijoji.
 https://www.google.com/maps/dir/Ghibli+Museum/Kichijoji+Station
 
-13:20 | 70m | FOOD |
+13:24 | 70m | FOOD |
 Almuerzo en Kichijoji (zona con gran variedad de restaurantes, cafés y puestos).
 https://www.google.com/maps/place/Kichijoji
 
-14:30 | 120m | SHOP |
+14:34 | 120m | SHOP |
 Shopping en UNIQLO Kichijoji. Es una tienda insignia gigante de 7 pisos, perfecta para comprar y muy cerca.
 https://www.google.com/maps/place/UNIQLO+Kichijoji
 
-16:30 | 20m | TRAIN |
+16:34 | 25m | TRAIN |
 Tren JR Chūō Line desde la estación Kichijoji de regreso a la estación Shinjuku.
 https://www.google.com/maps/dir/Kichijoji+Station/Shinjuku+Station
 
-16:50 | 10m | WALK |
+16:59 | 12m | WALK |
 Caminar por Shinjuku buscando opciones para cenar.
 
-17:00 | 90m | FOOD |
+17:11 | 90m | FOOD |
 Cena temprana en los alrededores de Shinjuku.
 https://www.google.com/maps/place/Shinjuku
 
-18:30 | 30m | WALK |
-Caminata tranquila de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+18:41 | 9m | WALK |
+Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho desde la estación Shinjuku (7 min según Google Maps).
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-19:00 | 60m | BREAK |
+18:50 | 60m | BREAK |
 Llegada al hotel para descansar y fin de la jornada.
 
 
@@ -438,59 +424,59 @@ El Museo Nacional de Tokio abre de Martes a Domingo
 ⚠️ Restricciones detectadas:
 - Museo Nacional de Tokio cierra los lunes; martes abierto (9:30–17:00). Sin conflicto.
 
-08:35 | 8m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+08:35 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:43 | 27m | TRAIN |
+08:44 | 32m | TRAIN |
 (CLP 1.2M) JR Yamanote Line directo a la estación Ueno (viaje directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Ueno+Station
 
-09:10 | 20m | WALK |
+09:16 | 24m | WALK |
 Caminar de estación Ueno a Museo.
 https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Tokyo+National+Museum
 
-09:30 | 180m | VISIT |
+09:40 | 180m | VISIT |
 Visitar Museo Nacional de Tokio — Honkan: katanas, armaduras samurái (~10 USD).
 https://www.google.com/maps/place/Tokyo+National+Museum
 
-12:30 | 15m | WALK |
+12:40 | 18m | WALK |
 Caminar por el Parque de Ueno hacia el mercado Ameyoko.
 https://www.google.com/maps/dir/Tokyo+National+Museum/Ameyoko+Shopping+Street
 
-12:45 | 45m | FOOD |
+12:58 | 45m | FOOD |
 Almuerzo en Ameyoko.
 https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
-13:30 | 100m | SHOP |
+13:43 | 100m | SHOP |
 Explorar puestos del mercado Ameyoko.
 https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
-15:10 | 5m | TRAIN |
+15:23 | 10m | TRAIN |
 (CLP 1.2M) Metro Ueno → Akihabara (JR Yamanote, 2 estaciones).
 https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Akihabara+Station,+Tokyo
 
-15:15 | 5m | WALK |
+15:33 | 6m | WALK |
 Caminata hacia tiendas retro de Akihabara.
 https://www.google.com/maps/dir/Akihabara+Station/Super+Potato+Akihabara
 
-15:20 | 20m | SHOP |
+15:39 | 20m | SHOP |
 Super Potato (Videojuegos retro).
 https://www.google.com/maps/place/Super+Potato+Akihabara
 
-15:40 | 20m | SHOP |
+15:59 | 20m | SHOP |
 Mandarake Akihabara.
 https://www.google.com/maps/place/Mandarake+Akihabara
 
-16:00 | 60m | BREAK |
+16:19 | 60m | BREAK |
 Maid Café para descansar y tiempo para caminar por Akihabara.
 https://www.google.com/maps/search/Maid+Cafe+Akihabara
 
-17:00 | 150m | SHOP |
+17:19 | 150m | SHOP |
 Recorrer libremente tiendas del barrio electrónico y otaku.
 https://www.google.com/maps/place/Akihabara+Electric+Town
 
-19:30 | 60m | FOOD |
+19:49 | 60m | FOOD |
 Cena Tonkatsu (filete de cerdo empanizado y frito).
 https://www.google.com/maps/place/Tonkatsu+Marugo
 
@@ -502,13 +488,13 @@ Option
 Tonkatsu Yamaichi
 A 12 min desde Mandarake.
 
-20:30 | 15m | TRAIN |
+20:49 | 20m | TRAIN |
 (CLP 1.3M) Toei Shinjuku Line desde la estación Iwamotochō directo a la estación Shinjuku.
 https://www.google.com/maps/dir/Iwamotocho+Station/Shinjuku+Station
 
-20:45 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+21:09 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 5
@@ -538,27 +524,27 @@ Posible ajuste: Ajuste: Desplaza todo exactamente una hora y sal a las 08:20. To
 - Limited Express Nikkō: asientos con reserva.
 Fuentes: [https://www.fun-japan.jp/en/articlesPromotion/10253|Yubatei Masudaya (Fun Japan)]
 
-07:20 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+07:15 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-07:30 | 30m | WALK |
+07:24 | 36m | WALK |
 Navegar internamente en la estación hacia el andén del tren Limited Express Nikkō.
 https://www.google.com/maps/place/Shinjuku+Station
 
-08:00 | 150m | TRAIN |
+08:00 | 155m | TRAIN |
 (CLP 23.7M) Tren Shinjuku → Tobu-Nikkō (Limited Express Nikkō/Kinugawa).
 https://www.google.com/maps/dir/Shinjuku+Station/Tobu-Nikko+Station
 
-10:30 | 20m | BUS |
+10:35 | 25m | BUS |
 (CLP 2M) Bus local desde la estación hacia el área de los santuarios.
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Nikko+Toshogu
 
-10:50 | 180m | VISIT |
+11:00 | 180m | VISIT |
 Visitar Nikkō Tōshō-gū (~10 USD) y explorar el bosque de la montaña.
 https://www.google.com/maps/place/Nikko+Toshogu
 
-13:50 | 70m | FOOD |
+14:00 | 70m | FOOD |
 Almuerzo en Nikkō.
 https://www.google.com/maps/place/Yubatei+Masudaya
 
@@ -570,28 +556,28 @@ Option
 Hippari Dako
 Yakitori y fideos calientes en un local lleno de notas de turistas.
 
-15:00 | 120m | SHOP |
-Caminata bajando por la ciudad y compras de souvenirs tradicionales.
+15:10 | 110m | SHOP |
+Caminata bajando por la ciudad y compras de souvenirs tradicionales. [Acortado 10 min para absorber los colchones y mantener las reservas]
 https://www.google.com/maps/dir/Nikko+Toshogu/Tobu-Nikko+Station
 
-17:00 | 150m | TRAIN |
+17:00 | 155m | TRAIN |
 (CLP 23.7M) Tren de regreso Tobu-Nikkō → Shinjuku (Limited Express).
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Shinjuku+Station
 
-19:30 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+19:35 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-19:40 | 20m | BREAK |
+19:44 | 20m | BREAK |
 Breve descanso en el hotel antes de cenar.
 
-20:00 | 90m | FOOD |
+20:04 | 90m | FOOD |
 Cena de despedida de Tokio en Shinjuku (Yakiniku).
 https://www.google.com/maps/place/Gyu-Kaku+Shinjuku+Nishiguchi
 
 Option
 Yakiniku Gyu-Kaku Shinjuku Nishiguchi
-Deliciosos cortes de carne para asar en la mesa, muy cerca del hotel.
+Deliciosos cortes de carne para asar en la mesa (zona Shinjuku Nishiguchi; desde el hotel Amanek la estación Shinjuku-Nishiguchi queda a 10 min caminando, verificar la distancia exacta del local).
 
 Option
 Niigata Noko Miso Ramen Yajin
@@ -612,15 +598,15 @@ image2: Tokyo_DisneySea.png [Parque Temático Tokyo DisneySea]
 - Fuegos artificiales se cancelan con viento.
 Fuentes: [https://www.tokyodisneyresort.jp/en/tds/show.html|Shows Tokyo DisneySea (oficial)]
 
-06:45 | 1m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
-https://www.google.com/maps/place/Nishi-Shinjuku+Station
+06:31 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-06:46 | 50m | TRAIN |
-(CLP 1.2M) Metro Marunouchi Line a la Estación de Tokio (20 min), caminata de transbordo a andenes JR Keiyo Line (15 min) y tren JR Keiyo Line directo a Maihama (15 min).
-https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Maihama+Station
+06:40 | 53m | TRAIN |
+(CLP 1.2M) JR Chūō Line (Rapid) a la Estación de Tokio y transbordo interno a JR Keiyō Line hasta Maihama (Google Maps: 55 min puerta a puerta).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Maihama+Station
 
-07:45 | 15m | WALK |
+07:42 | 18m | WALK |
 Caminata de 5 minutos al acceso de Tokyo Disneyland o abordaje del monorriel "Disney Resort Line" si el destino es Tokyo DisneySea.
 https://www.google.com/maps/dir/Maihama+Station/Tokyo+DisneySea
 
@@ -655,13 +641,13 @@ https://www.google.com/maps/place/Ikspiari
 Espectáculos nocturnos (desfile de luces y show de fuegos artificiales "Sky Full of Colors").
 https://www.google.com/maps/place/Tokyo+DisneySea
 
-21:00 | 50m | TRAIN |
-(CLP 1.2M) Tren JR Keiyo Line a la Estación de Tokio (15 min), caminata interna a andenes de metro (15 min) y Metro Marunouchi Line directo a la estación Nishi-Shinjuku (20 min).
-https://www.google.com/maps/dir/Maihama+Station/Nishi-Shinjuku+Station
+21:00 | 53m | TRAIN |
+(CLP 1.2M) Tren JR Keiyō Line a la Estación de Tokio y transbordo interno a JR Chūō Line (Rapid) hasta la estación Shinjuku (≈48 min, mismo trayecto de ida).
+https://www.google.com/maps/dir/Maihama+Station/Shinjuku+Station
 
-21:50 | 5m | WALK |
-Caminar de la estación Nishi-Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+21:53 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
 @day
@@ -683,50 +669,51 @@ Museo Edo Tokio:
 - Sensō-ji: salón principal cierra 17:00 en invierno; tiendas de Nakamise cierran ~17:00–18:00.
 Fuentes: [https://tokyointernationalmeetup.com/edo-tokyo-museum-reopens-2026/|Reapertura Museo Edo-Tokio]
 
-09:30 | 7m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku-Nishiguchi.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku-Nishiguchi+Station
+09:30 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-09:37 | 23m | TRAIN |
-(CLP 1.6M) Toei Oedo Line directo a la estación Ryōgoku (viaje sin transbordos).
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/Ryogoku+Station
+09:39 | 28m | TRAIN |
+(CLP 1.3M) JR Chūō Line (Rapid) con transbordo a JR Chūō-Sōbu Line (Local) hasta la estación Ryōgoku (Google Maps: 30 min puerta a puerta; reemplaza a Oedo, que ahora toma ~40 min).
+https://www.google.com/maps/dir/Shinjuku+Station/Ryogoku+Station
 
-10:00 | 10m | WALK |
+10:07 | 12m | WALK |
 Caminar a Museo Edo-Tokio.
 https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Museo+Edo-Tokyo,+1+Chome-4-1+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/@35.6962648,139.7914442,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!2m2!1d139.7957336!2d35.6965972!3e3
 
-10:10 | 150m | VISIT |
+10:19 | 150m | VISIT |
 Visita [https://www.edo-tokyo-museum.or.jp/en/|Museo Edo-Tokio] (~8 USD).
 https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
 
-12:40 | 20m | TRAIN |
+12:49 | 25m | TRAIN |
 (CLP 1.3M) Traslado Ryōgoku → Asakusa.
 https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Asakusa+Sta.,+1+Chome-1-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7010112,139.7809116,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188ec690127e2f:0xf41f021a3a02cff0!2m2!1d139.7971675!2d35.7098669!3e3
 
-13:00 | 60m | FOOD |
+13:14 | 60m | FOOD |
 Almuerzo street food en Calle Nakamise / Asakusa.
 https://www.google.com/maps/place/Nakamise,+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7124284,139.7939374,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec12e2c51d5:0xf1d0cb578b3d5e97!8m2!3d35.7124241!4d139.796507!16s%2Fg%2F11rk533v_2
 
-14:00 | 10m | WALK |
+14:14 | 12m | WALK |
 Caminar a Templo Sensō-ji.
 https://www.google.com/maps/dir/Calle+Comercial+Nakamise,+1+Chome-36-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/Sens%C5%8D-ji,+2+Chome-3-1+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7128584,139.7952139,18z/data=!4m14!4m13!1m5!1m1!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc!2m2!1d139.7964542!2d35.7118413!1m5!1m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d!2m2!1d139.7966553!2d35.7147651!3e2
 
-14:10 | 120m | VISIT |
+14:26 | 120m | VISIT |
 Visita Templo Sensō-ji (en Asakusa).
 https://www.google.com/maps/place/Sens%C5%8D-ji
 
-16:10 | 60m | PHOTO |
+16:26 | 60m | PHOTO |
 Caminata fotográfica al atardecer por los alrededores de Asakusa y la ribera del río Sumida (excelentes vistas).
 
-17:10 | 90m | FOOD |
+17:26 | 90m | FOOD |
 Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-ji, famosa por su guiso de carne).
 https://www.google.com/maps/place/Hoppy+Street
 
-18:40 | 35m | TRAIN |
+18:56 | 40m | TRAIN |
 (CLP 1.6M) Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
 
-19:15 | 10m | WALK |
-Caminar de regreso al Hotel Rose Garden Shinjuku.
+19:36 | 12m | WALK |
+Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho desde Shinjuku-Nishiguchi (Google Maps: 10 min).
+https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 5
@@ -742,35 +729,35 @@ image4: Shibuya_Sky.png [Mirador Shibuya Sky en las Alturas]
 ⚠️ Restricciones detectadas:
 - Shibuya Sky: tickets salen 4 semanas antes (~18-ene, para el lunes 15-feb); el horario del atardecer se agota. La terraza cierra con lluvia o viento fuerte.
 
-08:50 | 8m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (entrada oeste).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+08:30 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:58 | 15m | TRAIN |
+08:39 | 20m | TRAIN |
 (CLP 0.9M) JR Yamanote Line directo a la estación Harajuku.
 https://www.google.com/maps/dir/Shinjuku+Station/Harajuku+Station
 
-09:25 | 5m | WALK |
+09:11 | 6m | WALK |
 Caminar al Santuario Meiji.
 https://www.google.com/maps/dir/Harajuku+Station/Meiji+Jingu
 
-09:30 | 90m | VISIT |
+09:17 | 90m | VISIT |
 Visitar Santuario Meiji (bosque de cedros y Jardín Imperial Gyoen).
 https://www.google.com/maps/place/Meiji+Jingu
 
-11:00 | 90m | WALK |
+10:47 | 90m | WALK |
 Caminar por Takeshita Street — Moda juvenil, crepes y algodón de azúcar gigante.
 https://www.google.com/maps/place/Takeshita+Street
 
-12:30 | 20m | WALK |
+12:17 | 24m | WALK |
 Caminar de Harajuku → Shibuya bajando por Cat Street.
 https://www.google.com/maps/dir/Takeshita+Street/Cat+Street/@35.666,139.704,16z
 
-12:50 | 10m | WALK |
+12:41 | 12m | WALK |
 Caminata hacia restaurantes en Shibuya.
 https://www.google.com/maps/place/Shibuya+Crossing
 
-13:00 | 70m | FOOD |
+12:53 | 70m | FOOD |
 Almuerzo rápido en Shibuya.
 https://www.google.com/maps/place/CoCo+Ichibanya+Shibuya
 
@@ -782,15 +769,15 @@ Option
 CoCo Ichibanya Shibuya
 Curry japonés personalizable (Centro de Shibuya).
 
-14:10 | 20m | WALK |
+14:03 | 24m | WALK |
 Caminar al Edificio Shibuya Parco.
 https://www.google.com/maps/dir/Shibuya+Crossing/Shibuya+Parco
 
-14:30 | 150m | SHOP |
+14:27 | 150m | SHOP |
 Visita a Nintendo Tokyo y Pokémon Center (6to piso de Parco).
 https://www.google.com/maps/place/Shibuya+Parco
 
-17:00 | 15m | WALK |
+16:57 | 18m | WALK |
 Caminar hacia la estatua de Hachikō, cruzar el Shibuya Crossing e ingresar a la torre Shibuya Scramble Square.
 https://www.google.com/maps/place/Shibuya+Scramble+Square
 
@@ -810,11 +797,12 @@ Option
 Mo-Mo-Paradise Shibuya
 A 3 min desde el cruce.
 
-20:30 | 10m | TRAIN |
+20:30 | 15m | TRAIN |
 (CLP 1.2M) JR Yamanote Line de estación Shibuya directo a la estación Shinjuku.
 
-20:40 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
+20:45 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
 @day
@@ -836,29 +824,29 @@ Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abor
 - Domingo: Kamakura muy concurrida, filas en el Enoden.
 Fuentes: [https://kotoku-in.jp/en/|Kōtoku-in oficial]
 
-08:00 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+08:00 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:10 | 90m | TRAIN |
+08:09 | 95m | TRAIN |
 (CLP 1.3M) Tren JR Shōnan-Shinjuku Line directo desde la estación Shinjuku a la estación Kamakura (viaje directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
-09:40 | 20m | TRAIN |
+09:44 | 25m | TRAIN |
 (CLP 1.2M) Tren local Kamakura → Estación Hase (Línea Enoden).
 https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
 
-10:00 | 45m | VISIT |
+10:09 | 45m | VISIT |
 Visitar Kōtoku-in (Gran Buda, ~3 USD)
 https://www.google.com/maps/place/Kotoku-in
 
-10:45 | 15m | WALK |
+10:54 | 18m | WALK |
 Caminar de Gran Buda a Hase-desa
 
-11:00 | 120m | VISIT |
+11:12 | 120m | VISIT |
 Templo costero Hase-dera (~3 USD, subida a la terraza panorámica con vista a la bahía de Sagami).
 
-13:00 | 120m | FOOD |
+13:12 | 120m | FOOD |
 Almuerzo en la zona de Hase.
 https://www.google.com/maps/place/Kaedena+Kamakura
 
@@ -870,38 +858,38 @@ Option
 Kaedena
 Donburi, boles de arroz con carne o mariscos (a 5 min del Gran Buda).
 
-15:00 | 15m | TRAIN |
+15:12 | 20m | TRAIN |
 (CLP 1.2M) Tren local Hase → Estación Kamakura (Línea Enoden).
 https://www.google.com/maps/dir/Hase+Station/Kamakura+Station
 
-15:15 | 45m | SHOP |
+15:32 | 45m | SHOP |
 Caminar vitrineando por la calle comercial tradicional Komachi-dori.
 https://www.google.com/maps/place/Komachi-dori
 
-16:00 | 5m | WALK |
+16:17 | 6m | WALK |
 Caminar de Komachi-dori al Santuario Tsurugaoka Hachimangū.
 https://www.google.com/maps/dir/Komachi-dori/Tsurugaoka+Hachimangu
 
-16:05 | 45m | VISIT |
+16:23 | 45m | VISIT |
 Visita al Santuario Tsurugaoka Hachimangū.
 https://www.google.com/maps/place/Tsurugaoka+Hachimangu
 
-16:50 | 10m | WALK |
+17:08 | 12m | WALK |
 Caminar de regreso por el paseo peatonal elevado de la avenida Dankazura hacia la Estación Kamakura.
 https://www.google.com/maps/dir/Tsurugaoka+Hachimangu/Kamakura+Station
 
-17:00 | 75m | TRAIN |
+17:20 | 80m | TRAIN |
 (CLP 5.5M) Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku).
 https://www.google.com/maps/dir/Kamakura+Station/Shinjuku+Station
 
-18:15 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+18:40 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-18:25 | 35m | BREAK |
+18:49 | 35m | BREAK |
 Breve descanso en el hotel para refrescarse.
 
-19:00 | 90m | FOOD |
+19:24 | 90m | FOOD |
 Cena Okonomiyaki en Shinjuku.
 https://www.google.com/maps/place/Okonomiyaki+Hiroki+Shinjuku
 
@@ -936,40 +924,40 @@ De acuerdo con las predicciones oficiales de las tablas de mareas para Miyajima 
 - Bus expreso a Shinjuku requiere reserva (comprar el ticket de regreso en la mañana). El bus de las 18:50 (115 min) llega a Busta Shinjuku ~20:45, por eso se cena en Kawaguchiko antes de subir al bus.
 Fuentes: [https://japanuncharted.com/yamanashi/mt-fuji/mount-fuji-panoramic-ropeway|Teleférico Kachi-Kachi (Japan Uncharted)] · [https://ekitan.com/en/article/fujikaiyu|Fuji Excursion (Ekitan)]
 
-07:10 | 10m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+07:09 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-07:20 | 10m | WALK |
+07:18 | 12m | WALK |
 Navegar en la estación hacia el andén del tren Fuji Excursion.
 https://www.google.com/maps/place/Shinjuku+Station
 
-07:30 | 120m | TRAIN |
+07:30 | 125m | TRAIN |
 (CLP 35.6M) Tren Shinjuku → Estación Shimoyoshida (Fuji Excursion directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Shimoyoshida+Station
 
-09:30 | 40m | WALK |
+09:35 | 48m | WALK |
 Caminar y subir escalones a Pagoda Chūreitō.
 https://www.google.com/maps/dir/Shimoyoshida+Station/Chureito+Pagoda
 
-10:10 | 90m | VISIT |
-Visitar Mirador de la Pagoda Chūreitō (Arakura Sengen) — Postal clásica de Fuji + Pagoda.
+10:23 | 78m | VISIT |
+Visitar Mirador de la Pagoda Chūreitō (Arakura Sengen) — Postal clásica de Fuji + Pagoda. [Acortado 12 min para absorber los colchones y mantener las reservas]
 https://www.google.com/maps/place/Chureito+Pagoda
 
-11:40 | 40m | WALK |
+11:41 | 48m | WALK |
 Caminar de regreso a la Estación Shimoyoshida.
 https://www.google.com/maps/dir/Chureito+Pagoda/Shimoyoshida+Station
 
-12:20 | 35m | TRAIN |
+12:29 | 40m | TRAIN |
 (CLP 35.6M) Tren Shimoyoshida → Estación Kawaguchiko (Fujikyu Railway).
 https://www.google.com/maps/dir/Shimoyoshida+Station/Kawaguchiko+Station
 
-12:55 | 5m | WALK |
+13:09 | 6m | WALK |
 Caminar hacia orilla del lago o restaurantes.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Lake+Kawaguchi
 
-13:00 | 60m | FOOD |
-Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona).
+13:15 | 45m | FOOD |
+Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona). [Acortado 15 min para absorber los colchones y mantener las reservas]
 https://www.google.com/maps/place/Houtou+Fudou+Kawaguchiko+Station
 
 Option
@@ -984,40 +972,40 @@ Option
 Kosaku Kawaguchiko Hoto Noodles
 A 12 min desde la estación Kawaguchiko.
 
-14:00 | 15m | BUS |
+14:00 | 20m | BUS |
 (CLP 1.3M) Caminar o tomar Bus local al teleférico.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Mt.+Fuji+Panoramic+Ropeway
 
-14:15 | 90m | VISIT |
+14:20 | 90m | VISIT |
 Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Campana de Tenjo y dango. Cierra a las 16:30 en invierno: se sube temprano para no apurarse.
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
-15:45 | 30m | BUS |
+15:50 | 35m | BUS |
 (CLP 1M) Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
 https://www.google.com/maps/dir/Mt.+Fuji+Panoramic+Ropeway/Kozantei+Ubuya
 
-16:15 | 60m | PHOTO |
-Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm.
+16:25 | 44m | PHOTO |
+Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm. [Acortado 16 min para absorber los colchones y mantener las reservas]
 https://www.google.com/maps/place/Lake+Kawaguchi
 
-17:15 | 20m | BUS |
+17:09 | 25m | BUS |
 (CLP 1M) Bus de regreso (Línea Roja) → Estación Kawaguchiko.
 https://www.google.com/maps/dir/Lake+Kawaguchi/Kawaguchiko+Station
 
-17:35 | 70m | FOOD |
+17:34 | 70m | FOOD |
 Cena en Kawaguchiko, cerca de la estación (ramen, hōtō u otro). Se cena aquí, antes del bus, porque el bus llega a Shinjuku pasadas las 20:45.
 https://www.google.com/maps/search/restaurantes+cerca+Kawaguchiko+Station
 
-18:45 | 5m | WALK |
+18:44 | 6m | WALK |
 Caminar al terminal de buses de la estación Kawaguchiko (con el ticket de regreso ya comprado desde la mañana).
 
-18:50 | 115m | BUS |
+18:50 | 120m | BUS |
 (CLP 1.3M) Bus Expreso de regreso a Tokio directo a Busta Shinjuku (o combinación de trenes). Llegada ~20:45.
 https://www.google.com/maps/dir/Kawaguchiko+Station/Busta+Shinjuku
 
-20:45 | 25m | WALK |
-Caminar de Busta Shinjuku al Hotel Rose Garden Shinjuku (pasando por la estación; si están cansadas, un taxi corto).
-https://www.google.com/maps/dir/Busta+Shinjuku/Hotel+Rose+Garden+Shinjuku
+20:50 | 18m | WALK |
+Caminar de Busta Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 15 min; si están cansadas, un taxi corto).
+https://www.google.com/maps/dir/Busta+Shinjuku/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 5
@@ -1043,23 +1031,23 @@ Takkyubin: (AM) Recordar dejar maletas en servicio de traslado antes del cutoff 
 - Takkyubin: despachar antes del cutoff para que llegue al ryokan en Takayama el 26-feb.
 Fuentes: [https://mandarake.co.jp/dir/nkn/index-en.html|Mandarake Nakano (oficial)]
 
-10:10 | 8m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Shinjuku (andenes JR).
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Shinjuku+Station
+10:10 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-10:18 | 12m | TRAIN |
+10:19 | 17m | TRAIN |
 (CLP 1M) JR Chūō Line directo a la estación Nakano (sin transbordos).
 https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
 
-10:45 | 15m | WALK |
+10:51 | 18m | WALK |
 Caminar techado por la galería Sun Mall.
 https://www.google.com/maps/dir/Nakano+Station/Nakano+Broadway
 
-11:00 | 180m | SHOP |
+11:09 | 180m | SHOP |
 Nakano Broadway: Explorar galerías de figuras, anime retro, Mandarake y rarezas.
 https://www.google.com/maps/place/Nakano+Broadway
 
-14:00 | 90m | FOOD |
+14:09 | 90m | FOOD |
 Almuerzo en los callejones aledaños a Nakano.
 https://www.google.com/maps/place/Ramen+Aoba+Nakano
 
@@ -1071,10 +1059,10 @@ Option
 Namizu Sushi Nakano
 Kaitenzushi, sushi en platos giratorios (en la galería Sun Mall).
 
-15:30 | 210m | FREE |
+15:39 | 210m | FREE |
 Tarde de ritmo libre (compras, descansar o recorrer tiendas pendientes).
 
-19:00 | 90m | FOOD |
+19:09 | 90m | FOOD |
 Cena Izakaya (taberna familiar animada).
 https://www.google.com/maps/place/Isomaru+Suisan+Nakano
 
@@ -1086,13 +1074,13 @@ Option
 Tsukada Nojo Nakano
 Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
 
-20:30 | 10m | TRAIN |
+20:39 | 15m | TRAIN |
 (CLP 1M) JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
 https://www.google.com/maps/dir/Nakano+Station/Shinjuku+Station
 
-20:40 | 10m | WALK |
-Caminar de la estación Shinjuku de regreso al Hotel Rose Garden Shinjuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Hotel+Rose+Garden+Shinjuku
+20:54 | 9m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @section Alpes
 title: BASE 2 — ALPES JAPONESES (Takayama)
@@ -1118,15 +1106,15 @@ Tanto Takayama Jinya como Hida Minzoku Mura (Hida no Sato) cierran sus puertas a
 - Sanmachi Suji: tiendas y destilerías de sake cierran ~17:00; el paseo 17:20–18:50 será con casi todo cerrado.
 Fuentes: [https://www.japan-guide.com/e/e5904.html|Takayama Jinya (japan-guide)]
 
-08:15 | 5m | WALK |
-Caminar de Hotel Rose Garden Shinjuku a la estación Nishi-Shinjuku.
-https://www.google.com/maps/dir/Hotel+Rose+Garden+Shinjuku/Nishi-Shinjuku+Station
+08:03 | 9m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:20 | 20m | TRAIN |
-(CLP 1.2M) Metro Marunouchi Line a la Estación de Tokio (viaje directo sin transbordos).
-https://www.google.com/maps/dir/Nishi-Shinjuku+Station/Tokyo+Station
+08:12 | 24m | TRAIN |
+(CLP 1.2M) JR Chūō Line (Rapid) a la Estación de Tokio (viaje directo sin transbordos; Google Maps: 26 min puerta a puerta).
+https://www.google.com/maps/dir/Shinjuku+Station/Tokyo+Station
 
-08:40 | 20m | WALK |
+08:36 | 24m | WALK |
 Caminar internamente hacia los andenes de Shinkansen.
 https://www.google.com/maps/place/Tokyo+Station
 
