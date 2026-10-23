@@ -1955,8 +1955,8 @@ Donguri
 Restaurante familiar y cómodo.
 
 @section Osaka
-title: BASE 4 — OSAKA (Nipponbashi / Namba)
-hotel: MIMARU Osaka Namba Station - Prefectura de Osaka, Osaka, 3-6-24 Nipponbashi, Naniwaku, Japón
+title: BASE 4 — OSAKA (Tenmabashi)
+hotel: Hotel Keihan Tenmabashi Ekimae - Prefectura de Osaka, Osaka, Chuo-ku Tenmabashikyomachi 2-13, Japón
 summary: Excursiones a Universal Studios Japan, Nara, Castillo de Osaka, Umeda, Hiroshima/Miyajima, Acuario Kaiyūkan, Himeji y salida por KIX.
 
 @day
@@ -1967,9 +1967,8 @@ summary: FREE + Shinkansen a Shin-Osaka + Metro Midosuji + FREE
 
 @note
 @note
-La cadena MIMARU es de hoteles tipo apartamento y, a diferencia de un hotel tradicional, sus recepciones no operan las 24 horas (generalmente abren de 7:00 a 22:00 hrs).
+Hotel Keihan Tenmabashi Ekimae: confirmar con el hotel el horario de recepción y si recibe equipaje por Takkyubin (la regla de MIMARU ya no aplica a este hotel).
 
-Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, pero estrictamente el mismo día de tu check-in o durante el día en que ya estás alojado, siempre y cuando llegue en el horario en que hay personal en recepción.
 
 @note
 ⚠️ Restricciones detectadas:
@@ -1979,39 +1978,40 @@ Regla de recepción: Los hoteles MIMARU aceptan recibir equipaje por Takkyubin, 
 FREE
 https://www.google.com/maps/place/Shijo+Dori+Kyoto
 
-12:00 | 60m | FOOD |
-Almuerzo libre cerca del hospedaje.
+12:00 | 57m | FOOD |
+Almuerzo libre cerca del hospedaje. [Acortado 3 min para absorber los colchones y mantener las reservas]
 
-13:00 | 15m | HOTEL |
+12:57 | 15m | HOTEL |
 Caminar al MIMARU Kyoto Shinmachi Sanjo y recoger maletas de las 5 personas.
 
-13:15 | 15m | TAXI |
+13:12 | 15m | TAXI |
 (CLP 8.7M) Traslado en Taxi grande desde MIMARU Kyoto Shinmachi Sanjo a la Estación de Kioto.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
-13:30 | 15m | WALK |
+13:27 | 18m | WALK |
 Caminar en la estación hacia andenes Shinkansen.
 
-13:45 | 15m | TRAIN |
+13:45 | 20m | TRAIN |
 (CLP 8.4M) Tren Shinkansen a estación Shin-Osaka.
 https://www.google.com/maps/dir/Kyoto+Station/Shin-Osaka+Station
 
-14:00 | 10m | WALK |
+14:05 | 12m | WALK |
 Caminar a andenes de metro Midosuji.
 
-14:10 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Namba.
-https://www.google.com/maps/dir/Shin-Osaka+Station/Namba+Station
+14:17 | 25m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-14:25 | 10m | WALK |
-Caminar de manera pausada desde la estación Namba al hotel MIMARU Osaka Namba Station y Check-in (6 min, 450m).
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+14:42 | 5m | WALK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae y Check-in (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-15:00 | 210m | FREE |
-FREE
+15:00 | 192m | FREE |
+FREE [Acortado 18 min para absorber los colchones y mantener las reservas]
 
-18:30 | 10m | WALK |
-Caminar hacia Dōtonbori.
+18:12 | 28m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Sennichimae Line hacia Dōtonbori / Namba (Google Maps: 22 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
 
 18:40 | 20m | PHOTO |
 Caminar buscando el cartel de Glico Man. (mover a otro dia??)
@@ -2036,9 +2036,9 @@ image4: Kushikatsu.png [Almuerzo de Brochetas Kushikatsu]
 ⚠️ Restricciones detectadas:
 - Barco Dōtonbori aprox. 11:00–21:00 (se suspende con mal tiempo). Tsūtenkaku 10:00–20:00.
 
-10:45 | 15m | WALK |
-Caminar de MIMARU Osaka Namba Station hacia Shinsaibashi / Dōtonbori.
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Shinsaibashi-suji+Shopping+Street
+10:28 | 32m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro hacia Shinsaibashi (Keihan + Midosuji Line; Google Maps: 26 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shinsaibashi-suji+Shopping+Street
 
 11:00 | 120m | SHOP |
 Caminar por galerías comerciales de Namba y Shinsaibashi.
@@ -2052,35 +2052,35 @@ Option
 Kani Doraku
 Sucursal Shinsaibashi, menú mediodía de cangrejo.
 
-14:30 | 10m | WALK |
+14:30 | 12m | WALK |
 Caminar al canal.
 
-14:40 | 30m | VISIT |
+14:42 | 30m | VISIT |
 Paseo en bote por el canal Dōtonbori (~900 JPY).
 https://www.google.com/maps/place/Tonbori+River+Cruise
 
-15:10 | 10m | WALK |
+15:12 | 12m | WALK |
 Caminar a estación metro Namba.
 
-15:20 | 5m | TRAIN |
+15:24 | 10m | TRAIN |
 (CLP 1.4M) Metro Midosuji Line a estación Dobutsuen-mae.
 https://www.google.com/maps/dir/Namba+Station/Dobutsuen-mae+Station
 
-15:25 | 10m | WALK |
+15:34 | 12m | WALK |
 Caminar hacia barrio Shinsekai.
 
-15:35 | 25m | VISIT |
+15:46 | 25m | VISIT |
 Caminar y subir a torre Tsūtenkaku.
 https://www.google.com/maps/place/Tsutenkaku
 
-16:00 | 120m | VISIT |
+16:11 | 120m | VISIT |
 Exploración de Shinsekai y bajada de la torre.
 https://www.google.com/maps/place/Shinsekai
 
-18:00 | 90m | PHOTO |
+18:11 | 90m | PHOTO |
 Caminar aprovechando los neones y la vibra retro para tomar fotos.
 
-19:30 | 60m | FOOD |
+19:41 | 60m | FOOD |
 Cena Kushikatsu en Shinsekai.
 https://www.google.com/maps/place/Kushikatsu+Daruma+Kyoto
 
@@ -2088,15 +2088,16 @@ Option
 Kushikatsu Daruma Shinsekai Sohonten
 Local emblemático de brochetas fritas en Shinsekai.
 
-20:30 | 10m | WALK |
+20:41 | 12m | WALK |
 Caminar a estación Dobutsuen-mae.
 
-20:40 | 5m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Namba.
+20:53 | 20m | TRAIN |
+(CLP 1.4M) Metro de regreso desde Dobutsuen-mae hacia Temmabashi (Sakaisuji Line con tramo Keihan; Google Maps, sentido inverso: 19 min puerta a puerta).
+https://www.google.com/maps/dir/Dobutsuen-mae+Station/Temmabashi+Station,+Osaka
 
-20:45 | 10m | WALK |
-Caminar de la estación Namba de regreso al MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+21:13 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
 @day
@@ -2113,21 +2114,11 @@ image4: Hard_Rock_Cafe.png [Cena en Hard Rock Cafe Osaka]
 ⚠️ Restricciones detectadas:
 - Entrada con fecha fija. Super Nintendo World requiere Express Pass o ticket de horario en la app. Horario de apertura varía por día.
 
-06:15 | 10m | WALK |
-Caminar a estación Osaka-Namba (línea Hanshin).
+05:54 | 48m | TRAIN |
+(CLP 1.3M) Caminar a la estación Temmabashi (4 min), Keihan Main Line → JR Osaka Loop Line (transbordo) → JR Yumesaki Line hasta Universal City (Google Maps: 42 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Universal-City+Station
 
-06:25 | 10m | TRAIN |
-(CLP 1.3M) Tren Hanshin Namba Line a estación Nishikujo.
-https://www.google.com/maps/dir/Osaka-Namba+Station/Nishikujo+Station
-
-06:35 | 5m | WALK |
-Caminar y cambiar de andén en Nishikujo a andén JR.
-
-06:40 | 5m | TRAIN |
-(CLP 1M) Tren JR Yumesaki Line a estación Universal City.
-https://www.google.com/maps/dir/Nishikujo+Station/Universal-City+Station
-
-06:45 | 15m | WALK |
+06:42 | 18m | WALK |
 Caminar desde estación hacia la puerta del parque.
 
 07:00 | 60m | VISIT |
@@ -2143,10 +2134,10 @@ Almuerzo en restaurantes del parque.
 14:00 | 360m | VISIT |
 Tarde completa de montañas rusas y desfiles.
 
-20:00 | 10m | WALK |
+20:00 | 12m | WALK |
 Caminar saliendo del parque hacia Universal CityWalk.
 
-20:10 | 80m | FOOD |
+20:12 | 80m | FOOD |
 Cena en Universal CityWalk.
 https://www.google.com/maps/place/Universal+CityWalk+Osaka
 
@@ -2154,21 +2145,16 @@ Option
 Hard Rock Cafe Osaka Universal
 Ubicado en Universal CityWalk.
 
-21:30 | 5m | WALK |
+21:32 | 6m | WALK |
 Caminar a estación Universal City.
 
-21:35 | 5m | TRAIN |
-(CLP 1M) Tren JR Yumesaki Line a Nishikujo.
+21:38 | 43m | TRAIN |
+(CLP 1.3M) Tren JR Yumesaki Line → JR Osaka Loop Line → Keihan Main Line hasta Temmabashi (Google Maps, sentido inverso: ≈42 min puerta a puerta).
+https://www.google.com/maps/dir/Universal-City+Station/Temmabashi+Station,+Osaka
 
-21:40 | 5m | WALK |
-Caminar y cambiar a andén Hanshin.
-
-21:45 | 10m | TRAIN |
-(CLP 1.3M) Tren Hanshin Namba Line a Osaka-Namba.
-
-21:55 | 10m | WALK |
-Caminar de regreso a MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Osaka-Namba+Station/MIMARU+Osaka+Namba+Station
+22:21 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
 @day
@@ -2188,35 +2174,35 @@ image4: Santuario_KasugaTaisha.png [Santuario Kasuga Taisha y Linternas de Bronc
 Fuentes: [https://japan-guide.com/event/construction.html|Obras Kōfuku-ji (japan-guide)]
 
 08:40 | 5m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Kintetsu-Nipponbashi.
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Kintetsu-Nipponbashi+Station
+Caminar del Hotel Keihan Tenmabashi Ekimae a la estación Temmabashi (4 min).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Temmabashi+Station,+Osaka
 
-08:45 | 45m | TRAIN |
-(CLP 4M) Tren rápido Kintetsu Nara Line desde la estación Kintetsu-Nipponbashi directo a la estación Kintetsu-Nara.
-https://www.google.com/maps/dir/Kintetsu-Nipponbashi+Station/Kintetsu-Nara+Station
+08:45 | 52m | TRAIN |
+(CLP 4M) Metro Tanimachi Line con transbordo a Kintetsu Nara Line hasta la estación Kintetsu-Nara (Google Maps: 51 min puerta a puerta; reemplaza el tren rápido desde Kintetsu-Nipponbashi).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Kintetsu-Nara+Station
 
-09:30 | 15m | WALK |
+09:37 | 18m | WALK |
 Caminar hacia el gran parque.
 
-09:45 | 60m | VISIT |
+09:55 | 60m | VISIT |
 Caminar por Parque de Nara (interacción con ciervos).
 https://www.google.com/maps/place/Nara+Park
 
-10:45 | 15m | WALK |
+10:55 | 18m | WALK |
 Caminar hacia complejo religioso.
 
-11:00 | 30m | VISIT |
+11:13 | 30m | VISIT |
 Visitar pagoda de cinco pisos de Kōfuku-ji.
 https://www.google.com/maps/place/Kofuku-ji
 
-11:30 | 15m | WALK |
+11:43 | 18m | WALK |
 Caminar hacia el pabellón principal.
 
-11:45 | 60m | VISIT |
+12:01 | 60m | VISIT |
 Visitar Tōdai-ji (Gran Buda).
 https://www.google.com/maps/place/Todai-ji
 
-12:45 | 75m | FOOD |
+13:01 | 75m | FOOD |
 Almuerzo en los alrededores.
 https://www.google.com/maps/place/Shizuka+Nara
 
@@ -2224,25 +2210,27 @@ Option
 Kamameshi Shizuka
 Arroz en olla de hierro tradicional.
 
-14:00 | 15m | WALK |
+14:16 | 18m | WALK |
 Caminar por sendero boscoso hacia santuario.
 
-14:15 | 60m | VISIT |
+14:34 | 60m | VISIT |
 Visitar Kasuga Taisha.
 https://www.google.com/maps/place/Kasuga+Taisha
 
-15:15 | 30m | WALK |
+15:34 | 36m | WALK |
 Caminar de regreso por el parque hasta la estación.
 
-15:45 | 40m | TRAIN |
-(CLP 4M) Tren Kintetsu Nara Line de regreso a Osaka-Namba / Nipponbashi.
+16:10 | 52m | TRAIN |
+(CLP 4M) Tren Kintetsu Nara Line con transbordo a Tanimachi Line de regreso hasta Temmabashi (Google Maps, sentido inverso: ≈51 min puerta a puerta).
+https://www.google.com/maps/dir/Kintetsu-Nara+Station/Temmabashi+Station,+Osaka
 
-16:25 | 155m | BREAK |
-Caminar al hotel MIMARU Osaka Namba Station a descansar la tarde.
-https://www.google.com/maps/dir/Kintetsu-Nipponbashi+Station/MIMARU+Osaka+Namba+Station
+17:02 | 100m | BREAK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min) y descansar la tarde. [Acortado 55 min para absorber los colchones y mantener las reservas]
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-19:00 | 10m | WALK |
-Caminar a local de comida en Namba.
+18:42 | 28m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Sennichimae Line a Dōtonbori para la cena (Google Maps: 22 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
 
 19:10 | 80m | FOOD |
 Cena Kitsune Udon de regreso en Osaka.
@@ -2272,59 +2260,55 @@ Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entr
 - Jardín Gokuraku-jōdo (Shitennō-ji) oct–mar: 8:30–16:00. Sin conflicto.
 Fuentes: [https://www.osakastation.com/shitennoji-temple/|Shitennō-ji (Osaka Station)]
 
-08:45 | 5m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Nipponbashi.
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nipponbashi+Station
-
-08:50 | 20m | TRAIN |
-(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Tanimachi 4-chome (Castillo de Osaka).
-https://www.google.com/maps/dir/Nipponbashi+Station/Tanimachi+4-chome+Station
+08:59 | 11m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line (1 parada) hasta Tanimachi 4-chome, acceso al Castillo de Osaka (Google Maps: 5 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Tanimachi+4-chome+Station
 
 09:10 | 40m | VISIT |
 Caminar por los jardines del foso y visitar el exterior del Castillo de Osaka (fotografías de la fachada sin ingresar).
 https://www.google.com/maps/place/Osaka+Castle
 
-09:50 | 15m | WALK |
+09:50 | 18m | WALK |
 Caminar de regreso a la estación Tanimachi 4-chome.
 
-10:05 | 5m | TRAIN |
+10:08 | 10m | TRAIN |
 (CLP 1.5M) Metro Tanimachi Line en dirección sur hasta la estación Shitennoji-mae Yuhigaoka (sólo 3 paradas).
 
-10:10 | 10m | WALK |
+10:18 | 12m | WALK |
 Caminar hacia la entrada del complejo Shitennō-ji.
 
-10:20 | 70m | VISIT |
+10:30 | 70m | VISIT |
 (CLP 1.8M) Visitar el templo Shitennō-ji (el templo budista oficial más antiguo de Japón) y recorrer el hermoso y pacífico jardín Gokuraku-jōdo (entrada aprox 300 JPY).
 https://www.google.com/maps/place/Shitennoji
 
-11:30 | 10m | WALK |
+11:40 | 12m | WALK |
 Caminar de regreso a la estación Shitennoji-mae Yuhigaoka.
 
-11:40 | 20m | TRAIN |
+11:52 | 25m | TRAIN |
 (CLP 1.8M) Metro Tanimachi Line directo hacia el norte hasta la estación Higashi-Umeda.
 https://www.google.com/maps/dir/Shitennoji-mae+Yuhigaoka+Station/Higashi-Umeda+Station
 
-12:00 | 10m | WALK |
+12:17 | 12m | WALK |
 Caminar al sector comercial norte de Umeda.
 
-12:10 | 80m | FOOD |
+12:29 | 80m | FOOD |
 Almuerzo libre en el área.
 
-13:30 | 150m | SHOP |
+13:49 | 150m | SHOP |
 Caminar por centros comerciales y arquitectura de Umeda.
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-16:00 | 15m | WALK |
+16:19 | 18m | WALK |
 Caminar hacia Umeda Sky Building.
 
-16:15 | 120m | VISIT |
+16:37 | 120m | VISIT |
 Subir a observatorio flotante al atardecer.
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-18:15 | 15m | WALK |
+18:37 | 18m | WALK |
 Caminar bajando al nivel de calle.
 
-18:30 | 75m | FOOD |
+18:55 | 75m | FOOD |
 Cena izakaya moderno en Umeda.
 https://www.google.com/maps/place/Isaribi+Umeda
 
@@ -2332,15 +2316,16 @@ Option
 Isaribi
 Robatayaki japonés en Umeda.
 
-19:45 | 10m | WALK |
+20:10 | 12m | WALK |
 Caminar a estación metro Umeda.
 
-19:55 | 10m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
+20:22 | 16m | TRAIN |
+(CLP 1.4M) Metro Tanimachi Line de Higashi-Umeda a Temmabashi (Google Maps: 15 min puerta a puerta, incluye la caminata final).
+https://www.google.com/maps/dir/Umeda+Station,+Osaka/Temmabashi+Station,+Osaka
 
-20:05 | 10m | WALK |
-Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+20:38 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
 @day
@@ -2353,40 +2338,36 @@ image1: Centros_comerciales_Umeda.png [Centros Comerciales de Umeda]
 image2: Mirador_Umeda_Sky.png [Mirador Kuchu Teien en Umeda Sky Building]
 
 @note
-Versión tranquila: mañana libre (dormir hasta tarde, lavar ropa) y sin Castillo de Osaka ni Templo Shitennō-ji. Es la víspera de Hiroshima (Día 27, salida a las 7:30 del hotel): cenar temprano y acostarse a buena hora. En el hotel a las 19:45.
+Versión tranquila: mañana libre (dormir hasta tarde, lavar ropa) y sin Castillo de Osaka ni Templo Shitennō-ji. Es la víspera de Hiroshima (Día 27, salida a las 07:23 del hotel): cenar temprano y acostarse a buena hora. En el hotel a las 19:57.
 
 09:00 | 150m | BREAK |
 Mañana libre en el hotel: dormir hasta tarde, lavar ropa y desayunar con calma antes del día largo a Hiroshima.
 
-11:30 | 10m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Namba (metro Midosuji).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
+11:30 | 21m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line hasta Higashi-Umeda (Google Maps: 15 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Umeda+Station,+Osaka
 
-11:40 | 10m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line directo de Namba a la estación Umeda.
-https://www.google.com/maps/dir/Namba+Station/Umeda+Station
-
-11:50 | 10m | WALK |
+11:51 | 12m | WALK |
 Caminar al sector comercial norte de Umeda.
 
-12:00 | 80m | FOOD |
+12:03 | 80m | FOOD |
 Almuerzo libre en el área.
 
-13:20 | 145m | SHOP |
+13:23 | 145m | SHOP |
 Caminar por centros comerciales y arquitectura de Umeda (en HEP Five hay una noria).
 https://www.google.com/maps/place/HEP+FIVE
 
-15:45 | 15m | WALK |
+15:48 | 18m | WALK |
 Caminar hacia Umeda Sky Building.
 
-16:00 | 120m | VISIT |
+16:06 | 120m | VISIT |
 Subir al observatorio flotante (Kuchu Teien) y quedarse hasta que se ponga el sol (cerca de las 18:00; confirmar la hora).
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-18:00 | 15m | WALK |
+18:06 | 18m | WALK |
 Caminar bajando al nivel de calle.
 
-18:15 | 60m | FOOD |
+18:24 | 60m | FOOD |
 Cena izakaya moderno en Umeda.
 https://www.google.com/maps/place/Isaribi+Umeda
 
@@ -2394,15 +2375,16 @@ Option
 Isaribi
 Robatayaki japonés en Umeda.
 
-19:15 | 10m | WALK |
+19:24 | 12m | WALK |
 Caminar a estación metro Umeda.
 
-19:25 | 10m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
+19:36 | 16m | TRAIN |
+(CLP 1.4M) Metro Tanimachi Line de Higashi-Umeda a Temmabashi (Google Maps: 15 min puerta a puerta, incluye la caminata final).
+https://www.google.com/maps/dir/Umeda+Station,+Osaka/Temmabashi+Station,+Osaka
 
-19:35 | 10m | WALK |
-Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+19:52 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
 stars: 5
@@ -2418,57 +2400,54 @@ https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 ⚠️ Restricciones detectadas:
 - Itsukushima: 6:30–18:00. El torii 'flota' solo con marea alta: revisar tabla de mareas. Impuesto de visitante Miyajima ¥100.
 
-07:30 | 10m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
+07:23 | 30m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
-07:40 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
-
-07:55 | 10m | WALK |
+07:53 | 12m | WALK |
 Caminar a andenes de Shinkansen.
 
-08:05 | 85m | TRAIN |
+08:05 | 90m | TRAIN |
 (CLP 58M) Tren Shinkansen a Hiroshima.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Hiroshima+Station
 
-09:30 | 10m | WALK |
+09:35 | 12m | WALK |
 Caminar a parada de tranvía en la plaza exterior.
 
-09:40 | 15m | BUS |
+09:47 | 20m | BUS |
 (CLP 1.3M) Tranvía (Hiroden) a parada Genbaku Dome-mae.
 https://www.google.com/maps/dir/Hiroshima+Station/Atomic+Bomb+Dome
 
-09:55 | 5m | WALK |
+10:07 | 6m | WALK |
 Caminar a la Cúpula de la Bomba Atómica.
 
-10:00 | 150m | VISIT |
+10:13 | 150m | VISIT |
 Caminar por el Parque y Museo de la Paz.
 https://www.google.com/maps/place/Hiroshima+Peace+Memorial+Museum
 
-12:30 | 10m | WALK |
+12:43 | 12m | WALK |
 Caminar a estación de tranvía Genbaku Dome-mae.
 
-12:40 | 15m | BUS |
+12:55 | 20m | BUS |
 (CLP 1.3M) Tranvía a estación Yokogawa.
 
-12:55 | 5m | WALK |
+13:15 | 6m | WALK |
 Caminar a andén JR.
 
-13:00 | 25m | TRAIN |
+13:21 | 30m | TRAIN |
 (CLP 2.4M) Tren local JR a estación Miyajimaguchi.
 
-13:25 | 5m | WALK |
+13:51 | 6m | WALK |
 Caminar a terminal de ferrys.
 
-13:30 | 10m | VISIT |
+13:57 | 10m | VISIT |
 (CLP 1.2M) Ferry a Miyajima.
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
-13:40 | 10m | WALK |
+14:07 | 12m | WALK |
 Caminar ingresando a la isla.
 
-13:50 | 60m | FOOD |
+14:19 | 60m | FOOD |
 Almuerzo probando comida tradicional de la zona.
 https://www.google.com/maps/place/Kakiya+Miyajima
 
@@ -2476,26 +2455,26 @@ Option
 Kakiya
 Especialistas en ostras asadas en Miyajima.
 
-14:50 | 120m | VISIT |
+15:19 | 120m | VISIT |
 Caminar hacia Santuario Itsukushima (torii flotante).
 https://www.google.com/maps/place/Itsukushima+Shrine
 
-16:50 | 15m | WALK |
+17:19 | 18m | WALK |
 Caminar a terminal de ferrys.
 
-17:05 | 10m | VISIT |
+17:37 | 10m | VISIT |
 (CLP 1.2M) Ferry de regreso a Miyajimaguchi.
 
-17:15 | 5m | WALK |
+17:47 | 6m | WALK |
 Caminar a estación de tren JR.
 
-17:20 | 30m | TRAIN |
+17:53 | 35m | TRAIN |
 (CLP 1.3M) Tren local JR a estación Hiroshima.
 
-17:50 | 10m | WALK |
+18:28 | 12m | WALK |
 Caminar hacia centro comercial anexo a la estación (ekie).
 
-18:00 | 75m | FOOD |
+18:40 | 75m | FOOD |
 Cena Okonomiyaki estilo Hiroshima.
 https://www.google.com/maps/place/Micchan+Sohonten+ekie
 
@@ -2503,22 +2482,23 @@ Option
 Micchan Sohonten
 Dentro del centro comercial ekie en la estación.
 
-19:15 | 10m | WALK |
+19:55 | 12m | WALK |
 Caminar a andenes de Shinkansen.
 
-19:25 | 85m | TRAIN |
+20:07 | 90m | TRAIN |
 (CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
-20:50 | 10m | WALK |
+21:37 | 12m | WALK |
 Caminar a andén de metro Midosuji.
 
-21:00 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Namba / Shinsaibashi.
+21:49 | 25m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-21:15 | 10m | WALK |
-Caminar de la estación Namba de regreso al hotel MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+22:14 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
 option: A
@@ -2538,88 +2518,80 @@ image4: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
 - Día largo: con el tren de regreso desde Himeji, el acuario empieza a las 15:40 y la cena termina cerca de las 21:00. Si cansa, usar la opción B (sin acuario).
 Fuentes: [https://www.himejicastle.jp/en|Castillo de Himeji (oficial)]
 
-07:50 | 10m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
+07:43 | 30m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
-08:00 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
-
-08:15 | 10m | WALK |
+08:13 | 12m | WALK |
 Caminar a andenes de Shinkansen.
 
-08:25 | 35m | TRAIN |
+08:25 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen a estación Himeji.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
-09:00 | 20m | WALK |
+09:05 | 24m | WALK |
 Caminar por avenida principal directa hacia el foso del castillo.
 
-09:20 | 100m | VISIT |
+09:29 | 100m | VISIT |
 Caminar, subir y recorrer el Castillo de Himeji (interior).
 https://www.google.com/maps/place/Himeji+Castle
 
-11:00 | 10m | WALK |
+11:09 | 12m | WALK |
 Caminar hacia el área colindante.
 
-11:10 | 60m | VISIT |
+11:21 | 60m | VISIT |
 Caminar por el jardín contiguo Kōko-en.
 https://www.google.com/maps/place/Koko-en
 
-12:10 | 20m | WALK |
+12:21 | 24m | WALK |
 Caminar de regreso a la zona comercial cercana a la estación.
 
-12:30 | 75m | FOOD |
+12:45 | 75m | FOOD |
 Almuerzo en zona Himeji.
 
 Option
 Ekisoba Himeji
 Fideos tradicionales rápidos en la misma estación.
 
-13:45 | 15m | WALK |
+14:00 | 18m | WALK |
 Caminar a andenes de tren.
 
-14:00 | 35m | TRAIN |
+14:18 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Himeji+Station/Shin-Osaka+Station
 
-14:35 | 10m | WALK |
+14:58 | 12m | WALK |
 Caminar a andenes de metro Midosuji.
 
-14:45 | 15m | TRAIN |
+15:10 | 20m | TRAIN |
 (CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Hommachi.
 
-15:00 | 5m | WALK |
+15:30 | 6m | WALK |
 Caminar y cambiar a la Chūō Line.
 
-15:05 | 20m | TRAIN |
+15:36 | 25m | TRAIN |
 (CLP 1.4M) Metro Chūō Line directo a la estación Osakako.
 https://www.google.com/maps/dir/Hommachi+Station/Osakako+Station
 
-15:25 | 15m | WALK |
+16:01 | 18m | WALK |
 Caminar de la estación Osakako hacia el acuario.
 
-15:40 | 180m | VISIT |
+16:19 | 180m | VISIT |
 Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
 https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
-18:40 | 10m | WALK |
+19:19 | 12m | WALK |
 Caminar de regreso a estación Osakako.
 
-18:50 | 15m | TRAIN |
-(CLP 1.4M) Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
+19:31 | 27m | TRAIN |
+(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y transbordo a Tanimachi Line hasta Temmabashi (Google Maps: 26 min puerta a puerta con la caminata final).
+https://www.google.com/maps/dir/Osakako+Station/Temmabashi+Station,+Osaka
 
-19:05 | 5m | WALK |
-Caminar y cambiar a línea Midosuji / Sakaisuji.
+19:58 | 15m | BREAK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min) a dejar mochilas y descansar un momento.
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-19:10 | 5m | TRAIN |
-(CLP 1.3M) Metro a Namba / Nagahoribashi.
-
-19:15 | 15m | BREAK |
-Caminar de regreso al hotel MIMARU Osaka Namba Station a dejar mochilas y descansar un momento.
-https://www.google.com/maps/dir/Nipponbashi+Station/MIMARU+Osaka+Namba+Station
-
-19:30 | 90m | FOOD |
+20:13 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
 https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
@@ -2646,65 +2618,63 @@ Esta opción (B) no incluye el Acuario Kaiyūkan: requiere ir al acuario el Día
 - Castillo de Himeji: desde mar-2026 cuesta ¥2.500 por adulto; última entrada 16:00. Sábado: mucha gente.
 Fuentes: [https://www.himejicastle.jp/en|Castillo de Himeji (oficial)]
 
-07:50 | 10m | WALK |
-Caminar de MIMARU Osaka Namba Station a la estación Namba (andenes de metro).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Namba+Station
+07:43 | 30m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
-08:00 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a Shin-Osaka.
-
-08:15 | 10m | WALK |
+08:13 | 12m | WALK |
 Caminar a andenes de Shinkansen.
 
-08:25 | 35m | TRAIN |
+08:25 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen a estación Himeji.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
-09:00 | 20m | WALK |
+09:05 | 24m | WALK |
 Caminar por avenida principal directa hacia el foso del castillo.
 
-09:20 | 100m | VISIT |
+09:29 | 100m | VISIT |
 Caminar, subir y recorrer el Castillo de Himeji (interior).
 https://www.google.com/maps/place/Himeji+Castle
 
-11:00 | 10m | WALK |
+11:09 | 12m | WALK |
 Caminar hacia el área colindante.
 
-11:10 | 60m | VISIT |
+11:21 | 60m | VISIT |
 Caminar por el jardín contiguo Kōko-en.
 https://www.google.com/maps/place/Koko-en
 
-12:10 | 20m | WALK |
+12:21 | 24m | WALK |
 Caminar de regreso a la zona comercial cercana a la estación.
 
-12:30 | 75m | FOOD |
+12:45 | 75m | FOOD |
 Almuerzo en zona Himeji.
 
 Option
 Ekisoba Himeji
 Fideos tradicionales rápidos en la misma estación.
 
-13:45 | 15m | WALK |
+14:00 | 18m | WALK |
 Caminar a andenes de tren.
 
-14:00 | 35m | TRAIN |
+14:18 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Himeji+Station/Shin-Osaka+Station
 
-14:35 | 10m | WALK |
+14:58 | 12m | WALK |
 Caminar a andenes de metro Midosuji.
 
-14:45 | 15m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Namba.
+15:10 | 25m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-15:00 | 10m | WALK |
-Caminar de manera pausada desde la estación Namba al hotel MIMARU Osaka Namba Station (6 min, 450m).
-https://www.google.com/maps/dir/Namba+Station/MIMARU+Osaka+Namba+Station
+15:35 | 5m | WALK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-15:10 | 230m | BREAK |
+15:40 | 230m | BREAK |
 Descanso o tiempo libre cerca del hotel (el acuario pasa al Día 29).
 
-19:00 | 90m | FOOD |
+19:30 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
 https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
@@ -2727,13 +2697,13 @@ Esta opción (A) incluye el Acuario Kaiyūkan, que se mueve desde el Día 28 (Hi
 
 @note
 ⚠️ Restricciones detectadas:
-- Probable día 1 del torneo de sumo de Osaka (Edion Arena, junto al hotel): más gente / opción de ir (confirmar fecha).
+- Probable día 1 del torneo de sumo de Osaka (Edion Arena, en Namba; ya no queda junto al hotel): más gente / opción de ir (confirmar fecha).
 - Cena de despedida requiere reserva.
 - Acuario Kaiyūkan: comprar la entrada con anticipación y confirmar el horario de cierre (domingo: más gente).
 
-10:25 | 5m | WALK |
-Caminar desde MIMARU Osaka Namba Station al Mercado Kuromon (a solo metros de distancia).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Kuromon+Market
+10:04 | 26m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro (Tanimachi Line + Sennichimae Line) hacia el Mercado Kuromon (Google Maps: 20 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Kuromon+Market,+Osaka
 
 10:30 | 120m | SHOP |
 Caminar y hacer compras en Mercado Kuromon.
@@ -2742,44 +2712,38 @@ https://www.google.com/maps/place/Kuromon+Market
 12:30 | 60m | FOOD |
 Almuerzo libre probando comida de los puestos del mercado (sashimi, atún, brochetas de carne asada).
 
-13:30 | 15m | WALK |
-Caminar al hotel MIMARU Osaka Namba Station para dejar compras.
+13:30 | 26m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (≈20 min puerta a puerta).
+https://www.google.com/maps/dir/Kuromon+Market,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-13:45 | 5m | WALK |
-Caminar a la estación Nipponbashi (metro).
+13:56 | 32m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line con transbordo a Chūō Line hasta Osakako (Google Maps: 26 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Osakako+Station
 
-13:50 | 25m | TRAIN |
-(CLP 1.4M) Metro Sakaisuji Line a Sakaisuji-Hommachi, combinación a Chūō Line directo a la estación Osakako.
-https://www.google.com/maps/dir/Nipponbashi+Station/Osakako+Station
-
-14:15 | 15m | WALK |
+14:28 | 18m | WALK |
 Caminar de la estación Osakako hacia el acuario.
 
-14:30 | 180m | VISIT |
+14:46 | 180m | VISIT |
 Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
 https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
-17:30 | 10m | WALK |
+17:46 | 12m | WALK |
 Caminar de regreso a estación Osakako.
 
-17:40 | 15m | TRAIN |
-(CLP 1.4M) Metro Chuo Line a Hommachi / Sakaisuji-Hommachi.
+17:58 | 27m | TRAIN |
+(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y transbordo a Tanimachi Line hasta Temmabashi (Google Maps: 26 min puerta a puerta con la caminata final).
+https://www.google.com/maps/dir/Osakako+Station/Temmabashi+Station,+Osaka
 
-17:55 | 5m | WALK |
-Caminar y cambiar a línea Midosuji / Sakaisuji.
+18:25 | 5m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-18:00 | 5m | TRAIN |
-(CLP 1.3M) Metro a Namba / Nagahoribashi.
+18:30 | 62m | HOTEL |
+Arreglar equipaje en el Hotel Keihan Tenmabashi Ekimae. [Acortado 28 min para absorber los colchones y mantener las reservas]
 
-18:05 | 10m | WALK |
-Caminar de regreso al hotel MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Nipponbashi+Station/MIMARU+Osaka+Namba+Station
-
-18:15 | 90m | HOTEL |
-Arreglar equipaje en el hotel MIMARU Osaka Namba Station.
-
-19:45 | 15m | WALK |
-Caminar al restaurante de celebración.
+19:32 | 28m | TRAIN |
+(CLP 1.4M) Metro hacia el restaurante de celebración (Matsusakagyu Yakiniku M, zona Namba/Dōtonbori; Google Maps ≈22 min puerta a puerta; verificar la dirección exacta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Matsusakagyu+Yakiniku+M
 
 20:00 | 90m | FOOD |
 Cena de despedida: Wagyu / Kobe beef a la parrilla.
@@ -2789,8 +2753,9 @@ Option
 Matsusakagyu Yakiniku M
 Salas privadas con parrilla en la mesa para cocinar los cortes al punto deseado.
 
-21:30 | 15m | WALK |
-Caminar de regreso al MIMARU Osaka Namba Station.
+21:30 | 28m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (≈22 min puerta a puerta).
+https://www.google.com/maps/dir/Matsusakagyu+Yakiniku+M/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
 option: B
@@ -2807,12 +2772,12 @@ Esta opción (B) no incluye el Acuario Kaiyūkan: elegirla solo si el acuario ya
 
 @note
 ⚠️ Restricciones detectadas:
-- Probable día 1 del torneo de sumo de Osaka (Edion Arena, junto al hotel): más gente / opción de ir (confirmar fecha).
+- Probable día 1 del torneo de sumo de Osaka (Edion Arena, en Namba; ya no queda junto al hotel): más gente / opción de ir (confirmar fecha).
 - Cena de despedida requiere reserva.
 
-10:15 | 5m | WALK |
-Caminar desde MIMARU Osaka Namba Station al Mercado Kuromon (a solo metros de distancia).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Kuromon+Market
+09:54 | 26m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro (Tanimachi Line + Sennichimae Line) hacia el Mercado Kuromon (Google Maps: 20 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Kuromon+Market,+Osaka
 
 10:30 | 120m | SHOP |
 Caminar y hacer compras en Mercado Kuromon.
@@ -2821,17 +2786,27 @@ https://www.google.com/maps/place/Kuromon+Market
 12:30 | 60m | FOOD |
 Almuerzo libre probando comida de los puestos del mercado (sashimi, atún, brochetas de carne asada).
 
-13:30 | 15m | WALK |
-Caminar al hotel MIMARU Osaka Namba Station para dejar compras.
+13:30 | 26m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (≈20 min puerta a puerta).
+https://www.google.com/maps/dir/Kuromon+Market,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
+
+14:32 | 28m | TRAIN |
+(CLP 1.4M) Metro de vuelta a Dōtonbori / Shinsaibashi para las últimas compras (Google Maps: 22 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
 
 15:00 | 180m | SHOP |
 Caminar libre la tarde para últimas compras en Dotonbori / Shinsaibashi.
 
-18:00 | 105m | HOTEL |
-Caminar al hotel MIMARU Osaka Namba Station para arreglar equipaje.
+18:00 | 28m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Dōtonbori / Shinsaibashi (≈22 min puerta a puerta).
+https://www.google.com/maps/dir/Dotonbori,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-19:45 | 15m | WALK |
-Caminar al restaurante de celebración.
+18:28 | 64m | HOTEL |
+Caminar al Hotel Keihan Tenmabashi Ekimae para arreglar equipaje. [Acortado 41 min para absorber los colchones y mantener las reservas]
+
+19:32 | 28m | TRAIN |
+(CLP 1.4M) Metro hacia el restaurante de celebración (Matsusakagyu Yakiniku M, zona Namba/Dōtonbori; Google Maps ≈22 min puerta a puerta; verificar la dirección exacta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Matsusakagyu+Yakiniku+M
 
 20:00 | 90m | FOOD |
 Cena de despedida: Wagyu / Kobe beef a la parrilla.
@@ -2841,8 +2816,9 @@ Option
 Matsusakagyu Yakiniku M
 Salas privadas con parrilla en la mesa para cocinar los cortes al punto deseado.
 
-21:30 | 15m | WALK |
-Caminar de regreso al MIMARU Osaka Namba Station.
+21:30 | 28m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (≈22 min puerta a puerta).
+https://www.google.com/maps/dir/Matsusakagyu+Yakiniku+M/Hotel+Keihan+Tenmabashi+Ekimae
 
 @section Chile
 title: BASE 5 — CHILE 
@@ -2867,37 +2843,37 @@ Desayuno en el hotel o cafetería cercana.
 09:00 | 30m | HOTEL |
 Checkout. Dejar Maletas en Hotel
 
-09:30 | 15m | WALK |
-Caminar desde MIMARU Osaka Namba Station directo a las tiendas principales de Den Den Town (Nipponbashi).
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Den+Den+Town
+09:30 | 29m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro hacia Den Den Town / Nipponbashi (Google Maps: 23 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Nipponbashi+Denden+Town
 
-09:45 | 195m | SHOP |
-Caminar explorando tiendas en Den Den Town (barrio otaku).
+09:59 | 111m | SHOP |
+Caminar explorando tiendas en Den Den Town (barrio otaku). [Termina 11:50 para volver al hotel por las maletas; la duración original (195 min) ya excedía el horario siguiente]
 https://www.google.com/maps/place/Den+Den+Town
 
 Option
 Udon o soba ligeros
 Por los callejones de Dotonbori.
 
-12:15 | 15m | WALK |
-Caminar desde Den Den Town a Hotel MIMARU Osaka Namba Station.
-https://www.google.com/maps/dir/Den+Den+Town/MIMARU+Osaka+Namba+Station
+11:50 | 29m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Den Den Town (≈23 min puerta a puerta).
+https://www.google.com/maps/dir/Nipponbashi+Denden+Town/Hotel+Keihan+Tenmabashi+Ekimae
 
-12:30 | 10m | HOTEL |
+12:19 | 10m | HOTEL |
 Retirar Maletas.
 
-12:40 | 20m | WALK |
-Caminar de manera pausada con el equipaje de las 5 personas desde MIMARU Osaka Namba Station a la estación Nankai Namba.
-https://www.google.com/maps/dir/MIMARU+Osaka+Namba+Station/Nankai+Namba+Station
+12:29 | 25m | TRAIN |
+(CLP 1.4M) Metro con el equipaje de las 5 personas desde el Hotel Keihan Tenmabashi Ekimae a la estación Nankai Namba (Google Maps: 19 min puerta a puerta).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Nankai+Namba+Station
 
-13:00 | 30m | WALK |
+12:54 | 36m | WALK |
 Caminar internamente en la estación Nankai Namba para comprar/retirar tickets en boleterías.
 
-13:30 | 90m | TRAIN |
+13:30 | 95m | TRAIN |
 (CLP 8.4M) Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios, abordando en Nankai Namba).
 https://www.google.com/maps/dir/Nankai+Namba+Station/Kansai+International+Airport
 
-15:00 | 180m | WALK |
+15:05 | 180m | WALK |
 Llegada al Aeropuerto Osaka KIX. Ingreso Maletas. Boarding 17:30
 https://www.google.com/maps/place/Kansai+International+Airport
 
