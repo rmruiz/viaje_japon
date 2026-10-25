@@ -1510,6 +1510,108 @@ Honke Owariya
 Fideos ligeros tradicionales.
 
 @day
+option: A
+stars: 5
+title: Fushimi Inari + Higashiyama
+steps: 14000
+summary: Fushimi Inari-taisha + Nintendo Museum (Uji) + Santuario Yasaka + Gion + Pontochō
+image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
+
+@note
+🎟️ Nintendo Museum: las entradas NO se venden en el museo; solo por sorteo en el sitio oficial.
+- Inscripción durante el mes que está 3 meses antes de la visita (ejemplo de la fuente: visitas de octubre se inscriben en julio y el resultado sale el 1 de agosto). Para el 3 de marzo de 2027 correspondería inscribirse en diciembre de 2026, con resultado a inicios de enero. Confirmar fechas exactas en el sitio oficial.
+- Se postula por fecha y franja horaria. Una inscripción por persona por mes. Reventa prohibida.
+- Precio: ¥3.300 adultos (18+), ¥2.200 (12–17 años), ¥1.100 (6–11 años).
+- Horario 10:00–20:00. Cerrado los martes (o miércoles si el martes es feriado). El 3 de marzo es miércoles.
+- Este horario asume ingreso cerca de las 11:30: ajustar según la franja que salga en el sorteo. Si no sale el sorteo para este día, usar la opción B.
+Fuentes: [https://www.japan-guide.com/e/e3982.html|Nintendo Museum (japan-guide)]
+
+@note
+Opción A vs B: la opción A cambia Kiyomizu-dera, Sannenzaka/Ninenzaka y la tienda de alquiler de Higashiyama por el Nintendo Museum. Se mantienen Fushimi Inari, Yasaka, Gion al atardecer y la cena en Pontochō. Traslados nuevos según Google Maps (consulta de un miércoles a las 10:30 y 14:30), con +20% en caminatas y +5 min en trenes.
+
+@note
+⚠️ Restricciones detectadas:
+- Gion: prohibido entrar y fotografiar en los callejones privados que salen de Hanamikoji (letreros con multa de hasta ¥10.000).
+Fuentes: [https://www.timeout.com/tokyo/news/kyotos-gion-geisha-district-bans-photos-on-private-streets-and-introduces-10-000-fine-102919|Prohibición en Gion (Time Out)]
+
+07:30 | 5m | WALK |
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
+
+07:35 | 5m | TRAIN |
+(CLP 1.3M) Subway Tozai Line a Sanjo Keihan.
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
+
+07:40 | 10m | TRAIN |
+(CLP 1.3M) Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
+https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
+
+07:50 | 10m | WALK |
+Caminar a la entrada principal.
+
+08:00 | 150m | VISIT |
+Visita Fushimi Inari-taisha (miles de torii rojos).
+https://www.google.com/maps/place/Fushimi+Inari+Taisha
+
+10:30 | 6m | WALK |
+Caminar a la estación JR Inari (frente a la entrada del santuario).
+https://www.google.com/maps/dir/Fushimi+Inari+Taisha/Inari+Station,+Kyoto
+
+10:36 | 29m | TRAIN |
+(Tarifa por confirmar) Tren JR Nara Line de Inari a Ogura (Google Maps: ≈34 min puerta a puerta hasta el museo).
+https://www.google.com/maps/dir/Inari+Station,+Kyoto/Ogura+Station,+Uji
+
+11:05 | 12m | WALK |
+Caminar de la estación JR Ogura al Nintendo Museum (≈10 min).
+https://www.google.com/maps/dir/Ogura+Station,+Uji/Nintendo+Museum,+Uji
+
+11:17 | 13m | WAIT |
+Margen para el ingreso con la entrada del sorteo (QR) y la franja horaria asignada.
+
+11:30 | 180m | VISIT |
+Visita al Nintendo Museum (historia de Nintendo, salas interactivas). Requiere entrada ganada en sorteo.
+https://www.google.com/maps/place/Nintendo+Museum,+Uji
+
+14:30 | 60m | FOOD |
+Almuerzo cerca de la estación Ogura (por definir).
+
+15:30 | 6m | WALK |
+Caminar a la estación Kintetsu Ogura (3-5 min desde el museo).
+https://www.google.com/maps/dir/Nintendo+Museum,+Uji/Kintetsu+Ogura+Station
+
+15:36 | 43m | TRAIN |
+(Tarifa por confirmar) Tren Kintetsu Kyoto Line a Tambabashi y transbordo a Keihan Main Line hasta Gion-Shijo (Google Maps: ≈50 min puerta a puerta del museo al Santuario Yasaka).
+https://www.google.com/maps/dir/Nintendo+Museum,+Uji/Yasaka+Shrine,+Kyoto
+
+16:19 | 9m | WALK |
+Caminar de la estación Gion-Shijo al Santuario Yasaka.
+https://www.google.com/maps/dir/Gion-Shijo+Station/Yasaka+Shrine
+
+16:28 | 45m | VISIT |
+Visita Santuario Yasaka.
+https://www.google.com/maps/place/Yasaka+Shrine
+
+17:13 | 72m | FREE |
+Tiempo libre en Gion (Hanamikoji / Shirakawa): café o descanso antes del atardecer.
+https://www.google.com/maps/place/Gion
+
+18:25 | 60m | PHOTO |
+Caminar explorando el barrio de Gion al atardecer.
+https://www.google.com/maps/place/Gion
+
+19:25 | 15m | WALK |
+Caminar hacia el río y callejón Pontocho.
+
+19:40 | 80m | FOOD |
+Cena Udón en Pontochō Alley.
+https://www.google.com/maps/place/Pontocho+Alley
+
+Option
+Okariba
+Estilo rústico, muy auténtico.
+
+@day
+option: B
 stars: 5
 title: Fushimi Inari + Higashiyama
 steps: 18000
