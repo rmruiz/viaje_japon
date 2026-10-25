@@ -1921,19 +1921,28 @@ image4: Santuario_Heian.png [Santuario Heian-jingu]
 Podemos sacar Nanzen-ji y el Santuario Heian, que son 105 minutos de visita más unos 25 de caminata entre ambos. Es más de lo mismo y dejamos un día más descanzado
 
 @note
+🍵 Ceremonia del té con kimono — MAIKOYA Nishiki (Kimono & Tea Ceremony Near Nishiki Market):
+- Dirección: 329 Ebiyacho, Gokomachi-dori Sanjo-sagaru, Nakagyo-ku (a 7 min a pie de Kawaramachi, Hankyu).
+- Precio: ¥7.700 por persona; ¥9.240 en temporada alta (impuestos incluidos). Para 5 personas: ¥38.500 a ¥46.200. El precio exacto aparece al elegir fecha en el calendario.
+- Sesión grupal compartida en inglés, aprox. 90 min incluyendo vestirse. La ceremonia parte unos 30 min después de llegar. Edad mínima 7 años.
+- Se elige el kimono al llegar y se puede pasear con él hasta las 18:00.
+- Reservar: [https://mai-ko.com/tour/tea-ceremony-and-kimono-experience-kyoto/|Kimono & Tea Ceremony Near Nishiki Market (mai-ko.com)]. Cancelación: [https://mai-ko.com/maiko-blog/tea-ceremony/kimono-tea-ceremony-kyoto-maikoya-cancellation/|Política de cancelación]. Contacto: nishiki@maikoya.com
+- Las franjas horarias no están publicadas: elegir la más cercana a la hora del plan (15:15).
+
+@note
 ⚠️ Restricciones detectadas:
-- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té requiere reserva. Sábado: mucha gente.
+- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té (MAIKOYA Nishiki) requiere reserva; kimono se devuelve antes de las 18:00. Sábado: mucha gente.
 
-08:45 | 5m | WALK |
-Caminar a la parada de bus en Karasuma Oike.
-https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
+08:29 | 12m | WALK |
+Caminar a la parada de bus Shijo Nishinotoin (Google Maps: 10 min, 700 m).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Nishinotoin+Bus+Stop
 
-08:50 | 30m | BUS |
-(CLP 1.3M) Bus (línea 5) a la parada Ginkakuji-michi.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/Ginkaku-ji
+08:41 | 38m | BUS |
+(¥230) Bus urbano línea 203 de Shijo Nishinotoin a Ginkakuji-michi (Google Maps: 33 min, 18 paradas; 52 min puerta a puerta).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Ginkaku-ji
 
-09:25 | 5m | WALK |
-Caminar a entrada.
+09:19 | 11m | WALK |
+Caminar de la parada Ginkakuji-michi a la entrada (Google Maps: 9 min, 600 m).
 
 09:30 | 60m | VISIT |
 Visita Ginkaku-ji (Pabellón de Plata, ~4 USD).
@@ -1953,14 +1962,19 @@ Caminar hacia el siguiente complejo.
 Visita complejo Nanzen-ji.
 https://www.google.com/maps/place/Nanzen-ji
 
-12:30 | 15m | WALK |
-Caminar hacia el santuario gigante.
+12:30 | 20m | WALK |
+Caminar hacia el Santuario Heian (Google Maps: 16 min, 1,2 km).
+https://www.google.com/maps/dir/Nanzen-ji/Heian+Shrine
 
-12:45 | 45m | VISIT |
+12:50 | 45m | VISIT |
 Visita Santuario Heian (~4 USD).
 https://www.google.com/maps/place/Heian+Shrine
 
-13:30 | 60m | FOOD |
+13:35 | 5m | WALK |
+Caminar a Yamamoto Menzou (Google Maps: 4 min, 290 m).
+https://www.google.com/maps/dir/Heian+Shrine/Yamamoto+Menzou,+Kyoto
+
+13:40 | 60m | FOOD |
 Almuerzo en área Okazaki.
 https://www.google.com/maps/place/Yamamoto+Menzou
 
@@ -1968,23 +1982,33 @@ Option
 Yamamoto Menzou
 Udon legendario.
 
-14:30 | 15m | WALK |
-Caminar a casa de té.
+14:40 | 4m | WALK |
+Caminar a la parada Okazaki Koen / Dobutsuen-mae (Google Maps: 3 min).
 
-14:45 | 90m | VISIT |
-Ceremonia del té en casa tradicional.
-https://www.google.com/maps/search/Tea+Ceremony+Kyoto
+14:44 | 18m | BUS |
+(¥230) Bus urbano línea 5 hacia el centro (Google Maps: 21 min puerta a puerta hasta MAIKOYA Nishiki; caminando son 31 min, 2,3 km).
+https://www.google.com/maps/dir/Yamamoto+Menzou,+Kyoto/Kimono+Tea+Ceremony+MAIKOYA+Nishiki
 
-16:15 | 20m | WALK |
-Caminar a estación de metro Higashiyama.
+15:02 | 6m | WALK |
+Caminar de la parada a MAIKOYA Nishiki (329 Ebiyacho, Gokomachi-dori Sanjo-sagaru).
 
-16:35 | 6m | TRAIN |
-(CLP 1.3M) Metro Tozai Line a Karasuma Oike.
-https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
+15:08 | 7m | WAIT |
+Margen antes de la franja reservada.
 
-16:41 | 169m | BREAK |
-Caminar de la estación al MIMARU Kyoto Shinmachi Sanjo a descansar.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/MIMARU+Kyoto+Shinmachi+Sanjo
+15:15 | 90m | VISIT |
+(¥7.700 p/p; ¥9.240 en temporada alta) Ceremonia del té con kimono en MAIKOYA Nishiki (90 min incluyendo vestirse; la ceremonia parte ~30 min después de llegar). Requiere reserva.
+https://mai-ko.com/tour/tea-ceremony-and-kimono-experience-kyoto/
+
+16:45 | 60m | FREE |
+Opcional: pasear en kimono por Nishiki / Teramachi. El kimono se devuelve en MAIKOYA antes de las 18:00.
+https://www.google.com/maps/place/Nishiki+Market
+
+17:45 | 18m | WALK |
+Caminar de MAIKOYA Nishiki al MIMARU Kyoto Shinmachi Sanjo (Google Maps: 15 min, 1,1 km).
+https://www.google.com/maps/dir/Kimono+Tea+Ceremony+MAIKOYA+Nishiki/MIMARU+Kyoto+Shinmachi+Sanjo
+
+18:03 | 87m | BREAK |
+Descanso en el hotel.
 
 19:30 | 10m | WALK |
 Caminar a restaurante.
@@ -2011,45 +2035,55 @@ image3: Templo_Nanzenji.png [Templo Zen Nanzen-ji]
 Versión corta: se salta Nanzen-ji (solo el acueducto, como parada de fotos opcional) y el Santuario Heian. Se mantiene la salida temprano para llegar a Ginkaku-ji antes de las multitudes del sábado y se vuelve al hotel a media tarde para descansar.
 
 @note
-La ceremonia del té requiere reserva: pedir el horario de las 13:30 y confirmar que la casa esté en Higashiyama u Okazaki (cerca de la ruta).
+La ceremonia del té requiere reserva: se hace en MAIKOYA Nishiki (centro, de camino al hotel). Pedir la franja de las 14:00.
+
+@note
+🍵 Ceremonia del té con kimono — MAIKOYA Nishiki (Kimono & Tea Ceremony Near Nishiki Market):
+- Dirección: 329 Ebiyacho, Gokomachi-dori Sanjo-sagaru, Nakagyo-ku (a 7 min a pie de Kawaramachi, Hankyu).
+- Precio: ¥7.700 por persona; ¥9.240 en temporada alta (impuestos incluidos). Para 5 personas: ¥38.500 a ¥46.200. El precio exacto aparece al elegir fecha en el calendario.
+- Sesión grupal compartida en inglés, aprox. 90 min incluyendo vestirse. La ceremonia parte unos 30 min después de llegar. Edad mínima 7 años.
+- Se elige el kimono al llegar y se puede pasear con él hasta las 18:00.
+- Reservar: [https://mai-ko.com/tour/tea-ceremony-and-kimono-experience-kyoto/|Kimono & Tea Ceremony Near Nishiki Market (mai-ko.com)]. Cancelación: [https://mai-ko.com/maiko-blog/tea-ceremony/kimono-tea-ceremony-kyoto-maikoya-cancellation/|Política de cancelación]. Contacto: nishiki@maikoya.com
+- Las franjas horarias no están publicadas: elegir la más cercana a la hora del plan (14:00).
 
 @note
 ⚠️ Restricciones detectadas:
-- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té requiere reserva. Sábado: mucha gente.
+- Ginkaku-ji en marzo: 8:30–17:00. Ceremonia del té (MAIKOYA Nishiki) requiere reserva; kimono se devuelve antes de las 18:00. Sábado: mucha gente.
 
-08:45 | 5m | WALK |
-Caminar a la parada de bus en Karasuma Oike.
-https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
+08:29 | 12m | WALK |
+Caminar a la parada de bus Shijo Nishinotoin (Google Maps: 10 min, 700 m).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Nishinotoin+Bus+Stop
 
-08:50 | 30m | BUS |
-(CLP 1.3M) Bus (línea 5) a la parada Ginkakuji-michi.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/Ginkaku-ji
+08:41 | 38m | BUS |
+(¥230) Bus urbano línea 203 de Shijo Nishinotoin a Ginkakuji-michi (Google Maps: 33 min, 18 paradas; 52 min puerta a puerta).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Ginkaku-ji
 
-09:20 | 5m | WALK |
-Caminar a entrada.
+09:19 | 11m | WALK |
+Caminar de la parada Ginkakuji-michi a la entrada (Google Maps: 9 min, 600 m).
 
-09:25 | 60m | VISIT |
+09:30 | 60m | VISIT |
 Visita Ginkaku-ji (Pabellón de Plata, ~4 USD). Abre a las 8:30: llegar temprano evita las multitudes del sábado.
 https://www.google.com/maps/place/Ginkaku-ji
 
-10:25 | 5m | WALK |
+10:30 | 5m | WALK |
 Caminar al inicio del sendero del canal.
 
-10:30 | 45m | WALK |
-Caminar por el Paseo de la Filosofía.
+10:35 | 45m | WALK |
+Caminar por el Paseo de la Filosofía (Google Maps: 27 min, 2,0 km de Ginkaku-ji a Nanzen-ji; el resto es paseo).
 https://www.google.com/maps/place/Philosopher's+Path
 
-11:15 | 10m | WALK |
+11:20 | 10m | WALK |
 Caminar hacia el acueducto de Nanzen-ji (Suirokaku).
 
-11:25 | 25m | PHOTO |
+11:30 | 25m | PHOTO |
 Acueducto Suirokaku de Nanzen-ji: parada de fotos de unos 20 minutos, sin entrar al templo (opcional).
 https://www.google.com/maps/place/Nanzen-ji+Aqueduct+Suirokaku
 
-11:50 | 10m | WALK |
-Caminar al área de Okazaki.
+11:55 | 20m | WALK |
+Caminar al área de Okazaki (Google Maps: 16 min, 1,2 km).
+https://www.google.com/maps/dir/Suirokaku+Aqueduct,+Kyoto/Yamamoto+Menzou,+Kyoto
 
-12:00 | 60m | FOOD |
+12:15 | 60m | FOOD |
 Almuerzo en área Okazaki, antes de la hora punta del sábado.
 https://www.google.com/maps/place/Yamamoto+Menzou
 
@@ -2057,23 +2091,29 @@ Option
 Yamamoto Menzou
 Udon legendario.
 
-13:00 | 30m | WALK |
-Caminar a casa de té (con margen para llegar a la hora reservada).
+13:15 | 4m | WALK |
+Caminar a la parada Okazaki Koen / Dobutsuen-mae (Google Maps: 3 min).
 
-13:30 | 90m | VISIT |
-Ceremonia del té en casa tradicional.
-https://www.google.com/maps/search/Tea+Ceremony+Kyoto
+13:19 | 18m | BUS |
+(¥230) Bus urbano línea 5 hacia el centro (Google Maps: 21 min puerta a puerta hasta MAIKOYA Nishiki; caminando son 31 min, 2,3 km).
+https://www.google.com/maps/dir/Yamamoto+Menzou,+Kyoto/Kimono+Tea+Ceremony+MAIKOYA+Nishiki
 
-15:00 | 20m | WALK |
-Caminar a estación de metro Higashiyama.
+13:37 | 6m | WALK |
+Caminar de la parada a MAIKOYA Nishiki (329 Ebiyacho, Gokomachi-dori Sanjo-sagaru).
 
-15:20 | 6m | TRAIN |
-(CLP 1.3M) Metro Tozai Line a Karasuma Oike.
-https://www.google.com/maps/dir/Higashiyama+Station/Karasuma-Oike+Station
+13:43 | 17m | WAIT |
+Margen antes de la franja reservada.
 
-15:26 | 244m | BREAK |
-Caminar de la estación al MIMARU Kyoto Shinmachi Sanjo y descansar toda la tarde.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/MIMARU+Kyoto+Shinmachi+Sanjo
+14:00 | 90m | VISIT |
+(¥7.700 p/p; ¥9.240 en temporada alta) Ceremonia del té con kimono en MAIKOYA Nishiki (90 min incluyendo vestirse; la ceremonia parte ~30 min después de llegar). Requiere reserva.
+https://mai-ko.com/tour/tea-ceremony-and-kimono-experience-kyoto/
+
+15:30 | 18m | WALK |
+Caminar de MAIKOYA Nishiki al MIMARU Kyoto Shinmachi Sanjo (Google Maps: 15 min, 1,1 km).
+https://www.google.com/maps/dir/Kimono+Tea+Ceremony+MAIKOYA+Nishiki/MIMARU+Kyoto+Shinmachi+Sanjo
+
+15:48 | 222m | BREAK |
+Descansar en el hotel toda la tarde.
 
 19:30 | 10m | WALK |
 Caminar a restaurante.
