@@ -1797,71 +1797,107 @@ Gyozas gourmet en un local acogedor en el barrio de Gion.
 stars: 5
 title: Pabellón de Oro + centro
 steps: 15000
-summary: Kinkaku-ji + Ryōan-ji + Castillo Nijō + Mercado Nishiki
+summary: Kinkaku-ji + Ryōan-ji + Castillo Nijō + Mercado Nishiki + Samurai & Ninja Museum
 image1: Templo_Kinkakuji.png [Templo Kinkaku-ji (Pabellón de Oro)]
 image2: Jardinsen_Ryoanji.png [Jardín de Rocas Zen del Templo Ryoan-ji]
 image3: Castillo_Nijo.png [Castillo de Nijo]
 image4: Mercado_Nishiki.png [Mercado de Comida Nishiki Market]
+image5: Samurai_Ninja_Museum.jpg [Samurai & Ninja Museum Kyoto]
 
 @note
 ⚠️ Restricciones detectadas:
 - Castillo Nijō: 8:45–17:00 (última entrada 16:00); solo cierra martes en ene/jul/ago/dic. Mercado Nishiki: tiendas cierran ~17:00–18:00. Sin conflicto.
+- Samurai & Ninja Museum: entrada básica de 60 min (experiencia + visita al museo) con franjas cada 30 minutos; se usa la de 17:30 para salir directo a la cena. Tiendas de Nishiki cierran ~17:00–18:00 (por eso las compras van antes del descanso).
 
-08:00 | 5m | WALK |
-Caminar a la parada de bus en Shijo Karasuma.
-https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shijo+Karasuma+Bus+Stop
+@note
+🥷 Samurai & Ninja Museum Kyoto (entrada básica, franja 17:30, 60 min):
+- Precio: ¥3.000 por persona (¥15.000 para 5 personas).
+- Comprar y reservar la visita: [https://mai-ko.com/samurai/|Samurai & Ninja Museum Kyoto (sitio oficial)] · [https://mai-ko.com/tour/samurai-experience-kyoto-samurai-museum-tour-and-armor-trial/|Reserva de entradas (mai-ko.com)]
+- Dirección: 109 Horinouechō, Nakagyo-ku (4 min a pie del Mercado Nishiki, 290 m según Google Maps).
+- Llegar unos 10 minutos antes para el check-in. Contacto: kyoto.samurai@maikoya.com
 
-08:05 | 45m | BUS |
-(CLP 1.3M) Bus (línea 12) a la parada Kinkakuji-michi.
-https://www.google.com/maps/dir/Shijo+Karasuma+Bus+Stop/Kinkaku-ji
+08:17 | 5m | WALK |
+Caminar a la parada de bus Shinmachi Oike (Google Maps: 4 min, 230 m).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Shinmachi+Oike+Bus+Stop
 
-08:55 | 5m | WALK |
-Caminar a entrada de Kinkaku-ji.
+08:22 | 28m | BUS |
+(¥230) Bus urbano línea 15 de Shinmachi Oike a la parada Sakuragicho (Google Maps: 23 min, 14 paradas; 35 min puerta a puerta).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kinkaku-ji
+
+08:50 | 10m | WALK |
+Caminar de la parada Sakuragicho a la entrada de Kinkaku-ji (Google Maps: 8 min, 600 m).
 
 09:00 | 60m | VISIT |
 Visita Kinkaku-ji (Pabellón de Oro, ~4 USD).
 https://www.google.com/maps/place/Kinkaku-ji
 
-10:00 | 20m | WALK |
-Caminar hacia templo vecino Ryōan-ji.
+10:00 | 22m | WALK |
+Caminar hacia templo vecino Ryōan-ji (Google Maps: 18 min, 1,4 km por Kinukake-no-michi).
+https://www.google.com/maps/dir/Kinkaku-ji/Ryoan-ji
 
-10:20 | 60m | VISIT |
+10:22 | 60m | VISIT |
 Visita Ryōan-ji (jardín zen, ~3 USD).
 https://www.google.com/maps/place/Ryoan-ji
 
-11:20 | 5m | WALK |
-Caminar a paradero Ryoanji-mae.
+11:22 | 10m | WALK |
+Caminar a la parada Ritsumeikan Daigaku-mae (Google Maps: 8 min, 550 m).
 
-11:25 | 20m | BUS |
-(CLP 1.3M) Bus local (línea 50 o 12) a parada Nijojo-mae.
+11:32 | 27m | BUS |
+(¥230) Bus urbano línea 15 de Ritsumeikan Daigaku-mae a Horikawa Oike (Google Maps: 22 min, 14 paradas; 34 min puerta a puerta).
+https://www.google.com/maps/dir/Ryoan-ji/Nijo+Castle
 
-11:45 | 5m | WALK |
-Caminar a entrada del castillo.
+11:59 | 5m | WALK |
+Caminar de la parada Horikawa Oike a la entrada del castillo (Google Maps: 4 min, 300 m).
 
-11:50 | 90m | VISIT |
+12:04 | 90m | VISIT |
 Visita Castillo Nijō (residencia shogunal, suelos ruiseñor, ~4 USD).
 https://www.google.com/maps/place/Nijo+Castle
 
-13:20 | 15m | WALK |
-Caminar a estación de metro Nijojo-mae.
+13:34 | 9m | WALK |
+Caminar a la estación de metro Nijojo-mae (Google Maps: 7 min).
 
-13:35 | 5m | TRAIN |
-(CLP 1.3M) Metro Tozai Line a estación Kyoto Shiyakusho-mae.
+13:43 | 7m | TRAIN |
+(¥220) Metro Tozai Line de Nijojo-mae a Kyoto Shiyakusho-mae (2 paradas; Google Maps: 22 min puerta a puerta del castillo al Mercado Nishiki, 20 de ellos caminando).
+https://www.google.com/maps/dir/Nijo+Castle/Nishiki+Market,+Kyoto
 
-13:40 | 10m | WALK |
-Caminar hacia mercado cubierto.
+13:50 | 16m | WALK |
+Caminar de la estación Kyoto Shiyakusho-mae al mercado cubierto Nishiki (Google Maps: 13 min).
 
-13:50 | 100m | FOOD |
+14:06 | 100m | FOOD |
 Almuerzo y caminata por Mercado Nishiki.
 https://www.google.com/maps/place/Nishiki+Market
 
-15:30 | 210m | BREAK |
-Caminar al hospedaje a descansar.
+15:46 | 17m | WALK |
+Caminar del Mercado Nishiki al MIMARU Kyoto Shinmachi Sanjo (Google Maps: 14 min, 1,0 km).
+https://www.google.com/maps/dir/Nishiki+Market,+Kyoto/MIMARU+Kyoto+Shinmachi+Sanjo
 
-19:00 | 10m | WALK |
-Caminar a restaurante de la zona.
+16:03 | 62m | BREAK |
+Descanso en el hotel y dejar compras.
 
-19:10 | 80m | FOOD |
+17:05 | 15m | WALK |
+Caminar del MIMARU Kyoto Shinmachi Sanjo al Samurai & Ninja Museum (Google Maps: 12 min, 850 m).
+https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Samurai+%26+Ninja+Museum+Kyoto
+
+17:20 | 10m | WAIT |
+Check-in en el museo (llegar 10 min antes de la franja).
+
+17:30 | 60m | VISIT |
+(¥3.000 p/p) Samurai & Ninja Museum: entrada básica con experiencia y visita guiada al museo (60 min, franja 17:30). Reservar en línea.
+https://www.google.com/maps/place/Samurai+%26+Ninja+Museum+Kyoto
+
+18:30 | 11m | WALK |
+Caminar del museo a la estación Karasuma Oike (Google Maps: 9 min).
+https://www.google.com/maps/dir/Samurai+%26+Ninja+Museum+Kyoto/Karasuma-Oike+Station
+
+18:41 | 10m | TRAIN |
+(¥220) Metro Karasuma Line de Karasuma Oike a Kyoto Station (Google Maps: 5 min de viaje; 18 min puerta a puerta del museo al restaurante).
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Kyoto+Station
+
+18:51 | 5m | WALK |
+Caminar de la estación a Kushikatsu Daruma (Kyoto Porta, subterráneo de la estación de Kioto; Google Maps: 4 min).
+https://www.google.com/maps/dir/Kyoto+Station/Kushikatsu+Daruma+Kyoto
+
+19:00 | 80m | FOOD |
 Cena Kushikatsu.
 https://www.google.com/maps/place/Kushikatsu+Daruma+Kyoto
 
