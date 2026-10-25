@@ -38,9 +38,9 @@ section: Osaka
 Kioto → Osaka
 Osaka urbano
 Universal Studios Japan
-Excursión a Nara
 Castillo de Osaka y Umeda
 Hiroshima y Miyajima
+Excursión a Nara
 Excursión a Himeji
 Kuromon y despedida
 
@@ -910,12 +910,6 @@ https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
 @note
 Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en la mañana apenas lleguen a Kawaguchiko.
-
-@note
-De acuerdo con las predicciones oficiales de las tablas de mareas para Miyajima el 12 de marzo, el comportamiento del mar será el siguiente:
-• 11:21 AM: Marea alta máxima (** Pleamar**) con 300 cm (9.8 ft). Momento ideal para verlo flotando.
-• 03:00 PM: La marea estará en pleno retroceso, midiendo aproximadamente 140 cm y bajando rápido.
-• 05:40 PM: Marea baja máxima (Bajamar) con apenas 51 cm (1.7 ft). Perfecto para caminar sobre la arena y tocar los pilares.
 
 @note
 ⚠️ Restricciones detectadas:
@@ -2395,6 +2389,12 @@ image1: Cupula.png [Cúpula de la Bomba Atómica en Hiroshima]
 image2: Ferry_Miyajima.png [Ferry hacia la Isla de Miyajima]
 image3: Itsukushima.png [Gran Torii Flotante de Itsukushima]
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
+
+@note
+De acuerdo con las predicciones de las tablas de mareas para Miyajima el 11 de marzo, el comportamiento del mar será el siguiente:
+• 10:58 AM: Marea alta máxima (** Pleamar**) con aprox. 308 cm (10.1 ft). Momento ideal para verlo flotando.
+• 03:00 PM: La marea estará en retroceso, bajando desde la pleamar (la fuente consultada no entrega la altura exacta a esta hora).
+• 05:10 PM: Marea baja máxima (Bajamar) con apenas aprox. 52 cm (1.7 ft). Perfecto para caminar sobre la arena y tocar los pilares.
 
 @note
 ⚠️ Restricciones detectadas:
