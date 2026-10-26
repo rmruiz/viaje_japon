@@ -108,28 +108,28 @@ Los Jardines Hamárikyū es poco importante, si estamos cansados podemos saltarn
 - FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
 - Jardines Hamárikyū: 9:00–17:00.
 
-08:14 | 11m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (acceso Línea Marunouchi). Google Maps: 9 min.
+08:21 | 11m | WALK |
+Caminar del HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (Marunouchi Line) (Google Maps: 9 min, 600 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:25 | 29m | TRAIN |
-(CLP 1M) Metro Marunouchi Line con transbordo a Ginza Line hasta la zona de Shiodome (Google Maps: 33 min puerta a puerta desde el hotel; la ruta anterior por Oedo ahora toma ~47 min).
-https://www.google.com/maps/dir/Shinjuku+Station/Shiodome+Station
+08:32 | 22m | TRAIN |
+(CLP 1M) Metro Marunouchi Line de Shinjuku a Akasaka-mitsuke y transbordo a Ginza Line hasta Shimbashi (Google Maps: 35 min puerta a puerta, ¥420).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Hamarikyu+Gardens
 
-08:54 | 18m | WALK |
-Caminar a los jardines.
-https://www.google.com/maps/dir/Shiodome+Station/Hamarikyu+Gardens
+08:54 | 6m | WALK |
+Caminar de Shimbashi a los jardines Hamárikyū (Google Maps: ≈5 min).
+https://www.google.com/maps/dir/Shimbashi+Station/Hamarikyu+Gardens
 
-09:12 | 90m | VISIT |
+09:00 | 90m | VISIT |
 Jardines Hamárikyū (~2 USD). Floración de nanohana y casa de té Nakajima.
 https://www.google.com/maps/place/Hamarikyu+Gardens
 
-10:42 | 18m | WALK |
-Caminar a estación Shiodome.
+10:30 | 11m | WALK |
+Caminar a la estación Shiodome (Google Maps: 9 min, 500 m).
 https://www.google.com/maps/dir/Hamarikyu+Gardens/Shiodome+Station
 
-11:00 | 15m | TRAIN |
-(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
+10:41 | 34m | TRAIN |
+(CLP 2.3M) Monorriel Yurikamome de Shiodome a Shin-Toyosu (Google Maps: 29 min, 13 paradas; alternativa bus 01 desde Hamarikyu-mae, 26 min).
 https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
 
 11:15 | 120m | VISIT |
@@ -147,37 +147,38 @@ Option
 Citabria Baypark Grill & Bar
 https://maps.app.goo.gl/JFomQALv9eVhYEuw6
 
-14:45 | 30m | TRAIN |
-Tren a la Estatua de la Libertad
-https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
+14:45 | 25m | TRAIN |
+Monorriel Yurikamome de Shin-Toyosu a Daiba y caminar a la Estatua de la Libertad (Google Maps: 19 min, ¥330).
+https://www.google.com/maps/dir/teamLab+Planets+TOKYO/Statue+of+Liberty+Odaiba
 
-15:15 | 30m | VISIT |
+15:10 | 30m | VISIT |
 Caminar por Odaiba Statue of Liberty japonesa frente al mar.
 https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
 
-15:45 | 36m | WALK |
-Camina al DiverCity Tokyo Plaza
+15:40 | 10m | WALK |
+Caminar al DiverCity Tokyo Plaza (Google Maps: 8 min, 550 m).
 https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
 
-16:21 | 60m | VISIT |
+15:50 | 60m | VISIT |
 Camina al DiverCity Tokyo Plaza
 https://maps.app.goo.gl/iihYD7tmb9oVE62JA
 
-17:21 | 90m | FOOD |
+16:50 | 90m | FOOD |
 Cena Tendon (bol de arroz cubierto de tempura).
 Kaneko Hannosuke Odaiba
 El tendon más famoso de la ciudad (en Aqua City).
 https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
 
-18:51 | 50m | TRAIN |
-Camina a la estación Tokyo Teleport Station
+18:20 | 38m | TRAIN |
+Caminar a la estación Tokyo Teleport (8 min) y tren Rinkai Line, que sigue como Saikyo Line, directo a Shinjuku (Google Maps: 46 min puerta a puerta, ¥550).
+https://www.google.com/maps/dir/DiverCity+Tokyo+Plaza/HOTEL+AMANEK+Shinjuku+Kabukicho
 Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
 1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
 2 (Saikyo Line - Kawagoe - 3 paradas)
 https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
 
-19:41 | 9m | WALK |
-Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (directo; ya no se necesita el transbordo por Marunouchi Line).
+18:58 | 14m | WALK |
+Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min, 900 m).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
@@ -202,20 +203,20 @@ Versión tranquila: se salta Jardines Hamárikyū (abren a las 9:00 y obligan a 
 - FERIADO (Cumpleaños del Emperador): más gente; teamLab probablemente con tarifa de feriado y horario reservado.
 - teamLab Planets: reservar la franja más temprana posible (feriado). Se camina descalzo y con agua hasta las rodillas.
 
-10:18 | 11m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (acceso Línea Marunouchi). Google Maps: 9 min.
-https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
+10:37 | 16m | WALK |
+Caminar del HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku-sanchome (Google Maps: 13 min, 800 m).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku-sanchome+Station
 
-10:29 | 29m | TRAIN |
-(CLP 1M) Metro Marunouchi Line con transbordo a Ginza Line hasta la zona de Shiodome (Google Maps: 33 min puerta a puerta desde el hotel; la ruta anterior por Oedo ahora toma ~47 min).
-https://www.google.com/maps/dir/Shinjuku+Station/Shiodome+Station
+10:53 | 26m | TRAIN |
+(CLP 1M) Metro Toei Shinjuku Line a Ichigaya y transbordo a Yurakucho Line hasta Toyosu (Google Maps: 46 min puerta a puerta, ¥510).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/teamLab+Planets+TOKYO
 
-10:58 | 12m | WALK |
-Cambiar al monorriel Yurikamome en la estación Shiodome.
+11:19 | 5m | WALK |
+Cambiar al monorriel Yurikamome en la estación Toyosu.
 
-11:10 | 20m | TRAIN |
-(CLP 2.3M) Monorriel Yurikamome hacia estación Shin-Toyosu.
-https://www.google.com/maps/dir/Shiodome+Station/Shin-Toyosu+Station
+11:24 | 6m | TRAIN |
+(CLP 2.3M) Monorriel Yurikamome de Toyosu a Shin-Toyosu (1 parada).
+https://www.google.com/maps/dir/Toyosu+Station/Shin-Toyosu+Station
 
 11:30 | 120m | VISIT |
 teamLab Planets (Toyosu) — Inmersión sensorial interactiva (franja reservada). Llevar pantalones cortos o que se puedan arremangar hasta la rodilla (se camina descalzo y con agua). Hay lockers.
@@ -232,40 +233,41 @@ Option
 Citabria Baypark Grill & Bar
 https://maps.app.goo.gl/JFomQALv9eVhYEuw6
 
-14:45 | 30m | TRAIN |
-Tren a la Estatua de la Libertad
-https://www.google.com/maps/dir/Teamlabs+Planet/Statue+of+Liberty+Tokyo
+14:45 | 25m | TRAIN |
+Monorriel Yurikamome de Shin-Toyosu a Daiba y caminar a la Estatua de la Libertad (Google Maps: 19 min, ¥330).
+https://www.google.com/maps/dir/teamLab+Planets+TOKYO/Statue+of+Liberty+Odaiba
 
-15:15 | 15m | VISIT |
+15:10 | 15m | VISIT |
 Odaiba Statue of Liberty japonesa frente al mar: parada de fotos de 10–15 minutos.
 https://maps.app.goo.gl/h9XqCAy32AyBnoEA9
 
-15:30 | 12m | WALK |
-Camina al DiverCity Tokyo Plaza
+15:25 | 10m | WALK |
+Camina al DiverCity Tokyo Plaza (Google Maps: 8 min, 550 m).
 https://www.google.com/maps/dir/Statue+of+Liberty+Tokyo/DiverCity+Tokyo+Plaza
 
-15:42 | 85m | VISIT |
+15:35 | 85m | VISIT |
 DiverCity Tokyo Plaza: Unicorn Gundam a tamaño real y tiendas. Revisar los horarios del show de transformación y de la iluminación.
 https://maps.app.goo.gl/iihYD7tmb9oVE62JA
 
-17:07 | 75m | FOOD |
+17:00 | 75m | FOOD |
 Cena Tendon (bol de arroz cubierto de tempura).
 Kaneko Hannosuke Odaiba
 El tendon más famoso de la ciudad (en Aqua City).
 https://maps.app.goo.gl/8g3BjsVQvxLiWuZf9
 
-18:22 | 25m | PHOTO |
+18:15 | 25m | PHOTO |
 (Opcional) Volver a ver el Unicorn Gundam de noche. Si están cansadas, saltar este bloque y tomar el tren antes.
 
-18:47 | 50m | TRAIN |
-Camina a la estación Tokyo Teleport Station
+18:40 | 38m | TRAIN |
+Caminar a la estación Tokyo Teleport (8 min) y tren Rinkai Line, que sigue como Saikyo Line, directo a Shinjuku (Google Maps: 46 min puerta a puerta, ¥550).
+https://www.google.com/maps/dir/DiverCity+Tokyo+Plaza/HOTEL+AMANEK+Shinjuku+Kabukicho
 Tren desde Tokyo Teleport Station hacia Estación de Shinjuku
 1 (Rinkai Line - Rapid Kawagoe - 4 estaciones) 
 2 (Saikyo Line - Kawagoe - 3 paradas)
 https://maps.app.goo.gl/Hdrq99s7AkPHbpBe8
 
-19:37 | 9m | WALK |
-Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (directo; ya no se necesita el transbordo por Marunouchi Line).
+19:18 | 14m | WALK |
+Caminar de la estación Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min, 900 m).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
@@ -286,7 +288,7 @@ image4: Omoide_Yokocho.png [Callejón de Comidas Omoide Yokocho]
 Fuentes: [https://tokyocheapo.com/place/shinjuku-gyoen-national-garden/|Shinjuku Gyoen (Tokyo Cheapo)] · [https://www.gotokyo.org/en/spot/74/|Miradores Gobierno Metropolitano (GO TOKYO)]
 
 09:20 | 20m | WALK |
-Caminar desde el HOTEL AMANEK Shinjuku Kabukicho hacia el parque Shinjuku Gyoen. Google Maps: 16 min.
+Caminar desde el HOTEL AMANEK Shinjuku Kabukicho hacia el parque Shinjuku Gyoen (Google Maps: 16 min, 1,1 km).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Gyoen+National+Garden
 
 10:00 | 180m | VISIT |
@@ -329,8 +331,8 @@ Option
 Torikizoku Shinjuku
 Yakitori y brocheta de pollo sentado cómodo (a pasos del callejón).
 
-21:00 | 14m | WALK |
-Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho (≈11 min desde Omoide Yokochō según Google Maps).
+21:00 | 12m | WALK |
+Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 10 min, 750 m desde Omoide Yokocho).
 https://www.google.com/maps/dir/Omoide+Yokocho/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
@@ -358,17 +360,17 @@ Este día se debe ajustar a la fecha/hora de ticket comprado
 - Cierra los martes y en algunos periodos de mantención.
 Fuentes: [https://en.japantravel.com/guide/ghibli-museum-mitaka/58379|Museo Ghibli tickets (Japan Travel)]
 
-09:42 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+09:51 | 15m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR) (Google Maps: 12 min, 750 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-09:51 | 25m | TRAIN |
-Tren JR Chūō Line directo desde la estación Shinjuku a la estación Mitaka.
-https://www.google.com/maps/dir/Shinjuku+Station/Mitaka+Station
+10:06 | 20m | TRAIN |
+Tren JR Chūō Line (Rapid) de Shinjuku a Kichijoji (Google Maps: 15 min, 6 paradas).
+https://www.google.com/maps/dir/Shinjuku+Station/Kichijoji+Station
 
-10:16 | 24m | WALK |
-Caminar (o tomar el bus temático) desde la estación Mitaka al Museo Ghibli.
-https://www.google.com/maps/dir/Mitaka+Station/Ghibli+Museum
+10:26 | 14m | BUS |
+Bus Odakyu 吉02 de Kichijoji a Myojo Gakuen Iriguchi y caminar al Museo Ghibli (Google Maps: 43 min puerta a puerta desde el hotel, ¥510). Alternativa: caminar por el Parque Inokashira (15 min).
+https://www.google.com/maps/dir/Kichijoji+Station/Ghibli+Museum
 
 10:40 | 20m | WAIT |
 Llegada anticipada para hacer la fila de ingreso al museo.
@@ -377,34 +379,34 @@ Llegada anticipada para hacer la fila de ingreso al museo.
 Visita al Museo Ghibli.
 https://maps.app.goo.gl/feQoqRrKTCzbAjGc7
 
-13:00 | 24m | WALK |
-Caminar a través del hermoso Parque Inokashira hacia la zona comercial de Kichijoji.
+13:00 | 18m | WALK |
+Caminar a través del Parque Inokashira hacia la zona comercial de Kichijoji (Google Maps: 15 min, 1,1 km).
 https://www.google.com/maps/dir/Ghibli+Museum/Kichijoji+Station
 
-13:24 | 70m | FOOD |
+13:18 | 70m | FOOD |
 Almuerzo en Kichijoji (zona con gran variedad de restaurantes, cafés y puestos).
 https://www.google.com/maps/place/Kichijoji
 
-14:34 | 120m | SHOP |
+14:28 | 120m | SHOP |
 Shopping en UNIQLO Kichijoji. Es una tienda insignia gigante de 7 pisos, perfecta para comprar y muy cerca.
 https://www.google.com/maps/place/UNIQLO+Kichijoji
 
-16:34 | 25m | TRAIN |
-Tren JR Chūō Line desde la estación Kichijoji de regreso a la estación Shinjuku.
-https://www.google.com/maps/dir/Kichijoji+Station/Shinjuku+Station
+16:28 | 26m | TRAIN |
+Caminar a la estación Kichijoji (5 min) y tren JR Chūō Line (Rapid) a Shinjuku (Google Maps: 20 min, ¥260).
+https://www.google.com/maps/dir/UNIQLO+Kichijoji/Shinjuku+Station
 
-16:59 | 12m | WALK |
+16:54 | 12m | WALK |
 Caminar por Shinjuku buscando opciones para cenar.
 
-17:11 | 90m | FOOD |
+17:06 | 90m | FOOD |
 Cena temprana en los alrededores de Shinjuku.
 https://www.google.com/maps/place/Shinjuku
 
-18:41 | 9m | WALK |
+18:36 | 9m | WALK |
 Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho desde la estación Shinjuku (7 min según Google Maps).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-18:50 | 60m | BREAK |
+18:45 | 60m | BREAK |
 Llegada al hotel para descansar y fin de la jornada.
 
 
@@ -424,40 +426,40 @@ El Museo Nacional de Tokio abre de Martes a Domingo
 ⚠️ Restricciones detectadas:
 - Museo Nacional de Tokio cierra los lunes; martes abierto (9:30–17:00). Sin conflicto.
 
-08:35 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+08:45 | 15m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR) (Google Maps: 12 min, 750 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:44 | 32m | TRAIN |
-(CLP 1.2M) JR Yamanote Line directo a la estación Ueno (viaje directo).
+09:00 | 30m | TRAIN |
+(CLP 1.2M) JR Yamanote Line directo a la estación Ueno (Google Maps: 25 min, 12 paradas; 45 min puerta a puerta).
 https://www.google.com/maps/dir/Shinjuku+Station/Ueno+Station
 
-09:16 | 24m | WALK |
-Caminar de estación Ueno a Museo.
+09:30 | 10m | WALK |
+Caminar de la estación Ueno al Museo Nacional de Tokio (Google Maps: 8 min, 650 m).
 https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Tokyo+National+Museum
 
 09:40 | 180m | VISIT |
 Visitar Museo Nacional de Tokio — Honkan: katanas, armaduras samurái (~10 USD).
 https://www.google.com/maps/place/Tokyo+National+Museum
 
-12:40 | 18m | WALK |
-Caminar por el Parque de Ueno hacia el mercado Ameyoko.
+12:40 | 15m | WALK |
+Caminar por el Parque de Ueno hacia el mercado Ameyoko (Google Maps: 12 min, 900 m).
 https://www.google.com/maps/dir/Tokyo+National+Museum/Ameyoko+Shopping+Street
 
-12:58 | 45m | FOOD |
+12:55 | 45m | FOOD |
 Almuerzo en Ameyoko.
 https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
-13:43 | 100m | SHOP |
+13:40 | 100m | SHOP |
 Explorar puestos del mercado Ameyoko.
 https://www.google.com/maps/place/Ameyoko+Shopping+Street
 
-15:23 | 10m | TRAIN |
-(CLP 1.2M) Metro Ueno → Akihabara (JR Yamanote, 2 estaciones).
+15:20 | 13m | TRAIN |
+(CLP 1.2M) Caminar a la estación Ueno (5 min) y JR Keihin-Tohoku/Yamanote a Akihabara (2 min) (Google Maps: 12 min puerta a puerta).
 https://www.google.com/maps/dir/Ueno+Station,+Tokyo/Akihabara+Station,+Tokyo
 
 15:33 | 6m | WALK |
-Caminata hacia tiendas retro de Akihabara.
+Caminata hacia tiendas retro de Akihabara (Google Maps: 5 min, 350 m).
 https://www.google.com/maps/dir/Akihabara+Station/Super+Potato+Akihabara
 
 15:39 | 20m | SHOP |
@@ -488,12 +490,12 @@ Option
 Tonkatsu Yamaichi
 A 12 min desde Mandarake.
 
-20:49 | 20m | TRAIN |
-(CLP 1.3M) Toei Shinjuku Line desde la estación Iwamotochō directo a la estación Shinjuku.
-https://www.google.com/maps/dir/Iwamotocho+Station/Shinjuku+Station
+20:49 | 26m | TRAIN |
+(CLP 1.3M) Caminar a la estación Ochanomizu (10 min) y JR Chūō Line (Rapid) a Shinjuku (Google Maps: 30 min puerta a puerta, ¥210; alternativa Toei Shinjuku Line desde Iwamotochō, 33 min).
+https://www.google.com/maps/dir/Tonkatsu+Marugo/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-21:09 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+21:15 | 14m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min, 800 m).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
@@ -524,27 +526,27 @@ Posible ajuste: Ajuste: Desplaza todo exactamente una hora y sal a las 08:20. To
 - Limited Express Nikkō: asientos con reserva.
 Fuentes: [https://www.fun-japan.jp/en/articlesPromotion/10253|Yubatei Masudaya (Fun Japan)]
 
-07:15 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+07:48 | 11m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR Yamanote) (Google Maps: ≈9 min).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-07:24 | 36m | WALK |
-Navegar internamente en la estación hacia el andén del tren Limited Express Nikkō.
+07:59 | 6m | WALK |
+Llegar al andén de la JR Yamanote Line.
 https://www.google.com/maps/place/Shinjuku+Station
 
-08:00 | 155m | TRAIN |
-(CLP 23.7M) Tren Shinjuku → Tobu-Nikkō (Limited Express Nikkō/Kinugawa).
+08:05 | 138m | TRAIN |
+(CLP 23.7M) Shinjuku 08:05 → JR Yamanote a Nishi-Nippori → metro Chiyoda a Kita-Senju → Tobu Limited Express "Revaty Kinu" (Kita-Senju 08:43 → Shimo-Imaichi 10:12) → Tobu Nikko Line a Tobu-Nikkō 10:23 (Google Maps, ¥3.490 aprox.). No hay Limited Express directo cerca de las 08:00: el directo Spacia Nikko sale 09:34 y llega 11:31. Reservar asiento.
 https://www.google.com/maps/dir/Shinjuku+Station/Tobu-Nikko+Station
 
-10:35 | 25m | BUS |
-(CLP 2M) Bus local desde la estación hacia el área de los santuarios.
+10:23 | 24m | BUS |
+(CLP 2M) Bus Tobu (hacia Yumoto Onsen) de la estación Tobu-Nikkō a Yasukawacho y caminar al Tōshō-gū (Google Maps: 16 min; buses 10:42, 11:09, 11:34).
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Nikko+Toshogu
 
-11:00 | 180m | VISIT |
+10:47 | 180m | VISIT |
 Visitar Nikkō Tōshō-gū (~10 USD) y explorar el bosque de la montaña.
 https://www.google.com/maps/place/Nikko+Toshogu
 
-14:00 | 70m | FOOD |
+13:47 | 70m | FOOD |
 Almuerzo en Nikkō.
 https://www.google.com/maps/place/Yubatei+Masudaya
 
@@ -556,22 +558,22 @@ Option
 Hippari Dako
 Yakitori y fideos calientes en un local lleno de notas de turistas.
 
-15:10 | 110m | SHOP |
-Caminata bajando por la ciudad y compras de souvenirs tradicionales. [Acortado 10 min para absorber los colchones y mantener las reservas]
+14:57 | 145m | SHOP |
+Caminata bajando por la ciudad y compras de souvenirs tradicionales.
 https://www.google.com/maps/dir/Nikko+Toshogu/Tobu-Nikko+Station
 
-17:00 | 155m | TRAIN |
-(CLP 23.7M) Tren de regreso Tobu-Nikkō → Shinjuku (Limited Express).
+17:22 | 141m | TRAIN |
+(CLP 23.7M) Tobu Limited Express "Revaty Kegon" Tobu-Nikkō 17:22 → Kita-Senju 19:02 → metro Chiyoda a Nishi-Nippori → JR Yamanote a Shinjuku 19:43 (Google Maps). No hay directo cerca de las 17:00; el directo más cercano sale 16:38 y llega 18:35. Reservar asiento.
 https://www.google.com/maps/dir/Tobu-Nikko+Station/Shinjuku+Station
 
-19:35 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+19:43 | 14m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-19:44 | 20m | BREAK |
+19:57 | 20m | BREAK |
 Breve descanso en el hotel antes de cenar.
 
-20:04 | 90m | FOOD |
+20:17 | 90m | FOOD |
 Cena de despedida de Tokio en Shinjuku (Yakiniku).
 https://www.google.com/maps/place/Gyu-Kaku+Shinjuku+Nishiguchi
 
@@ -598,16 +600,16 @@ image2: Tokyo_DisneySea.png [Parque Temático Tokyo DisneySea]
 - Fuegos artificiales se cancelan con viento.
 Fuentes: [https://www.tokyodisneyresort.jp/en/tds/show.html|Shows Tokyo DisneySea (oficial)]
 
-06:31 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+06:27 | 15m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR) (Google Maps: 12 min, 750 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-06:40 | 53m | TRAIN |
-(CLP 1.2M) JR Chūō Line (Rapid) a la Estación de Tokio y transbordo interno a JR Keiyō Line hasta Maihama (Google Maps: 55 min puerta a puerta).
-https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Maihama+Station
+06:42 | 47m | TRAIN |
+(CLP 1.2M) JR Chūō Line (Rapid) a la Estación de Tokio y transbordo interno (largo) a la JR Keiyō Line hasta Maihama (Google Maps: 54 min puerta a puerta, ¥440).
+https://www.google.com/maps/dir/Shinjuku+Station/Maihama+Station
 
-07:42 | 18m | WALK |
-Caminata de 5 minutos al acceso de Tokyo Disneyland o abordaje del monorriel "Disney Resort Line" si el destino es Tokyo DisneySea.
+07:38 | 22m | WALK |
+Caminar de la estación Maihama a Tokyo DisneySea (Google Maps: 18 min, 1,3 km; o Disney Resort Line).
 https://www.google.com/maps/dir/Maihama+Station/Tokyo+DisneySea
 
 08:00 | 60m | VISIT |
@@ -641,12 +643,12 @@ https://www.google.com/maps/place/Ikspiari
 Espectáculos nocturnos (desfile de luces y show de fuegos artificiales "Sky Full of Colors").
 https://www.google.com/maps/place/Tokyo+DisneySea
 
-21:00 | 53m | TRAIN |
-(CLP 1.2M) Tren JR Keiyō Line a la Estación de Tokio y transbordo interno a JR Chūō Line (Rapid) hasta la estación Shinjuku (≈48 min, mismo trayecto de ida).
-https://www.google.com/maps/dir/Maihama+Station/Shinjuku+Station
+21:00 | 60m | TRAIN |
+(CLP 1.2M) Disney Resort Line a Maihama, JR Keiyō Line a Tokio y JR Chūō Line (Rapid) a Shinjuku (Google Maps: 1 h 06 min puerta a puerta; alternativa bus directo a Busta Shinjuku, 45 min).
+https://www.google.com/maps/dir/Tokyo+DisneySea/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-21:53 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+22:00 | 14m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
@@ -669,51 +671,52 @@ Museo Edo Tokio:
 - Sensō-ji: salón principal cierra 17:00 en invierno; tiendas de Nakamise cierran ~17:00–18:00.
 Fuentes: [https://tokyointernationalmeetup.com/edo-tokyo-museum-reopens-2026/|Reapertura Museo Edo-Tokio]
 
-09:30 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
-https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
+09:30 | 14m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Higashi-Shinjuku (Toei Ōedo Line) (Google Maps: 11 min, 550 m).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Higashi-Shinjuku+Station
 
-09:39 | 28m | TRAIN |
-(CLP 1.3M) JR Chūō Line (Rapid) con transbordo a JR Chūō-Sōbu Line (Local) hasta la estación Ryōgoku (Google Maps: 30 min puerta a puerta; reemplaza a Oedo, que ahora toma ~40 min).
-https://www.google.com/maps/dir/Shinjuku+Station/Ryogoku+Station
+09:44 | 25m | TRAIN |
+(CLP 1.3M) Metro Toei Ōedo Line de Higashi-Shinjuku a Ryōgoku (Google Maps: 20 min, 10 paradas; 36 min puerta a puerta, ¥280).
+https://www.google.com/maps/dir/Higashi-Shinjuku+Station/Ryogoku+Station
 
-10:07 | 12m | WALK |
-Caminar a Museo Edo-Tokio.
+10:09 | 6m | WALK |
+Caminar al Museo Edo-Tokio (Google Maps: 5 min, 270 m).
 https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Museo+Edo-Tokyo,+1+Chome-4-1+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/@35.6962648,139.7914442,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!2m2!1d139.7957336!2d35.6965972!3e3
 
-10:19 | 150m | VISIT |
+10:15 | 150m | VISIT |
 Visita [https://www.edo-tokyo-museum.or.jp/en/|Museo Edo-Tokio] (~8 USD).
 https://www.google.com/maps/place/Museo+Edo-Tokyo/@35.6966015,139.793164,17z/data=!3m1!4b1!4m6!3m5!1s0x60188934e1ee6539:0xc641f2f12c4bbd3!8m2!3d35.6965972!4d139.7957336!16s%2Fm%2F027sjq2
 
-12:49 | 25m | TRAIN |
-(CLP 1.3M) Traslado Ryōgoku → Asakusa.
-https://www.google.com/maps/dir/RY%C5%8CGOKU+STATION,+1+Chome-3-20+Yokoami,+Sumida+City,+Tokyo+130-0015,+Jap%C3%B3n/Asakusa+Sta.,+1+Chome-1-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7010112,139.7809116,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6018894ab0f93e71:0xe3089d1d03e380a3!2m2!1d139.7928696!2d35.6959325!1m5!1m1!1s0x60188ec690127e2f:0xf41f021a3a02cff0!2m2!1d139.7971675!2d35.7098669!3e3
+12:45 | 30m | TRAIN |
+(CLP 1.3M) JR Chūō-Sōbu de Ryōgoku a Asakusabashi y Toei Asakusa Line a Asakusa (Google Maps: 22 min puerta a puerta, ¥340).
+https://www.google.com/maps/dir/Edo-Tokyo+Museum/Nakamise+Shopping+Street
 
-13:14 | 60m | FOOD |
+13:15 | 60m | FOOD |
 Almuerzo street food en Calle Nakamise / Asakusa.
 https://www.google.com/maps/place/Nakamise,+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7124284,139.7939374,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec12e2c51d5:0xf1d0cb578b3d5e97!8m2!3d35.7124241!4d139.796507!16s%2Fg%2F11rk533v_2
 
-14:14 | 12m | WALK |
-Caminar a Templo Sensō-ji.
+14:15 | 3m | WALK |
+Caminar a Templo Sensō-ji (Google Maps: 2 min).
 https://www.google.com/maps/dir/Calle+Comercial+Nakamise,+1+Chome-36-3+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/Sens%C5%8D-ji,+2+Chome-3-1+Asakusa,+Taito+City,+Tokyo+111-0032,+Jap%C3%B3n/@35.7128584,139.7952139,18z/data=!4m14!4m13!1m5!1m1!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc!2m2!1d139.7964542!2d35.7118413!1m5!1m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d!2m2!1d139.7966553!2d35.7147651!3e2
 
-14:26 | 120m | VISIT |
+14:18 | 120m | VISIT |
 Visita Templo Sensō-ji (en Asakusa).
 https://www.google.com/maps/place/Sens%C5%8D-ji
 
-16:26 | 60m | PHOTO |
+16:18 | 60m | PHOTO |
 Caminata fotográfica al atardecer por los alrededores de Asakusa y la ribera del río Sumida (excelentes vistas).
 
-17:26 | 90m | FOOD |
+17:18 | 90m | FOOD |
 Cena en Hoppy Street (calle tradicional de tabernas y puestos al lado de Sensō-ji, famosa por su guiso de carne).
 https://www.google.com/maps/place/Hoppy+Street
 
-18:56 | 40m | TRAIN |
-(CLP 1.6M) Toei Oedo Line desde la estación Kuramae (corta caminata desde Asakusa) directo de regreso a Shinjuku-Nishiguchi.
+18:48 | 33m | TRAIN |
+(CLP 1.6M) Caminar a la estación Asakusa (Tsukuba Express), 1 parada a Shin-Okachimachi y Toei Ōedo Line a Higashi-Shinjuku (Google Maps: 38 min puerta a puerta, ¥400).
+https://www.google.com/maps/dir/Hoppy+Street+Asakusa/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-19:36 | 12m | WALK |
-Caminar de regreso al HOTEL AMANEK Shinjuku Kabukicho desde Shinjuku-Nishiguchi (Google Maps: 10 min).
-https://www.google.com/maps/dir/Shinjuku-Nishiguchi+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
+19:21 | 12m | WALK |
+Caminar de la estación Higashi-Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 10 min).
+https://www.google.com/maps/dir/Higashi-Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
 stars: 5
@@ -729,35 +732,35 @@ image4: Shibuya_Sky.png [Mirador Shibuya Sky en las Alturas]
 ⚠️ Restricciones detectadas:
 - Shibuya Sky: tickets salen 4 semanas antes (~18-ene, para el lunes 15-feb); el horario del atardecer se agota. La terraza cierra con lluvia o viento fuerte.
 
-08:30 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
-https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
+08:38 | 14m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku-sanchome (Google Maps: 11 min, 800 m).
+https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku-sanchome+Station
 
-08:39 | 20m | TRAIN |
-(CLP 0.9M) JR Yamanote Line directo a la estación Harajuku.
-https://www.google.com/maps/dir/Shinjuku+Station/Harajuku+Station
+08:52 | 7m | TRAIN |
+(CLP 0.9M) Metro Fukutoshin Line de Shinjuku-sanchome a Kita-sando (1 parada) (Google Maps: 21 min puerta a puerta).
+https://www.google.com/maps/dir/Shinjuku-sanchome+Station/Kita-sando+Station
 
-09:11 | 6m | WALK |
-Caminar al Santuario Meiji.
-https://www.google.com/maps/dir/Harajuku+Station/Meiji+Jingu
+09:11 | 10m | WALK |
+Caminar de Kita-sando al Santuario Meiji (Google Maps: 8 min, 450 m).
+https://www.google.com/maps/dir/Kita-sando+Station/Meiji+Jingu
 
-09:17 | 90m | VISIT |
+09:21 | 90m | VISIT |
 Visitar Santuario Meiji (bosque de cedros y Jardín Imperial Gyoen).
 https://www.google.com/maps/place/Meiji+Jingu
 
-10:47 | 90m | WALK |
+10:51 | 90m | WALK |
 Caminar por Takeshita Street — Moda juvenil, crepes y algodón de azúcar gigante.
 https://www.google.com/maps/place/Takeshita+Street
 
-12:17 | 24m | WALK |
-Caminar de Harajuku → Shibuya bajando por Cat Street.
+12:21 | 26m | WALK |
+Caminar de Harajuku → Shibuya (Google Maps: 21 min, 1,5 km).
 https://www.google.com/maps/dir/Takeshita+Street/Cat+Street/@35.666,139.704,16z
 
-12:41 | 12m | WALK |
+12:47 | 12m | WALK |
 Caminata hacia restaurantes en Shibuya.
 https://www.google.com/maps/place/Shibuya+Crossing
 
-12:53 | 70m | FOOD |
+12:59 | 70m | FOOD |
 Almuerzo rápido en Shibuya.
 https://www.google.com/maps/place/CoCo+Ichibanya+Shibuya
 
@@ -769,16 +772,16 @@ Option
 CoCo Ichibanya Shibuya
 Curry japonés personalizable (Centro de Shibuya).
 
-14:03 | 24m | WALK |
+14:09 | 24m | WALK |
 Caminar al Edificio Shibuya Parco.
 https://www.google.com/maps/dir/Shibuya+Crossing/Shibuya+Parco
 
-14:27 | 150m | SHOP |
+14:33 | 150m | SHOP |
 Visita a Nintendo Tokyo y Pokémon Center (6to piso de Parco).
 https://www.google.com/maps/place/Shibuya+Parco
 
-16:57 | 18m | WALK |
-Caminar hacia la estatua de Hachikō, cruzar el Shibuya Crossing e ingresar a la torre Shibuya Scramble Square.
+17:03 | 12m | WALK |
+Caminar hacia la estatua de Hachikō, cruzar el Shibuya Crossing e ingresar a Shibuya Scramble Square (Google Maps: 10 min desde Parco, 700 m).
 https://www.google.com/maps/place/Shibuya+Scramble+Square
 
 17:15 | 105m | VISIT |
@@ -797,12 +800,13 @@ Option
 Mo-Mo-Paradise Shibuya
 A 3 min desde el cruce.
 
-20:30 | 15m | TRAIN |
-(CLP 1.2M) JR Yamanote Line de estación Shibuya directo a la estación Shinjuku.
+20:30 | 20m | TRAIN |
+(CLP 1.2M) Metro Fukutoshin Line de Shibuya a Shinjuku-sanchome (Google Maps: 23 min puerta a puerta, ¥180).
+https://www.google.com/maps/dir/Shibuya+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-20:45 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
-https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
+20:50 | 12m | WALK |
+Caminar de la estación Shinjuku-sanchome de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 10 min).
+https://www.google.com/maps/dir/Shinjuku-sanchome+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 
 @day
@@ -824,29 +828,30 @@ Uso de Tarjeta IC (Suica/Pasmo) en Enoden: En la estación de Kamakura para abor
 - Domingo: Kamakura muy concurrida, filas en el Enoden.
 Fuentes: [https://kotoku-in.jp/en/|Kōtoku-in oficial]
 
-08:00 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+08:36 | 15m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR) (Google Maps: 12 min, 850 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:09 | 95m | TRAIN |
-(CLP 1.3M) Tren JR Shōnan-Shinjuku Line directo desde la estación Shinjuku a la estación Kamakura (viaje directo).
+08:51 | 64m | TRAIN |
+(CLP 1.3M) Tren JR Shōnan-Shinjuku Line (hacia Zushi) directo de Shinjuku a Kamakura (Google Maps: 59 min).
 https://www.google.com/maps/dir/Shinjuku+Station/Kamakura+Station
 
-09:44 | 25m | TRAIN |
-(CLP 1.2M) Tren local Kamakura → Estación Hase (Línea Enoden).
-https://www.google.com/maps/dir/Kamakura+Station/Hase+Station
+09:55 | 14m | BUS |
+(CLP 1.2M) Bus Enoden F11 de la estación Kamakura (salida este) a Daibutsu-mae (Google Maps: 9 min; alternativa tren Enoden a Hase). Puerta a puerta: 1 h 32 min.
+https://www.google.com/maps/dir/Kamakura+Station/Kotoku-in
 
 10:09 | 45m | VISIT |
 Visitar Kōtoku-in (Gran Buda, ~3 USD)
 https://www.google.com/maps/place/Kotoku-in
 
-10:54 | 18m | WALK |
-Caminar de Gran Buda a Hase-desa
+10:54 | 10m | WALK |
+Caminar del Gran Buda a Hase-dera (Google Maps: 8 min, 550 m).
+https://www.google.com/maps/dir/Kotoku-in/Hase-dera
 
-11:12 | 120m | VISIT |
+11:04 | 120m | VISIT |
 Templo costero Hase-dera (~3 USD, subida a la terraza panorámica con vista a la bahía de Sagami).
 
-13:12 | 120m | FOOD |
+13:04 | 120m | FOOD |
 Almuerzo en la zona de Hase.
 https://www.google.com/maps/place/Kaedena+Kamakura
 
@@ -858,38 +863,38 @@ Option
 Kaedena
 Donburi, boles de arroz con carne o mariscos (a 5 min del Gran Buda).
 
-15:12 | 20m | TRAIN |
-(CLP 1.2M) Tren local Hase → Estación Kamakura (Línea Enoden).
+15:04 | 18m | TRAIN |
+(CLP 1.2M) Tren Enoden de Hase a Kamakura (4 min) y caminar a Komachi-dori (Google Maps: 11 min).
 https://www.google.com/maps/dir/Hase+Station/Kamakura+Station
 
-15:32 | 45m | SHOP |
+15:22 | 45m | SHOP |
 Caminar vitrineando por la calle comercial tradicional Komachi-dori.
 https://www.google.com/maps/place/Komachi-dori
 
-16:17 | 6m | WALK |
-Caminar de Komachi-dori al Santuario Tsurugaoka Hachimangū.
+16:07 | 8m | WALK |
+Caminar de Komachi-dori al Santuario Tsurugaoka Hachimangū (Google Maps: 6 min, 450 m).
 https://www.google.com/maps/dir/Komachi-dori/Tsurugaoka+Hachimangu
 
-16:23 | 45m | VISIT |
+16:15 | 45m | VISIT |
 Visita al Santuario Tsurugaoka Hachimangū.
 https://www.google.com/maps/place/Tsurugaoka+Hachimangu
 
-17:08 | 12m | WALK |
-Caminar de regreso por el paseo peatonal elevado de la avenida Dankazura hacia la Estación Kamakura.
+17:00 | 15m | WALK |
+Caminar de regreso a la estación Kamakura (Google Maps: 12 min, 800 m).
 https://www.google.com/maps/dir/Tsurugaoka+Hachimangu/Kamakura+Station
 
-17:20 | 80m | TRAIN |
-(CLP 5.5M) Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku).
+17:15 | 64m | TRAIN |
+(CLP 5.5M) Tren de regreso Kamakura → Shinjuku (JR Shōnan-Shinjuku directo) (Google Maps: 1 h 22 min puerta a puerta).
 https://www.google.com/maps/dir/Kamakura+Station/Shinjuku+Station
 
-18:40 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+18:19 | 14m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
-18:49 | 35m | BREAK |
+18:33 | 35m | BREAK |
 Breve descanso en el hotel para refrescarse.
 
-19:24 | 90m | FOOD |
+19:08 | 90m | FOOD |
 Cena Okonomiyaki en Shinjuku.
 https://www.google.com/maps/place/Okonomiyaki+Hiroki+Shinjuku
 
@@ -918,7 +923,7 @@ Regla de oro: Compren o reserven sus boletos de regreso (ya sea bus o tren) en l
 - Bus expreso a Shinjuku requiere reserva (comprar el ticket de regreso en la mañana). El bus de las 18:50 (115 min) llega a Busta Shinjuku ~20:45, por eso se cena en Kawaguchiko antes de subir al bus.
 Fuentes: [https://japanuncharted.com/yamanashi/mt-fuji/mount-fuji-panoramic-ropeway|Teleférico Kachi-Kachi (Japan Uncharted)] · [https://ekitan.com/en/article/fujikaiyu|Fuji Excursion (Ekitan)]
 
-07:09 | 9m | WALK |
+07:04 | 14m | WALK |
 Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
@@ -930,28 +935,28 @@ https://www.google.com/maps/place/Shinjuku+Station
 (CLP 35.6M) Tren Shinjuku → Estación Shimoyoshida (Fuji Excursion directo).
 https://www.google.com/maps/dir/Shinjuku+Station/Shimoyoshida+Station
 
-09:35 | 48m | WALK |
-Caminar y subir escalones a Pagoda Chūreitō.
+09:35 | 26m | WALK |
+Caminar y subir escalones a Pagoda Chūreitō (Google Maps: 21 min, 1,1 km y 98 m de subida; los ~400 escalones pueden tomar más).
 https://www.google.com/maps/dir/Shimoyoshida+Station/Chureito+Pagoda
 
-10:23 | 78m | VISIT |
-Visitar Mirador de la Pagoda Chūreitō (Arakura Sengen) — Postal clásica de Fuji + Pagoda. [Acortado 12 min para absorber los colchones y mantener las reservas]
+10:01 | 133m | VISIT |
+Visitar Mirador de la Pagoda Chūreitō (Arakura Sengen) — Postal clásica de Fuji + Pagoda.
 https://www.google.com/maps/place/Chureito+Pagoda
 
-11:41 | 48m | WALK |
-Caminar de regreso a la Estación Shimoyoshida.
+12:14 | 26m | WALK |
+Caminar de regreso a la Estación Shimoyoshida (Google Maps: 21 min, bajada).
 https://www.google.com/maps/dir/Chureito+Pagoda/Shimoyoshida+Station
 
-12:29 | 40m | TRAIN |
-(CLP 35.6M) Tren Shimoyoshida → Estación Kawaguchiko (Fujikyu Railway).
+12:40 | 18m | TRAIN |
+(CLP 35.6M) Tren Fujikyu Shimoyoshida 12:40 → Kawaguchiko (Google Maps: 13 min; otras salidas 13:00, 13:18).
 https://www.google.com/maps/dir/Shimoyoshida+Station/Kawaguchiko+Station
 
-13:09 | 6m | WALK |
-Caminar hacia orilla del lago o restaurantes.
+12:58 | 2m | WALK |
+Caminar al restaurante (Google Maps: 1 min, 86 m).
 https://www.google.com/maps/dir/Kawaguchiko+Station/Lake+Kawaguchi
 
-13:15 | 45m | FOOD |
-Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona). [Acortado 15 min para absorber los colchones y mantener las reservas]
+13:00 | 45m | FOOD |
+Almuerzo lakeside (Hōtō, fideos tradicionales gruesos de la zona).
 https://www.google.com/maps/place/Houtou+Fudou+Kawaguchiko+Station
 
 Option
@@ -966,27 +971,27 @@ Option
 Kosaku Kawaguchiko Hoto Noodles
 A 12 min desde la estación Kawaguchiko.
 
-14:00 | 20m | BUS |
-(CLP 1.3M) Caminar o tomar Bus local al teleférico.
+13:45 | 12m | BUS |
+(CLP 1.3M) Bus Fujikyu (hacia Kofu) de Kawaguchiko Station a Ropeway-iriguchi (Google Maps: 6 min; o caminar 13 min, 1,0 km).
 https://www.google.com/maps/dir/Kawaguchiko+Station/Mt.+Fuji+Panoramic+Ropeway
 
-14:20 | 90m | VISIT |
+13:57 | 90m | VISIT |
 Teleférico Kachi-Kachi (Mt. Fuji Panoramic Ropeway). Santuario del Conejo, Campana de Tenjo y dango. Cierra a las 16:30 en invierno: se sube temprano para no apurarse.
 https://www.google.com/maps/place/Mt.+Fuji+Panoramic+Ropeway
 
-15:50 | 35m | BUS |
-(CLP 1M) Bus local (Línea Roja, Parada 9) → Parada 15 (Kozantei Ubuya) en la orilla norte del Lago Kawaguchi.
+15:27 | 13m | BUS |
+(CLP 1M) Bus Kawaguchiko Sightseeing (Línea Roja) a Ubuya-mae (Google Maps: 7 min; buses cada 15 min).
 https://www.google.com/maps/dir/Mt.+Fuji+Panoramic+Ropeway/Kozantei+Ubuya
 
-16:25 | 44m | PHOTO |
-Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm. [Acortado 16 min para absorber los colchones y mantener las reservas]
+15:40 | 97m | PHOTO |
+Caminar por la orilla norte buscando el reflejo del Fuji en el agua ("Sakasa Fuji"). Momento para retrato con el 85mm.
 https://www.google.com/maps/place/Lake+Kawaguchi
 
-17:09 | 25m | BUS |
-(CLP 1M) Bus de regreso (Línea Roja) → Estación Kawaguchiko.
+17:17 | 11m | BUS |
+(CLP 1M) Bus Fujikyu de Ubuya-mae (17:17) a la estación Kawaguchiko (Google Maps: 6 min; también Línea Roja 17:22, 17 min).
 https://www.google.com/maps/dir/Lake+Kawaguchi/Kawaguchiko+Station
 
-17:34 | 70m | FOOD |
+17:28 | 76m | FOOD |
 Cena en Kawaguchiko, cerca de la estación (ramen, hōtō u otro). Se cena aquí, antes del bus, porque el bus llega a Shinjuku pasadas las 20:45.
 https://www.google.com/maps/search/restaurantes+cerca+Kawaguchiko+Station
 
@@ -998,7 +1003,7 @@ Caminar al terminal de buses de la estación Kawaguchiko (con el ticket de regre
 https://www.google.com/maps/dir/Kawaguchiko+Station/Busta+Shinjuku
 
 20:50 | 18m | WALK |
-Caminar de Busta Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 15 min; si están cansadas, un taxi corto).
+Caminar de Busta Shinjuku al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 15 min, 950 m).
 https://www.google.com/maps/dir/Busta+Shinjuku/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @day
@@ -1025,23 +1030,23 @@ Takkyubin: (AM) Recordar dejar maletas en servicio de traslado antes del cutoff 
 - Takkyubin: despachar antes del cutoff para que llegue al ryokan en Takayama el 26-feb.
 Fuentes: [https://mandarake.co.jp/dir/nkn/index-en.html|Mandarake Nakano (oficial)]
 
-10:10 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+10:10 | 15m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (JR) (Google Maps: 12 min, 800 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-10:19 | 17m | TRAIN |
-(CLP 1M) JR Chūō Line directo a la estación Nakano (sin transbordos).
+10:25 | 9m | TRAIN |
+(CLP 1M) JR Chūō Line (Rapid) directo a la estación Nakano (Google Maps: 4 min, sin paradas).
 https://www.google.com/maps/dir/Shinjuku+Station/Nakano+Station
 
-10:51 | 18m | WALK |
-Caminar techado por la galería Sun Mall.
+10:49 | 5m | WALK |
+Caminar techado por la galería Sun Mall hasta Nakano Broadway (Google Maps: 4 min, 300 m).
 https://www.google.com/maps/dir/Nakano+Station/Nakano+Broadway
 
-11:09 | 180m | SHOP |
+10:54 | 180m | SHOP |
 Nakano Broadway: Explorar galerías de figuras, anime retro, Mandarake y rarezas.
 https://www.google.com/maps/place/Nakano+Broadway
 
-14:09 | 90m | FOOD |
+13:54 | 90m | FOOD |
 Almuerzo en los callejones aledaños a Nakano.
 https://www.google.com/maps/place/Ramen+Aoba+Nakano
 
@@ -1053,10 +1058,10 @@ Option
 Namizu Sushi Nakano
 Kaitenzushi, sushi en platos giratorios (en la galería Sun Mall).
 
-15:39 | 210m | FREE |
+15:24 | 210m | FREE |
 Tarde de ritmo libre (compras, descansar o recorrer tiendas pendientes).
 
-19:09 | 90m | FOOD |
+18:54 | 90m | FOOD |
 Cena Izakaya (taberna familiar animada).
 https://www.google.com/maps/place/Isomaru+Suisan+Nakano
 
@@ -1068,12 +1073,12 @@ Option
 Tsukada Nojo Nakano
 Especialistas en pollo a la brasa y platillos creativos (cerca de la estación).
 
-20:39 | 15m | TRAIN |
-(CLP 1M) JR Chūō Line de estación Nakano de regreso a la estación Shinjuku.
+20:24 | 14m | TRAIN |
+(CLP 1M) Caminar a la estación Nakano y JR Chūō Line (Rapid) a Shinjuku (Google Maps: 19 min puerta a puerta).
 https://www.google.com/maps/dir/Nakano+Station/Shinjuku+Station
 
-20:54 | 9m | WALK |
-Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho. Google Maps: 7 min.
+20:38 | 14m | WALK |
+Caminar de la estación Shinjuku de regreso al HOTEL AMANEK Shinjuku Kabukicho (Google Maps: 11 min).
 https://www.google.com/maps/dir/Shinjuku+Station/HOTEL+AMANEK+Shinjuku+Kabukicho
 
 @section Alpes
@@ -1100,12 +1105,12 @@ Tanto Takayama Jinya como Hida Minzoku Mura (Hida no Sato) cierran sus puertas a
 - Sanmachi Suji: tiendas y destilerías de sake cierran ~17:00; el paseo 17:20–18:50 será con casi todo cerrado.
 Fuentes: [https://www.japan-guide.com/e/e5904.html|Takayama Jinya (japan-guide)]
 
-08:03 | 9m | WALK |
-Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (andenes JR). Google Maps: 7 min.
+08:00 | 11m | WALK |
+Caminar de HOTEL AMANEK Shinjuku Kabukicho a la estación Shinjuku (Marunouchi Line) (Google Maps: 9 min, 600 m).
 https://www.google.com/maps/dir/HOTEL+AMANEK+Shinjuku+Kabukicho/Shinjuku+Station
 
-08:12 | 24m | TRAIN |
-(CLP 1.2M) JR Chūō Line (Rapid) a la Estación de Tokio (viaje directo sin transbordos; Google Maps: 26 min puerta a puerta).
+08:11 | 25m | TRAIN |
+(CLP 1.2M) Metro Marunouchi Line de Shinjuku a Tokio (Google Maps: 20 min, 9 paradas; o JR Chūō Rapid, 26 min puerta a puerta).
 https://www.google.com/maps/dir/Shinjuku+Station/Tokyo+Station
 
 08:36 | 24m | WALK |
@@ -1124,14 +1129,14 @@ https://www.google.com/maps/place/Nagoya+Station
 (CLP 35.6M) Tren JR Hida Ltd. Express a Takayama (trayecto panorámico por la montaña).
 https://www.google.com/maps/dir/Nagoya+Station/Takayama+Station
 
-13:25 | 3m | WALK |
-Caminar desde la estación de Takayama al Ryokan Oyado Koto No Yume.
+13:25 | 6m | WALK |
+Caminar desde la estación de Takayama al Ryokan Oyado Koto No Yume (Google Maps: 5 min, 350 m).
 https://www.google.com/maps/dir/Takayama+Station/Oyado+Koto+No+Yume
 
-13:28 | 17m | HOTEL |
+13:31 | 17m | HOTEL |
 Check-in o dejar maletas en el ryokan para los próximos 3 días.
 
-13:45 | 60m | FOOD |
+13:48 | 54m | FOOD |
 Almuerzo tardío en Takayama (fideos Soba calientes).
 https://www.google.com/maps/place/Hida+Soba+Takayama
 
@@ -1139,7 +1144,7 @@ Option
 Hida Soba
 Fideos de trigo sarraceno calientes.
 
-14:45 | 15m | WALK |
+14:42 | 18m | WALK |
 Caminar hacia Takayama Jinya.
 
 15:00 | 50m | VISIT |
@@ -1153,18 +1158,22 @@ Traslado a Hida no Sato. Taxi en la puerta.
 Hida Minzoku Mura (Aldea Folclórica de Hida): Museo al aire libre con casas tradicionales.
 https://www.google.com/maps/place/Hida+Folk+Village
 
-17:00 | 20m | BUS |
-Regreso a Sanmachi Suji. Tomar el autobús turistico en la puerta de la aldea o regresar en taxi.
+17:00 | 9m | WAIT |
+Esperar el bus Sarubobo en la puerta de Hida no Sato (Hida no Sato cierra 17:00).
 
-17:20 | 90m | VISIT |
+17:09 | 37m | BUS |
+Bus Sarubobo de Hida no Sato (17:09) a Takayama Nohi Bus Center (16 min) y caminar a Sanmachi Suji (Google Maps: 29 min puerta a puerta, ¥210; siguiente bus 17:56).
+https://www.google.com/maps/dir/Hida+Folk+Village/Sanmachi+Suji
+
+17:46 | 90m | VISIT |
 Caminar explorando Sanmachi Suji sin apuros (calles del periodo Edo, destilerías de sake).
 https://www.google.com/maps/place/Sanmachi+Suji
 
-18:50 | 10m | WALK |
-Caminar de regreso al Ryokan Oyado Koto No Yume.
+19:16 | 14m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume (Google Maps: 11 min, 800 m).
 https://www.google.com/maps/dir/Sanmachi+Suji/Oyado+Koto+No+Yume
 
-19:00 | 90m | FOOD |
+19:30 | 90m | FOOD |
 Cena de bienvenida a los Alpes.
 https://www.google.com/maps/place/Hidagyu+Maruaki+Takayama
 
@@ -1188,8 +1197,8 @@ image3: Mercado_Miyagawa.png [Mercado Matutino de Miyagawa]
 - Bus Nohi requiere reserva. Si ese día hay light-up, los visitantes de día deben salir antes de las 15:00.
 Fuentes: [https://www.japan-guide.com/e/e5907.html|Mercados matinales Takayama (japan-guide)] · [https://selfguidejapan.com/blog/shirakawa-go|Shirakawa-gō Shiroyama (Self Guide Japan)]
 
-08:15 | 15m | WALK |
-Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (junto a la estación).
+08:26 | 4m | WALK |
+Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (Google Maps: 3 min, 180 m).
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:30 | 15m | BUS |
@@ -1200,18 +1209,14 @@ https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shirakawa-go+Bus+Terminal
 
 09:35 | 20m | WALK |
-Caminar cruzando el puente colgante hacia la aldea.
+Caminar de la terminal cruzando el puente colgante y subir al mirador Shiroyama (Google Maps: 16 min, 950 m, 63 m de subida).
 https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Shiroyama+Viewpoint
 
-09:55 | 30m | WALK |
-Caminar en subida constante hacia el mirador Shiroyama (Zona 2 cardio).
-https://www.google.com/maps/place/Shiroyama+Viewpoint
-
-10:25 | 125m | VISIT |
+09:55 | 166m | VISIT |
 Caminar y fotografiar la aldea desde arriba, bajar a explorar las casas gasshō-zukuri.
 https://www.google.com/maps/place/Shirakawa-go
 
-12:30 | 90m | FOOD |
+12:41 | 90m | FOOD |
 Almuerzo en la aldea.
 https://www.google.com/maps/place/Irori+Shirakawago
 
@@ -1219,8 +1224,8 @@ Option
 Irori
 Comida casera de la zona, trucha de río a la parrilla con sal.
 
-14:00 | 15m | WALK |
-Caminar de regreso a la terminal de buses de Shirakawa-gō.
+14:11 | 4m | WALK |
+Caminar de regreso a la terminal de buses de Shirakawa-gō (Google Maps: ≈1-3 min desde Irori).
 
 14:15 | 50m | BUS |
 (CLP 15.1M) Bus Nohi de regreso a Takayama.
@@ -1230,14 +1235,14 @@ https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Takayama+Nohi+Bus+Cent
 Caminar por el mercado de Miyagawa o zonas comerciales aledañas.
 https://www.google.com/maps/place/Miyagawa+Morning+Market
 
-17:05 | 10m | WALK |
-Caminar de regreso al Ryokan Oyado Koto No Yume.
+17:05 | 14m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume (Google Maps: 11 min, 750 m).
 https://www.google.com/maps/dir/Miyagawa+Morning+Market/Oyado+Koto+No+Yume
 
-17:15 | 135m | BREAK |
+17:19 | 135m | BREAK |
 Descanso en el ryokan.
 
-19:30 | 90m | FOOD |
+19:34 | 90m | FOOD |
 Cena local en Takayama.
 https://www.google.com/maps/place/Takayama+Old+Town
 
@@ -1259,25 +1264,25 @@ image3: Hirayu_Onsen2.png [Baños al Aire Libre de Hirayu Onsen]
 ⚠️ Restricciones detectadas:
 - Teleférico Shinhotaka: horario de invierno reducido (aprox. 9:00–16:00); se suspende con viento fuerte. Pocas salidas de bus Nohi en invierno.
 
-08:20 | 15m | WALK |
-Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume.
+08:31 | 4m | WALK |
+Caminar a la terminal de buses Nohi desde el Ryokan Oyado Koto No Yume (Google Maps: 3 min, 180 m).
 https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
 
 08:40 | 100m | BUS |
 (CLP 12.8M) Bus Nohi ruta Shinhotaka hacia las montañas de Okuhida.
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shinhotaka+Ropeway
 
-10:20 | 10m | WALK |
+10:20 | 12m | WALK |
 Caminar a la estación del teleférico.
 
-10:30 | 90m | VISIT |
+10:32 | 90m | VISIT |
 Ascenso en Teleférico Shinhotaka (Shinhotaka Ropeway) a la plataforma de observación (+2000m).
 https://www.google.com/maps/place/Shinhotaka+Ropeway
 
-12:00 | 10m | WALK |
+12:02 | 12m | WALK |
 Bajar en teleférico y caminar al área de buses.
 
-12:10 | 60m | FOOD |
+12:14 | 92m | FOOD |
 Almuerzo rápido en el área de Shinhotaka.
 https://www.google.com/maps/place/Shinhotaka+Ropeway
 
@@ -1285,29 +1290,29 @@ Option
 Restaurante de la estación del teleférico
 Sopas calientes y raciones medidas.
 
-13:10 | 20m | BUS |
-(CLP 5.3M) Bus local bajando hacia la zona de Hirayu Onsen.
+13:46 | 42m | BUS |
+(CLP 5.3M) Bus Nohi de Shinhotaka Ropeway a Hirayu Onsen (Google Maps: 13:46 → 14:28, 42 min; siguiente 14:55). Servicio con avisos en Maps: confirmar horario.
 https://www.google.com/maps/dir/Shinhotaka+Ropeway/Hirayu+Onsen
 
-13:30 | 150m | VISIT |
+14:28 | 120m | VISIT |
 Disfrutar de un Rotenburo (onsen al aire libre rodeado de nieve) en Hirayu Onsen por el día.
 https://www.google.com/maps/place/Hirayu+Onsen
 
-16:00 | 10m | WALK |
-Caminar a la parada de bus.
+16:28 | 2m | WALK |
+Caminar a la terminal de buses de Hirayu Onsen.
 
-16:10 | 60m | BUS |
-(CLP 15.1M) Bus Nohi de regreso directo a Takayama.
+16:30 | 62m | BUS |
+(CLP 15.1M) Bus Nohi de Hirayu Onsen (16:30) a Takayama Nohi Bus Center (Google Maps: 1 h 02 min; siguiente 17:30).
 https://www.google.com/maps/dir/Hirayu+Onsen/Takayama+Nohi+Bus+Center
 
-17:10 | 5m | WALK |
-Caminar de regreso al Ryokan Oyado Koto No Yume.
+17:32 | 4m | WALK |
+Caminar de regreso al Ryokan Oyado Koto No Yume (Google Maps: 3 min).
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Oyado+Koto+No+Yume
 
-17:15 | 105m | BREAK |
+17:36 | 105m | BREAK |
 Descanso en el ryokan.
 
-19:00 | 90m | FOOD |
+19:21 | 90m | FOOD |
 Cena libre por Takayama.
 
 Option
@@ -1367,22 +1372,22 @@ https://www.google.com/maps/place/Nagoya+Station
 (CLP 30M) Tren Shinkansen (Nozomi / Hikari): Estación de Nagoya → Estación de Kioto.
 https://www.google.com/maps/dir/Nagoya+Station/Kyoto+Station
 
-14:20 | 15m | TRAIN |
-(CLP 1.3M) Metro Karasuma Line: Estación de Kioto → Estación Karasuma Oike (5 min en metro) + 5 min a pie al hotel (o Taxi grande directo para el grupo de 5).
+14:20 | 20m | TRAIN |
+(CLP 1.3M) Metro Karasuma Line de la estación de Kioto a Karasuma Oike y caminar al MIMARU Kyoto Shinmachi Sanjo (Google Maps: 13 min, ¥220).
 https://www.google.com/maps/dir/Kyoto+Station/MIMARU+Kyoto+Shinmachi+Sanjo
 
-14:35 | 55m | HOTEL |
+14:40 | 55m | HOTEL |
 Check-in en MIMARU Kyoto Shinmachi Sanjo y desempaque de maletas.
 https://www.google.com/maps/place/MIMARU+Kyoto+Shinmachi+Sanjo
 
-15:30 | 90m | VISIT |
+15:35 | 90m | VISIT |
 Paseo muy light a pie desde el hotel: Caminar por la calle histórica Sanjo-dori (famosa por sus edificios retro de ladrillo rojo de la era Meiji y tiendas de diseño) o visitar el Templo Rokkakudo (a solo 6 min a pie, templo hexagonal cuna del Ikebana y conocido como "el ombligo de Kioto").
 https://www.google.com/maps/place/Rokkakudo
 
-17:00 | 120m | BREAK |
+17:05 | 120m | BREAK |
 Tiempo libre de descanso en la espaciosa sala del MIMARU antes de salir a cenar.
 
-19:00 | 90m | FOOD |
+19:05 | 90m | FOOD |
 Cena relajada de bienvenida a Kioto por el barrio de Nakagyo.
 https://www.google.com/maps/place/MIMARU+Kyoto+Shinmachi+Sanjo
 
@@ -1413,51 +1418,51 @@ Recomendación: Tomar un par de taxis (o bus) desde la estación hacia Otagi Nen
 - Adashino Nenbutsu-ji: en marzo cierra 16:30 (dic–feb 15:30). Sin conflicto.
 Fuentes: [https://en.japantravel.com/article/kyoto-s-wild-monkey-park/20734|Parque Iwatayama (Japan Travel)] · [https://www.insidekyoto.com/adashino-nembutsu-ji-temple|Adashino Nenbutsu-ji (Inside Kyoto)]
 
-08:35 | 10m | WALK |
-Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma.
+08:35 | 17m | WALK |
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Hankyu Karasuma (Google Maps: 14 min, 950 m).
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma+Station
 
-08:45 | 10m | TRAIN |
-(CLP 1.2M) Tren Hankyu Kyoto Line a estación Katsura.
+08:52 | 14m | TRAIN |
+(CLP 1.2M) Tren Hankyu Kyoto Line a estación Katsura (Google Maps: 9 min, 4 paradas).
 https://www.google.com/maps/dir/Karasuma+Station/Katsura+Station
 
-08:55 | 5m | WALK |
+09:06 | 3m | WALK |
 Cambiar de andén en estación Katsura.
 
-09:00 | 10m | TRAIN |
-(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Arashiyama.
+09:09 | 13m | TRAIN |
+(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Arashiyama (Google Maps: 8 min; 34 min puerta a puerta).
 https://www.google.com/maps/dir/Katsura+Station/Arashiyama+Station
 
-09:10 | 15m | TAXI |
-(CLP 8.7M) Traslado en taxi (o bus Kyoto Bus) desde la estación Hankyu Arashiyama subiendo la montaña hacia el Templo Otagi Nenbutsu-ji.
+09:22 | 12m | TAXI |
+(CLP 8.7M) Traslado en taxi desde la estación Hankyu Arashiyama a Otagi Nenbutsu-ji (Google Maps: 8 min en auto; alternativa Kyoto Bus 94, sale a los :44 de cada hora, 19 min).
 https://www.google.com/maps/dir/Arashiyama+Station/Otagi+Nenbutsu-ji
 
-09:25 | 5m | WALK |
+09:34 | 6m | WALK |
 Llegada a la entrada y compra de tickets (aprox 4).
 
-09:30 | 45m | VISIT |
+09:40 | 45m | VISIT |
 Visita Otagi Nenbutsu-ji. Famoso por sus 1200 estatuas rakan cubiertas de musgo, cada una con expresiones divertidas y únicas.
 https://www.google.com/maps/place/Otagi+Nenbutsu-ji
 
-10:15 | 15m | WALK |
-Caminar bajando por la calle histórica Saga-Toriimoto (casas tradicionales de techo de paja).
+10:25 | 10m | WALK |
+Caminar bajando por la calle histórica Saga-Toriimoto (Google Maps: 8 min, 600 m).
 https://www.google.com/maps/dir/Otagi+Nenbutsu-ji/Adashino+Nenbutsu-ji
 
-10:30 | 45m | VISIT |
+10:35 | 45m | VISIT |
 Visita Adashino Nenbutsu-ji (aprox 3). Cuenta con un impresionante sendero de bambú propio en la parte posterior, sin multitudes y mucho más inmersivo.
 https://www.google.com/maps/place/Adashino+Nenbutsu-ji
 
-11:15 | 20m | WALK |
-Caminar cuesta abajo hacia el centro de Arashiyama y entrada norte del templo Tenryū-ji.
+11:20 | 27m | WALK |
+Caminar cuesta abajo hacia el centro de Arashiyama y Tenryū-ji (Google Maps: 22 min, 1,7 km).
 
-11:35 | 70m | VISIT |
+11:47 | 70m | VISIT |
 Visita templo Tenryū-ji y sus hermosos jardines paisajísticos (aprox 4).
 https://www.google.com/maps/place/Tenryu-ji
 
-12:45 | 15m | WALK |
-Caminar saliendo de Tenryū-ji hacia el centro de Arashiyama.
+12:57 | 5m | WALK |
+Caminar saliendo de Tenryū-ji al restaurante (Google Maps: 4 min, 300 m).
 
-13:00 | 85m | FOOD |
+13:02 | 85m | FOOD |
 Almuerzo en Arashiyama.
 https://www.google.com/maps/place/Arashiyama+Yoshimura
 
@@ -1469,39 +1474,39 @@ Option
 Yudofu Sagano
 Tofu hervido tradicional en hermoso jardín.
 
-14:25 | 10m | WALK |
-Caminar hacia el río Katsura.
+14:27 | 4m | WALK |
+Caminar hacia el río Katsura (Google Maps: 3 min).
 
-14:35 | 30m | VISIT |
+14:31 | 30m | VISIT |
 Paseo en barco tradicional por el río Katsura (aprox 10).
 https://www.google.com/maps/place/Togetsukyo+Bridge
 
-15:05 | 10m | WALK |
-Caminar hacia el Puente Togetsukyō y cruzar hacia el Parque de monos.
+15:01 | 4m | WALK |
+Caminar hacia el Puente Togetsukyō y cruzar a la entrada del Parque de monos (Google Maps: 3 min; la subida va dentro de la visita).
 
-15:15 | 90m | VISIT |
+15:05 | 90m | VISIT |
 Subida y visita al Parque de monos Iwatayama (aprox 4). (Nota: El acceso a la subida cierra a las 16:00, este horario es perfecto para llegar justo con la mejor luz de la tarde).
 https://www.google.com/maps/place/Iwatayama+Monkey+Park
 
-16:45 | 15m | WALK |
+16:35 | 10m | WALK |
 Caminar bajando del parque de regreso a la estación Arashiyama (Hankyu).
 
-17:00 | 10m | TRAIN |
-(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Katsura.
+16:45 | 13m | TRAIN |
+(CLP 1.2M) Tren Hankyu Arashiyama Line a estación Katsura (Google Maps: 40 min puerta a puerta hasta el hotel).
 
-17:10 | 5m | WALK |
+16:58 | 3m | WALK |
 Cambiar de andén.
 
-17:15 | 10m | TRAIN |
+17:01 | 14m | TRAIN |
 (CLP 1.2M) Tren Hankyu Kyoto Line a Karasuma.
 
-17:25 | 120m | BREAK |
+17:15 | 120m | BREAK |
 Caminar de estación Karasuma a MIMARU Kyoto Shinmachi Sanjo para recargar energías.
 
-19:25 | 10m | WALK |
-Caminar a sector de restaurantes.
+19:15 | 14m | WALK |
+Caminar a Honke Owariya (Google Maps: 11 min, 750 m). ⚠️ Google Maps lo marca como "cerrado según reportes": confirmar antes.
 
-19:35 | 80m | FOOD |
+19:29 | 80m | FOOD |
 Cena Soba.
 https://www.google.com/maps/place/Honke+Owariya
 
@@ -1534,38 +1539,38 @@ Opción A vs B: la opción A cambia Kiyomizu-dera, Sannenzaka/Ninenzaka y la tie
 - Gion: prohibido entrar y fotografiar en los callejones privados que salen de Hanamikoji (letreros con multa de hasta ¥10.000).
 Fuentes: [https://www.timeout.com/tokyo/news/kyotos-gion-geisha-district-bans-photos-on-private-streets-and-introduces-10-000-fine-102919|Prohibición en Gion (Time Out)]
 
-07:30 | 5m | WALK |
-Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
+07:25 | 9m | WALK |
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike (Google Maps: 7 min, 550 m).
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
-07:35 | 5m | TRAIN |
-(CLP 1.3M) Subway Tozai Line a Sanjo Keihan.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
+07:34 | 10m | TRAIN |
+(CLP 1.3M) Metro Karasuma Line a la estación de Kioto (Google Maps: 5 min, 3 paradas).
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Kyoto+Station
 
-07:40 | 10m | TRAIN |
-(CLP 1.3M) Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
-https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
+07:44 | 14m | TRAIN |
+(CLP 1.3M) Transbordo y tren JR Nara Line de Kioto a Inari (Google Maps: 6 min + espera; 24 min puerta a puerta, ¥370).
+https://www.google.com/maps/dir/Kyoto+Station/Inari+Station,+Kyoto
 
-07:50 | 10m | WALK |
-Caminar a la entrada principal.
+07:58 | 2m | WALK |
+Caminar a la entrada principal (frente a la estación JR Inari).
 
 08:00 | 150m | VISIT |
 Visita Fushimi Inari-taisha (miles de torii rojos).
 https://www.google.com/maps/place/Fushimi+Inari+Taisha
 
-10:30 | 6m | WALK |
+10:30 | 2m | WALK |
 Caminar a la estación JR Inari (frente a la entrada del santuario).
 https://www.google.com/maps/dir/Fushimi+Inari+Taisha/Inari+Station,+Kyoto
 
-10:36 | 29m | TRAIN |
+10:32 | 29m | TRAIN |
 (Tarifa por confirmar) Tren JR Nara Line de Inari a Ogura (Google Maps: ≈34 min puerta a puerta hasta el museo).
 https://www.google.com/maps/dir/Inari+Station,+Kyoto/Ogura+Station,+Uji
 
-11:05 | 12m | WALK |
+11:01 | 12m | WALK |
 Caminar de la estación JR Ogura al Nintendo Museum (≈10 min).
 https://www.google.com/maps/dir/Ogura+Station,+Uji/Nintendo+Museum,+Uji
 
-11:17 | 13m | WAIT |
+11:13 | 17m | WAIT |
 Margen para el ingreso con la entrada del sorteo (QR) y la franja horaria asignada.
 
 11:30 | 180m | VISIT |
@@ -1575,23 +1580,23 @@ https://www.google.com/maps/place/Nintendo+Museum,+Uji
 14:30 | 60m | FOOD |
 Almuerzo cerca de la estación Ogura (por definir).
 
-15:30 | 6m | WALK |
-Caminar a la estación Kintetsu Ogura (3-5 min desde el museo).
+15:30 | 10m | WALK |
+Caminar a la estación Kintetsu Ogura (Google Maps: 8 min, 500 m).
 https://www.google.com/maps/dir/Nintendo+Museum,+Uji/Kintetsu+Ogura+Station
 
-15:36 | 43m | TRAIN |
-(Tarifa por confirmar) Tren Kintetsu Kyoto Line a Tambabashi y transbordo a Keihan Main Line hasta Gion-Shijo (Google Maps: ≈50 min puerta a puerta del museo al Santuario Yasaka).
+15:40 | 26m | TRAIN |
+Tren Kintetsu Kyoto Line a Kintetsu-Tambabashi, transbordo a Keihan Main Line hasta Gion-Shijo (Google Maps: 40 min puerta a puerta al Santuario Yasaka, ¥560).
 https://www.google.com/maps/dir/Nintendo+Museum,+Uji/Yasaka+Shrine,+Kyoto
 
-16:19 | 9m | WALK |
-Caminar de la estación Gion-Shijo al Santuario Yasaka.
+16:06 | 14m | WALK |
+Caminar de la estación Gion-Shijo al Santuario Yasaka (Google Maps: 11 min, 650 m).
 https://www.google.com/maps/dir/Gion-Shijo+Station/Yasaka+Shrine
 
-16:28 | 45m | VISIT |
+16:20 | 45m | VISIT |
 Visita Santuario Yasaka.
 https://www.google.com/maps/place/Yasaka+Shrine
 
-17:13 | 72m | FREE |
+17:05 | 80m | FREE |
 Tiempo libre en Gion (Hanamikoji / Shirakawa): café o descanso antes del atardecer.
 https://www.google.com/maps/place/Gion
 
@@ -1599,10 +1604,10 @@ https://www.google.com/maps/place/Gion
 Caminar explorando el barrio de Gion al atardecer.
 https://www.google.com/maps/place/Gion
 
-19:25 | 15m | WALK |
-Caminar hacia el río y callejón Pontocho.
+19:25 | 10m | WALK |
+Caminar hacia el río y callejón Pontocho (Google Maps: ≈8 min).
 
-19:40 | 80m | FOOD |
+19:35 | 80m | FOOD |
 Cena Udón en Pontochō Alley.
 https://www.google.com/maps/place/Pontocho+Alley
 
@@ -1625,46 +1630,46 @@ image3: Sannenzaka_Ninenzaka.png [Calles Tradicionales Sannenzaka y Ninenzaka]
 - Gion: prohibido entrar y fotografiar en los callejones privados que salen de Hanamikoji (letreros con multa de hasta ¥10.000).
 Fuentes: [https://www.timeout.com/tokyo/news/kyotos-gion-geisha-district-bans-photos-on-private-streets-and-introduces-10-000-fine-102919|Prohibición en Gion (Time Out)]
 
-07:30 | 5m | WALK |
-Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike.
+07:25 | 9m | WALK |
+Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Karasuma Oike (Google Maps: 7 min, 550 m).
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Karasuma-Oike+Station
 
-07:35 | 5m | TRAIN |
-(CLP 1.3M) Subway Tozai Line a Sanjo Keihan.
-https://www.google.com/maps/dir/Karasuma-Oike+Station/Sanjo+Keihan+Station
+07:34 | 10m | TRAIN |
+(CLP 1.3M) Metro Karasuma Line a la estación de Kioto (Google Maps: 5 min, 3 paradas).
+https://www.google.com/maps/dir/Karasuma-Oike+Station/Kyoto+Station
 
-07:40 | 10m | TRAIN |
-(CLP 1.3M) Tren Keihan Main Line (de Sanjo) a estación Fushimi-Inari.
-https://www.google.com/maps/dir/Sanjo+Station/Fushimi-Inari+Station
+07:44 | 14m | TRAIN |
+(CLP 1.3M) Transbordo y tren JR Nara Line de Kioto a Inari (Google Maps: 6 min + espera; 24 min puerta a puerta, ¥370).
+https://www.google.com/maps/dir/Kyoto+Station/Inari+Station,+Kyoto
 
-07:50 | 10m | WALK |
-Caminar a la entrada principal.
+07:58 | 2m | WALK |
+Caminar a la entrada principal (frente a la estación JR Inari).
 
 08:00 | 150m | VISIT |
 Visita Fushimi Inari-taisha (miles de torii rojos).
 https://www.google.com/maps/place/Fushimi+Inari+Taisha
 
-10:30 | 10m | WALK |
-Caminar a estación Fushimi-Inari.
+10:30 | 6m | WALK |
+Caminar a estación Keihan Fushimi-Inari (Google Maps: 5 min, 350 m).
 
-10:40 | 10m | TRAIN |
-(CLP 1.3M) Tren Keihan Main Line a estación Kiyomizu-Gojo.
+10:36 | 12m | TRAIN |
+(CLP 1.3M) Tren Keihan Main Line a estación Kiyomizu-Gojo (Google Maps: 7 min, 4 paradas).
 https://www.google.com/maps/dir/Fushimi-Inari+Station/Kiyomizu-Gojo+Station
 
-10:50 | 15m | WALK |
+10:48 | 18m | WALK |
 Caminar en subida hacia tienda de alquiler en Higashiyama.
 
-12:05 | 20m | WALK |
+12:06 | 24m | WALK |
 Caminar cuesta arriba hacia el templo.
 
-12:25 | 90m | VISIT |
+12:30 | 90m | VISIT |
 Visita Kiyomizu-dera (~4 USD).
 https://www.google.com/maps/place/Kiyomizu-dera
 
-13:55 | 15m | WALK |
-Caminar bajando por la ladera de Sannenzaka.
+14:00 | 4m | WALK |
+Caminar bajando por la ladera de Sannenzaka (Google Maps: 3 min).
 
-14:10 | 60m | FOOD |
+14:04 | 60m | FOOD |
 Almuerzo en la zona tradicional.
 https://www.google.com/maps/place/Kani+Doraku+Dotombori+Honten
 
@@ -1672,12 +1677,12 @@ Option
 Omen Kodai-ji
 Udon tradicional de alta calidad.
 
-15:10 | 120m | VISIT |
+15:04 | 124m | VISIT |
 Caminar por Sannenzaka y Ninenzaka.
 https://www.google.com/maps/place/Sannenzaka
 
-17:10 | 15m | WALK |
-Caminar a Santuario Yasaka.
+17:08 | 17m | WALK |
+Caminar a Santuario Yasaka (Google Maps: 14 min, 1,1 km).
 
 17:25 | 45m | VISIT |
 Visita Santuario Yasaka.
@@ -1687,10 +1692,10 @@ https://www.google.com/maps/place/Yasaka+Shrine
 Caminar explorando el barrio de Gion al atardecer.
 https://www.google.com/maps/place/Gion
 
-19:25 | 15m | WALK |
-Caminar hacia el río y callejón Pontocho.
+19:25 | 10m | WALK |
+Caminar hacia el río y callejón Pontocho (Google Maps: ≈8 min).
 
-19:40 | 80m | FOOD |
+19:35 | 80m | FOOD |
 Cena Udón en Pontochō Alley.
 https://www.google.com/maps/place/Pontocho+Alley
 
@@ -1712,11 +1717,11 @@ image2: Parque_Ghibli2.png [Gran Almacén de Ghibli]
 - Venta: 10-ene 14:00 hora Japón = 10-ene 02:00 hora Chile (mismo día que el Museo Ghibli). El Gran Almacén tiene horario asignado; piden pasaporte.
 Fuentes: [https://ghibli-park.jp/en/info/info20250614.html|Parque Ghibli horarios (oficial)] · [https://ghibli-park.jp/en/info/info20240509.html|Parque Ghibli venta de tickets (oficial)]
 
-07:15 | 15m | TAXI |
+07:12 | 15m | TAXI |
 (CLP 8.7M) Traslado en taxi desde MIMARU Kyoto Shinmachi Sanjo hacia la Estación de Kioto.
 https://www.google.com/maps/dir/MIMARU+Kyoto+Shinmachi+Sanjo/Kyoto+Station
 
-07:30 | 15m | WALK |
+07:27 | 18m | WALK |
 Caminar a los andenes de Shinkansen dentro de la Estación de Kioto.
 https://www.google.com/maps/place/Kyoto+Station
 
@@ -1724,46 +1729,42 @@ https://www.google.com/maps/place/Kyoto+Station
 (CLP 30M) Tren Shinkansen (Nozomi / Hikari) Estación de Kioto → Estación de Nagoya.
 https://www.google.com/maps/dir/Kyoto+Station/Nagoya+Station
 
-08:20 | 10m | WALK |
-Trasbordo interno en Nagoya hacia la línea de metro Higashiyama.
-https://www.google.com/maps/place/Nagoya+Station
+08:20 | 4m | WALK |
+Caminar al Meitetsu Bus Center (andén 24) (Google Maps: 3 min, 210 m).
+https://www.google.com/maps/dir/Nagoya+Station/Meitetsu+Bus+Center
 
-08:30 | 28m | TRAIN |
-(CLP 1.3M) Metro Higashiyama Line: Estación de Nagoya → Estación Fujigaoka.
-https://www.google.com/maps/dir/Nagoya+Station/Fujigaoka+Station
+08:24 | 16m | WAIT |
+Espera del bus 109 en el Meitetsu Bus Center.
 
-08:58 | 5m | WALK |
-Cambio de andén hacia la línea de tren Linimo en Fujigaoka.
+08:40 | 45m | BUS |
+(CLP 1.3M) Bus Meitetsu 109 directo de Meitetsu Bus Center a Ai-Chikyuhaku-Kinen-Koen (Google Maps: 40 min; salidas 08:40, 08:47, 08:57; ¥1.200).
+https://www.google.com/maps/dir/Meitetsu+Bus+Center/Ghibli+Park
 
-09:03 | 13m | TRAIN |
-(CLP 2.1M) Tren Linimo: Fujigaoka → Estación Ai-Chikyuhaku Kinen Koen.
-https://www.google.com/maps/dir/Fujigaoka+Station/Ghibli+Park
-
-09:16 | 14m | WALK |
-Caminar desde la estación hacia el acceso principal del Parque Ghibli.
+09:25 | 8m | WALK |
+Caminar desde la parada hacia el acceso principal del Parque Ghibli (Google Maps: 6 min, 450 m).
 https://www.google.com/maps/place/Ghibli+Park
 
-09:30 | 180m | VISIT |
+09:33 | 180m | VISIT |
 Recorrido matutino por las áreas principales del Parque Ghibli (Gran Almacén de Ghibli, Valle de las Brujas).
 https://www.google.com/maps/place/Ghibli+Park
 
-12:30 | 60m | FOOD |
+12:33 | 60m | FOOD |
 Almuerzo dentro del parque en cafeterías o puestos temáticos.
 https://www.google.com/maps/place/Ghibli+Park
 
-13:30 | 150m | VISIT |
+13:33 | 133m | VISIT |
 Recorrido de la tarde (Colina de la Juventud, Bosque Dondoko, Aldea Mononoke) y compras de souvenirs exclusivos.
 https://www.google.com/maps/place/Ghibli+Park
 
-16:00 | 10m | WALK |
-Caminar de regreso a la estación de tren Linimo Ai-Chikyuhaku Kinen Koen.
+15:46 | 12m | WALK |
+Caminar de regreso a la estación Linimo Ai-Chikyuhaku-Kinen-Koen (Google Maps: 10 min, 650 m).
 
-16:10 | 15m | TRAIN |
-(CLP 2.1M) Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka.
+15:58 | 19m | TRAIN |
+(CLP 2.1M) Tren Linimo: Ai-Chikyuhaku Kinen Koen → Fujigaoka (Google Maps: 14 min).
 https://www.google.com/maps/dir/Ghibli+Park/Fujigaoka+Station
 
-16:25 | 30m | TRAIN |
-(CLP 1.3M) Metro Higashiyama Line: Fujigaoka → Estación de Nagoya.
+16:17 | 38m | TRAIN |
+(CLP 1.3M) Metro Higashiyama Line: Fujigaoka → Estación de Nagoya (Google Maps: 28 min + transbordo; 57 min puerta a puerta).
 https://www.google.com/maps/dir/Fujigaoka+Station/Nagoya+Station
 
 16:55 | 20m | SHOP |
@@ -2151,7 +2152,7 @@ FREE
 https://www.google.com/maps/place/Shijo+Dori+Kyoto
 
 12:00 | 57m | FOOD |
-Almuerzo libre cerca del hospedaje. [Acortado 3 min para absorber los colchones y mantener las reservas]
+Almuerzo libre cerca del hospedaje.
 
 12:57 | 15m | HOTEL |
 Caminar al MIMARU Kyoto Shinmachi Sanjo y recoger maletas de las 5 personas.
@@ -2170,20 +2171,20 @@ https://www.google.com/maps/dir/Kyoto+Station/Shin-Osaka+Station
 14:05 | 12m | WALK |
 Caminar a andenes de metro Midosuji.
 
-14:17 | 25m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+14:17 | 21m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda, caminar a Higashi-Umeda y Tanimachi Line hasta Temmabashi (Google Maps: 20 min, ¥240).
 https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-14:42 | 5m | WALK |
-Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae y Check-in (4 min).
+14:38 | 4m | WALK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae y Check-in (Google Maps: 3 min, 250 m).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-15:00 | 192m | FREE |
-FREE [Acortado 18 min para absorber los colchones y mantener las reservas]
+14:55 | 198m | FREE |
+FREE
 
-18:12 | 28m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Sennichimae Line hacia Dōtonbori / Namba (Google Maps: 22 min puerta a puerta).
-https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
+18:13 | 27m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, metro Tanimachi Line a Tanimachi 9-chome y Sennichimae Line a Namba (Google Maps: 20 min puerta a puerta al cartel de Glico, ¥240).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Glico+Man+Sign
 
 18:40 | 20m | PHOTO |
 Caminar buscando el cartel de Glico Man. (mover a otro dia??)
@@ -2208,8 +2209,8 @@ image4: Kushikatsu.png [Almuerzo de Brochetas Kushikatsu]
 ⚠️ Restricciones detectadas:
 - Barco Dōtonbori aprox. 11:00–21:00 (se suspende con mal tiempo). Tsūtenkaku 10:00–20:00.
 
-10:28 | 32m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro hacia Shinsaibashi (Keihan + Midosuji Line; Google Maps: 26 min puerta a puerta).
+10:34 | 26m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Keihan a Yodoyabashi y Midosuji Line a Shinsaibashi (Google Maps: 21 min, ¥370).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shinsaibashi-suji+Shopping+Street
 
 11:00 | 120m | SHOP |
@@ -2224,51 +2225,51 @@ Option
 Kani Doraku
 Sucursal Shinsaibashi, menú mediodía de cangrejo.
 
-14:30 | 12m | WALK |
-Caminar al canal.
+14:30 | 4m | WALK |
+Caminar al muelle del canal (Google Maps: 3 min, 230 m).
 
-14:42 | 30m | VISIT |
+14:34 | 30m | VISIT |
 Paseo en bote por el canal Dōtonbori (~900 JPY).
 https://www.google.com/maps/place/Tonbori+River+Cruise
 
-15:12 | 12m | WALK |
-Caminar a estación metro Namba.
+15:04 | 12m | WALK |
+Caminar a la estación Nippombashi (Google Maps: 10 min, 550 m).
 
-15:24 | 10m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line a estación Dobutsuen-mae.
-https://www.google.com/maps/dir/Namba+Station/Dobutsuen-mae+Station
+15:16 | 6m | TRAIN |
+(CLP 1.4M) Metro Sakaisuji Line de Nippombashi a Ebisucho (1 parada) (Google Maps: 16 min puerta a puerta).
+https://www.google.com/maps/dir/Tonbori+River+Cruise/Tsutenkaku
 
-15:34 | 12m | WALK |
-Caminar hacia barrio Shinsekai.
+15:22 | 6m | WALK |
+Caminar hacia barrio Shinsekai y la torre (Google Maps: 5 min, 400 m).
 
-15:46 | 25m | VISIT |
+15:28 | 25m | VISIT |
 Caminar y subir a torre Tsūtenkaku.
 https://www.google.com/maps/place/Tsutenkaku
 
-16:11 | 120m | VISIT |
+15:53 | 120m | VISIT |
 Exploración de Shinsekai y bajada de la torre.
 https://www.google.com/maps/place/Shinsekai
 
-18:11 | 90m | PHOTO |
+17:53 | 90m | PHOTO |
 Caminar aprovechando los neones y la vibra retro para tomar fotos.
 
-19:41 | 60m | FOOD |
+19:23 | 60m | FOOD |
 Cena Kushikatsu en Shinsekai.
-https://www.google.com/maps/place/Kushikatsu+Daruma+Kyoto
+https://www.google.com/maps/place/Kushikatsu+Daruma+Shinsekai
 
 Option
 Kushikatsu Daruma Shinsekai Sohonten
 Local emblemático de brochetas fritas en Shinsekai.
 
-20:41 | 12m | WALK |
-Caminar a estación Dobutsuen-mae.
+20:23 | 18m | WALK |
+Caminar a la estación Tennoji (Tanimachi Line) (Google Maps: 15 min, 1,0 km; alternativa Sakaisuji + Keihan desde Ebisucho, 24 min).
 
-20:53 | 20m | TRAIN |
-(CLP 1.4M) Metro de regreso desde Dobutsuen-mae hacia Temmabashi (Sakaisuji Line con tramo Keihan; Google Maps, sentido inverso: 19 min puerta a puerta).
-https://www.google.com/maps/dir/Dobutsuen-mae+Station/Temmabashi+Station,+Osaka
+20:41 | 13m | TRAIN |
+(CLP 1.4M) Metro Tanimachi Line de Tennoji a Temmabashi (Google Maps: 26 min puerta a puerta).
+https://www.google.com/maps/dir/Tennoji+Station/Temmabashi+Station,+Osaka
 
-21:13 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+20:54 | 4m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (Google Maps: 3 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
@@ -2286,8 +2287,8 @@ image4: Hard_Rock_Cafe.png [Cena en Hard Rock Cafe Osaka]
 ⚠️ Restricciones detectadas:
 - Entrada con fecha fija. Super Nintendo World requiere Express Pass o ticket de horario en la app. Horario de apertura varía por día.
 
-05:54 | 48m | TRAIN |
-(CLP 1.3M) Caminar a la estación Temmabashi (4 min), Keihan Main Line → JR Osaka Loop Line (transbordo) → JR Yumesaki Line hasta Universal City (Google Maps: 42 min puerta a puerta).
+06:06 | 36m | TRAIN |
+(CLP 1.3M) Caminar a la estación Temmabashi, Keihan a Kyobashi y tren directo JR Loop/Yumesaki hasta Universal City (Google Maps: 36 min, ¥420).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Universal-City+Station
 
 06:42 | 18m | WALK |
@@ -2306,10 +2307,10 @@ Almuerzo en restaurantes del parque.
 14:00 | 360m | VISIT |
 Tarde completa de montañas rusas y desfiles.
 
-20:00 | 12m | WALK |
-Caminar saliendo del parque hacia Universal CityWalk.
+20:00 | 4m | WALK |
+Caminar saliendo del parque hacia Universal CityWalk (Google Maps: 3 min).
 
-20:12 | 80m | FOOD |
+20:04 | 80m | FOOD |
 Cena en Universal CityWalk.
 https://www.google.com/maps/place/Universal+CityWalk+Osaka
 
@@ -2317,15 +2318,15 @@ Option
 Hard Rock Cafe Osaka Universal
 Ubicado en Universal CityWalk.
 
-21:32 | 6m | WALK |
-Caminar a estación Universal City.
+21:24 | 5m | WALK |
+Caminar a estación Universal City (Google Maps: 4 min).
 
-21:38 | 43m | TRAIN |
-(CLP 1.3M) Tren JR Yumesaki Line → JR Osaka Loop Line → Keihan Main Line hasta Temmabashi (Google Maps, sentido inverso: ≈42 min puerta a puerta).
+21:29 | 31m | TRAIN |
+(CLP 1.3M) Tren directo JR Yumesaki/Loop a Kyobashi y Keihan a Temmabashi (Google Maps: 37 min puerta a puerta, ¥420).
 https://www.google.com/maps/dir/Universal-City+Station/Temmabashi+Station,+Osaka
 
-22:21 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+22:00 | 4m | WALK |
+Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (Google Maps: 3 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
@@ -2346,35 +2347,35 @@ image4: Santuario_KasugaTaisha.png [Santuario Kasuga Taisha y Linternas de Bronc
 Fuentes: [https://japan-guide.com/event/construction.html|Obras Kōfuku-ji (japan-guide)]
 
 08:40 | 5m | WALK |
-Caminar del Hotel Keihan Tenmabashi Ekimae a la estación Temmabashi (4 min).
+Caminar del Hotel Keihan Tenmabashi Ekimae a la estación Temmabashi (Google Maps: 4 min, 250 m).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Temmabashi+Station,+Osaka
 
 08:45 | 52m | TRAIN |
-(CLP 4M) Metro Tanimachi Line con transbordo a Kintetsu Nara Line hasta la estación Kintetsu-Nara (Google Maps: 51 min puerta a puerta; reemplaza el tren rápido desde Kintetsu-Nipponbashi).
+(CLP 4M) Metro Tanimachi Line a Tanimachi 9-chome, caminar a Osaka-Uehommachi y Kintetsu Nara Line (Rapid Express) a Kintetsu-Nara (Google Maps: 49 min puerta a puerta, ¥870).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Kintetsu-Nara+Station
 
-09:37 | 18m | WALK |
-Caminar hacia el gran parque.
+09:37 | 8m | WALK |
+Caminar hacia el gran parque (Google Maps: 6 min, 450 m).
 
-09:55 | 60m | VISIT |
+09:45 | 60m | VISIT |
 Caminar por Parque de Nara (interacción con ciervos).
 https://www.google.com/maps/place/Nara+Park
 
-10:55 | 18m | WALK |
-Caminar hacia complejo religioso.
+10:45 | 6m | WALK |
+Caminar hacia Kōfuku-ji (Google Maps: ≈4-5 min).
 
-11:13 | 30m | VISIT |
+10:51 | 30m | VISIT |
 Visitar pagoda de cinco pisos de Kōfuku-ji.
 https://www.google.com/maps/place/Kofuku-ji
 
-11:43 | 18m | WALK |
-Caminar hacia el pabellón principal.
+11:21 | 14m | WALK |
+Caminar hacia Tōdai-ji (Google Maps: 11 min, 800 m).
 
-12:01 | 60m | VISIT |
+11:35 | 60m | VISIT |
 Visitar Tōdai-ji (Gran Buda).
 https://www.google.com/maps/place/Todai-ji
 
-13:01 | 75m | FOOD |
+12:35 | 75m | FOOD |
 Almuerzo en los alrededores.
 https://www.google.com/maps/place/Shizuka+Nara
 
@@ -2382,29 +2383,29 @@ Option
 Kamameshi Shizuka
 Arroz en olla de hierro tradicional.
 
-14:16 | 18m | WALK |
+13:50 | 18m | WALK |
 Caminar por sendero boscoso hacia santuario.
 
-14:34 | 60m | VISIT |
+14:08 | 60m | VISIT |
 Visitar Kasuga Taisha.
 https://www.google.com/maps/place/Kasuga+Taisha
 
-15:34 | 36m | WALK |
+15:08 | 36m | WALK |
 Caminar de regreso por el parque hasta la estación.
 
-16:10 | 52m | TRAIN |
-(CLP 4M) Tren Kintetsu Nara Line con transbordo a Tanimachi Line de regreso hasta Temmabashi (Google Maps, sentido inverso: ≈51 min puerta a puerta).
+15:44 | 57m | TRAIN |
+(CLP 4M) Tren Kintetsu Nara Line (Rapid Express) a Osaka-Uehommachi, caminar a Tanimachi 9-chome y Tanimachi Line a Temmabashi (Google Maps: 1 h 09 min desde Kasuga Taisha, ¥870).
 https://www.google.com/maps/dir/Kintetsu-Nara+Station/Temmabashi+Station,+Osaka
 
-17:02 | 100m | BREAK |
-Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min) y descansar la tarde. [Acortado 55 min para absorber los colchones y mantener las reservas]
+16:41 | 100m | BREAK |
+Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min) y descansar la tarde.
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-18:42 | 28m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Sennichimae Line a Dōtonbori para la cena (Google Maps: 22 min puerta a puerta).
+18:21 | 26m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Tanimachi Line a Tanimachi 9-chome y Sennichimae Line a Nippombashi (Google Maps: 20 min puerta a puerta a Dotonbori Imai).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
 
-19:10 | 80m | FOOD |
+18:47 | 80m | FOOD |
 Cena Kitsune Udon de regreso en Osaka.
 https://www.google.com/maps/place/Dotonbori+Imai
 
@@ -2432,55 +2433,55 @@ Castillo de Osaka esta remodelado con cemento, no recomiendan entrar. Mejor entr
 - Jardín Gokuraku-jōdo (Shitennō-ji) oct–mar: 8:30–16:00. Sin conflicto.
 Fuentes: [https://www.osakastation.com/shitennoji-temple/|Shitennō-ji (Osaka Station)]
 
-08:59 | 11m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line (1 parada) hasta Tanimachi 4-chome, acceso al Castillo de Osaka (Google Maps: 5 min puerta a puerta).
-https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Tanimachi+4-chome+Station
+08:59 | 28m | WALK |
+Caminar del hotel al Castillo de Osaka (Google Maps: 23 min, 1,6 km; el bus 62 no ahorra tiempo).
+https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Osaka+Castle
 
-09:10 | 40m | VISIT |
+09:27 | 40m | VISIT |
 Caminar por los jardines del foso y visitar el exterior del Castillo de Osaka (fotografías de la fachada sin ingresar).
 https://www.google.com/maps/place/Osaka+Castle
 
-09:50 | 18m | WALK |
-Caminar de regreso a la estación Tanimachi 4-chome.
+10:07 | 24m | WALK |
+Caminar a la estación Tanimachi 4-chome (Google Maps: 20 min, 1,4 km).
 
-10:08 | 10m | TRAIN |
-(CLP 1.5M) Metro Tanimachi Line en dirección sur hasta la estación Shitennoji-mae Yuhigaoka (sólo 3 paradas).
+10:31 | 10m | TRAIN |
+(CLP 1.5M) Metro Tanimachi Line a Shitennoji-mae Yuhigaoka (Google Maps: 5 min; 29 min puerta a puerta).
 
-10:18 | 12m | WALK |
-Caminar hacia la entrada del complejo Shitennō-ji.
+10:41 | 5m | WALK |
+Caminar a la entrada de Shitennō-ji (Google Maps: 4 min, 350 m).
 
-10:30 | 70m | VISIT |
+10:46 | 70m | VISIT |
 (CLP 1.8M) Visitar el templo Shitennō-ji (el templo budista oficial más antiguo de Japón) y recorrer el hermoso y pacífico jardín Gokuraku-jōdo (entrada aprox 300 JPY).
 https://www.google.com/maps/place/Shitennoji
 
-11:40 | 12m | WALK |
-Caminar de regreso a la estación Shitennoji-mae Yuhigaoka.
+11:56 | 9m | WALK |
+Caminar a la estación Shitennoji-mae Yuhigaoka (Google Maps: 7 min).
 
-11:52 | 25m | TRAIN |
-(CLP 1.8M) Metro Tanimachi Line directo hacia el norte hasta la estación Higashi-Umeda.
+12:05 | 17m | TRAIN |
+(CLP 1.8M) Metro Tanimachi Line directo a Higashi-Umeda (Google Maps: 12 min; 25 min puerta a puerta).
 https://www.google.com/maps/dir/Shitennoji-mae+Yuhigaoka+Station/Higashi-Umeda+Station
 
-12:17 | 12m | WALK |
-Caminar al sector comercial norte de Umeda.
+12:22 | 8m | WALK |
+Caminar al sector comercial de Umeda (Google Maps: 6 min).
 
-12:29 | 80m | FOOD |
+12:30 | 80m | FOOD |
 Almuerzo libre en el área.
 
-13:49 | 150m | SHOP |
+13:50 | 150m | SHOP |
 Caminar por centros comerciales y arquitectura de Umeda.
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-16:19 | 18m | WALK |
-Caminar hacia Umeda Sky Building.
+16:20 | 18m | WALK |
+Caminar hacia Umeda Sky Building (Google Maps: 15 min, 1,1 km desde HEP FIVE).
 
-16:37 | 120m | VISIT |
+16:38 | 120m | VISIT |
 Subir a observatorio flotante al atardecer.
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-18:37 | 18m | WALK |
-Caminar bajando al nivel de calle.
+18:38 | 15m | WALK |
+Caminar al izakaya (Google Maps: 12 min, 850 m).
 
-18:55 | 75m | FOOD |
+18:53 | 75m | FOOD |
 Cena izakaya moderno en Umeda.
 https://www.google.com/maps/place/Isaribi+Umeda
 
@@ -2488,15 +2489,15 @@ Option
 Isaribi
 Robatayaki japonés en Umeda.
 
-20:10 | 12m | WALK |
-Caminar a estación metro Umeda.
+20:08 | 9m | WALK |
+Caminar a la estación Umeda (Midosuji) (Google Maps: 7 min).
 
-20:22 | 16m | TRAIN |
-(CLP 1.4M) Metro Tanimachi Line de Higashi-Umeda a Temmabashi (Google Maps: 15 min puerta a puerta, incluye la caminata final).
-https://www.google.com/maps/dir/Umeda+Station,+Osaka/Temmabashi+Station,+Osaka
+20:17 | 14m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line a Yodoyabashi y Keihan a Temmabashi (Google Maps: 21 min puerta a puerta, ¥370).
+https://www.google.com/maps/dir/Isaribi+Umeda/Hotel+Keihan+Tenmabashi+Ekimae
 
-20:38 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+20:31 | 3m | WALK |
+Caminar de la estación Temmabashi de regreso al hotel (Google Maps: 2 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 
@@ -2515,31 +2516,31 @@ Versión tranquila: mañana libre (dormir hasta tarde, lavar ropa) y sin Castill
 09:00 | 150m | BREAK |
 Mañana libre en el hotel: dormir hasta tarde, lavar ropa y desayunar con calma antes del día largo a Hiroshima.
 
-11:30 | 21m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line hasta Higashi-Umeda (Google Maps: 15 min puerta a puerta).
+11:30 | 25m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Keihan a Yodoyabashi y Midosuji Line a Umeda (Google Maps: ≈21 min).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Umeda+Station,+Osaka
 
-11:51 | 12m | WALK |
+11:55 | 12m | WALK |
 Caminar al sector comercial norte de Umeda.
 
-12:03 | 80m | FOOD |
+12:07 | 80m | FOOD |
 Almuerzo libre en el área.
 
-13:23 | 145m | SHOP |
+13:27 | 145m | SHOP |
 Caminar por centros comerciales y arquitectura de Umeda (en HEP Five hay una noria).
 https://www.google.com/maps/place/HEP+FIVE
 
-15:48 | 18m | WALK |
-Caminar hacia Umeda Sky Building.
+15:52 | 18m | WALK |
+Caminar hacia Umeda Sky Building (Google Maps: 15 min, 1,1 km desde HEP FIVE).
 
-16:06 | 120m | VISIT |
+16:10 | 120m | VISIT |
 Subir al observatorio flotante (Kuchu Teien) y quedarse hasta que se ponga el sol (cerca de las 18:00; confirmar la hora).
 https://www.google.com/maps/place/Umeda+Sky+Building
 
-18:06 | 18m | WALK |
-Caminar bajando al nivel de calle.
+18:10 | 15m | WALK |
+Caminar al izakaya (Google Maps: 12 min, 850 m).
 
-18:24 | 60m | FOOD |
+18:25 | 60m | FOOD |
 Cena izakaya moderno en Umeda.
 https://www.google.com/maps/place/Isaribi+Umeda
 
@@ -2547,15 +2548,15 @@ Option
 Isaribi
 Robatayaki japonés en Umeda.
 
-19:24 | 12m | WALK |
-Caminar a estación metro Umeda.
+19:25 | 9m | WALK |
+Caminar a la estación Umeda (Midosuji) (Google Maps: 7 min).
 
-19:36 | 16m | TRAIN |
-(CLP 1.4M) Metro Tanimachi Line de Higashi-Umeda a Temmabashi (Google Maps: 15 min puerta a puerta, incluye la caminata final).
-https://www.google.com/maps/dir/Umeda+Station,+Osaka/Temmabashi+Station,+Osaka
+19:34 | 14m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line a Yodoyabashi y Keihan a Temmabashi (Google Maps: 21 min puerta a puerta, ¥370).
+https://www.google.com/maps/dir/Isaribi+Umeda/Hotel+Keihan+Tenmabashi+Ekimae
 
-19:52 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+19:48 | 3m | WALK |
+Caminar de la estación Temmabashi de regreso al hotel (Google Maps: 2 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
@@ -2578,8 +2579,8 @@ De acuerdo con las predicciones de las tablas de mareas para Miyajima el 11 de m
 ⚠️ Restricciones detectadas:
 - Itsukushima: 6:30–18:00. El torii 'flota' solo con marea alta: revisar tabla de mareas. Impuesto de visitante Miyajima ¥100.
 
-07:23 | 30m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+07:25 | 28m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Keihan a Yodoyabashi y Midosuji Line a Shin-Osaka (Google Maps: 24 min, ¥420).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
 07:53 | 12m | WALK |
@@ -2589,43 +2590,44 @@ Caminar a andenes de Shinkansen.
 (CLP 58M) Tren Shinkansen a Hiroshima.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Hiroshima+Station
 
-09:35 | 12m | WALK |
-Caminar a parada de tranvía en la plaza exterior.
+09:35 | 3m | WALK |
+Caminar a la parada de tranvía en la plaza exterior (Google Maps: 2 min).
 
-09:47 | 20m | BUS |
-(CLP 1.3M) Tranvía (Hiroden) a parada Genbaku Dome-mae.
+09:38 | 20m | BUS |
+(CLP 1.3M) Tranvía Hiroden línea 6 a Genbaku Dome-mae (Google Maps: 15 min, ¥240).
 https://www.google.com/maps/dir/Hiroshima+Station/Atomic+Bomb+Dome
 
-10:07 | 6m | WALK |
-Caminar a la Cúpula de la Bomba Atómica.
+09:58 | 2m | WALK |
+Caminar a la Cúpula de la Bomba Atómica (Google Maps: 1 min).
 
-10:13 | 150m | VISIT |
+10:00 | 150m | VISIT |
 Caminar por el Parque y Museo de la Paz.
 https://www.google.com/maps/place/Hiroshima+Peace+Memorial+Museum
 
-12:43 | 12m | WALK |
-Caminar a estación de tranvía Genbaku Dome-mae.
+12:30 | 12m | WALK |
+Caminar a la estación Hondori (Astram Line) (Google Maps: 10 min, 700 m).
+https://www.google.com/maps/dir/Hiroshima+Peace+Memorial+Museum/Miyajimaguchi+Station
 
-12:55 | 20m | BUS |
-(CLP 1.3M) Tranvía a estación Yokogawa.
+12:42 | 9m | TRAIN |
+(CLP 1.3M) Astram Line de Hondori a Shin-Hakushima (Google Maps: 4 min).
 
-13:15 | 6m | WALK |
-Caminar a andén JR.
+12:51 | 4m | WALK |
+Caminar al andén JR en Shin-Hakushima (Google Maps: 3 min).
 
-13:21 | 30m | TRAIN |
-(CLP 2.4M) Tren local JR a estación Miyajimaguchi.
+12:55 | 29m | TRAIN |
+(CLP 2.4M) Tren JR Sanyo Line a Miyajimaguchi (Google Maps: 24 min; 45 min puerta a puerta, ¥550).
 
-13:51 | 6m | WALK |
-Caminar a terminal de ferrys.
+13:24 | 4m | WALK |
+Caminar a terminal de ferrys (Google Maps: 3 min, 210 m).
 
-13:57 | 10m | VISIT |
+13:28 | 10m | VISIT |
 (CLP 1.2M) Ferry a Miyajima.
 https://www.google.com/maps/dir/Miyajimaguchi+Station/Miyajima
 
-14:07 | 12m | WALK |
-Caminar ingresando a la isla.
+13:38 | 9m | WALK |
+Caminar al restaurante (Google Maps: 7 min, 500 m).
 
-14:19 | 60m | FOOD |
+13:47 | 60m | FOOD |
 Almuerzo probando comida tradicional de la zona.
 https://www.google.com/maps/place/Kakiya+Miyajima
 
@@ -2633,26 +2635,26 @@ Option
 Kakiya
 Especialistas en ostras asadas en Miyajima.
 
-15:19 | 120m | VISIT |
+14:47 | 120m | VISIT |
 Caminar hacia Santuario Itsukushima (torii flotante).
 https://www.google.com/maps/place/Itsukushima+Shrine
 
-17:19 | 18m | WALK |
-Caminar a terminal de ferrys.
+16:47 | 14m | WALK |
+Caminar a terminal de ferrys (Google Maps: 11 min, 800 m).
 
-17:37 | 10m | VISIT |
+17:01 | 10m | VISIT |
 (CLP 1.2M) Ferry de regreso a Miyajimaguchi.
 
-17:47 | 6m | WALK |
+17:11 | 6m | WALK |
 Caminar a estación de tren JR.
 
-17:53 | 35m | TRAIN |
-(CLP 1.3M) Tren local JR a estación Hiroshima.
+17:17 | 35m | TRAIN |
+(CLP 1.3M) Tren local JR Sanyo Line a estación Hiroshima (Google Maps: 30 min; 17:49 o 18:03).
 
-18:28 | 12m | WALK |
+17:52 | 12m | WALK |
 Caminar hacia centro comercial anexo a la estación (ekie).
 
-18:40 | 75m | FOOD |
+18:04 | 75m | FOOD |
 Cena Okonomiyaki estilo Hiroshima.
 https://www.google.com/maps/place/Micchan+Sohonten+ekie
 
@@ -2660,22 +2662,22 @@ Option
 Micchan Sohonten
 Dentro del centro comercial ekie en la estación.
 
-19:55 | 12m | WALK |
+19:19 | 12m | WALK |
 Caminar a andenes de Shinkansen.
 
-20:07 | 90m | TRAIN |
+19:31 | 90m | TRAIN |
 (CLP 8.4M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Hiroshima+Station/Shin-Osaka+Station
 
-21:37 | 12m | WALK |
+21:01 | 3m | WALK |
 Caminar a andén de metro Midosuji.
 
-21:49 | 25m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+21:04 | 21m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line a Umeda, caminar a Higashi-Umeda y Tanimachi Line a Temmabashi (Google Maps: 19 min, ¥240).
 https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-22:14 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+21:25 | 4m | WALK |
+Caminar de la estación Temmabashi de regreso al hotel (Google Maps: 3 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
@@ -2696,8 +2698,8 @@ image4: Acuario_Kaiyukan.png [Acuario de Osaka Kaiyukan]
 - Día largo: con el tren de regreso desde Himeji, el acuario empieza a las 15:40 y la cena termina cerca de las 21:00. Si cansa, usar la opción B (sin acuario).
 Fuentes: [https://www.himejicastle.jp/en|Castillo de Himeji (oficial)]
 
-07:43 | 30m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+07:45 | 28m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Keihan a Yodoyabashi y Midosuji Line a Shin-Osaka (Google Maps: 24 min, ¥420).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
 08:13 | 12m | WALK |
@@ -2708,68 +2710,68 @@ Caminar a andenes de Shinkansen.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
 09:05 | 24m | WALK |
-Caminar por avenida principal directa hacia el foso del castillo.
+Caminar por avenida principal directa hacia el castillo (Google Maps: 20 min, 1,4 km).
 
 09:29 | 100m | VISIT |
 Caminar, subir y recorrer el Castillo de Himeji (interior).
 https://www.google.com/maps/place/Himeji+Castle
 
-11:09 | 12m | WALK |
-Caminar hacia el área colindante.
+11:09 | 11m | WALK |
+Caminar al jardín Kōko-en (Google Maps: 9 min, 650 m).
 
-11:21 | 60m | VISIT |
+11:20 | 60m | VISIT |
 Caminar por el jardín contiguo Kōko-en.
 https://www.google.com/maps/place/Koko-en
 
-12:21 | 24m | WALK |
-Caminar de regreso a la zona comercial cercana a la estación.
+12:20 | 22m | WALK |
+Caminar de regreso hacia la estación (Google Maps: 18 min, 1,3 km).
 
-12:45 | 75m | FOOD |
+12:42 | 75m | FOOD |
 Almuerzo en zona Himeji.
 
 Option
 Ekisoba Himeji
 Fideos tradicionales rápidos en la misma estación.
 
-14:00 | 18m | WALK |
+13:57 | 18m | WALK |
 Caminar a andenes de tren.
 
-14:18 | 40m | TRAIN |
+14:15 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Himeji+Station/Shin-Osaka+Station
 
-14:58 | 12m | WALK |
+14:55 | 3m | WALK |
 Caminar a andenes de metro Midosuji.
 
-15:10 | 20m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Hommachi.
+14:58 | 17m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Hommachi (Google Maps: 12 min).
 
-15:30 | 6m | WALK |
-Caminar y cambiar a la Chūō Line.
+15:15 | 4m | WALK |
+Caminar y cambiar a la Chūō Line (Google Maps: 3 min).
 
-15:36 | 25m | TRAIN |
-(CLP 1.4M) Metro Chūō Line directo a la estación Osakako.
+15:19 | 17m | TRAIN |
+(CLP 1.4M) Metro Chūō Line a la estación Osakako (Google Maps: 12 min; 38 min puerta a puerta).
 https://www.google.com/maps/dir/Hommachi+Station/Osakako+Station
 
-16:01 | 18m | WALK |
-Caminar de la estación Osakako hacia el acuario.
+15:36 | 11m | WALK |
+Caminar de la estación Osakako hacia el acuario (Google Maps: 9 min, 650 m).
 
-16:19 | 180m | VISIT |
+15:47 | 180m | VISIT |
 Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
 https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
-19:19 | 12m | WALK |
-Caminar de regreso a estación Osakako.
+18:47 | 12m | WALK |
+Caminar de regreso a estación Osakako (Google Maps: 10 min, 650 m).
 
-19:31 | 27m | TRAIN |
-(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y transbordo a Tanimachi Line hasta Temmabashi (Google Maps: 26 min puerta a puerta con la caminata final).
+18:59 | 23m | TRAIN |
+(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y Tanimachi Line a Temmabashi (Google Maps: 34 min puerta a puerta, ¥290).
 https://www.google.com/maps/dir/Osakako+Station/Temmabashi+Station,+Osaka
 
-19:58 | 15m | BREAK |
+19:22 | 15m | BREAK |
 Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min) a dejar mochilas y descansar un momento.
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-20:13 | 90m | FOOD |
+19:37 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
 https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
@@ -2796,8 +2798,8 @@ Esta opción (B) no incluye el Acuario Kaiyūkan: requiere ir al acuario el Día
 - Castillo de Himeji: desde mar-2026 cuesta ¥2.500 por adulto; última entrada 16:00. Sábado: mucha gente.
 Fuentes: [https://www.himejicastle.jp/en|Castillo de Himeji (oficial)]
 
-07:43 | 30m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line + Midosuji Line a Shin-Osaka (Google Maps: 24 min puerta a puerta).
+07:45 | 28m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Keihan a Yodoyabashi y Midosuji Line a Shin-Osaka (Google Maps: 24 min, ¥420).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Shin-Osaka+Station
 
 08:13 | 12m | WALK |
@@ -2808,51 +2810,51 @@ Caminar a andenes de Shinkansen.
 https://www.google.com/maps/dir/Shin-Osaka+Station/Himeji+Station
 
 09:05 | 24m | WALK |
-Caminar por avenida principal directa hacia el foso del castillo.
+Caminar por avenida principal directa hacia el castillo (Google Maps: 20 min, 1,4 km).
 
 09:29 | 100m | VISIT |
 Caminar, subir y recorrer el Castillo de Himeji (interior).
 https://www.google.com/maps/place/Himeji+Castle
 
-11:09 | 12m | WALK |
-Caminar hacia el área colindante.
+11:09 | 11m | WALK |
+Caminar al jardín Kōko-en (Google Maps: 9 min, 650 m).
 
-11:21 | 60m | VISIT |
+11:20 | 60m | VISIT |
 Caminar por el jardín contiguo Kōko-en.
 https://www.google.com/maps/place/Koko-en
 
-12:21 | 24m | WALK |
-Caminar de regreso a la zona comercial cercana a la estación.
+12:20 | 22m | WALK |
+Caminar de regreso hacia la estación (Google Maps: 18 min, 1,3 km).
 
-12:45 | 75m | FOOD |
+12:42 | 75m | FOOD |
 Almuerzo en zona Himeji.
 
 Option
 Ekisoba Himeji
 Fideos tradicionales rápidos en la misma estación.
 
-14:00 | 18m | WALK |
+13:57 | 18m | WALK |
 Caminar a andenes de tren.
 
-14:18 | 40m | TRAIN |
+14:15 | 40m | TRAIN |
 (CLP 19M) Tren Shinkansen de regreso a Shin-Osaka.
 https://www.google.com/maps/dir/Himeji+Station/Shin-Osaka+Station
 
-14:58 | 12m | WALK |
+14:55 | 3m | WALK |
 Caminar a andenes de metro Midosuji.
 
-15:10 | 25m | TRAIN |
-(CLP 1.4M) Metro Midosuji Line de Shin-Osaka a Umeda y transbordo a Tanimachi Line hasta Temmabashi (Google Maps, sentido inverso: 24 min puerta a puerta).
+14:58 | 21m | TRAIN |
+(CLP 1.4M) Metro Midosuji Line a Umeda, caminar a Higashi-Umeda y Tanimachi Line a Temmabashi (Google Maps: 19 min, ¥240).
 https://www.google.com/maps/dir/Shin-Osaka+Station/Temmabashi+Station,+Osaka
 
-15:35 | 5m | WALK |
-Caminar de la estación Temmabashi al Hotel Keihan Tenmabashi Ekimae (4 min).
+15:19 | 4m | WALK |
+Caminar de la estación Temmabashi al hotel (Google Maps: 3 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-15:40 | 230m | BREAK |
+15:23 | 230m | BREAK |
 Descanso o tiempo libre cerca del hotel (el acuario pasa al Día 29).
 
-19:30 | 90m | FOOD |
+19:13 | 90m | FOOD |
 Cena Curry Katsu de regreso en Osaka.
 https://www.google.com/maps/place/CoCo+Ichibanya+Namba
 
@@ -2879,8 +2881,8 @@ Esta opción (A) incluye el Acuario Kaiyūkan, que se mueve desde el Día 28 (Hi
 - Cena de despedida requiere reserva.
 - Acuario Kaiyūkan: comprar la entrada con anticipación y confirmar el horario de cierre (domingo: más gente).
 
-10:04 | 26m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro (Tanimachi Line + Sennichimae Line) hacia el Mercado Kuromon (Google Maps: 20 min puerta a puerta).
+10:08 | 22m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Tanimachi Line a Tanimachi 9-chome y Sennichimae Line a Nippombashi (Google Maps: 18 min puerta a puerta al Mercado Kuromon, ¥240).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Kuromon+Market,+Osaka
 
 10:30 | 120m | SHOP |
@@ -2890,37 +2892,37 @@ https://www.google.com/maps/place/Kuromon+Market
 12:30 | 60m | FOOD |
 Almuerzo libre probando comida de los puestos del mercado (sashimi, atún, brochetas de carne asada).
 
-13:30 | 26m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (≈20 min puerta a puerta).
+13:30 | 22m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (Google Maps: 18 min).
 https://www.google.com/maps/dir/Kuromon+Market,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-13:56 | 32m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro Tanimachi Line con transbordo a Chūō Line hasta Osakako (Google Maps: 26 min puerta a puerta).
+13:52 | 26m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Tanimachi Line a Tanimachi 4-chome y Chūō Line a Osakako (Google Maps: 34 min puerta a puerta al acuario, ¥290).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Osakako+Station
 
-14:28 | 18m | WALK |
-Caminar de la estación Osakako hacia el acuario.
+14:18 | 12m | WALK |
+Caminar de la estación Osakako hacia el acuario (Google Maps: 10 min, 650 m).
 
-14:46 | 180m | VISIT |
+14:30 | 180m | VISIT |
 Caminar y recorrer Acuario Kaiyūkan (tiburón ballena).
 https://www.google.com/maps/place/Osaka+Aquarium+Kaiyukan
 
-17:46 | 12m | WALK |
-Caminar de regreso a estación Osakako.
+17:30 | 12m | WALK |
+Caminar de regreso a estación Osakako (Google Maps: 10 min).
 
-17:58 | 27m | TRAIN |
-(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y transbordo a Tanimachi Line hasta Temmabashi (Google Maps: 26 min puerta a puerta con la caminata final).
+17:42 | 23m | TRAIN |
+(CLP 1.4M) Metro Chūō Line de Osakako a Tanimachi 4-chome y Tanimachi Line a Temmabashi (Google Maps: 34 min puerta a puerta, ¥290).
 https://www.google.com/maps/dir/Osakako+Station/Temmabashi+Station,+Osaka
 
-18:25 | 5m | WALK |
-Caminar de la estación Temmabashi de regreso al Hotel Keihan Tenmabashi Ekimae (4 min).
+18:05 | 4m | WALK |
+Caminar de la estación Temmabashi de regreso al hotel (Google Maps: 3 min).
 https://www.google.com/maps/dir/Temmabashi+Station,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-18:30 | 62m | HOTEL |
-Arreglar equipaje en el Hotel Keihan Tenmabashi Ekimae. [Acortado 28 min para absorber los colchones y mantener las reservas]
+18:09 | 86m | HOTEL |
+Arreglar equipaje en el Hotel Keihan Tenmabashi Ekimae.
 
-19:32 | 28m | TRAIN |
-(CLP 1.4M) Metro hacia el restaurante de celebración (Matsusakagyu Yakiniku M, zona Namba/Dōtonbori; Google Maps ≈22 min puerta a puerta; verificar la dirección exacta).
+19:35 | 25m | TRAIN |
+(CLP 1.4M) Metro Tanimachi + Sennichimae Line a Namba hacia el restaurante de celebración (Matsusakagyu Yakiniku M; Google Maps: 19 min a la sucursal Hanare, 1-5-24 Namba: confirmar sucursal reservada).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Matsusakagyu+Yakiniku+M
 
 20:00 | 90m | FOOD |
@@ -2931,8 +2933,8 @@ Option
 Matsusakagyu Yakiniku M
 Salas privadas con parrilla en la mesa para cocinar los cortes al punto deseado.
 
-21:30 | 28m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (≈22 min puerta a puerta).
+21:30 | 25m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (Google Maps: 20 min).
 https://www.google.com/maps/dir/Matsusakagyu+Yakiniku+M/Hotel+Keihan+Tenmabashi+Ekimae
 
 @day
@@ -2953,8 +2955,8 @@ Esta opción (B) no incluye el Acuario Kaiyūkan: elegirla solo si el acuario ya
 - Probable día 1 del torneo de sumo de Osaka (Edion Arena, en Namba; ya no queda junto al hotel): más gente / opción de ir (confirmar fecha).
 - Cena de despedida requiere reserva.
 
-09:54 | 26m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro (Tanimachi Line + Sennichimae Line) hacia el Mercado Kuromon (Google Maps: 20 min puerta a puerta).
+09:58 | 22m | TRAIN |
+(CLP 1.4M) Caminar a la estación Temmabashi, Tanimachi Line a Tanimachi 9-chome y Sennichimae Line a Nippombashi (Google Maps: 18 min puerta a puerta al Mercado Kuromon, ¥240).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Kuromon+Market,+Osaka
 
 10:30 | 120m | SHOP |
@@ -2964,26 +2966,26 @@ https://www.google.com/maps/place/Kuromon+Market
 12:30 | 60m | FOOD |
 Almuerzo libre probando comida de los puestos del mercado (sashimi, atún, brochetas de carne asada).
 
-13:30 | 26m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (≈20 min puerta a puerta).
+13:30 | 22m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae para dejar compras (Google Maps: 18 min).
 https://www.google.com/maps/dir/Kuromon+Market,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-14:32 | 28m | TRAIN |
-(CLP 1.4M) Metro de vuelta a Dōtonbori / Shinsaibashi para las últimas compras (Google Maps: 22 min puerta a puerta).
+14:28 | 27m | TRAIN |
+(CLP 1.4M) Metro Tanimachi + Sennichimae Line a Dōtonbori / Shinsaibashi para las últimas compras (Google Maps: 20 min).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Dotonbori,+Osaka
 
-15:00 | 180m | SHOP |
+14:55 | 180m | SHOP |
 Caminar libre la tarde para últimas compras en Dotonbori / Shinsaibashi.
 
-18:00 | 28m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Dōtonbori / Shinsaibashi (≈22 min puerta a puerta).
+17:55 | 25m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Dōtonbori (Google Maps: 20 min).
 https://www.google.com/maps/dir/Dotonbori,+Osaka/Hotel+Keihan+Tenmabashi+Ekimae
 
-18:28 | 64m | HOTEL |
-Caminar al Hotel Keihan Tenmabashi Ekimae para arreglar equipaje. [Acortado 41 min para absorber los colchones y mantener las reservas]
+18:20 | 75m | HOTEL |
+Caminar al Hotel Keihan Tenmabashi Ekimae para arreglar equipaje.
 
-19:32 | 28m | TRAIN |
-(CLP 1.4M) Metro hacia el restaurante de celebración (Matsusakagyu Yakiniku M, zona Namba/Dōtonbori; Google Maps ≈22 min puerta a puerta; verificar la dirección exacta).
+19:35 | 25m | TRAIN |
+(CLP 1.4M) Metro Tanimachi + Sennichimae Line a Namba hacia el restaurante de celebración (Matsusakagyu Yakiniku M; Google Maps: 19 min a la sucursal Hanare, 1-5-24 Namba: confirmar sucursal reservada).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Matsusakagyu+Yakiniku+M
 
 20:00 | 90m | FOOD |
@@ -2994,8 +2996,8 @@ Option
 Matsusakagyu Yakiniku M
 Salas privadas con parrilla en la mesa para cocinar los cortes al punto deseado.
 
-21:30 | 28m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (≈22 min puerta a puerta).
+21:30 | 25m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae (Google Maps: 20 min).
 https://www.google.com/maps/dir/Matsusakagyu+Yakiniku+M/Hotel+Keihan+Tenmabashi+Ekimae
 
 @section Chile
@@ -3015,17 +3017,17 @@ image1: DenDenTown.png [Barrio de Electrónica Den Den Town]
 - Den Den Town: la mayoría de las tiendas abre 10:00–11:00 (el plan parte 9:45).
 - Nankai Rapi:t: asiento reservado.
 
-08:30 | 60m | FOOD |
+08:30 | 30m | FOOD |
 Desayuno en el hotel o cafetería cercana.
 
 09:00 | 30m | HOTEL |
 Checkout. Dejar Maletas en Hotel
 
 09:30 | 29m | TRAIN |
-(CLP 1.4M) Caminar a la estación Temmabashi (4 min) y metro hacia Den Den Town / Nipponbashi (Google Maps: 23 min puerta a puerta).
+(CLP 1.4M) Caminar a la estación Temmabashi, Tanimachi Line a Minami-Morimachi y Sakaisuji Line a Ebisucho (Google Maps: 23 min a Den Den Town).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Nipponbashi+Denden+Town
 
-09:59 | 111m | SHOP |
+09:59 | 118m | SHOP |
 Caminar explorando tiendas en Den Den Town (barrio otaku). [Termina 11:50 para volver al hotel por las maletas; la duración original (195 min) ya excedía el horario siguiente]
 https://www.google.com/maps/place/Den+Den+Town
 
@@ -3033,25 +3035,25 @@ Option
 Udon o soba ligeros
 Por los callejones de Dotonbori.
 
-11:50 | 29m | TRAIN |
-(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Den Den Town (≈23 min puerta a puerta).
+11:57 | 29m | TRAIN |
+(CLP 1.4M) Metro de regreso al Hotel Keihan Tenmabashi Ekimae desde Den Den Town (Google Maps: 23 min).
 https://www.google.com/maps/dir/Nipponbashi+Denden+Town/Hotel+Keihan+Tenmabashi+Ekimae
 
-12:19 | 10m | HOTEL |
+12:26 | 10m | HOTEL |
 Retirar Maletas.
 
-12:29 | 25m | TRAIN |
-(CLP 1.4M) Metro con el equipaje de las 5 personas desde el Hotel Keihan Tenmabashi Ekimae a la estación Nankai Namba (Google Maps: 19 min puerta a puerta).
+12:36 | 23m | TRAIN |
+(CLP 1.4M) Metro con el equipaje de las 5 personas desde el hotel a la estación Nankai Namba (Tanimachi + Sennichimae Line; Google Maps: 16 min).
 https://www.google.com/maps/dir/Hotel+Keihan+Tenmabashi+Ekimae/Nankai+Namba+Station
 
-12:54 | 36m | WALK |
+12:59 | 36m | WALK |
 Caminar internamente en la estación Nankai Namba para comprar/retirar tickets en boleterías.
 
-13:30 | 95m | TRAIN |
-(CLP 8.4M) Tren rápido Nankai Rapi:t al aeropuerto Kansai KIX (directo y con maleteros amplios, abordando en Nankai Namba).
+13:35 | 37m | TRAIN |
+(CLP 8.4M) Tren Nankai Rapi:t β al aeropuerto Kansai KIX (Google Maps: sale 13:35, llega 14:12, 37 min; asiento reservado; siguiente Rapi:t 14:05).
 https://www.google.com/maps/dir/Nankai+Namba+Station/Kansai+International+Airport
 
-15:05 | 180m | WALK |
+14:12 | 198m | WALK |
 Llegada al Aeropuerto Osaka KIX. Ingreso Maletas. Boarding 17:30
 https://www.google.com/maps/place/Kansai+International+Airport
 
