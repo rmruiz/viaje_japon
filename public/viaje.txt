@@ -1414,7 +1414,7 @@ Restaurante histórico de soba tradicional a solo unas cuadras caminando.
 stars: 5
 title: Arashiyama profundo y Otagi Nenbutsu-ji
 steps: 16000
-summary: Templo Otagi Nenbutsu-ji + Adashino Nenbutsu-ji (Sendero de Bambú) + Templo Tenryū-ji + Paseo en Barco + Parque de Monos Iwatayama
+summary: Templo Otagi Nenbutsu-ji + Adashino Nenbutsu-ji (Sendero de Bambú) + Templo Tenryū-ji + Parque de Monos Iwatayama + Paseo en Barco
 image1: Otagi_Nenbutsuji.png [Esculturas de Piedra del Templo Otagi Nenbutsu-ji]
 image2: Adashino_Nenbutsuji.png [Templo Adashino Nenbutsu-ji]
 image3: Templo_Tenryuji.png [Jardín del Templo Tenryu-ji en Arashiyama]
@@ -1425,9 +1425,12 @@ Recomendación: Tomar un par de taxis (o bus) desde la estación hacia Otagi Nen
 
 @note
 ⚠️ Restricciones detectadas:
-- Parque de monos Iwatayama: en invierno (hasta mediados de marzo) cierra 16:00 y la última subida es antes. Llegar 15:15 es muy justo. Cierra con mal tiempo.
+- Parque de monos Iwatayama: en invierno (hasta mediados de marzo) cierra 16:00 y la última subida es antes. Se visita a las 12:56: sin conflicto. Cierra con mal tiempo; confirmar horario en monkeypark.jp.
+- Paseo en barco (Arashiyama Tsusen): en invierno 10:00–16:00, último pedido de bote 15:30. El plan llega 15:17 (13 min de margen): no extender el almuerzo. Solo efectivo, ¥2.000 por hora, máximo 3 personas por bote.
+- Arashiyama Yoshimura: lunes a viernes 11:00–16:00 (sáb, dom y feriados hasta 17:00); no publica hora de última orden. Este día es martes: almuerzo 14:18–15:13, sin conflicto. Alternativa: Yudofu Sagano (11:00–17:30), pero queda a 10 min en dirección contraria y deja el barco fuera de plazo.
 - Adashino Nenbutsu-ji: en marzo cierra 16:30 (dic–feb 15:30). Sin conflicto.
-Fuentes: [https://en.japantravel.com/article/kyoto-s-wild-monkey-park/20734|Parque Iwatayama (Japan Travel)] · [https://www.insidekyoto.com/adashino-nembutsu-ji-temple|Adashino Nenbutsu-ji (Inside Kyoto)]
+- Tiempos de caminata verificados en Google Maps (+10% de margen) el 31-oct-2026.
+Fuentes: [https://en.japantravel.com/article/kyoto-s-wild-monkey-park/20734|Parque Iwatayama (Japan Travel)] · [https://www.city.kyoto.lg.jp/nisikyo/page/0000280184.html|Parque Iwatayama (Ciudad de Kioto)] · [https://www.insidekyoto.com/arashiyama-boat-rental-arashiyama-tsusen|Arashiyama Tsusen (Inside Kyoto)] · [https://yoshimura-gr.com/arashiyama/shop/|Arashiyama Yoshimura (sitio oficial)] · [https://www.insidekyoto.com/adashino-nembutsu-ji-temple|Adashino Nenbutsu-ji (Inside Kyoto)]
 
 08:35 | 17m | WALK |
 Caminar de MIMARU Kyoto Shinmachi Sanjo a la estación Hankyu Karasuma (Google Maps: 14 min, 950 m).
@@ -1466,52 +1469,56 @@ https://www.google.com/maps/place/Adashino+Nenbutsu-ji
 11:20 | 27m | WALK |
 Caminar cuesta abajo hacia el centro de Arashiyama y Tenryū-ji (Google Maps: 22 min, 1,7 km).
 
-11:47 | 70m | VISIT |
+11:47 | 60m | VISIT |
 Visita templo Tenryū-ji y sus hermosos jardines paisajísticos (aprox 4).
 https://www.google.com/maps/place/Tenryu-ji
 
-12:57 | 5m | WALK |
-Caminar saliendo de Tenryū-ji al restaurante (Google Maps: 4 min, 300 m).
+12:47 | 9m | WALK |
+Caminar de Tenryū-ji cruzando el Puente Togetsukyō a la entrada del Parque de monos (Google Maps: 8 min, 600 m; +10% de margen).
+https://www.google.com/maps/dir/Tenryu-ji/Iwatayama+Monkey+Park
 
-13:02 | 85m | FOOD |
-Almuerzo en Arashiyama.
+12:56 | 75m | VISIT |
+Subida y visita al Parque de monos Iwatayama (aprox 4). Unos 20 min de subida, tiempo arriba con vista a Kioto y 20 min de bajada.
+https://www.google.com/maps/place/Iwatayama+Monkey+Park
+
+14:11 | 7m | WALK |
+Caminar del Parque de monos a Arashiyama Yoshimura (Google Maps: 6 min, 450 m; +10% de margen).
+https://www.google.com/maps/dir/Iwatayama+Monkey+Park/Arashiyama+Yoshimura
+
+14:18 | 55m | FOOD |
+Almuerzo en Arashiyama (terminar a más tardar 15:13 para llegar al barco).
 https://www.google.com/maps/place/Arashiyama+Yoshimura
 
 Option
 Arashiyama Yoshimura
-Soba con vista al puente.
+Soba con vista al puente. Martes cierra 16:00.
 
 Option
 Yudofu Sagano
-Tofu hervido tradicional en hermoso jardín.
+Tofu hervido tradicional en hermoso jardín. Abre hasta 17:30, pero queda a 10 min en dirección contraria: solo si se omite el barco.
 
-14:27 | 4m | WALK |
-Caminar hacia el río Katsura (Google Maps: 3 min).
+15:13 | 4m | WALK |
+Caminar de Yoshimura al embarcadero sur de Arashiyama Tsusen (Google Maps: 3 min, 240 m; +10% de margen).
+https://www.google.com/maps/dir/Arashiyama+Yoshimura/Arashiyama+Tsusen+South+Boarding+Area
 
-14:31 | 30m | VISIT |
-Paseo en barco tradicional por el río Katsura (aprox 10).
+15:17 | 30m | VISIT |
+Paseo en barco tradicional por el río Katsura (aprox 10). Pedir el bote antes de las 15:30 (último pedido en invierno).
 https://www.google.com/maps/place/Togetsukyo+Bridge
 
-15:01 | 4m | WALK |
-Caminar hacia el Puente Togetsukyō y cruzar a la entrada del Parque de monos (Google Maps: 3 min; la subida va dentro de la visita).
+15:47 | 8m | WALK |
+Caminar del embarcadero a la estación Arashiyama (Hankyu) (Google Maps: 7 min, 500 m; +10% de margen).
+https://www.google.com/maps/dir/Arashiyama+Tsusen+South+Boarding+Area/Arashiyama+Station
 
-15:05 | 90m | VISIT |
-Subida y visita al Parque de monos Iwatayama (aprox 4). (Nota: El acceso a la subida cierra a las 16:00, este horario es perfecto para llegar justo con la mejor luz de la tarde).
-https://www.google.com/maps/place/Iwatayama+Monkey+Park
-
-16:35 | 10m | WALK |
-Caminar bajando del parque de regreso a la estación Arashiyama (Hankyu).
-
-16:45 | 13m | TRAIN |
+15:55 | 13m | TRAIN |
 (CLP 1.2M) Tren Hankyu Arashiyama Line a estación Katsura (Google Maps: 40 min puerta a puerta hasta el hotel).
 
-16:58 | 3m | WALK |
+16:08 | 3m | WALK |
 Cambiar de andén.
 
-17:01 | 14m | TRAIN |
+16:11 | 14m | TRAIN |
 (CLP 1.2M) Tren Hankyu Kyoto Line a Karasuma.
 
-17:15 | 120m | BREAK |
+16:25 | 170m | BREAK |
 Caminar de estación Karasuma a MIMARU Kyoto Shinmachi Sanjo para recargar energías.
 
 19:15 | 14m | WALK |
