@@ -1185,38 +1185,49 @@ Cortes magros de carne de Hida a la parrilla (yakiniku) con vegetales.
 stars: 5
 title: Excursión a Shirakawa-gō
 steps: 15000
-summary: Mirador Shiroyama + Aldea Gasshō-zukuri + Mercado Miyagawa
+summary: Mercado Miyagawa (mañana) + Mirador Shiroyama + Aldea Gasshō-zukuri
 image1: Shirakawago.png [Casas Gassho-zukuri en Shirakawa-go]
 image2: mirador_Shiroyama.png [Vistas desde el Mirador de Shiroyama]
 image3: Mercado_Miyagawa.png [Mercado Matutino de Miyagawa]
 
 @note
 ⚠️ Restricciones detectadas:
-- CRÍTICO: Mercado matinal Miyagawa en invierno funciona 8:00–12:00. El plan va a las 15:05 (cerrado).
+- Mercado matinal Miyagawa en invierno funciona 8:00–12:00: se visita antes de tomar el bus.
+- Bus Nohi 09:35 (ida) y 14:45 (regreso) requieren reserva previa (Japan Bus Online). Alternativas sin reserva: ida 10:50 (llega 11:40) y regreso 15:15 (llega 16:05).
+- Nohi advierte retrasos de 2 horas o más en invierno por nieve, cierre de autopista o congestión en Shirakawa-gō: no agendar compromisos fijos en la tarde.
 - Mirador Shiroyama: el sendero a pie suele cerrar en invierno; usar bus shuttle (efectivo, horario limitado).
-- Bus Nohi requiere reserva. Si ese día hay light-up, los visitantes de día deben salir antes de las 15:00.
-Fuentes: [https://www.japan-guide.com/e/e5907.html|Mercados matinales Takayama (japan-guide)] · [https://selfguidejapan.com/blog/shirakawa-go|Shirakawa-gō Shiroyama (Self Guide Japan)]
+- Light-up 2027 solo el 11, 17, 24 y 31 de enero: no aplica a este viaje (sin restricción de salida antes de las 15:00).
+- Horarios Nohi consultados el 31-oct-2026; reconfirmar antes de reservar.
+Fuentes: [https://www.nouhibus.co.jp/route_bus/shirakawago_en/|Horario Takayama–Shirakawa-gō (Nohi Bus)] · [https://www.nouhibus.co.jp/shirakawa_lightup_2027en/|Light-up 2027 (Nohi Bus)] · [https://www.japan-guide.com/e/e5907.html|Mercados matinales Takayama (japan-guide)] · [https://selfguidejapan.com/blog/shirakawa-go|Shirakawa-gō Shiroyama (Self Guide Japan)]
 
-08:26 | 4m | WALK |
-Caminar desde el Ryokan Oyado Koto No Yume a la terminal de buses Nohi (Google Maps: 3 min, 180 m).
-https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Takayama+Nohi+Bus+Center
+07:55 | 11m | WALK |
+Caminar desde el Ryokan Oyado Koto No Yume al mercado de Miyagawa (Google Maps: 10 min, 750 m; +10% de margen).
+https://www.google.com/maps/dir/Oyado+Koto+No+Yume/Miyagawa+Morning+Market
 
-08:30 | 15m | BUS |
-(CLP 1.3M) Comprar/retirar tickets y hacer fila.
+08:06 | 60m | SHOP |
+Recorrer el mercado matinal de Miyagawa a orillas del río (productos locales, encurtidos, artesanía).
+https://www.google.com/maps/place/Miyagawa+Morning+Market
 
-08:45 | 50m | BUS |
-(CLP 15.1M) Bus Nohi expreso a Shirakawa-gō.
+09:06 | 15m | WALK |
+Caminar del mercado de Miyagawa a la terminal de buses Nohi (Google Maps: 13 min, 900 m; +10% de margen).
+https://www.google.com/maps/dir/Miyagawa+Morning+Market/Takayama+Nohi+Bus+Center
+
+09:21 | 14m | BUS |
+(CLP 1.3M) Retirar tickets reservados y hacer fila.
+
+09:35 | 55m | BUS |
+(CLP 15.1M) Bus Nohi 09:35 a Shirakawa-gō (con reserva), llegada programada 10:25 (+5 min de margen).
 https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Shirakawa-go+Bus+Terminal
 
-09:35 | 20m | WALK |
-Caminar de la terminal cruzando el puente colgante y subir al mirador Shiroyama (Google Maps: 16 min, 950 m, 63 m de subida).
+10:30 | 25m | BUS |
+Caminar al paradero, esperar y subir al mirador Shiroyama en bus shuttle (efectivo; trayecto ≈5 min según Nohi, +5 min de margen). Si el sendero a pie está abierto: cruzar el puente colgante y subir caminando (Google Maps: 16 min, 950 m, 63 m de subida; con +10%: 18 min).
 https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Shiroyama+Viewpoint
 
-09:55 | 166m | VISIT |
+10:55 | 120m | VISIT |
 Caminar y fotografiar la aldea desde arriba, bajar a explorar las casas gasshō-zukuri.
 https://www.google.com/maps/place/Shirakawa-go
 
-12:41 | 90m | FOOD |
+12:55 | 90m | FOOD |
 Almuerzo en la aldea.
 https://www.google.com/maps/place/Irori+Shirakawago
 
@@ -1224,23 +1235,23 @@ Option
 Irori
 Comida casera de la zona, trucha de río a la parrilla con sal.
 
-14:11 | 4m | WALK |
-Caminar de regreso a la terminal de buses de Shirakawa-gō (Google Maps: ≈1-3 min desde Irori).
+14:25 | 2m | WALK |
+Caminar de regreso a la terminal de buses de Shirakawa-gō (Google Maps: 1 min, 110 m; +10% de margen).
+https://www.google.com/maps/dir/Irori+Shirakawago/Shirakawa-go+Bus+Terminal
 
-14:15 | 50m | BUS |
-(CLP 15.1M) Bus Nohi de regreso a Takayama.
+14:27 | 18m | WAIT |
+Hacer fila para el bus de regreso.
+
+14:45 | 55m | BUS |
+(CLP 15.1M) Bus Nohi 14:45 de regreso a Takayama (con reserva), llegada programada 15:35 (+5 min de margen).
 https://www.google.com/maps/dir/Shirakawa-go+Bus+Terminal/Takayama+Nohi+Bus+Center
 
-15:05 | 120m | SHOP |
-Caminar por el mercado de Miyagawa o zonas comerciales aledañas.
-https://www.google.com/maps/place/Miyagawa+Morning+Market
+15:40 | 4m | WALK |
+Caminar de la terminal Nohi al Ryokan Oyado Koto No Yume (Google Maps: 3 min, 180 m; +10% de margen).
+https://www.google.com/maps/dir/Takayama+Nohi+Bus+Center/Oyado+Koto+No+Yume
 
-17:05 | 14m | WALK |
-Caminar de regreso al Ryokan Oyado Koto No Yume (Google Maps: 11 min, 750 m).
-https://www.google.com/maps/dir/Miyagawa+Morning+Market/Oyado+Koto+No+Yume
-
-17:19 | 135m | BREAK |
-Descanso en el ryokan.
+15:44 | 230m | BREAK |
+Descanso en el ryokan y tiempo libre (colchón ante posibles retrasos del bus).
 
 19:34 | 90m | FOOD |
 Cena local en Takayama.
