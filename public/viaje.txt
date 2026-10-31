@@ -1532,6 +1532,7 @@ title: Fushimi Inari + Higashiyama
 steps: 14000
 summary: Fushimi Inari-taisha + Nintendo Museum (Uji) + Santuario Yasaka + Gion + Pontochō
 image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
+image2: museo_nintendo.png [Museo de Nintendo]
 
 @note
 🎟️ Nintendo Museum: las entradas NO se venden en el museo; solo por sorteo en el sitio oficial.
@@ -1541,6 +1542,8 @@ image1: Fushimi_Inaritaisha.png [Santuario Fushimi Inari-taisha]
 - Horario 10:00–20:00. Cerrado los martes (o miércoles si el martes es feriado). El 3 de marzo es miércoles.
 - Este horario asume ingreso cerca de las 11:30: ajustar según la franja que salga en el sorteo. Si no sale el sorteo para este día, usar la opción B.
 Fuentes: [https://www.japan-guide.com/e/e3982.html|Nintendo Museum (japan-guide)]
+
+@note Las entradas se compran en: https://museum-tickets.nintendo.com/en/calendar
 
 @note
 Opción A vs B: la opción A cambia Kiyomizu-dera, Sannenzaka/Ninenzaka y la tienda de alquiler de Higashiyama por el Nintendo Museum. Se mantienen Fushimi Inari, Yasaka, Gion al atardecer y la cena en Pontochō. Traslados nuevos según Google Maps (consulta de un miércoles a las 10:30 y 14:30), con +20% en caminatas y +5 min en trenes.
@@ -1814,7 +1817,7 @@ image1: Templo_Kinkakuji.png [Templo Kinkaku-ji (Pabellón de Oro)]
 image2: Jardinsen_Ryoanji.png [Jardín de Rocas Zen del Templo Ryoan-ji]
 image3: Castillo_Nijo.png [Castillo de Nijo]
 image4: Mercado_Nishiki.png [Mercado de Comida Nishiki Market]
-image5: Samurai_Ninja_Museum.jpg [Samurai & Ninja Museum Kyoto]
+image5: SamuraiNinja_Museum.png [Samurai & Ninja Museum Kyoto]
 
 @note
 ⚠️ Restricciones detectadas:
